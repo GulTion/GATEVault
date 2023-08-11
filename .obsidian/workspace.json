@@ -4,27 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "9487317e7fb8796d",
+        "id": "4574fc99aa3fd687",
         "type": "tabs",
         "children": [
           {
-            "id": "370eff39dbad8203",
+            "id": "108318cd68f07d55",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f74b63af343221d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "inlineDB.md"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "33408785dc84623b",
+        "id": "3450a170d7c5dd72",
         "type": "tabs",
         "children": [
           {
-            "id": "308b8220c26e8066",
+            "id": "bfd1ee3d6a0fe20c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReadMe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16adb8b390e447fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inlineDB.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inlineDB.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inlineDB.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -169,8 +192,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,9 +209,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "370eff39dbad8203",
+  "active": "f74b63af343221d0",
   "lastOpenFiles": [
     "ReadMe.md",
+    "Untitled.md",
     "inlineDB.md",
     "GATEVault/ReadMe.md",
     "GATEVault",
