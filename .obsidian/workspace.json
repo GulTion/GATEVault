@@ -11,8 +11,12 @@
             "id": "839415a0e2aad480",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ReadMe.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ReadMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ReadMe.md"
+              }
             }
           },
           {
@@ -163,7 +171,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "ca7bc4254449ab06",
+  "active": "839415a0e2aad480",
   "lastOpenFiles": [
     "ReadMe.md",
     "GATEVault/ReadMe.md",
