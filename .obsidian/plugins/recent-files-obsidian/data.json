@@ -5,6 +5,10 @@
       "path": "ReadMe.md"
     },
     {
+      "basename": "inlineDB",
+      "path": "inlineDB.md"
+    },
+    {
       "basename": "Untitled database",
       "path": "ShortNotesDB/Untitled database.md"
     },
