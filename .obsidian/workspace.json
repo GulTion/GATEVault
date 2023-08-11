@@ -8,7 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "839415a0e2aad480",
+            "id": "370eff39dbad8203",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "inlineDB.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "33408785dc84623b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "308b8220c26e8066",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadMe.md",
+                "file": "inlineDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
+                "file": "inlineDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadMe.md"
+                "file": "inlineDB.md"
               }
             }
           },
@@ -171,10 +187,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "839415a0e2aad480",
+  "active": "370eff39dbad8203",
   "lastOpenFiles": [
-    "inlineDB.md",
     "ReadMe.md",
+    "inlineDB.md",
     "GATEVault/ReadMe.md",
     "GATEVault",
     "New Text Document.txt",

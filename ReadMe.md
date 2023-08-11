@@ -1,5 +1,5 @@
 ---
-about: sdfsdfdsfsdf
+about: just simple
 ---
 
 |d |df |
