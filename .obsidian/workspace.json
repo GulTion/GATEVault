@@ -11,9 +11,9 @@
             "id": "a31cfe4d2e5298ee",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "database-plugin",
               "state": {
-                "file": "notes/cd short notes from mady easy short notes.md"
+                "file": "notes/NoteDB.md"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/cd short notes from mady easy short notes.md",
+                "file": "notes/NoteDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/cd short notes from mady easy short notes.md",
+                "file": "notes/NoteDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/cd short notes from mady easy short notes.md"
+                "file": "notes/NoteDB.md"
               }
             }
           },
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,7 +171,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca7bc4254449ab06",
+  "active": "a31cfe4d2e5298ee",
   "lastOpenFiles": [
     "notes/cd short notes from mady easy short notes.md",
     "notes/NoteDB.md",
