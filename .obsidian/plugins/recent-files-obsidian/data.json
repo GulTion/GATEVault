@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "test 1",
+      "path": "planner/test 1.md"
+    },
+    {
+      "basename": "Planner Template",
+      "path": "templates/Planner Template.md"
+    },
+    {
+      "basename": "zxcvbn",
+      "path": "questions/zxcvbn.md"
+    },
+    {
+      "basename": "PlannerDB",
+      "path": "planner/PlannerDB.md"
+    },
+    {
       "basename": "QuestionDB",
       "path": "questions/QuestionDB.md"
     },
@@ -13,20 +29,12 @@
       "path": "questions/hcf trick.md"
     },
     {
-      "basename": "PlannerDB",
-      "path": "planner/PlannerDB.md"
-    },
-    {
       "basename": "Question Template",
       "path": "templates/Question Template.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
-    },
-    {
-      "basename": "Planner Template",
-      "path": "templates/Planner Template.md"
     },
     {
       "basename": "Untitled database",
