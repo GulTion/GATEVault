@@ -8,5 +8,5 @@ ID: 1
 ---
 
 ```dataview
-TABLE from questions
+TABLE from "questions"
 ```
