@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": ""
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "translucency": false
 }

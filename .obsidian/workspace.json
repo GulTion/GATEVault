@@ -11,8 +11,12 @@
             "id": "a55f1466f55bc9f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/Untitled.md"
+              }
             }
           },
           {
@@ -164,8 +172,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b301f141e47d7da",
+  "active": "a55f1466f55bc9f5",
   "lastOpenFiles": [
+    "templates/Untitled.md",
     "media",
     "media/image",
     "media/pdf",
@@ -181,7 +190,6 @@
     "New Text Document.txt",
     "New folder",
     "PlannerDB/DataBase.db.md",
-    "MicroNotesDB",
     "ShortNotesDB/Untitled database.md",
     "DBFolder/PlannerDB.md",
     "DBFolder/Acid Property.md",
