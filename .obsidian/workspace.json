@@ -11,8 +11,10 @@
             "id": "2da44145275fc15e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "database-plugin",
+              "state": {
+                "file": "planner/PlannerDB.md"
+              }
             }
           }
         ]
@@ -69,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "planner/PlannerDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "planner/PlannerDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "planner/PlannerDB.md"
+              }
             }
           },
           {
@@ -165,7 +170,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "70765fda4e6f83f5",
+  "active": "2da44145275fc15e",
   "lastOpenFiles": [
     "media/Sch.png",
     "Dashboard.md",
