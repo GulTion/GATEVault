@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6d3f23d01d545632",
+        "id": "84088d03d1a08120",
         "type": "tabs",
         "children": [
           {
-            "id": "a3376e35b59b28d1",
+            "id": "2da44145275fc15e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -54,22 +54,23 @@
             }
           },
           {
-            "id": "e41ff63964e51d38",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "70765fda4e6f83f5",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "e41ff63964e51d38",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -164,24 +165,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a3376e35b59b28d1",
+  "active": "70765fda4e6f83f5",
   "lastOpenFiles": [
-    "planner/test 1.md",
-    "templates/Question Template.md",
-    "questions/hcf trick.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "media/the-solution-to-the-recurrence-equationt2--612f39ea0ad623668ec87d67.pdf",
-    "templates/Planner Template.md",
-    "questions/zxcvbn.md",
-    "planner/PlannerDB.md",
-    "questions/QuestionDB.md",
-    "planner/Test ID - 48  [(Aptitude)-1] - 2022.md",
+    "media/Sch.png",
     "Dashboard.md",
+    "media/the-solution-to-the-recurrence-equationt2--612f39ea0ad623668ec87d67.pdf",
+    "planner/PlannerDB.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "questions/hcf trick.md",
+    "questions/zxcvbn.md",
+    "planner/test 1.md",
+    "planner/Test ID - 48  [(Aptitude)-1] - 2022.md",
+    "questions/QuestionDB.md",
+    "templates/Question Template.md",
+    "templates/Planner Template.md",
     "templates/Time Table.md",
     "new file.md",
     "Time Table.md",
-    "media/Sch.png",
     "media",
     "templates/Untitled Kanban.md",
     "OK.md",
@@ -202,7 +203,6 @@
     "New Text Document.txt",
     "PlannerDB/DataBase.db.md",
     "ShortNotesDB/Untitled database.md",
-    "DBFolder/PlannerDB.md",
     "0c261d6419b54db1b76a9d69d03c7641.png",
     "Untitled.canvas",
     "13f7679e45724e3fa0472dc092bd542f.png"
