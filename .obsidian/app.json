@@ -2,5 +2,5 @@
   "attachmentFolderPath": "./media",
   "promptDelete": false,
   "trashOption": "local",
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source"
 }

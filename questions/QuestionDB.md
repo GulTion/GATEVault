@@ -41,6 +41,10 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "Apti", value: "Apti", color: "hsl(344, 95%, 90%)"}
+      - { label: "C", value: "C", color: "hsl(72, 95%, 90%)"}
+      - { label: "CN", value: "CN", color: "hsl(164, 95%, 90%)"}
+      - { label: "COA", value: "COA", color: "hsl(88, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -50,6 +54,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
   Topic:
     input: tags
     accessorKey: Topic
@@ -81,6 +86,7 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "Zeal TS", value: "Zeal TS", color: "hsl(60, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

@@ -42,15 +42,7 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "CD", value: "CD", color: "hsl(320, 95%, 90%)"}
-      - { label: "MATH", value: "MATH", color: "hsl(358, 95%, 90%)"}
-      - { label: "DM", value: "DM", color: "hsl(4, 95%, 90%)"}
-      - { label: "CN", value: "CN", color: "hsl(331, 95%, 90%)"}
-      - { label: "DS", value: "DS", color: "hsl(296, 95%, 90%)"}
-      - { label: "DAA", value: "DAA", color: "hsl(128, 95%, 90%)"}
-      - { label: "APTI", value: "APTI", color: "hsl(82, 95%, 90%)"}
-      - { label: "COA", value: "COA", color: "hsl(271, 95%, 90%)"}
-      - { label: "C", value: "C", color: "hsl(124, 95%, 90%)"}
+      - { label: "APTI", value: "APTI", color: "hsl(346, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -61,6 +53,7 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+      formula_option_source: 
   Topic:
     input: tags
     accessorKey: Topic

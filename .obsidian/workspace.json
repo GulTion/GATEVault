@@ -4,46 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "35fd5b3a92d1fc9c",
+        "id": "57f475ab81c625a8",
         "type": "tabs",
-        "dimension": 29.09516380655226,
+        "dimension": 47.97191887675507,
         "children": [
           {
-            "id": "c1cbcc313f51fa0f",
+            "id": "931cac3df4d05d4c",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "planner/PlannerDB.md"
-              }
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "9132a9b408fd23ab",
-        "type": "tabs",
-        "dimension": 35.45241809672387,
-        "children": [
-          {
-            "id": "39a08bc992f128a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "planner/Test ID - 48  [(Aptitude)-1] - 2022.md",
-                "mode": "preview",
-                "source": false
+                "file": "questions/QuestionDB.md"
               }
             }
           }
         ]
       },
       {
-        "id": "57f475ab81c625a8",
+        "id": "fa9776d1a50ba048",
         "type": "tabs",
-        "dimension": 35.45241809672387,
+        "dimension": 52.02808112324493,
         "children": [
           {
             "id": "483ddec3a7234bce",
@@ -52,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "questions/hcf trick.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -131,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/Test ID - 48  [(Aptitude)-1] - 2022.md",
+                "file": "questions/QuestionDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "planner/Test ID - 48  [(Aptitude)-1] - 2022.md",
+                "file": "questions/QuestionDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "planner/Test ID - 48  [(Aptitude)-1] - 2022.md"
+                "file": "questions/QuestionDB.md"
               }
             }
           },
@@ -210,13 +190,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "39a08bc992f128a7",
+  "active": "931cac3df4d05d4c",
   "lastOpenFiles": [
-    "questions/QuestionDB.md",
-    "questions/hcf trick.md",
+    "questions/zxcvbn.md",
     "planner/Test ID - 48  [(Aptitude)-1] - 2022.md",
-    "templates/Question Template.md",
+    "questions/hcf trick.md",
+    "questions/QuestionDB.md",
     "planner/PlannerDB.md",
+    "templates/Question Template.md",
     "Dashboard.md",
     "templates/Time Table.md",
     "new file.md",
@@ -249,7 +230,6 @@
     "0c261d6419b54db1b76a9d69d03c7641.png",
     "Document 77_2.jpg.md",
     "I O MicroNotes.md",
-    "Untitled Database.md",
     "Untitled.canvas",
     "13f7679e45724e3fa0472dc092bd542f.png"
   ]

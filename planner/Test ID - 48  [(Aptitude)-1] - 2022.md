@@ -9,4 +9,5 @@ ID: 1
 
 ```dataview
 TABLE from "questions"
+WHERE ID=file.PID
 ```
