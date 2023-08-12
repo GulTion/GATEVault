@@ -21,6 +21,7 @@ columns:
     position: 1
     isHidden: false
     sortIndex: -1
+    width: 108
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -104,6 +105,31 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  Source:
+    input: select
+    accessorKey: Source
+    key: Source
+    id: Source
+    label: Source
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "PYQ", value: "PYQ", color: "hsl(242, 95%, 90%)"}
+      - { label: "Zeal TS", value: "Zeal TS", color: "hsl(202, 95%, 90%)"}
+      - { label: "Zeal WB", value: "Zeal WB", color: "hsl(222, 95%, 90%)"}
+      - { label: "ME TS", value: "ME TS", color: "hsl(85, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
 config:
   remove_field_when_delete_column: false
   cell_size: normal
