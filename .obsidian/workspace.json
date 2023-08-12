@@ -11,11 +11,9 @@
             "id": "a55f1466f55bc9f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "templates/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "planner/Untitled database.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Untitled.md",
+                "file": "planner/Untitled database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Untitled.md",
+                "file": "planner/Untitled database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Untitled.md"
+                "file": "planner/Untitled database.md"
               }
             }
           },
@@ -174,7 +172,10 @@
   },
   "active": "a55f1466f55bc9f5",
   "lastOpenFiles": [
-    "templates/Untitled.md",
+    "planner/test series.md",
+    "planner/Untitled database.md",
+    "templates/Planner Template.md",
+    "questions/Untitled.md",
     "media",
     "media/image",
     "media/pdf",
