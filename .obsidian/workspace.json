@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -161,13 +160,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a55f1466f55bc9f5",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Untitled",
+    "planner",
+    "templates",
     "ReadMe.md",
+    "Untitled.md",
     "inlineDB.md",
     "GATEVault/ReadMe.md",
     "GATEVault",
