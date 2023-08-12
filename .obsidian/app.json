@@ -2,5 +2,11 @@
   "attachmentFolderPath": "./media",
   "promptDelete": false,
   "trashOption": "local",
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

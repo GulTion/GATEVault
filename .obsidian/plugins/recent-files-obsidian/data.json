@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Copy Paste Image",
       "path": "Copy Paste Image.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Sch",
       "path": "media/Sch.png"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Question Template",

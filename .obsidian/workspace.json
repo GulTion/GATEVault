@@ -4,19 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "05ef7d890c1d64a5",
+        "id": "ab67417d1b4fed65",
         "type": "tabs",
         "children": [
           {
             "id": "568ef6c85961c1c2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Copy Paste Image.md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ec5d30b01f842a42",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -82,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -102,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Copy Paste Image.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Copy Paste Image.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Copy Paste Image.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -183,11 +193,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "51ad777add565579",
+  "active": "568ef6c85961c1c2",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "Copy Paste Image.md",
     "notes/cd short notes from mady easy short notes.md",
     "media/Pasted image 20230812155126.png",
-    "Copy Paste Image.md",
     "notes/NoteDB.md",
     "notes/media/CD_Processed.pdf",
     "notes/media/CD_Processed 1.pdf",
@@ -197,7 +208,6 @@
     "questions/QuestionDB.md",
     "planner/PlannerDB.md",
     "media/Sch.png",
-    "Dashboard.md",
     "media/the-solution-to-the-recurrence-equationt2--612f39ea0ad623668ec87d67.pdf",
     "Untitled 1.md",
     "questions/hcf trick.md",
