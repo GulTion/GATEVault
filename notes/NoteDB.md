@@ -60,7 +60,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     position: 0
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     config:
       enable_media_view: true
@@ -82,7 +82,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     position: 0
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     config:
       enable_media_view: true
@@ -150,6 +150,8 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      formula_query: "${row.Last_Time.plus({days: row.repetation}).toFormat(\"y-LL-d TT\")}"
+      wrap_content: true
 config:
   remove_field_when_delete_column: false
   cell_size: normal
