@@ -66,7 +66,7 @@ columns:
     key: Topic
     id: Topic
     label: Topic
-    position: 100
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -82,6 +82,26 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+  __created__:
+    key: __created__
+    id: __created__
+    input: metadata_time
+    label: Created
+    accessorKey: __created__
+    isMetadata: true
+    isDragDisabled: false
+    skipPersist: false
+    csvCandidate: true
+    position: 4
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -90,7 +110,7 @@ config:
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
-  show_metadata_created: false
+  show_metadata_created: true
   show_metadata_modified: false
   show_metadata_tasks: false
   show_metadata_inlinks: false
