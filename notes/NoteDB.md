@@ -8,6 +8,25 @@ database-plugin: basic
 name: new database
 description: new description
 columns:
+  column1:
+    input: select
+    key: column1
+    accessorKey: column1
+    label: Type
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
   __file__:
     key: __file__
     id: __file__
@@ -18,10 +37,9 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 2
+    position: 1
     isHidden: false
     sortIndex: -1
-    width: 108
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -31,51 +49,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      wrap_content: true
-  subject:
-    input: select
-    key: subject
-    accessorKey: subject
-    label: Subject
-    position: 4
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "APTI", value: "APTI", color: "hsl(346, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      option_source: manual
-      formula_option_source: 
-  Topic:
-    input: tags
-    accessorKey: Topic
-    key: Topic
-    id: Topic
-    label: Topic
-    position: 5
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 133
-    options:
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      option_source: manual
   __created__:
     key: __created__
     id: __created__
@@ -86,7 +59,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 6
+    position: 0
     isHidden: false
     sortIndex: -1
     config:
@@ -98,22 +71,38 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Source:
-    input: select
-    accessorKey: Source
-    key: Source
-    id: Source
-    label: Source
-    position: 7
+  __modified__:
+    key: __modified__
+    id: __modified__
+    input: metadata_time
+    label: Modified
+    accessorKey: __modified__
+    isMetadata: true
+    isDragDisabled: false
+    skipPersist: false
+    csvCandidate: true
+    position: 0
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  repetation:
+    input: number
+    accessorKey: repetation
+    key: repetation
+    id: repetation
+    label: repetation
+    position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    options:
-      - { label: "PYQ", value: "PYQ", color: "hsl(242, 95%, 90%)"}
-      - { label: "Zeal TS", value: "Zeal TS", color: "hsl(202, 95%, 90%)"}
-      - { label: "Zeal WB", value: "Zeal WB", color: "hsl(222, 95%, 90%)"}
-      - { label: "ME TS", value: "ME TS", color: "hsl(85, 95%, 90%)"}
-      - { label: "GO TS", value: "GO TS", color: "hsl(28, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -123,14 +112,13 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      option_source: manual
   Last_Time:
     input: calendar_time
     accessorKey: Last_Time
     key: Last_Time
     id: Last_Time
     label: Last Time
-    position: 8
+    position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -149,71 +137,10 @@ columns:
     key: Next_Time
     id: Next_Time
     label: Next Time
-    position: 9
+    position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      formula_query: "${row.Last_Time.plus({days: row.Repetation}).toFormat(\"y-LL-d TT\")}"
-      wrap_content: true
-  Repetation:
-    input: number
-    accessorKey: Repetation
-    key: Repetation
-    id: Repetation
-    label: Repetation
-    position: 10
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  ID:
-    input: number
-    accessorKey: ID
-    key: ID
-    id: ID
-    label: ID
-    position: 1
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 43
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Planner_Type:
-    input: select
-    accessorKey: Planner_Type
-    key: Planner_Type
-    id: Planner_Type
-    label: Planner Type
-    position: 3
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -232,7 +159,7 @@ config:
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
   show_metadata_created: true
-  show_metadata_modified: false
+  show_metadata_modified: true
   show_metadata_tasks: false
   show_metadata_inlinks: false
   show_metadata_outlinks: false
@@ -241,7 +168,7 @@ config:
   source_form_result: 
   source_destination_path: /
   row_templates_folder: /templates
-  current_row_template: templates/Planner Template.md
+  current_row_template: 
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false

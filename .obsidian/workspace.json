@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "planner/PlannerDB.md"
+                "file": "notes/NoteDB.md"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/PlannerDB.md",
+                "file": "notes/NoteDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "planner/PlannerDB.md",
+                "file": "notes/NoteDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "planner/PlannerDB.md"
+                "file": "notes/NoteDB.md"
               }
             }
           },
@@ -170,12 +170,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2da44145275fc15e",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
+    "planner/PlannerDB.md",
+    "notes/NoteDB.md",
     "media/Sch.png",
     "Dashboard.md",
     "media/the-solution-to-the-recurrence-equationt2--612f39ea0ad623668ec87d67.pdf",
-    "planner/PlannerDB.md",
     "Untitled 1.md",
     "Untitled.md",
     "questions/hcf trick.md",
