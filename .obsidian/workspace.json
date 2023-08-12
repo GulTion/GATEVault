@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a31cfe4d2e5298ee",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "notes/cd short notes from mady easy short notes.md"
-              }
-            }
-          },
-          {
             "id": "568ef6c85961c1c2",
             "type": "leaf",
             "state": {
@@ -91,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -111,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/cd short notes from mady easy short notes.md",
+                "file": "Copy Paste Image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/cd short notes from mady easy short notes.md",
+                "file": "Copy Paste Image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/cd short notes from mady easy short notes.md"
+                "file": "Copy Paste Image.md"
               }
             }
           },
@@ -181,7 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-trash-explorer:Open trash explorer": false,
+      "obsidian-trash-explorer:Open trash explorer": true,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -192,11 +183,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a31cfe4d2e5298ee",
+  "active": "51ad777add565579",
   "lastOpenFiles": [
+    "notes/cd short notes from mady easy short notes.md",
     "media/Pasted image 20230812155126.png",
     "Copy Paste Image.md",
-    "notes/cd short notes from mady easy short notes.md",
     "notes/NoteDB.md",
     "notes/media/CD_Processed.pdf",
     "notes/media/CD_Processed 1.pdf",

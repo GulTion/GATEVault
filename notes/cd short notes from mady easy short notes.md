@@ -47,3 +47,31 @@ Note: "now: parsing chapter</br>next: other chapter"
 >%%TAGS%%
 >
 ^ila877gg5ql
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-12T10:23:53.823Z","text":"All Parser Tree Hierarical View Diagram","updated":"2023-08-12T10:23:53.823Z","document":{"title":"CD_Processed.pdf","link":[{"href":"urn:x-pdf:fad2945c3a9bc42337e3edee5a0f079c"},{"href":"vault:/notes/media/CD_Processed.pdf"}],"documentFingerprint":"fad2945c3a9bc42337e3edee5a0f079c"},"uri":"vault:/notes/media/CD_Processed.pdf","target":[{"source":"vault:/notes/media/CD_Processed.pdf","selector":[{"type":"TextPositionSelector","start":2767,"end":2773},{"type":"TextQuoteSelector","exact":"Parser","prefix":"eAmbiguous GrammarLeft Recursion","suffix":"Non-tecursivePredictive LL(1)|Le"}]}]}
+>```
+>%%
+>*%%PREFIX%%eAmbiguous GrammarLeft Recursion%%HIGHLIGHT%% ==Parser== %%POSTFIX%%Non-tecursivePredictive LL(1)|Le*
+>%%LINK%%[[#^hjca9zb61ia|show annotation]]
+>%%COMMENT%%
+>All Parser Tree Hierarical View Diagram
+>%%TAGS%%
+>
+^hjca9zb61ia
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-12T10:25:39.289Z","text":" reason for why, we use Right Recursion Grammer instead of Left Recursion","updated":"2023-08-12T10:25:39.289Z","document":{"title":"CD_Processed.pdf","link":[{"href":"urn:x-pdf:fad2945c3a9bc42337e3edee5a0f079c"},{"href":"vault:/notes/media/CD_Processed.pdf"}],"documentFingerprint":"fad2945c3a9bc42337e3edee5a0f079c"},"uri":"vault:/notes/media/CD_Processed.pdf","target":[{"source":"vault:/notes/media/CD_Processed.pdf","selector":[{"type":"TextPositionSelector","start":3073,"end":3190},{"type":"TextQuoteSelector","exact":"Top down parsing techiacannot handle left recursive grammars, so we convert left recursive grameinto right recursive.","prefix":"ammar :A AalBis left recursive. ","suffix":"(non left recursive)Problem with"}]}]}
+>```
+>%%
+>*%%PREFIX%%ammar :A AalBis left recursive.%%HIGHLIGHT%% ==Top down parsing techiacannot handle left recursive grammars, so we convert left recursive grameinto right recursive.== %%POSTFIX%%(non left recursive)Problem with*
+>%%LINK%%[[#^1jebrkj2zek|show annotation]]
+>%%COMMENT%%
+> reason for why, we use Right Recursion Grammer instead of Left Recursion
+>%%TAGS%%
+>
+^1jebrkj2zek
