@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "templates/Time Table.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "templates/Time Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "templates/Time Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "templates/Time Table.md"
               }
             }
           },
@@ -185,16 +185,19 @@
   },
   "active": "61847f53235de791",
   "lastOpenFiles": [
+    "Time Table.md",
+    "templates/Time Table.md",
+    "Dashboard.md",
+    "media/Sch.png",
+    "media",
     "templates/Untitled Kanban.md",
     "OK.md",
-    "Dashboard.md",
     "2023-08-12.md",
     "planner/PlannerDB.md",
     "planner/ako.md",
     "planner/test series.md",
     "templates/Planner Template.md",
     "questions/Untitled.md",
-    "media",
     "media/image",
     "media/pdf",
     "questions",
@@ -221,8 +224,6 @@
     "Untitled.canvas",
     "Networking Devices.md",
     "networkDevices - Marathon CN Session 1 Notes.png_Page_0001_Image_0001.png.md",
-    "Algebric System.md",
-    "13f7679e45724e3fa0472dc092bd542f.png",
-    "COA Basic Zeal Workbook.md"
+    "13f7679e45724e3fa0472dc092bd542f.png"
   ]
 }
