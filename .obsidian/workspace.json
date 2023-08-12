@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -166,6 +166,10 @@
   },
   "active": "5b301f141e47d7da",
   "lastOpenFiles": [
+    "media",
+    "media/image",
+    "media/pdf",
+    "questions",
     "notes",
     "planner",
     "templates",
@@ -179,17 +183,14 @@
     "PlannerDB/DataBase.db.md",
     "MicroNotesDB",
     "ShortNotesDB/Untitled database.md",
-    "ShortNotesDB",
     "DBFolder/PlannerDB.md",
     "DBFolder/Acid Property.md",
-    "PlannerDB",
     "0c261d6419b54db1b76a9d69d03c7641.png",
     "Document 77_2.jpg.md",
     "I O MicroNotes.md",
     "Untitled Database.md",
     "C complete revision.md",
     "DBMS full pyq.md",
-    "DBFolder",
     "2023-08-11.md",
     "Untitled.canvas",
     "Networking Devices.md",
