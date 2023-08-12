@@ -10,27 +10,14 @@
           {
             "id": "568ef6c85961c1c2",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ec5d30b01f842a42",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+                "file": "planner/PlannerDB.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "planner/PlannerDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "planner/PlannerDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "planner/PlannerDB.md"
+              }
             }
           },
           {
@@ -189,8 +180,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec5d30b01f842a42",
+  "active": "568ef6c85961c1c2",
   "lastOpenFiles": [
+    "planner/TEST ID - 11 [DSA-3].md",
+    "templates/Planner Template.md",
     "Dashboard.md",
     "Copy Paste Image.md",
     "notes/cd short notes from mady easy short notes.md",
@@ -211,7 +204,6 @@
     "planner/test 1.md",
     "planner/Test ID - 48  [(Aptitude)-1] - 2022.md",
     "templates/Question Template.md",
-    "templates/Planner Template.md",
     "templates/Time Table.md",
     "new file.md",
     "Time Table.md",

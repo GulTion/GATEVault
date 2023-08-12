@@ -43,6 +43,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "APTI", value: "APTI", color: "hsl(346, 95%, 90%)"}
+      - { label: "ALGO", value: "ALGO", color: "hsl(343, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -214,6 +215,7 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "TS Analysis", value: "TS Analysis", color: "hsl(331, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

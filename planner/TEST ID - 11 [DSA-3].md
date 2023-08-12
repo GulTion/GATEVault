@@ -1,5 +1,7 @@
 ---
 type: planner
+Planner_Type: TS Analysis
+subject: ALGO
 ---
 
 ## Stack

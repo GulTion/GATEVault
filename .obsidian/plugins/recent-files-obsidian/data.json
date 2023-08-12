@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "PlannerDB",
+      "path": "planner/PlannerDB.md"
+    },
+    {
+      "basename": "Planner Template",
+      "path": "templates/Planner Template.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -33,20 +41,12 @@
       "path": "questions/QuestionDB.md"
     },
     {
-      "basename": "PlannerDB",
-      "path": "planner/PlannerDB.md"
-    },
-    {
       "basename": "Sch",
       "path": "media/Sch.png"
     },
     {
       "basename": "Question Template",
       "path": "templates/Question Template.md"
-    },
-    {
-      "basename": "Planner Template",
-      "path": "templates/Planner Template.md"
     },
     {
       "basename": "Untitled database",
