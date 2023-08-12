@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Time Table",
-      "path": "templates/Time Table.md"
+      "basename": "new file",
+      "path": "new file.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
     {
-      "basename": "Untitled Kanban",
-      "path": "templates/Untitled Kanban.md"
-    },
-    {
       "basename": "PlannerDB",
       "path": "planner/PlannerDB.md"
+    },
+    {
+      "basename": "Time Table",
+      "path": "templates/Time Table.md"
+    },
+    {
+      "basename": "Untitled Kanban",
+      "path": "templates/Untitled Kanban.md"
     },
     {
       "basename": "Planner Template",

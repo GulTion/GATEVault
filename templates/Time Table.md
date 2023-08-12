@@ -1,1 +1,5 @@
-- [name::C][day::1]
+---
+subjects:
+- subject:
+	- 
+---
