@@ -4,58 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4574fc99aa3fd687",
+        "id": "02315c810eb1e79a",
         "type": "tabs",
         "children": [
           {
-            "id": "108318cd68f07d55",
+            "id": "a55f1466f55bc9f5",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "f74b63af343221d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadMe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3450a170d7c5dd72",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bfd1ee3d6a0fe20c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadMe.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16adb8b390e447fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadMe.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -116,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -132,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ReadMe.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +164,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "f74b63af343221d0",
+  "active": "a55f1466f55bc9f5",
   "lastOpenFiles": [
     "Untitled.md",
     "ReadMe.md",
