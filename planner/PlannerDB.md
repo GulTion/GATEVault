@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 1
+    position: 2
     isHidden: false
     sortIndex: -1
     width: 108
@@ -37,7 +37,7 @@ columns:
     key: subject
     accessorKey: subject
     label: Subject
-    position: 2
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -67,7 +67,7 @@ columns:
     key: Topic
     id: Topic
     label: Topic
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -93,7 +93,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 4
+    position: 5
     isHidden: false
     sortIndex: -1
     config:
@@ -111,7 +111,7 @@ columns:
     key: Source
     id: Source
     label: Source
-    position: 100
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -137,7 +137,7 @@ columns:
     key: Last_Time
     id: Last_Time
     label: Last Time
-    position: 100
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -156,7 +156,7 @@ columns:
     key: Next_Time
     id: Next_Time
     label: Next Time
-    position: 100
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -169,7 +169,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      formula_query: "${row.Last_Time.plus({days: row.Repetation})}"
+      formula_query: "${row.Last_Time.plus({days: row.Repetation}).toFormat(\"y-LL-d TT\")}"
       wrap_content: true
   Repetation:
     input: number
@@ -177,10 +177,30 @@ columns:
     key: Repetation
     id: Repetation
     label: Repetation
-    position: 100
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  ID:
+    input: number
+    accessorKey: ID
+    key: ID
+    id: ID
+    label: ID
+    position: 1
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 43
     config:
       enable_media_view: true
       link_alias_enabled: true

@@ -6,6 +6,7 @@
       {
         "id": "35fd5b3a92d1fc9c",
         "type": "tabs",
+        "dimension": 29.09516380655226,
         "children": [
           {
             "id": "c1cbcc313f51fa0f",
@@ -23,6 +24,7 @@
       {
         "id": "9132a9b408fd23ab",
         "type": "tabs",
+        "dimension": 70.90483619344774,
         "children": [
           {
             "id": "39a08bc992f128a7",
@@ -110,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/PlannerDB.md",
+                "file": "planner/Test ID - 48  [(Aptitude)-1] - 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "planner/PlannerDB.md",
+                "file": "planner/Test ID - 48  [(Aptitude)-1] - 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "planner/PlannerDB.md"
+                "file": "planner/Test ID - 48  [(Aptitude)-1] - 2022.md"
               }
             }
           },
@@ -189,10 +191,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1cbcc313f51fa0f",
+  "active": "39a08bc992f128a7",
   "lastOpenFiles": [
-    "planner/Test ID - 48  [(Aptitude)-1] - 2022.md",
     "planner/PlannerDB.md",
+    "planner/Test ID - 48  [(Aptitude)-1] - 2022.md",
     "Dashboard.md",
     "templates/Time Table.md",
     "new file.md",
