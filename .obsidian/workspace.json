@@ -70,12 +70,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "51ad777add565579",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 253.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -126,6 +134,14 @@
             }
           },
           {
+            "id": "e00427308a4a66ad",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
             "id": "d82fbf37ee2686ec",
             "type": "leaf",
             "state": {
@@ -133,14 +149,6 @@
               "state": {
                 "file": "notes/NoteDB.md"
               }
-            }
-          },
-          {
-            "id": "e00427308a4a66ad",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -152,15 +160,15 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-trash-explorer:Open trash explorer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,7 +179,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a31cfe4d2e5298ee",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
     "notes/cd short notes from mady easy short notes.md",
     "notes/NoteDB.md",
