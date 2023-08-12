@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "84088d03d1a08120",
+        "id": "05ef7d890c1d64a5",
         "type": "tabs",
         "children": [
           {
-            "id": "2da44145275fc15e",
+            "id": "a31cfe4d2e5298ee",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "pdf-annotator",
               "state": {
-                "file": "notes/NoteDB.md"
+                "file": "notes/cd short notes from mady easy short notes.md"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/NoteDB.md",
+                "file": "notes/cd short notes from mady easy short notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/NoteDB.md",
+                "file": "notes/cd short notes from mady easy short notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/NoteDB.md"
+                "file": "notes/cd short notes from mady easy short notes.md"
               }
             }
           },
@@ -151,12 +151,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,12 +170,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2da44145275fc15e",
+  "active": "ca7bc4254449ab06",
   "lastOpenFiles": [
+    "notes/cd short notes from mady easy short notes.md",
+    "notes/NoteDB.md",
+    "notes/media/CD_Processed.pdf",
+    "notes/media/CD_Processed 1.pdf",
+    "notes/media",
+    "templates/Note Template.md",
     "notes/dsd.md",
     "questions/QuestionDB.md",
     "planner/PlannerDB.md",
-    "notes/NoteDB.md",
     "media/Sch.png",
     "Dashboard.md",
     "media/the-solution-to-the-recurrence-equationt2--612f39ea0ad623668ec87d67.pdf",
@@ -202,13 +207,7 @@
     "questions",
     "notes",
     "planner",
-    "templates",
     "ReadMe.md",
-    "inlineDB.md",
-    "GATEVault/ReadMe.md",
-    "GATEVault",
-    "New Text Document.txt",
-    "PlannerDB/DataBase.db.md",
     "0c261d6419b54db1b76a9d69d03c7641.png",
     "Untitled.canvas",
     "13f7679e45724e3fa0472dc092bd542f.png"

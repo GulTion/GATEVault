@@ -13,11 +13,12 @@ columns:
     key: column1
     accessorKey: column1
     label: Type
-    position: 2
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "Short Notes", value: "Short Notes", color: "hsl(261, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -37,9 +38,10 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 1
+    position: 3
     isHidden: false
     sortIndex: -1
+    width: 143
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -49,6 +51,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      wrap_content: true
   __created__:
     key: __created__
     id: __created__
@@ -59,7 +62,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: true
     sortIndex: -1
     config:
@@ -81,7 +84,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 0
+    position: 2
     isHidden: true
     sortIndex: -1
     config:
@@ -99,10 +102,11 @@ columns:
     key: repetation
     id: repetation
     label: repetation
-    position: 100
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 74
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -118,10 +122,11 @@ columns:
     key: Last_Time
     id: Last_Time
     label: Last Time
-    position: 100
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 68
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -137,10 +142,11 @@ columns:
     key: Next_Time
     id: Next_Time
     label: Next Time
-    position: 100
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 101
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -152,6 +158,28 @@ columns:
       persist_changes: false
       formula_query: "${row.Last_Time.plus({days: row.repetation}).toFormat(\"y-LL-d TT\")}"
       wrap_content: true
+  subject:
+    input: select
+    accessorKey: subject
+    key: subject
+    id: subject
+    label: subject
+    position: 5
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 55
+    options:
+      - { label: "CD", value: "CD", color: "hsl(58, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -170,7 +198,7 @@ config:
   source_form_result: 
   source_destination_path: /
   row_templates_folder: /templates
-  current_row_template: 
+  current_row_template: templates/Note Template.md
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false
