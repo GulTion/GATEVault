@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "ReadMe.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,7 +41,7 @@
               "type": "markdown",
               "state": {
                 "file": "ReadMe.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "ReadMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "ReadMe.md"
               }
             }
           },
@@ -209,11 +209,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "f74b63af343221d0",
+  "active": "bfd1ee3d6a0fe20c",
   "lastOpenFiles": [
-    "ReadMe.md",
-    "Untitled.md",
     "inlineDB.md",
+    "Untitled.md",
+    "ReadMe.md",
     "GATEVault/ReadMe.md",
     "GATEVault",
     "New Text Document.txt",
