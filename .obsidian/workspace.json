@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "02315c810eb1e79a",
+        "id": "c55fe6891ce478bb",
         "type": "tabs",
         "children": [
           {
-            "id": "a55f1466f55bc9f5",
+            "id": "af281fddd8da2edd",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "planner/Untitled database.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/Untitled database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "planner/Untitled database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "planner/Untitled database.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,10 +164,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a55f1466f55bc9f5",
+  "active": "af281fddd8da2edd",
   "lastOpenFiles": [
+    "planner/PlannerDB.md",
+    "planner/ako.md",
     "planner/test series.md",
-    "planner/Untitled database.md",
     "templates/Planner Template.md",
     "questions/Untitled.md",
     "media",
