@@ -11,9 +11,21 @@
             "id": "a31cfe4d2e5298ee",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "pdf-annotator",
               "state": {
-                "file": "notes/NoteDB.md"
+                "file": "notes/cd short notes from mady easy short notes.md"
+              }
+            }
+          },
+          {
+            "id": "568ef6c85961c1c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Copy Paste Image.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/NoteDB.md",
+                "file": "notes/cd short notes from mady easy short notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/NoteDB.md",
+                "file": "notes/cd short notes from mady easy short notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/NoteDB.md"
+                "file": "notes/cd short notes from mady easy short notes.md"
               }
             }
           },
@@ -164,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +192,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b301f141e47d7da",
+  "active": "a31cfe4d2e5298ee",
   "lastOpenFiles": [
+    "media/Pasted image 20230812155126.png",
+    "Copy Paste Image.md",
     "notes/cd short notes from mady easy short notes.md",
     "notes/NoteDB.md",
     "notes/media/CD_Processed.pdf",
@@ -194,7 +209,6 @@
     "Dashboard.md",
     "media/the-solution-to-the-recurrence-equationt2--612f39ea0ad623668ec87d67.pdf",
     "Untitled 1.md",
-    "Untitled.md",
     "questions/hcf trick.md",
     "questions/zxcvbn.md",
     "planner/test 1.md",
