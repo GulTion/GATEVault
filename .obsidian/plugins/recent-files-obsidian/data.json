@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "shortNotesList",
+      "path": "shortNotesList.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "DLD",
+      "path": "DLD.md"
+    },
+    {
       "basename": "Framing",
       "path": "Framing.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "CN Quick Notes",
       "path": "notes/CN Quick Notes.md"
-    },
-    {
-      "basename": "DLD",
-      "path": "DLD.md"
     },
     {
       "basename": "NoteDB",
@@ -43,10 +51,6 @@
     {
       "basename": "1. ISO Stack, LAN Technologies (Ethernet, Token Ring)",
       "path": "notes/1. ISO Stack, LAN Technologies (Ethernet, Token Ring).md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Planner Template",
