@@ -1,5 +1,5 @@
 ---
-annotation-target: media/FILE_URL
+annotation-target: media/CN_Processed.pdf
 column1: Short Notes
 subject: CN
 repetation: 2
