@@ -13,12 +13,13 @@ columns:
     key: column1
     accessorKey: column1
     label: Type
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
       - { label: "Short Notes", value: "Short Notes", color: "hsl(261, 95%, 90%)"}
+      - { label: "Full Notes", value: "Full Notes", color: "hsl(65, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -38,7 +39,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 3
+    position: 4
     isHidden: false
     sortIndex: -1
     width: 143
@@ -102,7 +103,7 @@ columns:
     key: repetation
     id: repetation
     label: repetation
-    position: 6
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -122,7 +123,7 @@ columns:
     key: Last_Time
     id: Last_Time
     label: Last Time
-    position: 7
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -142,7 +143,7 @@ columns:
     key: Next_Time
     id: Next_Time
     label: Next Time
-    position: 8
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -164,7 +165,7 @@ columns:
     key: subject
     id: subject
     label: subject
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -187,7 +188,51 @@ columns:
     key: Note
     id: Note
     label: Note
-    position: 100
+    position: 11
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Source:
+    input: select
+    accessorKey: Source
+    key: Source
+    id: Source
+    label: Source
+    position: 7
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "ME SHORT NOTES", value: "ME SHORT NOTES", color: "hsl(206, 95%, 90%)"}
+      - { label: "UaNotes", value: "UaNotes", color: "hsl(180, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
+      wrap_content: true
+      content_alignment: text-align-left
+  PID:
+    input: number
+    accessorKey: PID
+    key: PID
+    id: PID
+    label: PID
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
