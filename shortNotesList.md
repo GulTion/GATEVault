@@ -12,5 +12,9 @@
 ## DLD 1
 - Boolean Algebra
 
-## C 1
+## C 2
 - print formatting
+- storage classes
+- operator precedence  
+
+## TOC
