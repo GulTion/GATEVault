@@ -16,6 +16,16 @@
                 "file": "notes/Computer Network  3- Data Link Layer.md"
               }
             }
+          },
+          {
+            "id": "c73ce61b158ec1c6",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "notes/NoteDB.md"
+              }
+            }
           }
         ]
       }
@@ -83,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -182,13 +191,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e548e0065bcd391",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-08-13 10.59.16.excalidraw.md",
+    "notes/NoteDB.md",
     "notes/Computer Network  3- Data Link Layer.md",
+    "Excalidraw/Drawing 2023-08-13 10.59.16.excalidraw.md",
     "Excalidraw",
     "notes/cd short notes from mady easy short notes.md",
-    "notes/NoteDB.md",
     "planner/TEST ID - 11 [DSA-3].md",
     "planner/PlannerDB.md",
     "notes/media/Computer Network  3- Data Link Layer.pdf",
