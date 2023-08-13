@@ -11,9 +11,23 @@
             "id": "7e548e0065bcd391",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "notes/Computer Network  3- Data Link Layer.md"
+                "file": "notes/CN Quick Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f9cc20724b0af1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DLD.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -24,6 +38,24 @@
               "type": "database-plugin",
               "state": {
                 "file": "notes/NoteDB.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fad3103af0411561",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e7b19c990766bc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DLD.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -109,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Computer Network  3- Data Link Layer.md",
+                "file": "notes/CN Quick Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Computer Network  3- Data Link Layer.md",
+                "file": "notes/CN Quick Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Computer Network  3- Data Link Layer.md"
+                "file": "notes/CN Quick Notes.md"
               }
             }
           },
@@ -191,8 +223,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b301f141e47d7da",
+  "active": "7e548e0065bcd391",
   "lastOpenFiles": [
+    "DLD.md",
+    "notes/CN Quick Notes.md",
     "notes/NoteDB.md",
     "notes/Computer Network  3- Data Link Layer.md",
     "Excalidraw/Drawing 2023-08-13 10.59.16.excalidraw.md",
@@ -228,8 +262,6 @@
     "Time Table.md",
     "media",
     "templates/Untitled Kanban.md",
-    "OK.md",
-    "2023-08-12.md",
     "media/image",
     "0c261d6419b54db1b76a9d69d03c7641.png",
     "Untitled.canvas",

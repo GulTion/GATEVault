@@ -8,27 +8,6 @@ database-plugin: basic
 name: new database
 description: new description
 columns:
-  column1:
-    input: select
-    key: column1
-    accessorKey: column1
-    label: Type
-    position: 5
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "Short Notes", value: "Short Notes", color: "hsl(261, 95%, 90%)"}
-      - { label: "Full Notes", value: "Full Notes", color: "hsl(65, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   __file__:
     key: __file__
     id: __file__
@@ -245,6 +224,28 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  type:
+    input: select
+    key: type
+    accessorKey: type
+    label: Type
+    position: 5
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Short Notes", value: "Short Notes", color: "hsl(261, 95%, 90%)"}
+      - { label: "Full Notes", value: "Full Notes", color: "hsl(65, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
 config:
   remove_field_when_delete_column: false
   cell_size: normal
