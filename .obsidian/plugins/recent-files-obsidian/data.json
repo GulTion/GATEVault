@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "cn short notes from made easy",
+      "path": "notes/cn short notes from made easy.md"
+    },
+    {
+      "basename": "NoteDB",
+      "path": "notes/NoteDB.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "PlannerDB",
       "path": "planner/PlannerDB.md"
     },
     {
       "basename": "Planner Template",
       "path": "templates/Planner Template.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Copy Paste Image",
@@ -23,10 +31,6 @@
     {
       "basename": "Pasted image 20230812155126",
       "path": "media/Pasted image 20230812155126.png"
-    },
-    {
-      "basename": "NoteDB",
-      "path": "notes/NoteDB.md"
     },
     {
       "basename": "CD_Processed",

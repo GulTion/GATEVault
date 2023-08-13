@@ -171,6 +171,7 @@ columns:
     width: 55
     options:
       - { label: "CD", value: "CD", color: "hsl(58, 95%, 90%)"}
+      - { label: "CN", value: "CN", color: "hsl(191, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

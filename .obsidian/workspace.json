@@ -11,9 +11,11 @@
             "id": "568ef6c85961c1c2",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "planner/PlannerDB.md"
+                "file": "notes/cn short notes from made easy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/PlannerDB.md",
+                "file": "notes/cn short notes from made easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "planner/PlannerDB.md",
+                "file": "notes/cn short notes from made easy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "planner/PlannerDB.md"
+                "file": "notes/cn short notes from made easy.md"
               }
             }
           },
@@ -182,20 +184,21 @@
   },
   "active": "568ef6c85961c1c2",
   "lastOpenFiles": [
+    "notes/NoteDB.md",
+    "notes/cn short notes from made easy.md",
+    "Dashboard.md",
+    "planner/PlannerDB.md",
     "planner/TEST ID - 11 [DSA-3].md",
     "templates/Planner Template.md",
-    "Dashboard.md",
     "Copy Paste Image.md",
     "notes/cd short notes from mady easy short notes.md",
     "media/Pasted image 20230812155126.png",
-    "notes/NoteDB.md",
     "notes/media/CD_Processed.pdf",
     "notes/media/CD_Processed 1.pdf",
     "notes/media",
     "templates/Note Template.md",
     "notes/dsd.md",
     "questions/QuestionDB.md",
-    "planner/PlannerDB.md",
     "media/Sch.png",
     "media/the-solution-to-the-recurrence-equationt2--612f39ea0ad623668ec87d67.pdf",
     "Untitled 1.md",
@@ -219,7 +222,6 @@
     "questions",
     "notes",
     "planner",
-    "ReadMe.md",
     "0c261d6419b54db1b76a9d69d03c7641.png",
     "Untitled.canvas",
     "13f7679e45724e3fa0472dc092bd542f.png"
