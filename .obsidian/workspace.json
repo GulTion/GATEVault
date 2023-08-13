@@ -178,12 +178,15 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "dbfolder:Create a new database table": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7e548e0065bcd391",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-13 10.59.16.excalidraw.md",
     "notes/Computer Network  3- Data Link Layer.md",
+    "Excalidraw",
     "notes/cd short notes from mady easy short notes.md",
     "notes/NoteDB.md",
     "planner/TEST ID - 11 [DSA-3].md",
@@ -219,7 +222,6 @@
     "OK.md",
     "2023-08-12.md",
     "media/image",
-    "media/pdf",
     "0c261d6419b54db1b76a9d69d03c7641.png",
     "Untitled.canvas",
     "13f7679e45724e3fa0472dc092bd542f.png"
