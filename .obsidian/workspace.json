@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "shortNotesList.md",
                 "mode": "source",
                 "source": false
               }
@@ -208,11 +208,11 @@
   },
   "active": "5857942f75352fc0",
   "lastOpenFiles": [
+    "shortNotesList.md",
     "Dashboard.md",
     "planner/TEST ID - 11 [DSA-3].md",
     "planner/PlannerDB.md",
     "planner/TEST ID - 14[CN-1].md",
-    "shortNotesList.md",
     "DLD.md",
     "Framing.md",
     "Data Link Layer.md",

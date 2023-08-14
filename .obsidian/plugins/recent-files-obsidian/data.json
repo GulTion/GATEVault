@@ -5,6 +5,10 @@
       "path": "planner/TEST ID - 11 [DSA-3].md"
     },
     {
+      "basename": "shortNotesList",
+      "path": "shortNotesList.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "TEST ID - 14[CN-1]",
       "path": "planner/TEST ID - 14[CN-1].md"
-    },
-    {
-      "basename": "shortNotesList",
-      "path": "shortNotesList.md"
     },
     {
       "basename": "DLD",
