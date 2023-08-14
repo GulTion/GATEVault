@@ -28,6 +28,8 @@ Topic:
 | 7      | thinking wide mistake   |
 | 8      | revision mistake        |
 | 10 imp | revision mistake        |
+| 11     | revision mistake        |
+| 20     | silly mistake           |
 |        |                         |
 
 ## Short Notes
