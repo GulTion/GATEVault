@@ -23,9 +23,11 @@
             "id": "5857942f75352fc0",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "planner/PlannerDB.md"
+                "file": "planner/TEST ID - 14[CN-1].md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/PlannerDB.md",
+                "file": "planner/TEST ID - 14[CN-1].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "planner/PlannerDB.md",
+                "file": "planner/TEST ID - 14[CN-1].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "planner/PlannerDB.md"
+                "file": "planner/TEST ID - 14[CN-1].md"
               }
             }
           },
@@ -196,8 +198,8 @@
   },
   "active": "5857942f75352fc0",
   "lastOpenFiles": [
-    "planner/TEST ID - 14[CN-1].md",
     "planner/PlannerDB.md",
+    "planner/TEST ID - 14[CN-1].md",
     "shortNotesList.md",
     "Dashboard.md",
     "DLD.md",
