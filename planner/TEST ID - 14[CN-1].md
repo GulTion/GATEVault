@@ -16,10 +16,15 @@ Topic:
 2. silly mistake to read question + unit conversion
 5. lack of practice + silly mistake
 
-| Q. no | Try 1                          |
-| ----- | ------------------------------ |
-| 1     | silly mistake to read question |
-| 2     |                                |
+| Q. no | Try 1                                            | try 2 |
+| ----- | ------------------------------------------------ | ----- |
+| 1     | silly mistake to read question                   |       |
+| 2     | silly mistake to read question + unit conversion |       |
+| 3     |                                                  |       |
+| 4     |                                                  |       |
+| 5     |                                                  |       |
+| 6     | lack of practice + silly mistake                 |       |
+| 7      |                                                  |       |
 ## Short Notes
 ```dataview
 TABLE from "notes"
