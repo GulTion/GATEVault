@@ -69,6 +69,13 @@ columns:
     width: 133
     options:
       - { label: "Data Link Layer", value: "Data Link Layer", color: "hsl(8, 95%, 90%)"}
+      - { label: "Stack", value: "Stack", color: "hsl(285, 95%, 90%)"}
+      - { label: "Recursion", value: "Recursion", color: "hsl(194, 95%, 90%)"}
+      - { label: "Queue", value: "Queue", color: "hsl(275, 95%, 90%)"}
+      - { label: "Linked List", value: "Linked List", color: "hsl(263, 95%, 90%)"}
+      - { label: "Binary Tree", value: "Binary Tree", color: "hsl(208, 95%, 90%)"}
+      - { label: "Binary Search Tree", value: "Binary Search Tree", color: "hsl(65, 95%, 90%)"}
+      - { label: "Construction Of AVL Tree", value: "Construction Of AVL Tree", color: "hsl(334, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -79,6 +86,8 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+      wrap_content: false
+      content_alignment: text-align-center
   __created__:
     key: __created__
     id: __created__

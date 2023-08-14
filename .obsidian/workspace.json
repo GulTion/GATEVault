@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "planner/TEST ID - 14[CN-1].md",
+                "file": "planner/TEST ID - 11 [DSA-3].md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/TEST ID - 14[CN-1].md",
+                "file": "planner/TEST ID - 11 [DSA-3].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "planner/TEST ID - 14[CN-1].md",
+                "file": "planner/TEST ID - 11 [DSA-3].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "planner/TEST ID - 14[CN-1].md"
+                "file": "planner/TEST ID - 11 [DSA-3].md"
               }
             }
           },
