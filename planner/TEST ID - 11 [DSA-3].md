@@ -19,9 +19,16 @@ Topic:
 1. HERE
 
 ## Marks
-| Qn no. | try 1 |
-| ------ | ----- |
-|        |       |
+| Qn no. | try 1                   |
+| ------ | ----------------------- |
+| 1      | silly mistake           |
+| 2      | silly mistake           |
+| 4      | silly mistake           |
+| 5      | q understanding mistake |
+| 7      | thinking wide mistake   |
+| 8      | revision mistake        |
+| 10 imp | revision mistake        |
+|        |                         |
 
 ## Short Notes
 ```dataview
