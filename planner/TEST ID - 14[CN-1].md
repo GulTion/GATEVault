@@ -14,7 +14,12 @@ Topic:
 ## Mistakes
 1. silly mistake to read question
 2. silly mistake to read question + unit conversion
+5. lack of practice + silly mistake
 
+| Q. no | Try 1                          |
+| ----- | ------------------------------ |
+| 1     | silly mistake to read question |
+| 2     |                                |
 ## Short Notes
 ```dataview
 TABLE from "notes"
