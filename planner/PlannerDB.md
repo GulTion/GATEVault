@@ -44,6 +44,7 @@ columns:
     options:
       - { label: "APTI", value: "APTI", color: "hsl(346, 95%, 90%)"}
       - { label: "ALGO", value: "ALGO", color: "hsl(343, 95%, 90%)"}
+      - { label: "CN", value: "CN", color: "hsl(54, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -67,6 +68,7 @@ columns:
     sortIndex: -1
     width: 133
     options:
+      - { label: "Data Link Layer", value: "Data Link Layer", color: "hsl(8, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
