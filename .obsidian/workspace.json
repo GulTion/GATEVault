@@ -11,9 +11,21 @@
             "id": "bb0350aff0e241ee",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "pdf-annotator",
               "state": {
-                "file": "notes/NoteDB.md"
+                "file": "notes/cd short notes from mady easy short notes.md"
+              }
+            }
+          },
+          {
+            "id": "291c4c05890d8c8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shortNotesList.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/NoteDB.md",
+                "file": "notes/cd short notes from mady easy short notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/NoteDB.md",
+                "file": "notes/cd short notes from mady easy short notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/NoteDB.md"
+                "file": "notes/cd short notes from mady easy short notes.md"
               }
             }
           },
@@ -192,8 +205,10 @@
   },
   "active": "bb0350aff0e241ee",
   "lastOpenFiles": [
-    "notes/Computer Network  3- Data Link Layer.md",
+    "shortNotesList.md",
+    "notes/cd short notes from mady easy short notes.md",
     "notes/NoteDB.md",
+    "notes/Computer Network  3- Data Link Layer.md",
     "notes/3Operating System - Process Synchronization.md",
     "planner/OS - Process Syncronization.md",
     "planner/PlannerDB.md",
@@ -201,7 +216,6 @@
     "planner/media",
     "planner/TEST ID - 11 [DSA-3].md",
     "planner/Test ID - 28 [CSO - 3].md",
-    "shortNotesList.md",
     "Link.md",
     "Dashboard.md",
     "planner/TEST ID - 14[CN-1].md",
@@ -211,7 +225,6 @@
     "notes/CN Quick Notes.md",
     "Excalidraw/Drawing 2023-08-13 10.59.16.excalidraw.md",
     "Excalidraw",
-    "notes/cd short notes from mady easy short notes.md",
     "notes/media/Computer Network  3- Data Link Layer.pdf",
     "notes/1. ISO Stack, LAN Technologies (Ethernet, Token Ring).md",
     "notes/media/1. ISO Stack, LAN Technologies (Ethernet, Token Ring).pdf",
