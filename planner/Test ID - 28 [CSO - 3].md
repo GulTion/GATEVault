@@ -3,7 +3,9 @@ type: planner
 Planner_Type: TS Analysis
 subject: COA
 Topic:
-  - Number System
+  - Instruction Set Architecture
+  - Addressing Mode
+  - Pipeline
 Source: Zeal TS
 ---
 

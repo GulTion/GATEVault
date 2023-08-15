@@ -78,6 +78,9 @@ columns:
       - { label: "Binary Search Tree", value: "Binary Search Tree", color: "hsl(65, 95%, 90%)"}
       - { label: "Construction Of AVL Tree", value: "Construction Of AVL Tree", color: "hsl(334, 95%, 90%)"}
       - { label: "Number System", value: "Number System", color: "hsl(219, 95%, 90%)"}
+      - { label: "Instruction Set Architecture", value: "Instruction Set Architecture", color: "hsl(313, 95%, 90%)"}
+      - { label: "Addressing Mode", value: "Addressing Mode", color: "hsl(350, 95%, 90%)"}
+      - { label: "Pipeline", value: "Pipeline", color: "hsl(327, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
