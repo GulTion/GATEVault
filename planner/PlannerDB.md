@@ -45,6 +45,7 @@ columns:
       - { label: "APTI", value: "APTI", color: "hsl(346, 95%, 90%)"}
       - { label: "ALGO", value: "ALGO", color: "hsl(343, 95%, 90%)"}
       - { label: "CN", value: "CN", color: "hsl(54, 95%, 90%)"}
+      - { label: "COA", value: "COA", color: "hsl(322, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -76,6 +77,7 @@ columns:
       - { label: "Binary Tree", value: "Binary Tree", color: "hsl(208, 95%, 90%)"}
       - { label: "Binary Search Tree", value: "Binary Search Tree", color: "hsl(65, 95%, 90%)"}
       - { label: "Construction Of AVL Tree", value: "Construction Of AVL Tree", color: "hsl(334, 95%, 90%)"}
+      - { label: "Number System", value: "Number System", color: "hsl(219, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

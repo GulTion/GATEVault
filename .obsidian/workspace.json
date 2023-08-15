@@ -23,11 +23,9 @@
             "id": "5857942f75352fc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "planner/TEST ID - 11 [DSA-3].md",
-                "mode": "source",
-                "source": false
+                "file": "planner/PlannerDB.md"
               }
             }
           }
@@ -115,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/TEST ID - 11 [DSA-3].md",
+                "file": "planner/PlannerDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "planner/TEST ID - 11 [DSA-3].md",
+                "file": "planner/PlannerDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "planner/TEST ID - 11 [DSA-3].md"
+                "file": "planner/PlannerDB.md"
               }
             }
           },
@@ -208,9 +206,10 @@
   },
   "active": "5857942f75352fc0",
   "lastOpenFiles": [
+    "planner/Test ID - 26 [CSO - 1].md",
+    "planner/TEST ID - 11 [DSA-3].md",
     "shortNotesList.md",
     "Dashboard.md",
-    "planner/TEST ID - 11 [DSA-3].md",
     "planner/PlannerDB.md",
     "planner/TEST ID - 14[CN-1].md",
     "DLD.md",
@@ -243,7 +242,6 @@
     "questions/zxcvbn.md",
     "planner/test 1.md",
     "planner/Test ID - 48  [(Aptitude)-1] - 2022.md",
-    "templates/Question Template.md",
     "media",
     "media/image",
     "0c261d6419b54db1b76a9d69d03c7641.png",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PlannerDB",
+      "path": "planner/PlannerDB.md"
+    },
+    {
       "basename": "TEST ID - 11 [DSA-3]",
       "path": "planner/TEST ID - 11 [DSA-3].md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
-    },
-    {
-      "basename": "PlannerDB",
-      "path": "planner/PlannerDB.md"
     },
     {
       "basename": "TEST ID - 14[CN-1]",

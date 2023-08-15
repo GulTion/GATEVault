@@ -6,6 +6,8 @@ Source: Zeal TS
 ID: 2
 Topic:
   - Data Link Layer
+Repetation: 2
+Last_Time: 2023-08-14T17:30:00.000+05:30
 ---
 
 ## Stack
