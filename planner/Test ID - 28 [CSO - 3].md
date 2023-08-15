@@ -12,9 +12,6 @@ ID: 3
 
 ## Stack
 1. See the Test Series and Analysis and do the weak topics from [Solutoin](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=61275da5d05a80f5a10eb159&test_id=14)
-2. completing the zeal workbook at Page no. 
-	1. page 1-22 - assembly code exucuetion
-	2. page 22-30 - instruction set numericals
 3. 
 ## Short Notes
 ```dataview
