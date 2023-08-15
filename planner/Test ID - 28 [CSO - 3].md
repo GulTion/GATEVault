@@ -7,11 +7,12 @@ Topic:
   - Addressing Mode
   - Pipeline
 Source: Zeal TS
+ID: 3
 ---
 
 ## Stack
-1. HERE
-
+1. See the Test Series and Analysis and do the weak topics from [Solutoin](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=61275da5d05a80f5a10eb159&test_id=14)
+2. completing the zeal workbook
 ## Short Notes
 ```dataview
 TABLE from "notes"

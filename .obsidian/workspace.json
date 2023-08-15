@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shortNotesList.md",
+                "file": "planner/Test ID - 28 [CSO - 3].md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5857942f75352fc0",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "planner/PlannerDB.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/PlannerDB.md",
+                "file": "planner/Test ID - 28 [CSO - 3].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "planner/PlannerDB.md",
+                "file": "planner/Test ID - 28 [CSO - 3].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "planner/PlannerDB.md"
+                "file": "planner/Test ID - 28 [CSO - 3].md"
               }
             }
           },
@@ -204,12 +192,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5857942f75352fc0",
+  "active": "05bc4ac5ad71df1a",
   "lastOpenFiles": [
+    "shortNotesList.md",
+    "Link.md",
     "planner/Test ID - 28 [CSO - 3].md",
     "planner/PlannerDB.md",
     "planner/TEST ID - 11 [DSA-3].md",
-    "shortNotesList.md",
     "Dashboard.md",
     "planner/TEST ID - 14[CN-1].md",
     "DLD.md",
@@ -241,7 +230,6 @@
     "questions/hcf trick.md",
     "questions/zxcvbn.md",
     "planner/test 1.md",
-    "planner/Test ID - 48  [(Aptitude)-1] - 2022.md",
     "media",
     "media/image",
     "0c261d6419b54db1b76a9d69d03c7641.png",
