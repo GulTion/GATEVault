@@ -46,6 +46,7 @@ columns:
       - { label: "ALGO", value: "ALGO", color: "hsl(343, 95%, 90%)"}
       - { label: "CN", value: "CN", color: "hsl(54, 95%, 90%)"}
       - { label: "COA", value: "COA", color: "hsl(322, 95%, 90%)"}
+      - { label: "OS", value: "OS", color: "hsl(258, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -81,6 +82,7 @@ columns:
       - { label: "Instruction Set Architecture", value: "Instruction Set Architecture", color: "hsl(313, 95%, 90%)"}
       - { label: "Addressing Mode", value: "Addressing Mode", color: "hsl(350, 95%, 90%)"}
       - { label: "Pipeline", value: "Pipeline", color: "hsl(327, 95%, 90%)"}
+      - { label: "Process Syncronization", value: "Process Syncronization", color: "hsl(17, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -131,6 +133,7 @@ columns:
       - { label: "Zeal WB", value: "Zeal WB", color: "hsl(222, 95%, 90%)"}
       - { label: "ME TS", value: "ME TS", color: "hsl(85, 95%, 90%)"}
       - { label: "GO TS", value: "GO TS", color: "hsl(28, 95%, 90%)"}
+      - { label: "UaNotes", value: "UaNotes", color: "hsl(291, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -232,6 +235,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "TS Analysis", value: "TS Analysis", color: "hsl(331, 95%, 90%)"}
+      - { label: "Revision", value: "Revision", color: "hsl(237, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

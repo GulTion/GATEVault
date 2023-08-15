@@ -125,8 +125,10 @@ columns:
     position: 10
     skipPersist: false
     isHidden: false
-    sortIndex: -1
+    sortIndex: 1
     width: 101
+    isSorted: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -152,6 +154,7 @@ columns:
     options:
       - { label: "CD", value: "CD", color: "hsl(58, 95%, 90%)"}
       - { label: "CN", value: "CN", color: "hsl(191, 95%, 90%)"}
+      - { label: "OS", value: "OS", color: "hsl(305, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
