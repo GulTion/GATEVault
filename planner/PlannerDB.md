@@ -154,6 +154,8 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    isSorted: false
+    isSortedDesc: true
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -172,7 +174,9 @@ columns:
     position: 9
     skipPersist: false
     isHidden: false
-    sortIndex: -1
+    sortIndex: 1
+    isSorted: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true

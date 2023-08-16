@@ -22,9 +22,6 @@ Last_Time: 2023-08-14T17:30:00.000+05:30
 | ----- | ------------------------------------------------ | ----- |
 | 1     | silly mistake to read question                   |       |
 | 2     | silly mistake to read question + unit conversion |       |
-| 3     |                                                  |       |
-| 4     |                                                  |       |
-| 5     |                                                  |       |
 | 6     | lack of practice + silly mistake                 |       |
 | 7      |                                                  |       |
 ## Short Notes
