@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shortNotesList.md",
+                "file": "planner/TEST ID - 14[CN-1].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shortNotesList.md",
+                "file": "planner/TEST ID - 14[CN-1].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shortNotesList.md"
+                "file": "planner/TEST ID - 14[CN-1].md"
               }
             }
           },
@@ -197,20 +197,15 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "dbfolder:Create a new database table": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ca7bc4254449ab06",
+  "active": "9be16b2896500345",
   "lastOpenFiles": [
+    "shortNotesList.md",
     "planner/TEST ID - 14[CN-1].md",
     "planner/PlannerDB.md",
     "notes/NoteDB.md",
-    "shortNotesList.md",
     "notes/cd short notes from mady easy short notes.md",
     "notes/Computer Network  3- Data Link Layer.md",
     "notes/3Operating System - Process Synchronization.md",
