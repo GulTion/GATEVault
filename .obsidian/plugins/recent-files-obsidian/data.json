@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "shortNotesList",
+      "path": "shortNotesList.md"
+    },
+    {
       "basename": "TEST ID - 14[CN-1]",
       "path": "planner/TEST ID - 14[CN-1].md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "NoteDB",
       "path": "notes/NoteDB.md"
-    },
-    {
-      "basename": "shortNotesList",
-      "path": "shortNotesList.md"
     },
     {
       "basename": "cd short notes from mady easy short notes",
