@@ -94,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,8 +207,9 @@
   },
   "active": "9be16b2896500345",
   "lastOpenFiles": [
-    "shortNotesList.md",
+    "DLD.md",
     "planner/TEST ID - 14[CN-1].md",
+    "shortNotesList.md",
     "planner/PlannerDB.md",
     "notes/NoteDB.md",
     "notes/cd short notes from mady easy short notes.md",
@@ -222,7 +222,6 @@
     "planner/Test ID - 28 [CSO - 3].md",
     "Link.md",
     "Dashboard.md",
-    "DLD.md",
     "Framing.md",
     "Data Link Layer.md",
     "notes/CN Quick Notes.md",
