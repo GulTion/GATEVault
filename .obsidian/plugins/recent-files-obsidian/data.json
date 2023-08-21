@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "TEST ID - 14[CN-1]",
-      "path": "planner/TEST ID - 14[CN-1].md"
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "ContinueSubjects",
+      "path": "ContinueSubjects.md"
     },
     {
       "basename": "shortNotesList",
       "path": "shortNotesList.md"
+    },
+    {
+      "basename": "TEST ID - 14[CN-1]",
+      "path": "planner/TEST ID - 14[CN-1].md"
     },
     {
       "basename": "PlannerDB",
@@ -41,22 +49,6 @@
       "path": "planner/Test ID - 28 [CSO - 3].md"
     },
     {
-      "basename": "Link",
-      "path": "Link.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
-      "basename": "Framing",
-      "path": "Framing.md"
-    },
-    {
-      "basename": "Data Link Layer",
-      "path": "Data Link Layer.md"
-    },
-    {
       "basename": "CN Quick Notes",
       "path": "notes/CN Quick Notes.md"
     },
@@ -71,10 +63,6 @@
     {
       "basename": "Planner Template",
       "path": "templates/Planner Template.md"
-    },
-    {
-      "basename": "Copy Paste Image",
-      "path": "Copy Paste Image.md"
     },
     {
       "basename": "Pasted image 20230812155126",
