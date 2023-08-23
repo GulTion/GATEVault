@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "recent-files-obsidian",
   "obsidian-kanban",
   "dbfolder",
@@ -8,6 +7,8 @@
   "obsidian-annotator",
   "templater-obsidian",
   "obsidian-trash-explorer",
+  "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
-  "table-editor-obsidian"
+  "drawio-obsidian",
+  "obsidian-git"
 ]

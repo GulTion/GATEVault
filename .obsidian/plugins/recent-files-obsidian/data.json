@@ -5,16 +5,32 @@
       "path": "Dashboard.md"
     },
     {
-      "basename": "ContinueSubjects",
-      "path": "ContinueSubjects.md"
+      "basename": "Untitled Diagram 1",
+      "path": "planner/Untitled Diagram 1.svg"
     },
     {
-      "basename": "shortNotesList",
-      "path": "shortNotesList.md"
+      "basename": "Test ID - 77 Mock - 1 - 2022",
+      "path": "planner/Test ID - 77 Mock - 1 - 2022.md"
     },
     {
-      "basename": "TEST ID - 14[CN-1]",
-      "path": "planner/TEST ID - 14[CN-1].md"
+      "basename": "Drawing 2023-08-22 16.13.45.excalidraw",
+      "path": "Excalidraw/Drawing 2023-08-22 16.13.45.excalidraw.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
+      "basename": "Untitled Diagram",
+      "path": "planner/Untitled Diagram.svg"
+    },
+    {
+      "basename": "Drawing 2023-08-22 16.11.39.excalidraw",
+      "path": "Excalidraw/Drawing 2023-08-22 16.11.39.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-08-13 10.59.16.excalidraw",
+      "path": "Excalidraw/Drawing 2023-08-13 10.59.16.excalidraw.md"
     },
     {
       "basename": "PlannerDB",
@@ -25,16 +41,8 @@
       "path": "notes/NoteDB.md"
     },
     {
-      "basename": "cd short notes from mady easy short notes",
-      "path": "notes/cd short notes from mady easy short notes.md"
-    },
-    {
-      "basename": "Computer Network  3- Data Link Layer",
-      "path": "notes/Computer Network  3- Data Link Layer.md"
-    },
-    {
-      "basename": "3Operating System - Process Synchronization",
-      "path": "notes/3Operating System - Process Synchronization.md"
+      "basename": "ContinueSubjects",
+      "path": "ContinueSubjects.md"
     },
     {
       "basename": "OS - Process Syncronization",
@@ -49,12 +57,28 @@
       "path": "planner/Test ID - 28 [CSO - 3].md"
     },
     {
-      "basename": "CN Quick Notes",
-      "path": "notes/CN Quick Notes.md"
+      "basename": "TEST ID - 14[CN-1]",
+      "path": "planner/TEST ID - 14[CN-1].md"
     },
     {
-      "basename": "Drawing 2023-08-13 10.59.16.excalidraw",
-      "path": "Excalidraw/Drawing 2023-08-13 10.59.16.excalidraw.md"
+      "basename": "shortNotesList",
+      "path": "shortNotesList.md"
+    },
+    {
+      "basename": "cd short notes from mady easy short notes",
+      "path": "notes/cd short notes from mady easy short notes.md"
+    },
+    {
+      "basename": "Computer Network  3- Data Link Layer",
+      "path": "notes/Computer Network  3- Data Link Layer.md"
+    },
+    {
+      "basename": "3Operating System - Process Synchronization",
+      "path": "notes/3Operating System - Process Synchronization.md"
+    },
+    {
+      "basename": "CN Quick Notes",
+      "path": "notes/CN Quick Notes.md"
     },
     {
       "basename": "1. ISO Stack, LAN Technologies (Ethernet, Token Ring)",
@@ -123,10 +147,6 @@
     {
       "basename": "2023-08-11",
       "path": "2023-08-11.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
     }
   ],
   "omittedPaths": [],

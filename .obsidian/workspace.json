@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "planner/Test ID - 77 Mock - 1 - 2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -49,10 +48,8 @@
             "id": "5b301f141e47d7da",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -93,12 +90,23 @@
               "type": "trash-explorer",
               "state": {}
             }
+          },
+          {
+            "id": "55b1f86774b94a22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 339.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -114,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dashboard.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,53 +203,56 @@
       "command-palette:Open command palette": false,
       "dbfolder:Create a new database table": false,
       "templater-obsidian:Templater": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "65b2c4a5b14b47db",
+  "active": "ca7bc4254449ab06",
   "lastOpenFiles": [
-    "ContinueSubjects.md",
     "Dashboard.md",
+    "planner/Untitled Diagram 1.svg",
+    "planner/Test ID - 77 Mock - 1 - 2022.md",
+    "Excalidraw/Drawing 2023-08-22 16.13.45.excalidraw.md",
+    "Untitled.canvas",
+    "planner/Untitled Diagram.svg",
+    "planner/Drawing 2023-08-22 16.12.33.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-22 16.11.39.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-13 10.59.16.excalidraw.md",
+    "Excalidraw/media/Pasted Image 20230822160147_598.png",
+    "Excalidraw/media",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "planner/PlannerDB.md",
+    "notes/NoteDB.md",
+    "ContinueSubjects.md",
+    "planner/OS - Process Syncronization.md",
+    "planner/TEST ID - 11 [DSA-3].md",
+    "planner/Test ID - 28 [CSO - 3].md",
+    "planner/TEST ID - 14[CN-1].md",
     "Copy Paste Image.md",
     "Link.md",
     "Framing.md",
     "Data Link Layer.md",
     "shortNotesList.md",
-    "planner/TEST ID - 14[CN-1].md",
     "DLD.md",
-    "planner/PlannerDB.md",
-    "notes/NoteDB.md",
     "notes/cd short notes from mady easy short notes.md",
     "notes/Computer Network  3- Data Link Layer.md",
     "notes/3Operating System - Process Synchronization.md",
-    "planner/OS - Process Syncronization.md",
     "planner/media/3Operating System - Process Synchronization.pdf",
     "planner/media",
-    "planner/TEST ID - 11 [DSA-3].md",
-    "planner/Test ID - 28 [CSO - 3].md",
     "notes/CN Quick Notes.md",
-    "Excalidraw/Drawing 2023-08-13 10.59.16.excalidraw.md",
     "Excalidraw",
     "notes/media/Computer Network  3- Data Link Layer.pdf",
     "notes/1. ISO Stack, LAN Technologies (Ethernet, Token Ring).md",
     "notes/media/1. ISO Stack, LAN Technologies (Ethernet, Token Ring).pdf",
-    "notes/cn short notes from made easy.md",
     "notes/media/CN_Processed.pdf",
-    "templates/Planner Template.md",
     "media/Pasted image 20230812155126.png",
     "notes/media/CD_Processed.pdf",
-    "notes/media/CD_Processed 1.pdf",
-    "notes/media",
-    "templates/Note Template.md",
-    "notes/dsd.md",
-    "questions/QuestionDB.md",
     "media/Sch.png",
-    "media/the-solution-to-the-recurrence-equationt2--612f39ea0ad623668ec87d67.pdf",
-    "Untitled 1.md",
     "0c261d6419b54db1b76a9d69d03c7641.png",
-    "Untitled.canvas",
     "13f7679e45724e3fa0472dc092bd542f.png"
   ]
 }
