@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "shortNotesList",
       "path": "shortNotesList.md"
     },
@@ -41,24 +45,8 @@
       "path": "planner/Test ID - 28 [CSO - 3].md"
     },
     {
-      "basename": "Link",
-      "path": "Link.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
-    },
-    {
-      "basename": "DLD",
-      "path": "DLD.md"
-    },
-    {
-      "basename": "Framing",
-      "path": "Framing.md"
-    },
-    {
-      "basename": "Data Link Layer",
-      "path": "Data Link Layer.md"
     },
     {
       "basename": "CN Quick Notes",
@@ -75,10 +63,6 @@
     {
       "basename": "Planner Template",
       "path": "templates/Planner Template.md"
-    },
-    {
-      "basename": "Copy Paste Image",
-      "path": "Copy Paste Image.md"
     },
     {
       "basename": "Pasted image 20230812155126",
