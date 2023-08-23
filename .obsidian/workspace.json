@@ -185,7 +185,11 @@
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "70765fda4e6f83f5",
