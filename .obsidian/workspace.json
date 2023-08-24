@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d661ed4c51376d59",
+        "id": "6fd84d75958fe579",
         "type": "tabs",
         "children": [
           {
-            "id": "291c4c05890d8c8d",
+            "id": "e6607d12c642aaed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shortNotesList.md",
+                "file": "Pasted image 20230824121545.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pasted image 20230824121545.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pasted image 20230824121545.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pasted image 20230824121545.md"
+              }
             }
           },
           {
@@ -167,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -185,11 +188,21 @@
       "templater-obsidian:Templater": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "ca7bc4254449ab06",
+  "active": "e6607d12c642aaed",
   "lastOpenFiles": [
+    "notes/GATE 2023 PYQ.md",
+    "Pasted image 20230824121545.md",
+    "Pasted image 20230824121345 2.md",
+    "Pasted image 20230824121345 1.md",
+    "Pasted image 20230824121345.md",
+    "notes/media/Pasted image 20230824121545.png",
+    "notes/media/Pasted image 20230824121345.png",
+    "notes/NoteDB.md",
+    "questions/QuestionDB.md",
     "shortNotesList.md",
     "conflict-files-obsidian-git.md",
     "planner/Untitled Diagram.svg",
@@ -207,7 +220,6 @@
     "ContinueSubjects.md",
     "planner/TEST ID - 14[CN-1].md",
     "planner/PlannerDB.md",
-    "notes/NoteDB.md",
     "notes/cd short notes from mady easy short notes.md",
     "notes/Computer Network  3- Data Link Layer.md",
     "notes/3Operating System - Process Synchronization.md",
@@ -220,16 +232,10 @@
     "Dashboard.md",
     "DLD.md",
     "Framing.md",
-    "Data Link Layer.md",
-    "notes/CN Quick Notes.md",
-    "Excalidraw/Drawing 2023-08-13 10.59.16.excalidraw.md",
     "Excalidraw",
     "notes/media/Computer Network  3- Data Link Layer.pdf",
-    "notes/1. ISO Stack, LAN Technologies (Ethernet, Token Ring).md",
     "notes/media/1. ISO Stack, LAN Technologies (Ethernet, Token Ring).pdf",
-    "notes/cn short notes from made easy.md",
     "notes/media/CN_Processed.pdf",
-    "templates/Planner Template.md",
     "media/Pasted image 20230812155126.png",
     "notes/media/CD_Processed.pdf",
     "media/Sch.png",

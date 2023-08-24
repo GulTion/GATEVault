@@ -10,5 +10,7 @@
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
   "drawio-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "omnisearch",
+  "text-extractor"
 ]
