@@ -4,20 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "584ffa00624e1046",
+        "id": "6514c6545a343a95",
         "type": "tabs",
         "children": [
           {
-            "id": "2d190faa61ff3b45",
+            "id": "1e42b25fa92c7bd3",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Plan/PLANDB.md"
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -46,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/PLANDB.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/PLANDB.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/PLANDB.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -180,17 +182,19 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "f05219de2c216c2d",
+  "active": "1e42b25fa92c7bd3",
   "lastOpenFiles": [
-    "Plan/sc.md",
     "Plan/PLANDB.md",
-    "Plan/hh.md",
-    "Plan/gh.md",
-    "Plan/test.md",
+    "Untitled.md",
+    "323.md",
     "1970-01-01.md",
-    "Plan/fg.md",
     "Dashboard.md",
     "shortNotesList.md",
+    "Plan/fg.md",
+    "Plan/gh.md",
+    "Plan/hh.md",
+    "Plan/test.md",
+    "Plan/sc.md",
     "Plan",
     "planner/PlannerDB.md",
     "planner/TEST ID - 11 [DSA-3].md",
@@ -220,8 +224,6 @@
     "notes/NoteDB.md",
     "notes/CN Quick Notes.md",
     "notes/1. ISO Stack, LAN Technologies (Ethernet, Token Ring).md",
-    "notes/Computer Network  3- Data Link Layer.md",
-    "notes/3Operating System - Process Synchronization.md",
     "media/Pasted image 20230812155126.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
