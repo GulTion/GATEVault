@@ -57,28 +57,6 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
-  __created__:
-    key: __created__
-    id: __created__
-    input: metadata_time
-    label: Created
-    accessorKey: __created__
-    isMetadata: true
-    isDragDisabled: false
-    skipPersist: false
-    csvCandidate: true
-    position: 2
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   Repetation:
     input: number
     accessorKey: Repetation
@@ -140,6 +118,28 @@ columns:
       persist_changes: false
       formula_query: "${row.Last_Time.plus({days: row.Repetation}).toFormat(\"y-LL-d TT\")}"
       wrap_content: true
+  __tags__:
+    key: __tags__
+    id: __tags__
+    input: metadata_tags
+    label: File Tags
+    accessorKey: __tags__
+    isMetadata: true
+    isDragDisabled: false
+    skipPersist: false
+    csvCandidate: false
+    position: 0
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -148,16 +148,16 @@ config:
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
-  show_metadata_created: true
+  show_metadata_created: false
   show_metadata_modified: false
   show_metadata_tasks: false
   show_metadata_inlinks: false
   show_metadata_outlinks: false
-  show_metadata_tags: false
+  show_metadata_tags: true
   source_data: current_folder
   source_form_result: 
   source_destination_path: /
-  row_templates_folder: /templates
+  row_templates_folder: /
   current_row_template: 
   pagination_size: 10
   font_size: 16

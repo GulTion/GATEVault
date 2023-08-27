@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3dd390d56ba233de",
+        "id": "584ffa00624e1046",
         "type": "tabs",
         "children": [
           {
-            "id": "dac930d96a88382e",
+            "id": "2d190faa61ff3b45",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,12 +180,15 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "dac930d96a88382e",
+  "active": "f05219de2c216c2d",
   "lastOpenFiles": [
-    "Plan/fg.md",
-    "Plan/PLANDB.md",
     "Plan/sc.md",
+    "Plan/PLANDB.md",
+    "Plan/hh.md",
+    "Plan/gh.md",
     "Plan/test.md",
+    "1970-01-01.md",
+    "Plan/fg.md",
     "Dashboard.md",
     "shortNotesList.md",
     "Plan",
@@ -221,9 +225,6 @@
     "media/Pasted image 20230812155126.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "ContinueSubjects.md",
-    "Plan/test 1.md",
-    "Plan/xc.md",
     "media/Sch.png",
     "Excalidraw/media/Pasted Image 20230822160147_598.png",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
