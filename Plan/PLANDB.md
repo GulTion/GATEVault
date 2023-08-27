@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
     config:
@@ -36,7 +36,7 @@ columns:
     key: type
     id: type
     label: type
-    position: 100
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -67,7 +67,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 0
+    position: 2
     isHidden: false
     sortIndex: -1
     config:
@@ -79,6 +79,65 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  Repetation:
+    input: number
+    accessorKey: Repetation
+    key: Repetation
+    id: Repetation
+    label: Repetation
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 91
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Last_Time:
+    input: calendar_time
+    accessorKey: Last_Time
+    key: Last_Time
+    id: Last_Time
+    label: Last_Time
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Next_Time:
+    input: formula
+    accessorKey: Next_Time
+    key: Next_Time
+    id: Next_Time
+    label: Next_Time
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      formula_query: "${row.Last_Time.plus({days: row.Repetation}).toFormat(\"y-LL-d TT\")}"
 config:
   remove_field_when_delete_column: false
   cell_size: normal
