@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a536e23c84c12c30",
+        "id": "d5b3c0c6a04dd555",
         "type": "tabs",
         "children": [
           {
-            "id": "355e9bb5cede1d45",
+            "id": "0b25b4b824787295",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "media/Sch.png"
+                "file": "shortNotesList.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/Sch.png",
+                "file": "shortNotesList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/Sch.png",
+                "file": "shortNotesList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "media/Sch.png"
+                "file": "shortNotesList.md"
               }
             }
           },
@@ -164,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +181,7 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "ca7bc4254449ab06",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
     "Dashboard.md",
     "media/Pasted image 20230812155126.png",
