@@ -36,7 +36,7 @@ columns:
     key: type
     id: type
     label: type
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -124,10 +124,11 @@ columns:
     key: Next_Time
     id: Next_Time
     label: Next_Time
-    position: 100
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: -2
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -138,6 +139,7 @@ columns:
       footer_type: none
       persist_changes: false
       formula_query: "${row.Last_Time.plus({days: row.Repetation}).toFormat(\"y-LL-d TT\")}"
+      wrap_content: true
 config:
   remove_field_when_delete_column: false
   cell_size: normal
