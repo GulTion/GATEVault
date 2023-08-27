@@ -11,11 +11,9 @@
             "id": "0b25b4b824787295",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "shortNotesList.md",
-                "mode": "source",
-                "source": false
+                "file": "Plan/Untitled database.md"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DM/Combintories/PigenHolePrinceple",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shortNotesList.md",
+                "file": "Plan/Untitled database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shortNotesList.md",
+                "file": "Plan/Untitled database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shortNotesList.md"
+                "file": "Plan/Untitled database.md"
               }
             }
           },
@@ -162,12 +161,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,9 +179,13 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "5b301f141e47d7da",
+  "active": "87bb992dca14fffa",
   "lastOpenFiles": [
+    "shortNotesList.md",
+    "Plan/Untitled database.md",
+    "Plan/test 1.md",
     "Dashboard.md",
+    "Plan",
     "media/Pasted image 20230812155126.png",
     "planner/OS - Process Syncronization.md",
     "planner/PlannerDB.md",
@@ -195,7 +197,6 @@
     "planner/Untitled Diagram 1.svg",
     "questions/QuestionDB.md",
     "ContinueSubjects.md",
-    "shortNotesList.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Pasted image 20230824121545.md",
@@ -223,11 +224,9 @@
     "planner/media/3Operating System - Process Synchronization.pdf",
     "planner/media",
     "Link.md",
-    "DLD.md",
     "Excalidraw",
     "notes/media/Computer Network  3- Data Link Layer.pdf",
     "notes/media/1. ISO Stack, LAN Technologies (Ethernet, Token Ring).pdf",
-    "notes/media/CN_Processed.pdf",
     "0c261d6419b54db1b76a9d69d03c7641.png",
     "13f7679e45724e3fa0472dc092bd542f.png"
   ]
