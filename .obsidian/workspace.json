@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasted image 20230824121545.md",
+                "file": "notes/GATE 2023 PYQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230824121545.md",
+                "file": "notes/GATE 2023 PYQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230824121545.md",
+                "file": "notes/GATE 2023 PYQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230824121545.md"
+                "file": "notes/GATE 2023 PYQ.md"
               }
             }
           },
@@ -188,14 +188,13 @@
       "templater-obsidian:Templater": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "e6607d12c642aaed",
   "lastOpenFiles": [
-    "notes/GATE 2023 PYQ.md",
     "Pasted image 20230824121545.md",
+    "notes/GATE 2023 PYQ.md",
     "Pasted image 20230824121345 2.md",
     "Pasted image 20230824121345 1.md",
     "Pasted image 20230824121345.md",
