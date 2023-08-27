@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6fd84d75958fe579",
+        "id": "a536e23c84c12c30",
         "type": "tabs",
         "children": [
           {
-            "id": "e6607d12c642aaed",
+            "id": "355e9bb5cede1d45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "notes/GATE 2023 PYQ.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -101,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GATE 2023 PYQ.md",
+                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GATE 2023 PYQ.md",
+                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,20 +139,12 @@
             }
           },
           {
-            "id": "e00427308a4a66ad",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "d82fbf37ee2686ec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GATE 2023 PYQ.md"
+                "file": "Untitled 1.canvas"
               }
             }
           },
@@ -185,19 +180,21 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "dbfolder:Create a new database table": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "e6607d12c642aaed",
+  "active": "355e9bb5cede1d45",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "Pasted image 20230824121545.md",
-    "notes/GATE 2023 PYQ.md",
-    "Pasted image 20230824121345 2.md",
     "Pasted image 20230824121345 1.md",
+    "Pasted image 20230824121345 2.md",
     "Pasted image 20230824121345.md",
+    "media/Pasted image 20230812155126.png",
+    "media/Sch.png",
+    "media",
+    "notes/GATE 2023 PYQ.md",
     "notes/media/Pasted image 20230824121545.png",
     "notes/media/Pasted image 20230824121345.png",
     "notes/NoteDB.md",
@@ -207,7 +204,6 @@
     "planner/Untitled Diagram.svg",
     "planner/Untitled Diagram 1.svg",
     "planner/Test ID - 77 Mock - 1 - 2022.md",
-    "Untitled.canvas",
     "Excalidraw/media/Pasted Image 20230822160147_598.png",
     "Excalidraw/media",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
@@ -230,14 +226,10 @@
     "Link.md",
     "Dashboard.md",
     "DLD.md",
-    "Framing.md",
     "Excalidraw",
     "notes/media/Computer Network  3- Data Link Layer.pdf",
     "notes/media/1. ISO Stack, LAN Technologies (Ethernet, Token Ring).pdf",
     "notes/media/CN_Processed.pdf",
-    "media/Pasted image 20230812155126.png",
-    "notes/media/CD_Processed.pdf",
-    "media/Sch.png",
     "0c261d6419b54db1b76a9d69d03c7641.png",
     "13f7679e45724e3fa0472dc092bd542f.png"
   ]
