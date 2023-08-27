@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "Plan/Untitled database.md"
+                "file": "Plan/PLANDB.md"
               }
             }
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DM/Combintories/PigenHolePrinceple",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/Untitled database.md",
+                "file": "Plan/PLANDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/Untitled database.md",
+                "file": "Plan/PLANDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/Untitled database.md"
+                "file": "Plan/PLANDB.md"
               }
             }
           },
@@ -161,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,11 +178,14 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "87bb992dca14fffa",
+  "active": "ca7bc4254449ab06",
   "lastOpenFiles": [
-    "shortNotesList.md",
-    "Plan/Untitled database.md",
     "Plan/test 1.md",
+    "Plan/PLANDB.md",
+    "Plan/xc.md",
+    "1970-01-01.md",
+    "2023-08-27.md",
+    "shortNotesList.md",
     "Dashboard.md",
     "Plan",
     "media/Pasted image 20230812155126.png",
@@ -219,11 +221,8 @@
     "Excalidraw/Drawing 2023-08-22 16.13.45.excalidraw.md",
     "Excalidraw/Drawing 2023-08-22 16.11.39.excalidraw.md",
     "notes/cd short notes from mady easy short notes.md",
-    "notes/Computer Network  3- Data Link Layer.md",
-    "notes/3Operating System - Process Synchronization.md",
     "planner/media/3Operating System - Process Synchronization.pdf",
     "planner/media",
-    "Link.md",
     "Excalidraw",
     "notes/media/Computer Network  3- Data Link Layer.pdf",
     "notes/media/1. ISO Stack, LAN Technologies (Ethernet, Token Ring).pdf",

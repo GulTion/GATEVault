@@ -30,19 +30,46 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  topic:
-    input: tags
-    accessorKey: topic
-    key: topic
-    id: topic
-    label: topic
+  type:
+    input: select
+    accessorKey: type
+    key: type
+    id: type
+    label: type
     position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 147
     options:
-      - { label: "#DM/Combintories/PigenHolePrinceple", value: "#DM/Combintories/PigenHolePrinceple", color: "hsl(114, 95%, 90%)"}
-      - { label: "DM/Rrin", value: "DM/Rrin", color: "hsl(100, 95%, 90%)"}
+      - { label: "zealWorkBook", value: "zealWorkBook", color: "hsl(3, 95%, 90%)"}
+      - { label: "zealTS", value: "zealTS", color: "hsl(48, 95%, 90%)"}
+      - { label: "MadeEasyTS", value: "MadeEasyTS", color: "hsl(353, 95%, 90%)"}
+      - { label: "GOTS", value: "GOTS", color: "hsl(53, 95%, 90%)"}
+      - { label: "PYQ", value: "PYQ", color: "hsl(265, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
+  __created__:
+    key: __created__
+    id: __created__
+    input: metadata_time
+    label: Created
+    accessorKey: __created__
+    isMetadata: true
+    isDragDisabled: false
+    skipPersist: false
+    csvCandidate: true
+    position: 0
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -60,7 +87,7 @@ config:
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
-  show_metadata_created: false
+  show_metadata_created: true
   show_metadata_modified: false
   show_metadata_tasks: false
   show_metadata_inlinks: false
