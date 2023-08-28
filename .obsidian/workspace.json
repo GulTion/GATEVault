@@ -11,11 +11,9 @@
             "id": "1e42b25fa92c7bd3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "shortNotesList.md",
-                "mode": "source",
-                "source": false
+                "file": "Plan/PLANDB.md"
               }
             }
           }
@@ -49,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#DB",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shortNotesList.md",
+                "file": "Plan/PLANDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shortNotesList.md",
+                "file": "Plan/PLANDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shortNotesList.md"
+                "file": "Plan/PLANDB.md"
               }
             }
           },
@@ -184,13 +183,14 @@
   },
   "active": "1e42b25fa92c7bd3",
   "lastOpenFiles": [
-    "Plan/Number of Keys and Super keys in FDs.md",
+    "Plan/2NF, 3NF and BNCF.md",
     "Plan/PLANDB.md",
+    "Plan/Number of Keys and Super keys in FDs.md",
+    "shortNotesList.md",
     "Dashboard.md",
     "323.md",
     "1970-01-01.md",
     "Untitled.md",
-    "shortNotesList.md",
     "Plan/fg.md",
     "Plan/gh.md",
     "Plan/hh.md",
@@ -223,7 +223,6 @@
     "notes/GATE 2023 PYQ.md",
     "notes/cd short notes from mady easy short notes.md",
     "notes/NoteDB.md",
-    "notes/CN Quick Notes.md",
     "media/Pasted image 20230812155126.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
