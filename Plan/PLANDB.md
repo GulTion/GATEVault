@@ -105,8 +105,10 @@ columns:
     position: 5
     skipPersist: false
     isHidden: false
-    sortIndex: -1
+    sortIndex: 1
     width: -2
+    isSorted: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -129,8 +131,9 @@ columns:
     skipPersist: false
     csvCandidate: false
     position: 0
-    isHidden: false
+    isHidden: true
     sortIndex: -1
+    width: -18
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -148,7 +151,7 @@ columns:
     label: path
     position: 100
     skipPersist: false
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     config:
       enable_media_view: true
