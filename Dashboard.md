@@ -7,5 +7,6 @@
 [[shortNotesList]]
 
 # Work
+[Recursive Language PYQ](https://practicepaper.in/gate-cse/recursive-language?page_no=1)
 
 # PLAN RULES

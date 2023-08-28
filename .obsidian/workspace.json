@@ -11,9 +11,11 @@
             "id": "1e42b25fa92c7bd3",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Plan/PLANDB.md"
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -47,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#DB",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/PLANDB.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/PLANDB.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/PLANDB.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -183,8 +184,8 @@
   },
   "active": "1e42b25fa92c7bd3",
   "lastOpenFiles": [
-    "Plan/2NF, 3NF and BNCF.md",
     "Plan/PLANDB.md",
+    "Plan/2NF, 3NF and BNCF.md",
     "Plan/Number of Keys and Super keys in FDs.md",
     "shortNotesList.md",
     "Dashboard.md",
