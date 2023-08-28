@@ -11,9 +11,11 @@
             "id": "1e42b25fa92c7bd3",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Plan/PLANDB.md"
+                "file": "Plan/Number of Keys and Super keys in FDs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/PLANDB.md",
+                "file": "Plan/Number of Keys and Super keys in FDs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/PLANDB.md",
+                "file": "Plan/Number of Keys and Super keys in FDs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/PLANDB.md"
+                "file": "Plan/Number of Keys and Super keys in FDs.md"
               }
             }
           },
@@ -182,10 +184,11 @@
   },
   "active": "1e42b25fa92c7bd3",
   "lastOpenFiles": [
+    "Plan/PLANDB.md",
+    "Plan/Number of Keys and Super keys in FDs.md",
     "Dashboard.md",
     "323.md",
     "1970-01-01.md",
-    "Plan/PLANDB.md",
     "Untitled.md",
     "shortNotesList.md",
     "Plan/fg.md",
@@ -221,7 +224,6 @@
     "notes/cd short notes from mady easy short notes.md",
     "notes/NoteDB.md",
     "notes/CN Quick Notes.md",
-    "notes/1. ISO Stack, LAN Technologies (Ethernet, Token Ring).md",
     "media/Pasted image 20230812155126.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
