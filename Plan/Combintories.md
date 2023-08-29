@@ -7,3 +7,8 @@ atQ/P: Q11
 [LINK](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/results.html?exam_id=342)
 #DM/Combintories
 
+![[Pasted image 20230829180659.png]]
+
+![[Pasted image 20230829180728.png]]
+
+![[Pasted image 20230829180815.png]]

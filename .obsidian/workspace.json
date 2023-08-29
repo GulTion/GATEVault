@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan/Generating Function.md",
+                "file": "Plan/Combintories.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/Generating Function.md",
+                "file": "Plan/Combintories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/Generating Function.md",
+                "file": "Plan/Combintories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/Generating Function.md"
+                "file": "Plan/Combintories.md"
               }
             }
           },
@@ -184,8 +184,13 @@
   },
   "active": "1e42b25fa92c7bd3",
   "lastOpenFiles": [
-    "Plan/PLANDB.md",
+    "Plan/media/Pasted image 20230829180815.png",
+    "Plan/media/Pasted image 20230829180728.png",
+    "Plan/media/Pasted image 20230829180716.png",
+    "Plan/media/Pasted image 20230829180659.png",
+    "Plan/media",
     "Plan/Generating Function.md",
+    "Plan/PLANDB.md",
     "Plan/Combintories.md",
     "Plan/pigeon hole.md",
     "Plan/Cache Average time.md",
@@ -211,7 +216,6 @@
     "templates/Planner Template.md",
     "templates/Note Template.md",
     "templates",
-    "questions/QuestionDB.md",
     "questions",
     "planner/media/3Operating System - Process Synchronization.pdf",
     "planner/media",
@@ -223,14 +227,10 @@
     "notes/media/Computer Network  3- Data Link Layer.pdf",
     "notes/media/CN_Processed.pdf",
     "notes/media/CD_Processed.pdf",
-    "notes/media/1. ISO Stack, LAN Technologies (Ethernet, Token Ring).pdf",
     "media/Pasted image 20230812155126.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "media/Sch.png",
-    "Excalidraw/media/Pasted Image 20230822160147_598.png",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
-    "0c261d6419b54db1b76a9d69d03c7641.png",
-    "13f7679e45724e3fa0472dc092bd542f.png"
+    "Excalidraw/media/Pasted Image 20230822160147_598.png"
   ]
 }
