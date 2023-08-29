@@ -11,9 +11,11 @@
             "id": "1e42b25fa92c7bd3",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Plan/PLANDB.md"
+                "file": "Plan/Generating Function.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/PLANDB.md",
+                "file": "Plan/Generating Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/PLANDB.md",
+                "file": "Plan/Generating Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/PLANDB.md"
+                "file": "Plan/Generating Function.md"
               }
             }
           },
@@ -182,8 +184,9 @@
   },
   "active": "1e42b25fa92c7bd3",
   "lastOpenFiles": [
-    "Plan/Combintories.md",
     "Plan/PLANDB.md",
+    "Plan/Generating Function.md",
+    "Plan/Combintories.md",
     "Plan/pigeon hole.md",
     "Plan/Cache Average time.md",
     "Plan/Group Theory.md",
@@ -214,7 +217,6 @@
     "planner/media",
     "planner/Untitled Diagram.svg",
     "planner/Untitled Diagram 1.svg",
-    "planner/Test ID - 77 Mock - 1 - 2022.md",
     "planner",
     "notes/media/Pasted image 20230824121545.png",
     "notes/media/Pasted image 20230824121345.png",
