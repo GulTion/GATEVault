@@ -11,11 +11,9 @@
             "id": "1e42b25fa92c7bd3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Plan/Combintories.md",
-                "mode": "source",
-                "source": false
+                "file": "Plan/PLANDB.md"
               }
             }
           }
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/Combintories.md",
+                "file": "Plan/PLANDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/Combintories.md",
+                "file": "Plan/PLANDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/Combintories.md"
+                "file": "Plan/PLANDB.md"
               }
             }
           },
@@ -184,19 +182,19 @@
   },
   "active": "1e42b25fa92c7bd3",
   "lastOpenFiles": [
+    "Plan/Language Closure.md",
+    "Plan/PLANDB.md",
+    "Plan/Combintories.md",
     "Plan/media/Pasted image 20230829180815.png",
     "Plan/media/Pasted image 20230829180728.png",
     "Plan/media/Pasted image 20230829180716.png",
     "Plan/media/Pasted image 20230829180659.png",
     "Plan/media",
     "Plan/Generating Function.md",
-    "Plan/PLANDB.md",
-    "Plan/Combintories.md",
     "Plan/pigeon hole.md",
     "Plan/Cache Average time.md",
     "Plan/Group Theory.md",
     "Plan/Relational Algebra.md",
-    "Plan/Language Closure.md",
     "Dashboard.md",
     "Plan/2NF, 3NF and BNCF.md",
     "Plan/Number of Keys and Super keys in FDs.md",
@@ -230,7 +228,6 @@
     "media/Pasted image 20230812155126.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "media/Sch.png",
-    "Excalidraw/media/Pasted Image 20230822160147_598.png"
+    "media/Sch.png"
   ]
 }
