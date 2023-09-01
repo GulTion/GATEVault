@@ -11,3 +11,7 @@ atQ/P: Q0
 ![[Pasted image 20230901125141.png]]
 ## Defination for Finite Lanuage
 ![[Pasted image 20230901125408.png]]
+## clouser properties of finite language
+![[Pasted image 20230901125835.png]]
+![[Pasted image 20230901125923.png]]
+![[Pasted image 20230901125944.png]]
