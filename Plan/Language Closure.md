@@ -6,3 +6,8 @@ atQ/P: Q0
 ---
 #TOC/LanguageClosure
 [GO TS](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/results.html?exam_id=347)
+
+# Finite Lanauage and Theorem for Clsoure Properties
+![[Pasted image 20230901125141.png]]
+## Defination for Finite Lanuage
+![[Pasted image 20230901125408.png]]
