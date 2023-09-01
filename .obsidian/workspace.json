@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan/Language Closure.md",
+                "file": "Plan/Number of Keys and Super keys in FDs.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/Language Closure.md",
+                "file": "Plan/Number of Keys and Super keys in FDs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/Language Closure.md",
+                "file": "Plan/Number of Keys and Super keys in FDs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/Language Closure.md"
+                "file": "Plan/Number of Keys and Super keys in FDs.md"
               }
             }
           },
@@ -184,15 +184,15 @@
   },
   "active": "1e42b25fa92c7bd3",
   "lastOpenFiles": [
+    "Plan/PLANDB.md",
+    "Plan/Language Closure.md",
     "Plan/media/Pasted image 20230901125944.png",
     "Plan/media/Pasted image 20230901125923.png",
     "Plan/media/Pasted image 20230901125835.png",
     "Plan/media/Pasted image 20230901125408.png",
     "Plan/media/Pasted image 20230901125141.png",
-    "Plan/PLANDB.md",
     "Plan/Relational Algebra.md",
     "Plan/Group Theory.md",
-    "Plan/Language Closure.md",
     "Plan/Combintories.md",
     "Plan/media/Pasted image 20230829180815.png",
     "Plan/media/Pasted image 20230829180728.png",
@@ -225,7 +225,6 @@
     "planner/media/3Operating System - Process Synchronization.pdf",
     "planner/media",
     "planner/Untitled Diagram.svg",
-    "planner/Untitled Diagram 1.svg",
     "planner",
     "notes/media/Computer Network  3- Data Link Layer.pdf",
     "notes/media/CN_Processed.pdf",
