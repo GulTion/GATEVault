@@ -11,8 +11,10 @@
             "id": "bc23f67763e1ca9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "database-plugin",
+              "state": {
+                "file": "Plan/PLANDB.md"
+              }
             }
           }
         ],
@@ -98,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plan/PLANDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Plan/PLANDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Plan/PLANDB.md"
+              }
             }
           },
           {
@@ -176,6 +182,8 @@
   },
   "active": "bc23f67763e1ca9d",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "Untitled.md",
     "Plan/Combintories.md",
     "Plan/media/Pasted image 20230901174743.png",
     "Plan/media/Pasted image 20230901174731.png",
@@ -197,11 +205,9 @@
     "Plan/Generating Function.md",
     "Plan/pigeon hole.md",
     "Plan/Cache Average time.md",
-    "Dashboard.md",
     "shortNotesList.md",
     "323.md",
     "1970-01-01.md",
-    "Untitled.md",
     "Plan/fg.md",
     "Plan/gh.md",
     "Plan/hh.md",
