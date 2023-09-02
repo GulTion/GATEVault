@@ -13,7 +13,8 @@ atQ/P: Q11
 
 ![[Pasted image 20230829180815.png]]
 # Distinct to Distinct
-
-![[Pasted image 20230901173821.png]] 
-![[Pasted image 20230901174731.png]]
-![[Pasted image 20230901174743.png]]
+1.  ![[Pasted image 20230901173821.png]]
+2. ![[Pasted image 20230901173821.png]]
+3. ![[Pasted image 20230901174731.png]]![[Pasted image 20230901174743.png]]
+5. ![[Pasted image 20230902080828.png]]![[Pasted image 20230902080846.png]]
+6. 

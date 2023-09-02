@@ -11,9 +11,11 @@
             "id": "bc23f67763e1ca9d",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Plan/PLANDB.md"
+                "file": "Plan/Combintories.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/PLANDB.md",
+                "file": "Plan/Combintories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/PLANDB.md",
+                "file": "Plan/Combintories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/PLANDB.md"
+                "file": "Plan/Combintories.md"
               }
             }
           },
@@ -182,13 +184,15 @@
   },
   "active": "bc23f67763e1ca9d",
   "lastOpenFiles": [
+    "Plan/media/Pasted image 20230902080846.png",
+    "Plan/media/Pasted image 20230902080828.png",
+    "Plan/PLANDB.md",
     "Dashboard.md",
     "Untitled.md",
     "Plan/Combintories.md",
     "Plan/media/Pasted image 20230901174743.png",
     "Plan/media/Pasted image 20230901174731.png",
     "Plan/media/Pasted image 20230901173821.png",
-    "Plan/PLANDB.md",
     "Plan/2NF, 3NF and BNCF.md",
     "Plan/Number of Keys and Super keys in FDs.md",
     "Plan/Language Closure.md",
@@ -200,7 +204,6 @@
     "Plan/Relational Algebra.md",
     "Plan/Group Theory.md",
     "Plan/media/Pasted image 20230829180815.png",
-    "Plan/media/Pasted image 20230829180728.png",
     "Plan/media",
     "Plan/Generating Function.md",
     "Plan/pigeon hole.md",
