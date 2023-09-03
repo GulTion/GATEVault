@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan/Language Closure.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/Language Closure.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/Language Closure.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/Language Closure.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "bc23f67763e1ca9d",
   "lastOpenFiles": [
+    "Plan/Language Closure.md",
     "Plan/PLANDB.md",
     "Plan/Adjancey matirx protieres.md",
     "Plan/pigeon hole.md",
@@ -198,7 +199,6 @@
     "Plan/media/Pasted image 20230901173821.png",
     "Plan/2NF, 3NF and BNCF.md",
     "Plan/Number of Keys and Super keys in FDs.md",
-    "Plan/Language Closure.md",
     "Plan/media/Pasted image 20230901125944.png",
     "Plan/media/Pasted image 20230901125923.png",
     "Plan/media/Pasted image 20230901125835.png",
