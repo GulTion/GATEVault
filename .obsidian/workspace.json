@@ -11,11 +11,9 @@
             "id": "bc23f67763e1ca9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Plan/Working of all sorting algo.md",
-                "mode": "source",
-                "source": false
+                "file": "MESHORT Notes Revision/Untitled database.md"
               }
             }
           }
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/Working of all sorting algo.md",
+                "file": "MESHORT Notes Revision/Untitled database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/Working of all sorting algo.md",
+                "file": "MESHORT Notes Revision/Untitled database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/Working of all sorting algo.md"
+                "file": "MESHORT Notes Revision/Untitled database.md"
               }
             }
           },
@@ -184,7 +182,11 @@
   },
   "active": "bc23f67763e1ca9d",
   "lastOpenFiles": [
+    "MESHORT Notes Revision/C.md",
     "Plan/PLANDB.md",
+    "MESHORT Notes Revision/Untitled database.md",
+    "MESHORT Notes Revision",
+    "shortNotesList.md",
     "Plan/Working of all sorting algo.md",
     "Dashboard.md",
     "Plan/Language Closure.md",
@@ -209,7 +211,6 @@
     "Plan/Group Theory.md",
     "Plan/media",
     "Plan/Cache Average time.md",
-    "shortNotesList.md",
     "323.md",
     "1970-01-01.md",
     "Plan/fg.md",
@@ -220,8 +221,6 @@
     "Plan",
     "planner/PlannerDB.md",
     "planner/TEST ID - 11 [DSA-3].md",
-    "templates/Question Template.md",
-    "templates/Planner Template.md",
     "templates",
     "questions",
     "planner/media/3Operating System - Process Synchronization.pdf",
@@ -229,7 +228,6 @@
     "planner",
     "notes/media/Computer Network  3- Data Link Layer.pdf",
     "notes/media/CN_Processed.pdf",
-    "notes/media/CD_Processed.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
