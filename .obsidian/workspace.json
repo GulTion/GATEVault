@@ -11,9 +11,11 @@
             "id": "bc23f67763e1ca9d",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Plan/PLANDB.md"
+                "file": "Plan/Language Closure.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/PLANDB.md",
+                "file": "Plan/Language Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/PLANDB.md",
+                "file": "Plan/Language Closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/PLANDB.md"
+                "file": "Plan/Language Closure.md"
               }
             }
           },
@@ -182,8 +184,8 @@
   },
   "active": "bc23f67763e1ca9d",
   "lastOpenFiles": [
-    "Plan/Adjancey matirx protieres.md",
     "Plan/PLANDB.md",
+    "Plan/Adjancey matirx protieres.md",
     "Plan/pigeon hole.md",
     "Plan/Generating Function.md",
     "Plan/Combintories.md",
