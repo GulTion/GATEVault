@@ -87,7 +87,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      formula_query: ${row.endQ-row.startQ+1}
+      formula_query: ${parseInt(row.endQ-row.startQ+1)}
   atQ:
     input: number
     accessorKey: atQ
@@ -184,6 +184,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      formula_query: ${Math.round((row.atQ - row.startQ)*100/row.totalQ, )}
 config:
   remove_field_when_delete_column: false
   cell_size: normal
