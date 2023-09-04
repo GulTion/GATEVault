@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
     config:
@@ -36,10 +36,11 @@ columns:
     key: startQ
     id: startQ
     label: startQ
-    position: 100
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 70
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -55,10 +56,11 @@ columns:
     key: endQ
     id: endQ
     label: endQ
-    position: 100
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 52
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -74,7 +76,7 @@ columns:
     key: totalQ
     id: totalQ
     label: totalQ
-    position: 100
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -94,10 +96,11 @@ columns:
     key: atQ
     id: atQ
     label: atQ
-    position: 100
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 18
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -113,7 +116,7 @@ columns:
     key: subject
     id: subject
     label: subject
-    position: 100
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -134,7 +137,7 @@ columns:
     key: last_time
     id: last_time
     label: last_time
-    position: 100
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -153,7 +156,7 @@ columns:
     key: repeation
     id: repeation
     label: repeation
-    position: 100
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -172,7 +175,7 @@ columns:
     key: complete_till
     id: complete_till
     label: complete_till
-    position: 100
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -185,14 +188,14 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      formula_query: ${Math.round(100-(row.endQ - row.atQ)*100/row.totalQ)}
+      formula_query: "${Math.round(100-(row.endQ - row.atQ)*100/row.totalQ)+\"%\"}"
   next_time:
     input: formula
     accessorKey: next_time
     key: next_time
     id: next_time
     label: next_time
-    position: 100
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
