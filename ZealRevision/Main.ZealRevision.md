@@ -1,11 +1,10 @@
 ---
-{
-"type":"Sdf"
-}
+type: Sdf
+tags: []
+Repetation:
 ---
 
 # Basic
-[32:23]
-
-
+| name |
+ 
 # Advanced
