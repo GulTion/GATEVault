@@ -180,10 +180,12 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "5b301f141e47d7da",
+  "active": "bc23f67763e1ca9d",
   "lastOpenFiles": [
     "Plan/PLANDB.md",
     "ZealRevision/ZealDB.md",
+    "ZealRevision/12 epi-NFA closure.md",
+    "ZealRevision/12.md",
     "TSRevision",
     "PYQRevision",
     "ZealRevision/Main.ZealRevision.md",
@@ -221,8 +223,6 @@
     "1970-01-01.md",
     "Plan/fg.md",
     "Plan/gh.md",
-    "Plan/hh.md",
-    "Plan/test.md",
     "Plan",
     "templates",
     "questions",

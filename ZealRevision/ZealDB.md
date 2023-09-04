@@ -69,7 +69,7 @@ columns:
       footer_type: none
       persist_changes: false
   totalQ:
-    input: number
+    input: formula
     accessorKey: totalQ
     key: totalQ
     id: totalQ
@@ -87,12 +87,90 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      formula_query: ${row.endQ-row.startQ+1}
   atQ:
     input: number
     accessorKey: atQ
     key: atQ
     id: atQ
     label: atQ
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  subject:
+    input: select
+    accessorKey: subject
+    key: subject
+    id: subject
+    label: subject
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  last_time:
+    input: calendar
+    accessorKey: last_time
+    key: last_time
+    id: last_time
+    label: last_time
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  repeation:
+    input: number
+    accessorKey: repeation
+    key: repeation
+    id: repeation
+    label: repeation
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  complete_till:
+    input: formula
+    accessorKey: complete_till
+    key: complete_till
+    id: complete_till
+    label: complete_till
     position: 100
     skipPersist: false
     isHidden: false
