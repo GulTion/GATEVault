@@ -11,11 +11,9 @@
             "id": "bc23f67763e1ca9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "ZealRevision/Main.ZealRevision.md",
-                "mode": "source",
-                "source": false
+                "file": "Plan/PLANDB.md"
               }
             }
           }
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZealRevision/Main.ZealRevision.md",
+                "file": "Plan/PLANDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZealRevision/Main.ZealRevision.md",
+                "file": "Plan/PLANDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZealRevision/Main.ZealRevision.md"
+                "file": "Plan/PLANDB.md"
               }
             }
           },
@@ -184,8 +182,8 @@
   },
   "active": "bc23f67763e1ca9d",
   "lastOpenFiles": [
-    "Plan/2NF, 3NF and BNCF.md",
     "ZealRevision/Main.ZealRevision.md",
+    "Plan/2NF, 3NF and BNCF.md",
     "Dashboard.md",
     "MESHORT Notes Revision/Untitled database.md",
     "ZealRevision",
