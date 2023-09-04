@@ -11,9 +11,11 @@
             "id": "bc23f67763e1ca9d",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "ZealRevision/ZealDB.md"
+                "file": "ZealRevision/12 epi-NFA closure.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZealRevision/ZealDB.md",
+                "file": "ZealRevision/12 epi-NFA closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZealRevision/ZealDB.md",
+                "file": "ZealRevision/12 epi-NFA closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZealRevision/ZealDB.md"
+                "file": "ZealRevision/12 epi-NFA closure.md"
               }
             }
           },
@@ -182,9 +184,9 @@
   },
   "active": "bc23f67763e1ca9d",
   "lastOpenFiles": [
-    "Plan/PLANDB.md",
     "ZealRevision/ZealDB.md",
     "ZealRevision/12 epi-NFA closure.md",
+    "Plan/PLANDB.md",
     "ZealRevision/12.md",
     "TSRevision",
     "PYQRevision",

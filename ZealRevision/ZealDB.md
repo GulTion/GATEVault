@@ -118,6 +118,7 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "TOC", value: "TOC", color: "hsl(174, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -184,7 +185,27 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      formula_query: ${Math.round((row.atQ - row.startQ)*100/row.totalQ, )}
+      formula_query: ${Math.round(100-(row.endQ - row.atQ)*100/row.totalQ)}
+  next_time:
+    input: formula
+    accessorKey: next_time
+    key: next_time
+    id: next_time
+    label: next_time
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      formula_query: "${row.last_time.plus({days: row.repeation}).toFormat(\"y-LL-d\")}"
 config:
   remove_field_when_delete_column: false
   cell_size: normal
