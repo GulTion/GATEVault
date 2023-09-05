@@ -122,6 +122,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "TOC", value: "TOC", color: "hsl(174, 95%, 90%)"}
+      - { label: "CN", value: "CN", color: "hsl(141, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
