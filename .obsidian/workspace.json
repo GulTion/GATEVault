@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "ZealRevision/ZealDB.md"
+                "file": "Plan/PLANDB.md"
               }
             }
           }
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZealRevision/ZealDB.md",
+                "file": "Plan/PLANDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZealRevision/ZealDB.md",
+                "file": "Plan/PLANDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZealRevision/ZealDB.md"
+                "file": "Plan/PLANDB.md"
               }
             }
           },
@@ -183,23 +182,24 @@
   },
   "active": "bc23f67763e1ca9d",
   "lastOpenFiles": [
+    "Plan/CIDR Aggregation.md",
+    "Dashboard.md",
+    "shortNotesList.md",
+    "ZealRevision/ZealDB.md",
     "ZealRevision/14 FA to Language and Vice Versa.md",
     "ZealRevision/13.md",
     "ZealRevision/12 epi-NFA closure.md",
-    "ZealRevision/ZealDB.md",
     "Plan/PLANDB.md",
     "ZealRevision/12.md",
     "TSRevision",
     "PYQRevision",
     "ZealRevision/Main.ZealRevision.md",
     "Plan/2NF, 3NF and BNCF.md",
-    "Dashboard.md",
     "MESHORT Notes Revision/Untitled database.md",
     "ZealRevision",
     "MESHORT Notes Revision/Main.ShortNotes.md",
     "MESHORT Notes Revision/C.md",
     "MESHORT Notes Revision",
-    "shortNotesList.md",
     "Plan/Working of all sorting algo.md",
     "Plan/Language Closure.md",
     "Plan/Adjancey matirx protieres.md",
@@ -223,7 +223,6 @@
     "Plan/media",
     "Plan/Cache Average time.md",
     "323.md",
-    "1970-01-01.md",
     "Plan",
     "templates",
     "questions",
