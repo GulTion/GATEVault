@@ -11,9 +11,11 @@
             "id": "bc23f67763e1ca9d",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "ZealRevision/ZealDB.md"
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -100,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZealRevision/ZealDB.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZealRevision/ZealDB.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZealRevision/ZealDB.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -182,12 +185,12 @@
   },
   "active": "bc23f67763e1ca9d",
   "lastOpenFiles": [
+    "ZealRevision/ZealDB.md",
     "ZealRevision/5 Network Layer Solutions.md",
     "Plan/PLANDB.md",
     "Plan/CIDR Aggregation.md",
     "Dashboard.md",
     "shortNotesList.md",
-    "ZealRevision/ZealDB.md",
     "ZealRevision/14 FA to Language and Vice Versa.md",
     "ZealRevision/13.md",
     "ZealRevision/12 epi-NFA closure.md",
