@@ -20,6 +20,11 @@
 		- [ ] extraneous attribute, canonical cover, Lossy decomposition and dependency preserving
 		- [ ] Number of Keys or Super Keys
 		- [ ] sets of functional dependencies relation
+	- [ ] HASHING INDEXING Solution
+		- [ ] File System Multilevel Indexing
+		- [ ] B and B plus Tree
+		- [ ] Hashing
+	- [ ] ENTITY RELATIONSHIP MODEL Solution
 - [ ] COA
 - [ ] CN
 - [ ] DS
