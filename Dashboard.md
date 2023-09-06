@@ -25,8 +25,17 @@
 		- [ ] B and B plus Tree
 		- [ ] Hashing
 	- [ ] ENTITY RELATIONSHIP MODEL Solution
+	- [ ] Structured Query Language Solution
 - [ ] COA
 - [ ] CN
+	- [ ] Network Layer
+		- [ ] ARP
+		- [ ] ICMP
+		- [ ] IP Addressing , Subnet and SuperNetting
+		- [ ] IP Header and DataGram packet
+		- [ ] NAT
+		- [ ] Routing algorithms DVR
+	- [ ] 
 - [ ] DS
 
 
