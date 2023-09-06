@@ -26,7 +26,7 @@
 		- [ ] Hashing
 	- [ ] ENTITY RELATIONSHIP MODEL Solution
 	- [ ] Structured Query Language Solution
-- [ ] COA
+- [ ] TOC
 - [ ] CN
 	- [ ] Network Layer
 		- [ ] ARP
@@ -36,7 +36,22 @@
 		- [ ] NAT
 		- [ ] Routing algorithms DVR
 	- [ ] 
-- [ ] DS
+- [ ] DM & EM
+
+| **Expected Marks** | **Subject**                                      |
+| ------------------ | ------------------------------------------------ |
+| 10                 | Computer networking                              |
+| 19.5               | Discrete mathematics and Engineering mathematics |
+| 2.5                | Compiler design                                  |
+| 3.5                | C-programming                                    |
+| 5.5                | Data structures                                  |
+| 6.5                | Digital logic                                    |
+| 6.5                | Computer architecture                            |
+| 6.5                | Operating systems                                |
+| 7.5                | Algorithms                                       |
+| 7.5                | DBMS                                             |
+| 7.5                | Theory of computation                            |
+
 
 
 # Doc

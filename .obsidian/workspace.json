@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,7 +180,8 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "bc23f67763e1ca9d",
