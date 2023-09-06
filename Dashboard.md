@@ -5,7 +5,15 @@
 
 # TASK
 - [ ] DBMS
-	- [ ] 
+	- [ ] TRANSACTION Solution
+		- [ ] Acid Properties
+		- [ ] Conflict or View Serializable
+		- [ ] Lock Based Schedule 
+		- [ ] Recoverable and Cascade Schedule
+		- [ ] concurrency problem
+		- [ ] timestamp based scheduler
+		- [ ] MIXER of Conflict and view, lock based, recover or cascade , concurrency, timestamp based scheduler
+		- [ ] Modification Scheme
 - [ ] COA
 - [ ] CN
 - [ ] DS
