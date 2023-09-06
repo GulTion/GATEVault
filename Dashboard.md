@@ -27,6 +27,47 @@
 	- [ ] ENTITY RELATIONSHIP MODEL Solution
 	- [ ] Structured Query Language Solution
 - [ ] TOC
+	- [ ] 10. Number of States in DFA after combining the language.pdf
+	- [ ] 11. Combined Language to Grammer.pdf
+	- [ ] 12. epi-NFA closure.pdf
+	- [ ] 13. FA to RegEx.pdf
+	- [ ] 14. FA to Language and Vice Versa.pdf
+	- [ ] 15. Minimization of DFA.pdf
+	- [ ] 16. NFA to minimized DFA.pdf
+	- [ ] 17. DFA minimization.pdf
+	- [ ] 18. Check Regular from the Language based on Properties.pdf
+	- [ ] 19. Mix.pdf
+	- [ ] 1. Type Checking of Grammer.pdf
+	- [ ] 20. homomorphism.pdf
+	- [ ] 21. Pummping Lemma.pdf
+	- [ ] 22. Check the Context Free Language.pdf
+	- [ ] 22. Parse String from the CFG Grammer.pdf
+	- [ ] 23. Language Generation from CFG Grammer.pdf
+	- [ ] 24. Accept the String in PDA.pdf
+	- [ ] 25. PDA to Language.pdf
+	- [ ] 26. Closure properties of CFL, DCFL, (DPDA, NPDA.pdf
+	- [ ] 27. Grammar to PDA.pdf
+	- [ ] 28. PDA of grammar to string.pdf
+	- [ ] 29. PDA to Grammar.pdf
+	- [ ] 2. String Generate by Grammer.pdf
+	- [ ] 30. CNF and GNF.pdf
+	- [ ] 31. CYK Algorithm.pdf
+	- [ ] 32. Pumping lemma for CFL.pdf
+	- [ ] 33. Decidability of CFL & CFG.pdf
+	- [ ] 34. Check String in TM.pdf
+	- [ ] 35. Check Language in TM.pdf
+	- [ ] 36. UnDecidablilty and Uncountablilty.pdf
+	- [ ] 3. Language Generate by Grammer.pdf
+	- [ ] 4. String Generate by RegEx.pdf
+	- [ ] 5. equivalence of RegEx.pdf
+	- [ ] 6. Language generate by RegEx.pdf
+	- [ ] 7. regEx generation from Grammer.pdf
+	- [ ] 8. check String in NFA or DFA.pdf
+	- [ ] 9. Operation on RegEx to find Language.pdf
+	- [ ] abc.txt
+	- [ ] Notes on Closure Properties, List of Theorem, Decidability&Undecidability,.pdf
+	- [ ] TOC -1.pdf
+	- [ ] TOC -2.pdf
 - [ ] CN
 	- [ ] Network Layer
 		- [ ] ARP
