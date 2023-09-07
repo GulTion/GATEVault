@@ -71,7 +71,11 @@
 
 - [ ] DM & EM
 	- [ ] DM
-		- [ ] 
+		- [ ] 'Graph Theory Basic Solution final.pdf'
+		- [ ] 'Group Theory Basic Solution final.pdf'
+		- [ ] 'Logic Basic Solution Final.pdf'
+		- [ ] 'Relation function basic solution'
+		- [ ] 'set theory basic solution.pdf'
 	- [ ] EM
 - [ ] Apti
 - [ ] C prom + DS
