@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -196,9 +197,10 @@
   },
   "active": "f70aeb152b4ddb0d",
   "lastOpenFiles": [
-    "ZealRevision/Basic Vertex and Edge Calculation.md",
+    "ZealRevision/Planner and its Properties.md",
     "Dashboard.md",
     "ZealRevision/ZealDB.md",
+    "ZealRevision/Basic Vertex and Edge Calculation.md",
     "ZealRevision/5 Network Layer Solutions.md",
     "Plan/PLANDB.md",
     "Plan/CIDR Aggregation.md",
@@ -235,7 +237,6 @@
     "Plan/media/Pasted image 20230901125408.png",
     "Plan/media/Pasted image 20230901125141.png",
     "Plan/Relational Algebra.md",
-    "Plan/Group Theory.md",
     "Plan/media",
     "Plan",
     "templates",
