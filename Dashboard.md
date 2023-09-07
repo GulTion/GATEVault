@@ -75,7 +75,7 @@
 			- [x] Basic Vertex and Edge Calculation
 			- [x] Planner and its Properties
 			- [x] Chromatic Number
-			- [ ] Bipartite Graph and its Properties
+			- [x] Bipartite Graph and its Properties
 			- [ ] Bridge and Spanning Tree 
 			- [ ] Adjacency Matrix and its Properties
 			- [ ] Random about Numbers and Path 
