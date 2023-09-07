@@ -72,6 +72,13 @@
 - [ ] DM & EM
 	- [ ] DM
 		- [ ] 'Graph Theory Basic Solution final.pdf'
+			- [ ] Basic Vertex and Edge Calculation
+			- [ ] Planner and its Properties
+			- [ ] Chromatic Number
+			- [ ] Bipartite Graph and its Properties
+			- [ ] Bridge and Spanning Tree 
+			- [ ] Adjacency Matrix and its Properties
+			- [ ] Random about Numbers and Path 
 		- [ ] 'Group Theory Basic Solution final.pdf'
 		- [ ] 'Logic Basic Solution Final.pdf'
 		- [ ] 'Relation function basic solution'
