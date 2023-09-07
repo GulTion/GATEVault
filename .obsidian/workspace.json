@@ -30,7 +30,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZealRevision/ZealDB.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZealRevision/ZealDB.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZealRevision/ZealDB.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -195,11 +194,11 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "f70aeb152b4ddb0d",
+  "active": "bc23f67763e1ca9d",
   "lastOpenFiles": [
+    "ZealRevision/ZealDB.md",
     "ZealRevision/Bridge and Spanning Tree.md",
     "Dashboard.md",
-    "ZealRevision/ZealDB.md",
     "ZealRevision/Bipartite Graph and its Properties.md",
     "ZealRevision/Chromatic Number.md",
     "ZealRevision/Planner and its Properties.md",

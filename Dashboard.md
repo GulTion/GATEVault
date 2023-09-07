@@ -76,7 +76,7 @@
 			- [x] Planner and its Properties
 			- [x] Chromatic Number
 			- [x] Bipartite Graph and its Properties
-			- [ ] Bridge and Spanning Tree 
+			- [x] Bridge and Spanning Tree 
 			- [ ] Adjacency Matrix and its Properties
 			- [ ] Random about Numbers and Path 
 		- [ ] 'Group Theory Basic Solution final.pdf'
@@ -85,6 +85,8 @@
 		- [ ] 'set theory basic solution.pdf'
 	- [ ] EM
 - [ ] Apti
+	- [ ] Verbal Apti
+	- [ ] Non-Verbal Apti
 - [ ] C prom + DS
 - [ ] CN
 	- [ ] Network Layer
