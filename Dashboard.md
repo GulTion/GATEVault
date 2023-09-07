@@ -72,8 +72,8 @@
 - [ ] DM & EM
 	- [ ] DM
 		- [ ] 'Graph Theory Basic Solution final.pdf'
-			- [ ] Basic Vertex and Edge Calculation
-			- [ ] Planner and its Properties
+			- [x] Basic Vertex and Edge Calculation
+			- [x] Planner and its Properties
 			- [ ] Chromatic Number
 			- [ ] Bipartite Graph and its Properties
 			- [ ] Bridge and Spanning Tree 
