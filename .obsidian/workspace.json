@@ -191,15 +191,16 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
   "active": "f70aeb152b4ddb0d",
   "lastOpenFiles": [
-    "ZealRevision/Chromatic Number.md",
+    "ZealRevision/Bipartite Graph and its Properties.md",
     "Dashboard.md",
     "ZealRevision/ZealDB.md",
+    "ZealRevision/Chromatic Number.md",
     "ZealRevision/Planner and its Properties.md",
     "ZealRevision/Basic Vertex and Edge Calculation.md",
     "ZealRevision/5 Network Layer Solutions.md",
@@ -231,7 +232,6 @@
     "Plan/media/Pasted image 20230901174743.png",
     "Plan/media/Pasted image 20230901174731.png",
     "Plan/media/Pasted image 20230901173821.png",
-    "Plan/Number of Keys and Super keys in FDs.md",
     "Plan/media/Pasted image 20230901125944.png",
     "Plan/media/Pasted image 20230901125923.png",
     "Plan/media/Pasted image 20230901125835.png",

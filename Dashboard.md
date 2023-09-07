@@ -74,7 +74,7 @@
 		- [ ] 'Graph Theory Basic Solution final.pdf'
 			- [x] Basic Vertex and Edge Calculation
 			- [x] Planner and its Properties
-			- [ ] Chromatic Number
+			- [x] Chromatic Number
 			- [ ] Bipartite Graph and its Properties
 			- [ ] Bridge and Spanning Tree 
 			- [ ] Adjacency Matrix and its Properties
