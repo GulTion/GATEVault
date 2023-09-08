@@ -84,6 +84,18 @@
 		- [ ] 'Relation function basic solution'
 		- [ ] 'set theory basic solution.pdf'
 	- [ ] EM
+		- [ ] Probability
+			- [ ] 1 Basic concept of probability
+			- [ ] 2 CONDITIONAL PROBABILITY
+			- [ ] 3 RANDOM VARIABLES, EXPECTATION AND VARIANCE
+			- [ ] 4 Binomial distribution
+			- [ ] 5 HYPER GEOMETRIC DISTRIBUTION
+			- [ ] 6 POISSON DISTRIBUTION
+			- [ ] 7 GEOMETRIC DISTRIBUTION
+			- [ ] 8 NEGATIVE BINOMIAL DISTRIBUTION
+			- [ ] 9 DISCRETE UNIFORM DISTRIBUTION
+			- [ ] 10 STANDARD NORMAL DISTRIBUTION
+			- [ ] 11 ADVANCED LEVEL QUESTIONS
 - [ ] Apti
 	- [ ] Verbal Apti
 	- [ ] Non-Verbal Apti

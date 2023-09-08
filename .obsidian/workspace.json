@@ -16,18 +16,6 @@
                 "file": "ZealRevision/ZealDB.md"
               }
             }
-          },
-          {
-            "id": "f70aeb152b4ddb0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZealRevision/PAGE REPLACEMENT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "stacked": true
@@ -195,10 +183,10 @@
   },
   "active": "5b301f141e47d7da",
   "lastOpenFiles": [
-    "Dashboard.md",
-    "ZealRevision/PAGE REPLACEMENT.md",
-    "ZealRevision/ZealDB.md",
     "ZealRevision/Planner and its Properties.md",
+    "ZealRevision/ZealDB.md",
+    "ZealRevision/PAGE REPLACEMENT.md",
+    "Dashboard.md",
     "ZealRevision/Bridge and Spanning Tree.md",
     "ZealRevision/Bipartite Graph and its Properties.md",
     "ZealRevision/Chromatic Number.md",
