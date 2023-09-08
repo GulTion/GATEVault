@@ -21,6 +21,8 @@ columns:
     position: 1
     isHidden: false
     sortIndex: -1
+    isSorted: false
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -124,6 +126,7 @@ columns:
       - { label: "TOC", value: "TOC", color: "hsl(174, 95%, 90%)"}
       - { label: "CN", value: "CN", color: "hsl(141, 95%, 90%)"}
       - { label: "DM", value: "DM", color: "hsl(10, 95%, 90%)"}
+      - { label: "OS", value: "OS", color: "hsl(300, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

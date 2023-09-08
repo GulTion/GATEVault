@@ -11,11 +11,9 @@
             "id": "bc23f67763e1ca9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": false
+                "file": "ZealRevision/ZealDB.md"
               }
             }
           },
@@ -23,9 +21,11 @@
             "id": "f70aeb152b4ddb0d",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "ZealRevision/ZealDB.md"
+                "file": "ZealRevision/PAGE REPLACEMENT.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "ZealRevision/ZealDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "ZealRevision/ZealDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "ZealRevision/ZealDB.md"
               }
             }
           },
@@ -194,14 +193,15 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "bc23f67763e1ca9d",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
-    "ZealRevision/ZealDB.md",
-    "ZealRevision/Bridge and Spanning Tree.md",
     "Dashboard.md",
+    "ZealRevision/PAGE REPLACEMENT.md",
+    "ZealRevision/ZealDB.md",
+    "ZealRevision/Planner and its Properties.md",
+    "ZealRevision/Bridge and Spanning Tree.md",
     "ZealRevision/Bipartite Graph and its Properties.md",
     "ZealRevision/Chromatic Number.md",
-    "ZealRevision/Planner and its Properties.md",
     "ZealRevision/Basic Vertex and Edge Calculation.md",
     "ZealRevision/5 Network Layer Solutions.md",
     "Plan/PLANDB.md",
@@ -225,7 +225,6 @@
     "Plan/Adjancey matirx protieres.md",
     "Plan/pigeon hole.md",
     "Plan/Generating Function.md",
-    "Plan/Combintories.md",
     "Plan/media/Pasted image 20230902080846.png",
     "Plan/media/Pasted image 20230902080828.png",
     "Plan/media/Pasted image 20230901174743.png",
