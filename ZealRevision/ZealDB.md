@@ -32,6 +32,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      content_alignment: text-align-left
   startQ:
     input: number
     accessorKey: startQ
@@ -127,6 +128,7 @@ columns:
       - { label: "CN", value: "CN", color: "hsl(141, 95%, 90%)"}
       - { label: "DM", value: "DM", color: "hsl(10, 95%, 90%)"}
       - { label: "OS", value: "OS", color: "hsl(300, 95%, 90%)"}
+      - { label: "MATH", value: "MATH", color: "hsl(27, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -205,7 +207,7 @@ columns:
     isHidden: false
     sortIndex: 1
     isSorted: true
-    isSortedDesc: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -235,7 +237,7 @@ config:
   source_destination_path: /
   row_templates_folder: /templates
   current_row_template: 
-  pagination_size: 10
+  pagination_size: 200
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /
