@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#no",
+                "query": "#notes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,6 +186,7 @@
   },
   "active": "f05219de2c216c2d",
   "lastOpenFiles": [
+    "TSRevision/media/Pasted image 20230909180839.png",
     "TSRevision/media/Pasted image 20230909160500.png",
     "TSRevision/media/Pasted image 20230909160256.png",
     "TSRevision/media",
@@ -226,7 +227,6 @@
     "Plan/media/Pasted image 20230901125944.png",
     "Plan/media/Pasted image 20230901125923.png",
     "Plan/media/Pasted image 20230901125835.png",
-    "Plan/media/Pasted image 20230901125408.png",
     "Plan/media",
     "Plan",
     "templates",

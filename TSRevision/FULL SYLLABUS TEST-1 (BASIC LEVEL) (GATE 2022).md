@@ -6,3 +6,5 @@
 # Time and Clock #notes/apti/time-and-clock 
 fdf
 
+# #notes/toc/countablity 
+![[Pasted image 20230909180839.png]]
