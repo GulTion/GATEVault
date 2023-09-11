@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#notes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,14 +183,16 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "f05219de2c216c2d",
+  "active": "bc23f67763e1ca9d",
   "lastOpenFiles": [
+    "TSRevision/media/Pasted image 20230911175406.png",
+    "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
+    "TSRevision/media/Pasted image 20230911175041.png",
     "TSRevision/media/Pasted image 20230909180839.png",
     "TSRevision/media/Pasted image 20230909160500.png",
     "TSRevision/media/Pasted image 20230909160256.png",
     "TSRevision/media",
     "TSRevision/TSDB.md",
-    "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Plan/PLANDB.md",
     "ZealRevision/ZealDB.md",
     "ZealRevision/3 RANDOM VARIABLES, EXPECTATION AND VARIANCE.md",
@@ -225,8 +226,6 @@
     "Plan/media/Pasted image 20230901174731.png",
     "Plan/media/Pasted image 20230901173821.png",
     "Plan/media/Pasted image 20230901125944.png",
-    "Plan/media/Pasted image 20230901125923.png",
-    "Plan/media/Pasted image 20230901125835.png",
     "Plan/media",
     "Plan",
     "templates",
