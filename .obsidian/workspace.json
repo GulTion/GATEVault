@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc23f67763e1ca9d",
+            "id": "def9566c42620688",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Plan/Aptitude Progress.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -78,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plan/Aptitude Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Plan/Aptitude Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Plan/Aptitude Progress.md"
+              }
             }
           },
           {
@@ -153,6 +160,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "4208c1b9ba16f0e5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -176,8 +193,11 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "bc23f67763e1ca9d",
+  "active": "def9566c42620688",
   "lastOpenFiles": [
+    "Plan/media/Pasted image 20230913093257.png",
+    "Plan/PLANDB.md",
+    "Plan/Aptitude Progress.md",
     "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "TSRevision/media/Pasted image 20230911175406.png",
     "TSRevision/media/Pasted image 20230911175041.png",
@@ -186,7 +206,6 @@
     "TSRevision/media/Pasted image 20230909160256.png",
     "TSRevision/media",
     "TSRevision/TSDB.md",
-    "Plan/PLANDB.md",
     "ZealRevision/ZealDB.md",
     "ZealRevision/3 RANDOM VARIABLES, EXPECTATION AND VARIANCE.md",
     "ZealRevision/2 CONDITIONAL PROBABILITY.md",
@@ -211,7 +230,6 @@
     "Plan/2NF, 3NF and BNCF.md",
     "MESHORT Notes Revision/Untitled database.md",
     "ZealRevision",
-    "MESHORT Notes Revision/Main.ShortNotes.md",
     "MESHORT Notes Revision",
     "Plan/media/Pasted image 20230902080846.png",
     "Plan/media/Pasted image 20230902080828.png",
