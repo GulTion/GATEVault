@@ -95,7 +95,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -115,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYQRevision/CD/Parser/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYQRevision/CD/Parser/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PYQRevision/CD/Parser/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,7 +203,7 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "de27a664b0c1ea5d",
+  "active": "70765fda4e6f83f5",
   "lastOpenFiles": [
     "PYQRevision/CD/Parser/Untitled.md",
     "PYQRevision/CD/Parser",
