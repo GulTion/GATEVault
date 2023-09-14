@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#notes/engli",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,8 +185,9 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "f05219de2c216c2d",
+  "active": "de27a664b0c1ea5d",
   "lastOpenFiles": [
+    "media/Pasted image 20230914124615.png",
     "2023-09-14.md",
     "Plan/Aptitude Progress.md",
     "PYQRevision/CD/Parser/Untitled.md",
@@ -224,7 +224,6 @@
     "TSRevision",
     "PYQRevision",
     "ZealRevision/Main.ZealRevision.md",
-    "Plan/2NF, 3NF and BNCF.md",
     "ZealRevision",
     "MESHORT Notes Revision",
     "Plan/media/Pasted image 20230902080846.png",
