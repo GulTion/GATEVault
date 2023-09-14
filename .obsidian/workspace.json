@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -165,11 +166,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +186,9 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "de27a664b0c1ea5d",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
+    "media/Pasted image 20230914163632.png",
     "media/Pasted image 20230914141240.png",
     "media/Pasted image 20230914140153.png",
     "media/Pasted image 20230914124615.png",
@@ -228,7 +231,6 @@
     "ZealRevision",
     "MESHORT Notes Revision",
     "Plan/media/Pasted image 20230902080846.png",
-    "Plan/media/Pasted image 20230902080828.png",
     "Plan/media",
     "Plan",
     "templates",
