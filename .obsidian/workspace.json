@@ -13,7 +13,19 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "Plan/PLANDB.md"
+                "file": "ZealRevision/ZealDB.md"
+              }
+            }
+          },
+          {
+            "id": "e583bcf22063d8aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/PLANDB.md",
+                "file": "ZealRevision/ZealDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/PLANDB.md",
+                "file": "ZealRevision/ZealDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/PLANDB.md"
+                "file": "ZealRevision/ZealDB.md"
               }
             }
           },
@@ -194,6 +206,11 @@
   },
   "active": "364c0cdebc10d30d",
   "lastOpenFiles": [
+    "ZealRevision/4 Binomial distribution.md",
+    "Dashboard.md",
+    "ZealRevision/ZealDB.md",
+    "ZealRevision/13.md",
+    "Plan/PLANDB.md",
     "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md",
     "2023-09-14.md",
     "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
@@ -209,7 +226,6 @@
     "PYQRevision/CD/Parser",
     "PYQRevision/CD",
     "Plan/media/Pasted image 20230913093257.png",
-    "Plan/PLANDB.md",
     "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "TSRevision/media/Pasted image 20230911175406.png",
     "TSRevision/media/Pasted image 20230911175041.png",
@@ -218,13 +234,11 @@
     "TSRevision/media/Pasted image 20230909160256.png",
     "TSRevision/media",
     "TSRevision/TSDB.md",
-    "ZealRevision/ZealDB.md",
     "ZealRevision/3 RANDOM VARIABLES, EXPECTATION AND VARIANCE.md",
     "ZealRevision/2 CONDITIONAL PROBABILITY.md",
     "ZealRevision/Planner and its Properties.md",
     "ZealRevision/1 Basic concept of probability.md",
     "ZealRevision/PAGE REPLACEMENT.md",
-    "Dashboard.md",
     "ZealRevision/Bridge and Spanning Tree.md",
     "ZealRevision/Bipartite Graph and its Properties.md",
     "ZealRevision/Chromatic Number.md",
@@ -232,8 +246,6 @@
     "ZealRevision/5 Network Layer Solutions.md",
     "Plan/CIDR Aggregation.md",
     "shortNotesList.md",
-    "ZealRevision/14 FA to Language and Vice Versa.md",
-    "ZealRevision/13.md",
     "TSRevision",
     "PYQRevision",
     "ZealRevision",
