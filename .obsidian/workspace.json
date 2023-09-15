@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b0e11435ae4e87d4",
+        "id": "e8c91ecb51e49838",
         "type": "tabs",
         "children": [
           {
-            "id": "e94c1e20a9c5e091",
+            "id": "364c0cdebc10d30d",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md"
+              }
             }
           },
           {
@@ -169,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,12 +194,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e94c1e20a9c5e091",
+  "active": "364c0cdebc10d30d",
   "lastOpenFiles": [
-    "CalenderNotes/2023-09-15 15-09-2023.md",
+    "2023-09-14.md",
+    "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
+    "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md",
+    "CalenderNotes/2023-09-15.md",
     "2023-09-15.md",
     "CalenderNotes",
-    "2023-09-14.md",
     "media/Pasted image 20230914163632.png",
     "media/Pasted image 20230914141240.png",
     "media/Pasted image 20230914140153.png",
@@ -225,8 +236,6 @@
     "shortNotesList.md",
     "ZealRevision/14 FA to Language and Vice Versa.md",
     "ZealRevision/13.md",
-    "ZealRevision/12 epi-NFA closure.md",
-    "ZealRevision/12.md",
     "TSRevision",
     "PYQRevision",
     "ZealRevision",
