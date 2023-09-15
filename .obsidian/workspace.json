@@ -11,9 +11,11 @@
             "id": "364c0cdebc10d30d",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "ZealRevision/ZealDB.md"
+                "file": "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZealRevision/ZealDB.md",
+                "file": "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZealRevision/ZealDB.md",
+                "file": "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZealRevision/ZealDB.md"
+                "file": "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md"
               }
             }
           },
@@ -206,9 +208,9 @@
   },
   "active": "364c0cdebc10d30d",
   "lastOpenFiles": [
+    "ZealRevision/ZealDB.md",
     "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md",
     "Dashboard.md",
-    "ZealRevision/ZealDB.md",
     "ZealRevision/4 Binomial distribution.md",
     "ZealRevision/13.md",
     "Plan/PLANDB.md",
