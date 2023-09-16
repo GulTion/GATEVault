@@ -7,3 +7,5 @@ completed: false
 # DM
 ## Graph Theory
 ### MST
+![[Pasted image 20230916214702.png]]
+
