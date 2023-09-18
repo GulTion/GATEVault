@@ -3,6 +3,9 @@
 1. [Test Series](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/)
 2. [PYQ - TopicWise - Practice Paper](https://practicepaper.in/gate-cse/topic-wise-practice-of-gate-cse-previous-year-papers)
 
+# TEST SERIES PLAN
+![[Screenshot_20230918_095424.jpg]]
+
 # TASK
 - [ ] DBMS
 	- [ ] TRANSACTION Solution
