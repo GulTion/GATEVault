@@ -11,7 +11,19 @@
             "id": "15c92bea552bf3ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "CalenderNotes/2023-09-22 DM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "423dc3db90346611",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
               "state": {}
             }
           }
@@ -90,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CalenderNotes/2023-09-22 DM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CalenderNotes/2023-09-22 DM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CalenderNotes/2023-09-22 DM.md"
+              }
             }
           },
           {
@@ -188,6 +204,10 @@
   },
   "active": "15c92bea552bf3ff",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "CalenderNotes/2023-09-22 DM.md",
+    "2023-09-21.md",
+    "Plan/Combintories.md",
     "CalenderNotes/2023-09-19 Test ID - 36 [Toc Test - 1] - 2023.md",
     "CalenderNotes/testDB.md",
     "CalenderNotes/2023-09-16 GO Classes Test Series 2023  Algorithms Test 3.md",
@@ -195,7 +215,6 @@
     "CalenderNotes/2023-09-16 GO Classes Test Series 2023.md",
     "CalenderNotes/2023-09-20 TEST ID-1 [DM-1].md",
     "CalenderNotes/media/Pasted image 20230916214702.png",
-    "Dashboard.md",
     "media/Screenshot_20230918_095424.jpg",
     "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md",
     "CalenderNotes/media",
@@ -226,9 +245,6 @@
     "ZealRevision/3 RANDOM VARIABLES, EXPECTATION AND VARIANCE.md",
     "ZealRevision/2 CONDITIONAL PROBABILITY.md",
     "ZealRevision/Planner and its Properties.md",
-    "ZealRevision/1 Basic concept of probability.md",
-    "ZealRevision/PAGE REPLACEMENT.md",
-    "ZealRevision/Bridge and Spanning Tree.md",
     "TSRevision",
     "PYQRevision",
     "ZealRevision",
