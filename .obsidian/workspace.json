@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3dd390d56ba233de",
+        "id": "aa39406149881632",
         "type": "tabs",
         "children": [
           {
-            "id": "dac930d96a88382e",
+            "id": "21786da69ab7d9d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": true
               }
             }
           }
@@ -101,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,8 +187,9 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "dac930d96a88382e",
+  "active": "21786da69ab7d9d4",
   "lastOpenFiles": [
+    "Untitled.md",
     "Dashboard.md",
     "media/Screenshot_20230918_095424.jpg",
     "media/Pasted image 20230914163632.png",
@@ -216,7 +212,6 @@
     "ZealRevision/12 epi-NFA closure.md",
     "ZealRevision/1 Basic concept of probability.md",
     "ZealRevision",
-    "Untitled.md",
     "TSRevision/media/Pasted image 20230911175406.png",
     "TSRevision/media/Pasted image 20230911175041.png",
     "TSRevision/media/Pasted image 20230909180839.png",
