@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "faccfc533206172a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYQRevision/GATE 2021 SET-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#notes/dm/logic/implication",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYQRevision/CD/Parser/Untitled.md",
+                "file": "PYQRevision/GATE 2021 SET-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYQRevision/CD/Parser/Untitled.md",
+                "file": "PYQRevision/GATE 2021 SET-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYQRevision/CD/Parser/Untitled.md"
+                "file": "PYQRevision/GATE 2021 SET-2.md"
               }
             }
           },
@@ -192,10 +206,14 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "7caee9a518653de0",
+  "active": "f05219de2c216c2d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "PYQRevision/media/Pasted image 20230923160222.png",
+    "PYQRevision/media",
+    "Untitled 1.md",
+    "PYQRevision/GATE 2021 SET-2.md",
     "PYQRevision/CD/Parser/Untitled.md",
+    "Untitled.md",
     "Dashboard.md",
     "media/Pasted image 20230923112915.png",
     "shortNotesList.md",
@@ -231,15 +249,11 @@
     "Plan/pigeon hole.md",
     "Plan/media",
     "Plan/Working of all sorting algo.md",
-    "Plan/Relational Algebra.md",
-    "Plan/PLANDB.md",
-    "Plan/Number of Keys and Super keys in FDs.md",
     "Plan",
     "PYQRevision/CD/Parser",
     "PYQRevision/CD",
     "PYQRevision",
     "MESHORT Notes Revision",
-    "CalenderNotes/media",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
