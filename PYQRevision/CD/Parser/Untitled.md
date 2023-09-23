@@ -3,21 +3,3 @@
 > 2. LR(0) set of Grammars is equivalent with Set of All DCFL that is having Prefix Property. (Prefix Property: This is a property which says that let L1 be a string and belongs to your Language then no other Prefix of this string in this language)
 > 3. LR(1) set of Languages are equivalent to Set of all DCFL languages.
 
-`gsf`
-<pre>sdff</pre>
-
-
-
-Gulhsan
----
-**sdfas**
-
-Gulhsna
-===
-```cpp
-const a = 34;
-const b = ()=>a(34);
-<html>sdf<body ad="23" >
-mov sdf ad
-```
-
