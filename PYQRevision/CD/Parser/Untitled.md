@@ -4,4 +4,4 @@
 > 3. LR(1) set of Languages are equivalent to Set of all DCFL languages.
 
 
-i m from mobile 
+this is from mgit
