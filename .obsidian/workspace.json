@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "faccfc533206172a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYQRevision/CD/Parser/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +192,7 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "faccfc533206172a",
+  "active": "7caee9a518653de0",
   "lastOpenFiles": [
     "PYQRevision/CD/Parser/Untitled.md",
     "conflict-files-obsidian-git.md",
