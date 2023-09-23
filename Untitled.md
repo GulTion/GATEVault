@@ -1,5 +1,0 @@
-ubuntu:
-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
-
-andrid:
-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
