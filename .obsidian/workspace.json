@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYQRevision/GATE 2021 SET-2.md",
+                "file": "PYQRevision/CD/Parser/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#notes/dm/logic/implication",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYQRevision/GATE 2021 SET-2.md",
+                "file": "PYQRevision/CD/Parser/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYQRevision/GATE 2021 SET-2.md",
+                "file": "PYQRevision/CD/Parser/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYQRevision/GATE 2021 SET-2.md"
+                "file": "PYQRevision/CD/Parser/Untitled.md"
               }
             }
           },
@@ -206,13 +205,13 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "f05219de2c216c2d",
+  "active": "faccfc533206172a",
   "lastOpenFiles": [
+    "PYQRevision/GATE 2021 SET-2.md",
+    "PYQRevision/CD/Parser/Untitled.md",
     "PYQRevision/media/Pasted image 20230923160222.png",
     "PYQRevision/media",
     "Untitled 1.md",
-    "PYQRevision/GATE 2021 SET-2.md",
-    "PYQRevision/CD/Parser/Untitled.md",
     "Untitled.md",
     "Dashboard.md",
     "media/Pasted image 20230923112915.png",
@@ -241,7 +240,6 @@
     "TSRevision/media/Pasted image 20230911175406.png",
     "TSRevision/media/Pasted image 20230911175041.png",
     "TSRevision/media/Pasted image 20230909180839.png",
-    "TSRevision/media/Pasted image 20230909160500.png",
     "TSRevision/media",
     "TSRevision/TSDB.md",
     "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
