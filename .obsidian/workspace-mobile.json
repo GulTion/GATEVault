@@ -169,9 +169,17 @@
             "file": "PYQRevision/CD/Parser/Untitled.md"
           }
         }
+      },
+      {
+        "id": "0524fe2d59937a43",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,12 +191,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2803188bd8c0f921",
+  "active": "0524fe2d59937a43",
   "lastOpenFiles": [
+    "PYQRevision/CD/Parser/Untitled.md",
     "MESHORT Notes Revision/Untitled database.md",
     "/PYQRevision/CD/Parser/Untitled.md",
     "MESHORT Notes Revision/C.md",
@@ -196,7 +204,6 @@
     "shortNotesList.md",
     "2023-09-15.md",
     "2023-09-14.md",
-    "PYQRevision/CD/Parser/Untitled.md",
     "media/Pasted image 20230923112915.png",
     "/media/Pasted image 20230923112915.png",
     "/Untitled.md"
