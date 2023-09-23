@@ -2,4 +2,4 @@ ubuntu:
 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
 
 andrid:
-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
+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
