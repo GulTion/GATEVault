@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa39406149881632",
+        "id": "61fa33f3235afe1f",
         "type": "tabs",
         "children": [
           {
-            "id": "21786da69ab7d9d4",
+            "id": "7caee9a518653de0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -192,11 +192,11 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "21786da69ab7d9d4",
+  "active": "7caee9a518653de0",
   "lastOpenFiles": [
+    "Untitled.md",
     "media/Pasted image 20230923112915.png",
     "shortNotesList.md",
-    "Untitled.md",
     "Dashboard.md",
     "media/Screenshot_20230918_095424.jpg",
     "media/Pasted image 20230914163632.png",
@@ -223,7 +223,6 @@
     "TSRevision/media/Pasted image 20230911175041.png",
     "TSRevision/media/Pasted image 20230909180839.png",
     "TSRevision/media/Pasted image 20230909160500.png",
-    "TSRevision/media/Pasted image 20230909160256.png",
     "TSRevision/media",
     "TSRevision/TSDB.md",
     "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
