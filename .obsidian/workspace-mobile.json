@@ -20,9 +20,11 @@
             "id": "2803188bd8c0f921",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "MESHORT Notes Revision/Untitled database.md"
+                "file": "PYQRevision/CD/Parser/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -135,7 +137,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MESHORT Notes Revision/Untitled database.md",
+            "file": "PYQRevision/CD/Parser/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -152,7 +154,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MESHORT Notes Revision/Untitled database.md",
+            "file": "PYQRevision/CD/Parser/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -164,7 +166,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MESHORT Notes Revision/Untitled database.md"
+            "file": "PYQRevision/CD/Parser/Untitled.md"
           }
         }
       }
@@ -185,8 +187,10 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "73cb8939be768d1a",
+  "active": "2803188bd8c0f921",
   "lastOpenFiles": [
+    "MESHORT Notes Revision/Untitled database.md",
+    "/PYQRevision/CD/Parser/Untitled.md",
     "MESHORT Notes Revision/C.md",
     "Untitled.md",
     "shortNotesList.md",
