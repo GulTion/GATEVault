@@ -20,8 +20,10 @@
             "id": "2803188bd8c0f921",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "database-plugin",
+              "state": {
+                "file": "MESHORT Notes Revision/Untitled database.md"
+              }
             }
           }
         ],
@@ -133,6 +135,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "MESHORT Notes Revision/Untitled database.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,6 +152,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "MESHORT Notes Revision/Untitled database.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +163,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "MESHORT Notes Revision/Untitled database.md"
+          }
         }
       }
     ],
@@ -179,9 +185,14 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "2803188bd8c0f921",
+  "active": "73cb8939be768d1a",
   "lastOpenFiles": [
+    "MESHORT Notes Revision/C.md",
     "Untitled.md",
+    "shortNotesList.md",
+    "2023-09-15.md",
+    "2023-09-14.md",
+    "PYQRevision/CD/Parser/Untitled.md",
     "media/Pasted image 20230923112915.png",
     "/media/Pasted image 20230923112915.png",
     "/Untitled.md"
