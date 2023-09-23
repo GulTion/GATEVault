@@ -1,1 +1,5 @@
-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
+ubuntu:
+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
+
+andrid:
+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
