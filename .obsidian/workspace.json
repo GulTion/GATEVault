@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "dac930d96a88382e",
   "lastOpenFiles": [
+    "Dashboard.md",
     "media/Screenshot_20230918_095424.jpg",
     "media/Pasted image 20230914163632.png",
     "media/Pasted image 20230914141240.png",
@@ -226,7 +227,6 @@
     "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "TSRevision",
     "Plan/pigeon hole.md",
-    "Plan/media/Pasted image 20230913093257.png",
     "Plan/media",
     "Plan/Working of all sorting algo.md",
     "Plan/Relational Algebra.md",
