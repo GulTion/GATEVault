@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYQRevision/CD/Parser/Untitled.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,10 +48,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#notes/",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYQRevision/CD/Parser/Untitled.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYQRevision/CD/Parser/Untitled.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYQRevision/CD/Parser/Untitled.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -194,9 +194,10 @@
   },
   "active": "7caee9a518653de0",
   "lastOpenFiles": [
+    "PYQRevision/GATE 2021 SET-2.md",
+    "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "PYQRevision/CD/Parser/Untitled.md",
     "conflict-files-obsidian-git.md",
-    "PYQRevision/GATE 2021 SET-2.md",
     "PYQRevision/media/Pasted image 20230923160222.png",
     "PYQRevision/media",
     "Untitled 1.md",
@@ -230,7 +231,6 @@
     "TSRevision/media/Pasted image 20230909180839.png",
     "TSRevision/media",
     "TSRevision/TSDB.md",
-    "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "TSRevision",
     "Plan/pigeon hole.md",
     "Plan/media",
