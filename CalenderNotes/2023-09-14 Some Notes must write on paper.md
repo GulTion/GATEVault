@@ -25,7 +25,7 @@ Notable Points:
 ![[Pasted image 20230914141240.png]]
 
 
-#  Sorting #notes/sorting 
+#  Sorting #notes/ALGO/sorting 
 ## Bubble Sort
 
 ![Bubble Sort](https://cdn.emre.me/sorting/bubble_sort.gif)

@@ -14,7 +14,7 @@ fdf
 # #notes/toc/countablity 
 ![[Pasted image 20230909180839.png]]
 
-- #notes/sorting ![[Pasted image 20230911175041.png]]
+- #notes/algo/sorting ![[Pasted image 20230911175041.png]]
 
 - #notes/dm/function ![[Pasted image 20230911175406.png]]
 

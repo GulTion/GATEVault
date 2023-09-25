@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ea46fc56ba143ce8",
+        "id": "5cccd70c8466f163",
         "type": "tabs",
         "children": [
           {
-            "id": "3fa90d6bc19bcf46",
+            "id": "5a345e065f33784c",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "CalenderNotes/testDB.md"
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -91,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CalenderNotes/testDB.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CalenderNotes/testDB.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CalenderNotes/testDB.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -162,11 +166,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,14 +187,20 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "3fa90d6bc19bcf46",
+  "active": "5a345e065f33784c",
   "lastOpenFiles": [
     "CalenderNotes/2023-09-25 DS advanced .md",
+    "2023-09-14.md",
+    "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
+    "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
+    "Plan/Working of all sorting algo.md",
+    "CalenderNotes/media/Pasted image 20230925120207.png",
+    "CalenderNotes/media/Pasted image 20230925114350.png",
+    "CalenderNotes/testDB.md",
     "CalenderNotes/2023-09-22 DM.md",
     "fromWhereSubject.md",
     "CalenderNotes/media/Pasted image 20230925112813.png",
     "CalenderNotes/media/Pasted image 20230925111904.png",
-    "2023-09-14.md",
     "Dashboard.md",
     "shortNotesList.md",
     "Untitled 3.md",
@@ -200,9 +211,7 @@
     "Plan/Generating Function.md",
     "Plan/Combintories.md",
     "Plan/pigeon hole.md",
-    "Plan/Working of all sorting algo.md",
     "PYQRevision/GATE 2021 SET-2.md",
-    "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "PYQRevision/CD/Parser/Untitled.md",
     "conflict-files-obsidian-git.md",
     "PYQRevision/media/Pasted image 20230923160222.png",
@@ -212,16 +221,12 @@
     "media/Pasted image 20230914163632.png",
     "media/Pasted image 20230914141240.png",
     "media/Pasted image 20230914140153.png",
-    "media/Pasted image 20230914124615.png",
     "ZealRevision/ZealDB.md",
     "ZealRevision/Planner and its Properties.md",
     "ZealRevision/PAGE REPLACEMENT.md",
     "ZealRevision/Chromatic Number.md",
     "ZealRevision/Bridge and Spanning Tree.md",
-    "ZealRevision/Bipartite Graph and its Properties.md",
-    "ZealRevision/Basic Vertex and Edge Calculation.md",
     "ZealRevision",
-    "TSRevision/media/Pasted image 20230911175406.png",
     "TSRevision/media",
     "TSRevision",
     "Plan/media",
