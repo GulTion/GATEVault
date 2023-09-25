@@ -6,7 +6,7 @@ atQ/P: Q4
 ---
 [Link](https://gateoverflow.in/tag/generating-functions?start=0)
 
-#DM/Generating-Function
+#notes/DM/Generating-Function
 
 ## Note Down the things from this video 
 [Generating Function Practice](https://www.youtube.com/watch?v=zjtxJSkjejc)

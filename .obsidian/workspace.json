@@ -48,11 +48,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#notes/",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
+                "collapseAll": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -81,11 +81,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -172,11 +174,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,9 +197,15 @@
   },
   "active": "7caee9a518653de0",
   "lastOpenFiles": [
+    "Plan/Generating Function.md",
+    "Plan/pigeon hole.md",
+    "2023-09-14.md",
+    "Plan/Combintories.md",
+    "Plan/Working of all sorting algo.md",
+    "PYQRevision/GATE 2021 SET-2.md",
+    "Plan/Adjancey matirx protieres.md",
     "Dashboard.md",
     "fromWhereSubject.md",
-    "PYQRevision/GATE 2021 SET-2.md",
     "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "PYQRevision/CD/Parser/Untitled.md",
     "conflict-files-obsidian-git.md",
@@ -222,18 +231,12 @@
     "ZealRevision/3 RANDOM VARIABLES, EXPECTATION AND VARIANCE.md",
     "ZealRevision/4 Binomial distribution.md",
     "ZealRevision/13.md",
-    "ZealRevision/2 CONDITIONAL PROBABILITY.md",
-    "ZealRevision/14 FA to Language and Vice Versa.md",
-    "ZealRevision/12 epi-NFA closure.md",
-    "ZealRevision/1 Basic concept of probability.md",
     "ZealRevision",
     "TSRevision/media/Pasted image 20230911175406.png",
     "TSRevision/media/Pasted image 20230911175041.png",
     "TSRevision/media/Pasted image 20230909180839.png",
     "TSRevision/media",
-    "TSRevision/TSDB.md",
     "TSRevision",
-    "Plan/pigeon hole.md",
     "Plan/media",
     "Plan",
     "PYQRevision/CD/Parser",
