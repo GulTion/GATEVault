@@ -9,4 +9,4 @@ completed: false
 # Must be Filled
 - row-order and column order formulas in 3d and 2d
 - sorting techniques shortctut
-- 
+- ![[Pasted image 20230925111904.png]] new way to think about f1 and f3, f5 and f6,they are same, when we will give log both side
