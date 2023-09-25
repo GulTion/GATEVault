@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#notes/sorting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,10 +201,11 @@
   },
   "active": "8937cf20ef9109f8",
   "lastOpenFiles": [
+    "2023-09-14.md",
     "fromWhereSubject.md",
-    "CalenderNotes/2023-09-25 DS advanced .md",
     "Dashboard.md",
     "shortNotesList.md",
+    "CalenderNotes/2023-09-25 DS advanced .md",
     "Untitled 3.md",
     "Untitled.md",
     "Untitled 2.md",
@@ -212,7 +214,6 @@
     "Plan/Generating Function.md",
     "Plan/Combintories.md",
     "Plan/pigeon hole.md",
-    "2023-09-14.md",
     "Plan/Working of all sorting algo.md",
     "PYQRevision/GATE 2021 SET-2.md",
     "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",

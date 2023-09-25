@@ -8,5 +8,5 @@ completed: false
 ---
 # Must be Filled
 - row-order and column order formulas in 3d and 2d
-- 
+- sorting techniques shortctut
 - 
