@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Plan/Adjancey matirx protieres.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "b48d8eb0921551da",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ]
@@ -58,14 +66,6 @@
             }
           },
           {
-            "id": "70765fda4e6f83f5",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
             "id": "e41ff63964e51d38",
             "type": "leaf",
             "state": {
@@ -81,13 +81,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Plan/Adjancey matirx protieres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Plan/Adjancey matirx protieres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Plan/Adjancey matirx protieres.md"
               }
             }
           },
@@ -174,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -197,14 +195,14 @@
   },
   "active": "229f1575efb7e16d",
   "lastOpenFiles": [
-    "Dashboard.md",
     "Plan/Generating Function.md",
+    "Plan/Adjancey matirx protieres.md",
+    "Plan/Combintories.md",
+    "Dashboard.md",
     "Plan/pigeon hole.md",
     "2023-09-14.md",
-    "Plan/Combintories.md",
     "Plan/Working of all sorting algo.md",
     "PYQRevision/GATE 2021 SET-2.md",
-    "Plan/Adjancey matirx protieres.md",
     "fromWhereSubject.md",
     "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "PYQRevision/CD/Parser/Untitled.md",
