@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c823412a1b14f358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e8e68ffcd73c63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CalenderNotes/2023-09-25 DS advanced .md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2e5014b31e0a42c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,13 +110,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 462.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -187,12 +222,16 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "5a345e065f33784c",
+  "active": "c823412a1b14f358",
   "lastOpenFiles": [
+    "CalenderNotes/2023-09-25 DM PYQ.md",
+    "CalenderNotes/media/Pasted image 20230925131334.png",
+    "CalenderNotes/media/Pasted image 20230925131315.png",
     "CalenderNotes/2023-09-25 DS advanced .md",
+    "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
+    "Dashboard.md",
     "2023-09-14.md",
     "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
-    "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
     "Plan/Working of all sorting algo.md",
     "CalenderNotes/media/Pasted image 20230925120207.png",
     "CalenderNotes/media/Pasted image 20230925114350.png",
@@ -201,7 +240,6 @@
     "fromWhereSubject.md",
     "CalenderNotes/media/Pasted image 20230925112813.png",
     "CalenderNotes/media/Pasted image 20230925111904.png",
-    "Dashboard.md",
     "shortNotesList.md",
     "Untitled 3.md",
     "Untitled.md",
@@ -219,13 +257,9 @@
     "media/Pasted image 20230923112915.png",
     "media/Screenshot_20230918_095424.jpg",
     "media/Pasted image 20230914163632.png",
-    "media/Pasted image 20230914141240.png",
-    "media/Pasted image 20230914140153.png",
     "ZealRevision/ZealDB.md",
     "ZealRevision/Planner and its Properties.md",
     "ZealRevision/PAGE REPLACEMENT.md",
-    "ZealRevision/Chromatic Number.md",
-    "ZealRevision/Bridge and Spanning Tree.md",
     "ZealRevision",
     "TSRevision/media",
     "TSRevision",

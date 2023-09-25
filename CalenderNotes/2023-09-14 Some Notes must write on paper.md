@@ -1,6 +1,6 @@
 ---
 title: Some Notes must write on paper
-allDay: true
+allDay: false
 date: 2023-09-14
 completed: false
 ---

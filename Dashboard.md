@@ -5,7 +5,7 @@
 	- 30 Revision (By-heart or Theory)
 	- 30 Zeal (Basic or Advanced )
 	- 30 Test Series
-- 
+
 
 # Useful link
 1. [Test Series](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/)
