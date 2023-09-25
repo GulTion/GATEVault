@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "61fa33f3235afe1f",
+        "id": "0c8b46233b5a1fc0",
         "type": "tabs",
         "children": [
           {
-            "id": "7caee9a518653de0",
+            "id": "229f1575efb7e16d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,8 +195,9 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "7caee9a518653de0",
+  "active": "229f1575efb7e16d",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Plan/Generating Function.md",
     "Plan/pigeon hole.md",
     "2023-09-14.md",
@@ -204,7 +205,6 @@
     "Plan/Working of all sorting algo.md",
     "PYQRevision/GATE 2021 SET-2.md",
     "Plan/Adjancey matirx protieres.md",
-    "Dashboard.md",
     "fromWhereSubject.md",
     "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "PYQRevision/CD/Parser/Untitled.md",
