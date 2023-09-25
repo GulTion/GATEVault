@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "CalenderNotes/2023-09-25 DS advanced .md",
                 "mode": "source",
                 "source": false
               }
@@ -41,7 +41,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -137,7 +136,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "CalenderNotes/2023-09-25 DS advanced .md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "CalenderNotes/2023-09-25 DS advanced .md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -166,15 +165,15 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "CalenderNotes/2023-09-25 DS advanced .md"
           }
         }
       },
       {
-        "id": "0524fe2d59937a43",
+        "id": "3443c465eac3346c",
         "type": "leaf",
         "state": {
-          "type": "git-view",
+          "type": "full-calendar-sidebar-view",
           "state": {}
         }
       }
@@ -195,10 +194,10 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "2803188bd8c0f921",
+  "active": "73cb8939be768d1a",
   "lastOpenFiles": [
-    "fromWhereSubject.md",
     "Dashboard.md",
+    "fromWhereSubject.md",
     "PYQRevision/CD/Parser/Untitled.md",
     "MESHORT Notes Revision/Untitled database.md",
     "/PYQRevision/CD/Parser/Untitled.md",

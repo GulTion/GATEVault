@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#notes/sorting",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,12 +178,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,6 +200,7 @@
   },
   "active": "8937cf20ef9109f8",
   "lastOpenFiles": [
+    "CalenderNotes/media/Pasted image 20230925112813.png",
     "CalenderNotes/media/Pasted image 20230925111904.png",
     "2023-09-14.md",
     "fromWhereSubject.md",
@@ -238,7 +238,6 @@
     "ZealRevision",
     "TSRevision/media/Pasted image 20230911175406.png",
     "TSRevision/media/Pasted image 20230911175041.png",
-    "TSRevision/media/Pasted image 20230909180839.png",
     "TSRevision/media",
     "TSRevision",
     "Plan/media",
