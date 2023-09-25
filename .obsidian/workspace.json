@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0c8b46233b5a1fc0",
+        "id": "d23b78d5fff669cf",
         "type": "tabs",
         "children": [
           {
-            "id": "229f1575efb7e16d",
+            "id": "a737f3b3acec2b7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan/Adjancey matirx protieres.md",
+                "file": "fromWhereSubject.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b48d8eb0921551da",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
             }
           }
         ]
@@ -101,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/Adjancey matirx protieres.md",
+                "file": "fromWhereSubject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/Adjancey matirx protieres.md",
+                "file": "fromWhereSubject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/Adjancey matirx protieres.md"
+                "file": "fromWhereSubject.md"
               }
             }
           },
@@ -172,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -193,10 +185,15 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "229f1575efb7e16d",
+  "active": "a737f3b3acec2b7e",
   "lastOpenFiles": [
-    "Plan/Generating Function.md",
+    "shortNotesList.md",
+    "Untitled 3.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "Plan/Adjancey matirx protieres.md",
+    "Plan/Generating Function.md",
     "Plan/Combintories.md",
     "Dashboard.md",
     "Plan/pigeon hole.md",
@@ -209,10 +206,7 @@
     "conflict-files-obsidian-git.md",
     "PYQRevision/media/Pasted image 20230923160222.png",
     "PYQRevision/media",
-    "Untitled 1.md",
-    "Untitled.md",
     "media/Pasted image 20230923112915.png",
-    "shortNotesList.md",
     "media/Screenshot_20230918_095424.jpg",
     "media/Pasted image 20230914163632.png",
     "media/Pasted image 20230914141240.png",
@@ -227,8 +221,6 @@
     "ZealRevision/Basic Vertex and Edge Calculation.md",
     "ZealRevision/5 Network Layer Solutions.md",
     "ZealRevision/3 RANDOM VARIABLES, EXPECTATION AND VARIANCE.md",
-    "ZealRevision/4 Binomial distribution.md",
-    "ZealRevision/13.md",
     "ZealRevision",
     "TSRevision/media/Pasted image 20230911175406.png",
     "TSRevision/media/Pasted image 20230911175041.png",

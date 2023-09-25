@@ -104,5 +104,14 @@
       ],
       "key": "ArrowRight"
     }
+  ],
+  "tag-pane:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
   ]
 }
