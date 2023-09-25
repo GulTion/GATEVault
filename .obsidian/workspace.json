@@ -8,43 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a345e065f33784c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c823412a1b14f358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e8e68ffcd73c63c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CalenderNotes/2023-09-25 DS advanced .md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2e5014b31e0a42c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#notes/ALGO/sorting/bubble_sort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 335.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "CalenderNotes/2023-09-14 Some Notes must write on paper.md"
               }
             }
           },
@@ -205,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,14 +186,15 @@
   },
   "active": "c823412a1b14f358",
   "lastOpenFiles": [
+    "2023-09-14.md",
     "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
+    "Plan/Language Closure.md",
+    "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Dashboard.md",
+    "CalenderNotes/2023-09-25 DS advanced .md",
     "CalenderNotes/2023-09-25 DM PYQ.md",
     "CalenderNotes/media/Pasted image 20230925131334.png",
     "CalenderNotes/media/Pasted image 20230925131315.png",
-    "CalenderNotes/2023-09-25 DS advanced .md",
-    "2023-09-14.md",
-    "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Plan/Working of all sorting algo.md",
     "CalenderNotes/media/Pasted image 20230925120207.png",
     "CalenderNotes/media/Pasted image 20230925114350.png",

@@ -3,12 +3,13 @@ title: Some Notes must write on paper
 allDay: false
 date: 2023-09-14
 completed: false
+NOTED: "FALSE"
 ---
 
 # CD
 ## Parsing
 
-### DCFL and Parser relation #notes/cd/parser 
+### DCFL and Parser relation #notes/cd/parser/DCFL_relation
 Notable Points:
 
 1. LR(0) ⊂ LR(1) = LR(2) = LR(K), note this is not true for LL(k) grammars 
@@ -18,15 +19,23 @@ Notable Points:
 ### Classification
 ![[Pasted image 20230914124615.png]]
 
-### Viable Preix
+### Viable Preix #notes/cd/parser/Viable_prefix
 ![[Pasted image 20230914140153.png]]
 
 ### Number of Steps Taken by bottom up parser with n length token string
 ![[Pasted image 20230914141240.png]]
 
 
+
+
+
+
+
+
+
 #  Sorting #notes/ALGO/sorting 
-## Bubble Sort
+## Bubble Sort #notes/ALGO/sorting/bubble_sort
+
 
 ![Bubble Sort](https://cdn.emre.me/sorting/bubble_sort.gif)
 
@@ -49,7 +58,7 @@ def bubble_sort(array):
     return array
 ```
 
-## Selection Sort
+## Selection Sort #notes/ALGO/sorting/selection_sort
 
 ![Selection Sort](https://cdn.emre.me/sorting/selection_sort.gif)
 
@@ -71,7 +80,7 @@ def selection_sort(array):
     return array
 ```
 
-## Insertion Sort
+## Insertion Sort #notes/ALGO/sorting/insertion_sort
 
 ![Insertion Sort](https://cdn.emre.me/sorting/insertion_sort.gif)
 
@@ -148,63 +157,6 @@ def _merge(l_list, r_list):
 
     return result
 ```
-
-## Heap Sort
-
-![Heap Sort](https://cdn.emre.me/sorting/heap_sort.gif)
-
-### Implementation
-
-```python
-def get_left_child(i):
-    return 2 * i + 1
-
-
-def get_right_child(i):
-    return 2 * i + 2
-
-
-def max_heapify(arr, n, i):
-    left = get_left_child(i)
-    right = get_right_child(i)
-    largest = i
-
-    if left < n and arr[left] > arr[largest]:
-        largest = left
-    if right < n and arr[right] > arr[largest]:
-        largest = right
-    if largest != i:
-        arr[i], arr[largest] = arr[largest], arr[i]
-        max_heapify(arr, n, largest)
-
-
-def heap_sort(arr):
-    n = len(arr)
-
-    # build the max heap
-    for i in range(n, -1, -1):
-        max_heapify(arr, n, i)
-
-    # extract elements one by one
-    for i in range(n - 1, 0, -1):
-        arr[i], arr[0] = arr[0], arr[i]
-        max_heapify(arr, i, 0)
-
-    return arr
-```
-
-
-```
-import heapq
-
-def heap_sort(array):
-    h = []
-    for value in array:
-        heapq.heappush(h, value)
-    return [heapq.heappop(h) for i in range(len(h))]
-```
-
-
 
 ## Time Complexities of Sorting Algorithms
 

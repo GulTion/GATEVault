@@ -4,7 +4,7 @@ Repetation: 1
 type: GOTS
 atQ/P: Q6
 ---
-#TOC/LanguageClosure
+#notes/TOC/Closure_properties
 [GO TS](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/results.html?exam_id=347)
 
 # Finite Lanauage and Theorem for Clsoure Properties
