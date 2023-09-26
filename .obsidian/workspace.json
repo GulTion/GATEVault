@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5cccd70c8466f163",
+        "id": "48c62cbf8c4d9258",
         "type": "tabs",
         "children": [
           {
-            "id": "c823412a1b14f358",
+            "id": "1854c03529342024",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan/Language Closure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "985b8fc86794727b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CalenderNotes/2023-09-26 Context Free Grammer and Language.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CalenderNotes/2023-09-26 Context Free Grammer and Language.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CalenderNotes/2023-09-26 Context Free Grammer and Language.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CalenderNotes/2023-09-26 Context Free Grammer and Language.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -181,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +185,13 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "985b8fc86794727b",
+  "active": "1854c03529342024",
   "lastOpenFiles": [
+    "CalenderNotes/testDB.md",
+    "PYQRevision/CD/Parser/Untitled.md",
+    "Dashboard.md",
+    "Plan/Language Closure.md",
+    "CalenderNotes/2023-09-26 Context Free Grammer and Language.md",
     "CalenderNotes/media/Pasted image 20230926180819.png",
     "CalenderNotes/media/Pasted image 20230926180725.png",
     "CalenderNotes/media/Pasted image 20230926180613.png",
@@ -209,17 +202,12 @@
     "CalenderNotes/media/Pasted image 20230926180316.png",
     "CalenderNotes/media/Pasted image 20230926180214.png",
     "CalenderNotes/media/Pasted image 20230926180138.png",
-    "Plan/Language Closure.md",
-    "CalenderNotes/2023-09-26 Context Free Grammer and Language.md",
-    "Dashboard.md",
     "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
-    "CalenderNotes/media/Pasted image 20230926103634.png",
     "2023-09-14.md",
     "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "CalenderNotes/2023-09-25 DS advanced .md",
     "CalenderNotes/2023-09-25 DM PYQ.md",
     "Plan/Working of all sorting algo.md",
-    "CalenderNotes/testDB.md",
     "CalenderNotes/2023-09-22 DM.md",
     "fromWhereSubject.md",
     "shortNotesList.md",
@@ -232,7 +220,6 @@
     "Plan/Combintories.md",
     "Plan/pigeon hole.md",
     "PYQRevision/GATE 2021 SET-2.md",
-    "PYQRevision/CD/Parser/Untitled.md",
     "conflict-files-obsidian-git.md",
     "PYQRevision/media",
     "ZealRevision/ZealDB.md",
