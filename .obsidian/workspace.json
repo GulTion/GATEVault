@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CalenderNotes/2023-09-14 Some Notes must write on paper.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -168,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +188,9 @@
   },
   "active": "c823412a1b14f358",
   "lastOpenFiles": [
-    "2023-09-14.md",
     "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
+    "CalenderNotes/media/Pasted image 20230926103634.png",
+    "2023-09-14.md",
     "Plan/Language Closure.md",
     "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Dashboard.md",
@@ -219,10 +222,8 @@
     "PYQRevision/media",
     "media/Pasted image 20230923112915.png",
     "media/Screenshot_20230918_095424.jpg",
-    "media/Pasted image 20230914163632.png",
     "ZealRevision/ZealDB.md",
     "ZealRevision/Planner and its Properties.md",
-    "ZealRevision/PAGE REPLACEMENT.md",
     "ZealRevision",
     "TSRevision/media",
     "TSRevision",
