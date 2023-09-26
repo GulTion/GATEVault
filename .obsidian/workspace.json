@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "985b8fc86794727b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CalenderNotes/2023-09-26 Context Free Grammer and Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#notes/TOC/Closure_properties",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/Language Closure.md",
+                "file": "CalenderNotes/2023-09-26 Context Free Grammer and Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/Language Closure.md",
+                "file": "CalenderNotes/2023-09-26 Context Free Grammer and Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/Language Closure.md"
+                "file": "CalenderNotes/2023-09-26 Context Free Grammer and Language.md"
               }
             }
           },
@@ -185,26 +197,31 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "c823412a1b14f358",
+  "active": "985b8fc86794727b",
   "lastOpenFiles": [
+    "CalenderNotes/media/Pasted image 20230926180819.png",
+    "CalenderNotes/media/Pasted image 20230926180725.png",
+    "CalenderNotes/media/Pasted image 20230926180613.png",
+    "CalenderNotes/media/Pasted image 20230926180459.png",
+    "CalenderNotes/media/Pasted image 20230926180422.png",
+    "CalenderNotes/media/Pasted image 20230926180405.png",
+    "CalenderNotes/media/Pasted image 20230926180348.png",
+    "CalenderNotes/media/Pasted image 20230926180316.png",
+    "CalenderNotes/media/Pasted image 20230926180214.png",
+    "CalenderNotes/media/Pasted image 20230926180138.png",
+    "Plan/Language Closure.md",
+    "CalenderNotes/2023-09-26 Context Free Grammer and Language.md",
     "Dashboard.md",
     "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
     "CalenderNotes/media/Pasted image 20230926103634.png",
     "2023-09-14.md",
-    "Plan/Language Closure.md",
     "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "CalenderNotes/2023-09-25 DS advanced .md",
     "CalenderNotes/2023-09-25 DM PYQ.md",
-    "CalenderNotes/media/Pasted image 20230925131334.png",
-    "CalenderNotes/media/Pasted image 20230925131315.png",
     "Plan/Working of all sorting algo.md",
-    "CalenderNotes/media/Pasted image 20230925120207.png",
-    "CalenderNotes/media/Pasted image 20230925114350.png",
     "CalenderNotes/testDB.md",
     "CalenderNotes/2023-09-22 DM.md",
     "fromWhereSubject.md",
-    "CalenderNotes/media/Pasted image 20230925112813.png",
-    "CalenderNotes/media/Pasted image 20230925111904.png",
     "shortNotesList.md",
     "Untitled 3.md",
     "Untitled.md",
@@ -217,12 +234,8 @@
     "PYQRevision/GATE 2021 SET-2.md",
     "PYQRevision/CD/Parser/Untitled.md",
     "conflict-files-obsidian-git.md",
-    "PYQRevision/media/Pasted image 20230923160222.png",
     "PYQRevision/media",
-    "media/Pasted image 20230923112915.png",
-    "media/Screenshot_20230918_095424.jpg",
     "ZealRevision/ZealDB.md",
-    "ZealRevision/Planner and its Properties.md",
     "ZealRevision",
     "TSRevision/media",
     "TSRevision",
