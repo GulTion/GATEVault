@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Plan/Language Closure.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#notes/ALGO/sorting/bubble_sort",
+                "query": "tag:#notes/TOC/Closure_properties",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Plan/Language Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Plan/Language Closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Plan/Language Closure.md"
               }
             }
           },
@@ -186,12 +187,12 @@
   },
   "active": "c823412a1b14f358",
   "lastOpenFiles": [
+    "Dashboard.md",
     "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
     "CalenderNotes/media/Pasted image 20230926103634.png",
     "2023-09-14.md",
     "Plan/Language Closure.md",
     "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
-    "Dashboard.md",
     "CalenderNotes/2023-09-25 DS advanced .md",
     "CalenderNotes/2023-09-25 DM PYQ.md",
     "CalenderNotes/media/Pasted image 20230925131334.png",
