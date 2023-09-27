@@ -11,9 +11,11 @@
             "id": "b89ea2090cbbb09d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Revision/TSRevision/media/Pasted image 20230911175041.png"
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TSRevision/media/Pasted image 20230911175041.png",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TSRevision/media/Pasted image 20230911175041.png",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TSRevision/media/Pasted image 20230911175041.png"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -182,8 +184,9 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "5b301f141e47d7da",
+  "active": "b89ea2090cbbb09d",
   "lastOpenFiles": [
+    "Revision/TSRevision/media/Pasted image 20230911175041.png",
     "Revision",
     "Revision/TSRevision/media/Pasted image 20230909180839.png",
     "Revision/TSRevision/media/Pasted image 20230909160256.png",
@@ -229,7 +232,6 @@
     "Revision/PYQRevision/CD/Parser",
     "Revision/PYQRevision/CD",
     "Revision/PYQRevision",
-    "Revision/MESHORT Notes Revision",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

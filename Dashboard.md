@@ -6,13 +6,24 @@
 	- 30 Zeal (Basic or Advanced )
 	- 30 Test Series
 
+# ONE data Pattern (Revision 1)
+1. PICK any topic test from ZealTestSeries 2023
+2. learn all the syllabus using
+	1. PYQ
+	2. TS
+		 1. ME2022|2023 or 
+		 2. Zeal2022 or 
+		 3. GO23 or 
+		 4. Applied 22|21|20|19
+	3.  WorkBook
+3. Tick Mark Good Questions and Specified in Revision Section in Obsidian
+4. Create ShortNotes as well as MicroNote
+5. GIVE TEST SERIES 
+6. Analysis and Mistake written on notes
 
 # Useful link
 1. [Test Series](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/)
 2. [PYQ - TopicWise - Practice Paper](https://practicepaper.in/gate-cse/topic-wise-practice-of-gate-cse-previous-year-papers)
-
-# TEST SERIES PLAN
-![[Screenshot_20230918_095424.jpg]]
 
 # TASK
 - [ ] DBMS
@@ -137,14 +148,7 @@
 
 
 
-# Doc
-[[shortNotesList]]
-[[PLANDB]]
-[[fromWhereSubject]]
-# Work
-[Recursive Language PYQ](https://practicepaper.in/gate-cse/recursive-language?page_no=1)
-[Language Clouse ](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/results.html?exam_id=347)
-## Complete the Test Series of the Subjects
+# Complete the Test Series of the Subjects
 Subject Wise
 - DS
 - DAA
