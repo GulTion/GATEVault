@@ -6,6 +6,7 @@ endTime: 12:00
 date: 2023-09-25
 completed: false
 atQ/P: 10/9
+type: single
 ---
 
 # row-order and column order #notes/DS/Array/Address 

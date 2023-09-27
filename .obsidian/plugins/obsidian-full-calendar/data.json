@@ -2,7 +2,7 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "#ffffff",
+      "color": "#00ff2a",
       "directory": "CalenderNotes"
     }
   ],

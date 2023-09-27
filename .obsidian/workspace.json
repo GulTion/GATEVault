@@ -11,11 +11,9 @@
             "id": "1854c03529342024",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": false
+                "file": "TSRevision/TSDB.md"
               }
             }
           },
@@ -32,17 +30,25 @@
             }
           },
           {
-            "id": "d0816019c8918e0d",
+            "id": "b215868b59e7f890",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5481d24a70745a18",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "CalenderNotes/testDB.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CalenderNotes/2023-09-26 5hr Practice Subjects.md",
+                "file": "CalenderNotes/testDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CalenderNotes/2023-09-26 5hr Practice Subjects.md",
+                "file": "CalenderNotes/testDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CalenderNotes/2023-09-26 5hr Practice Subjects.md"
+                "file": "CalenderNotes/testDB.md"
               }
             }
           },
@@ -207,11 +213,13 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "d0816019c8918e0d",
+  "active": "5481d24a70745a18",
   "lastOpenFiles": [
-    "Dashboard.md",
-    "CalenderNotes/2023-09-26 5hr Practice Subjects.md",
+    "CalenderNotes/2023-09-27 DM-Graph Theory revision from ME shortnotes.md",
     "CalenderNotes/testDB.md",
+    "CalenderNotes/2023-09-26 5hr Practice Subjects.md",
+    "TSRevision/TSDB.md",
+    "Dashboard.md",
     "PYQRevision/CD/Parser/Untitled.md",
     "Plan/Language Closure.md",
     "CalenderNotes/2023-09-26 Context Free Grammer and Language.md",
@@ -228,7 +236,7 @@
     "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
     "2023-09-14.md",
     "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
-    "CalenderNotes/2023-09-25 DS advanced .md",
+    "CalenderNotes/2023-09-25 DS advanced.md",
     "CalenderNotes/2023-09-25 DM PYQ.md",
     "Plan/Working of all sorting algo.md",
     "CalenderNotes/2023-09-22 DM.md",
@@ -243,9 +251,7 @@
     "Plan/Combintories.md",
     "Plan/pigeon hole.md",
     "PYQRevision/GATE 2021 SET-2.md",
-    "conflict-files-obsidian-git.md",
     "PYQRevision/media",
-    "ZealRevision/ZealDB.md",
     "ZealRevision",
     "TSRevision/media",
     "TSRevision",
