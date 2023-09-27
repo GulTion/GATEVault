@@ -4,51 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "48c62cbf8c4d9258",
+        "id": "65efc467900c9196",
         "type": "tabs",
         "children": [
           {
-            "id": "1854c03529342024",
+            "id": "b89ea2090cbbb09d",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "image",
               "state": {
-                "file": "TSRevision/TSDB.md"
-              }
-            }
-          },
-          {
-            "id": "1186be956755451a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CalenderNotes/2023-09-26 5hr Practice Subjects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b215868b59e7f890",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "5481d24a70745a18",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "CalenderNotes/testDB.md"
+                "file": "Revision/TSRevision/media/Pasted image 20230911175041.png"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CalenderNotes/testDB.md",
+                "file": "Revision/TSRevision/media/Pasted image 20230911175041.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CalenderNotes/testDB.md",
+                "file": "Revision/TSRevision/media/Pasted image 20230911175041.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CalenderNotes/testDB.md"
+                "file": "Revision/TSRevision/media/Pasted image 20230911175041.png"
               }
             }
           },
@@ -213,14 +182,18 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "5481d24a70745a18",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
-    "CalenderNotes/2023-09-27 DM-Graph Theory revision from ME shortnotes.md",
-    "CalenderNotes/testDB.md",
+    "Revision",
+    "Revision/TSRevision/media/Pasted image 20230909180839.png",
+    "Revision/TSRevision/media/Pasted image 20230909160256.png",
+    "Revision/TSRevision/media/Pasted image 20230909160500.png",
+    "Revision/TSRevision/TSDB.md",
     "CalenderNotes/2023-09-26 5hr Practice Subjects.md",
-    "TSRevision/TSDB.md",
+    "CalenderNotes/testDB.md",
+    "CalenderNotes/2023-09-27 DM-Graph Theory revision from ME shortnotes.md",
     "Dashboard.md",
-    "PYQRevision/CD/Parser/Untitled.md",
+    "Revision/PYQRevision/CD/Parser/Untitled.md",
     "Plan/Language Closure.md",
     "CalenderNotes/2023-09-26 Context Free Grammer and Language.md",
     "CalenderNotes/media/Pasted image 20230926180819.png",
@@ -230,12 +203,9 @@
     "CalenderNotes/media/Pasted image 20230926180422.png",
     "CalenderNotes/media/Pasted image 20230926180405.png",
     "CalenderNotes/media/Pasted image 20230926180348.png",
-    "CalenderNotes/media/Pasted image 20230926180316.png",
-    "CalenderNotes/media/Pasted image 20230926180214.png",
-    "CalenderNotes/media/Pasted image 20230926180138.png",
     "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
     "2023-09-14.md",
-    "TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
+    "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "CalenderNotes/2023-09-25 DS advanced.md",
     "CalenderNotes/2023-09-25 DM PYQ.md",
     "Plan/Working of all sorting algo.md",
@@ -250,17 +220,16 @@
     "Plan/Generating Function.md",
     "Plan/Combintories.md",
     "Plan/pigeon hole.md",
-    "PYQRevision/GATE 2021 SET-2.md",
-    "PYQRevision/media",
-    "ZealRevision",
-    "TSRevision/media",
-    "TSRevision",
+    "Revision/PYQRevision/media",
+    "Revision/ZealRevision",
+    "Revision/TSRevision/media",
+    "Revision/TSRevision",
     "Plan/media",
     "Plan",
-    "PYQRevision/CD/Parser",
-    "PYQRevision/CD",
-    "PYQRevision",
-    "MESHORT Notes Revision",
+    "Revision/PYQRevision/CD/Parser",
+    "Revision/PYQRevision/CD",
+    "Revision/PYQRevision",
+    "Revision/MESHORT Notes Revision",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
