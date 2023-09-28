@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CalenderNotes/2023-09-25 DS advanced .md",
+                "file": "Revision/MESHORT Notes Revision/I O ShortNotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CalenderNotes/2023-09-25 DS advanced .md",
+            "file": "Revision/MESHORT Notes Revision/I O ShortNotes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CalenderNotes/2023-09-25 DS advanced .md",
+            "file": "Revision/MESHORT Notes Revision/I O ShortNotes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -165,7 +165,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CalenderNotes/2023-09-25 DS advanced .md"
+            "file": "Revision/MESHORT Notes Revision/I O ShortNotes.md"
           }
         }
       },
@@ -196,6 +196,7 @@
   },
   "active": "73cb8939be768d1a",
   "lastOpenFiles": [
+    "Revision/MESHORT Notes Revision/connexion of register into system bus.md",
     "Dashboard.md",
     "fromWhereSubject.md",
     "PYQRevision/CD/Parser/Untitled.md",
