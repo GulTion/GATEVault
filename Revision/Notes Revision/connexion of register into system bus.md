@@ -4,7 +4,7 @@ Created: June 19, 2023 4:41 PM
 
 - \ connexion of register into system bus
     
-    ![Untitled](Revision/MESHORT%20Notes%20Revision/media/Untitled%202.png)
+    ![Untitled](Revision/Notes%20Revision/media/Untitled%202.png)
     
 - List of registered with work.
     

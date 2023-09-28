@@ -2,7 +2,7 @@
 
 Created: May 14, 2023 6:10 PM
 
-![Untitled](Revision/MESHORT%20Notes%20Revision/media/Untitled%204.png)
+![Untitled](Revision/Notes%20Revision/media/Untitled%204.png)
 
 1. ************************************************************Calculate the Exponent Based so Fast************************************************************
 

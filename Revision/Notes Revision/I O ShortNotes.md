@@ -20,36 +20,36 @@ Created: June 10, 2023 8:06 PM
     
     ![Untitled](Untitled%205%201.png)
     
-    ![Untitled](Revision/MESHORT%20Notes%20Revision/media/Untitled%206.png)
+    ![Untitled](Revision/Notes%20Revision/media/Untitled%206.png)
     
-    ![Untitled](Revision/MESHORT%20Notes%20Revision/media/Untitled%207.png)
+    ![Untitled](Revision/Notes%20Revision/media/Untitled%207.png)
     
     > 
     > 
     > 
-    > ![Untitled](Revision/MESHORT%20Notes%20Revision/media/Untitled%208.png)
+    > ![Untitled](Revision/Notes%20Revision/media/Untitled%208.png)
     > 
 - Interrupts Based Prioirty
     
-    ![Untitled](Revision/MESHORT%20Notes%20Revision/media/Untitled%209.png)
+    ![Untitled](Revision/Notes%20Revision/media/Untitled%209.png)
     
-    ![Untitled](Revision/MESHORT%20Notes%20Revision/media/Untitled%2010.png)
+    ![Untitled](Revision/Notes%20Revision/media/Untitled%2010.png)
     
-    ![Untitled](Revision/MESHORT%20Notes%20Revision/media/Untitled%2011.png)
+    ![Untitled](Revision/Notes%20Revision/media/Untitled%2011.png)
     
-    ![Untitled](Revision/MESHORT%20Notes%20Revision/media/Untitled%2012.png)
+    ![Untitled](Revision/Notes%20Revision/media/Untitled%2012.png)
     
 - DMA
     
-    ![Untitled](Revision/MESHORT%20Notes%20Revision/media/Untitled%2013.png)
+    ![Untitled](Revision/Notes%20Revision/media/Untitled%2013.png)
     
     terms
     
-    ![Untitled](Revision/MESHORT%20Notes%20Revision/media/Untitled%2014.png)
+    ![Untitled](Revision/Notes%20Revision/media/Untitled%2014.png)
     
     steps for dma action
     
-    ![Untitled](Revision/MESHORT%20Notes%20Revision/media/Untitled%2015.png)
+    ![Untitled](Revision/Notes%20Revision/media/Untitled%2015.png)
     
     ![Untitled](Untitled%2016.png)
     

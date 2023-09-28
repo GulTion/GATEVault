@@ -2,7 +2,7 @@
 
 Created: June 9, 2023 4:50 AM
 
-![Untitled](Revision/MESHORT%20Notes%20Revision/media/Untitled%203.png)
+![Untitled](Revision/Notes%20Revision/media/Untitled%203.png)
 
 ![Untitled](Untitled%201%202.png)
 

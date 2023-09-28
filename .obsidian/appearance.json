@@ -1,9 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Obsidian Nord",
-  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "theme": "system",
   "baseFontSize": 18,
   "nativeMenus": false,
   "translucency": false,
-  "showViewHeader": false
+  "showViewHeader": true
 }
