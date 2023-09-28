@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+                "file": "Revision/MESHORT Notes Revision/Overflow on Container Change.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "overflow",
+                "query": "tag:#ques/ZW/COA/Number_System",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 460.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+                "file": "Revision/MESHORT Notes Revision/Overflow on Container Change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+                "file": "Revision/MESHORT Notes Revision/Overflow on Container Change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md"
+                "file": "Revision/MESHORT Notes Revision/Overflow on Container Change.md"
               }
             }
           },
@@ -197,22 +197,43 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "b8ad5845210a6290",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
-    "CalenderNotes/media/Untitled.png",
-    "Dashboard.md",
+    "Revision/MESHORT Notes Revision/Untitled database.md",
+    "Revision/MESHORT Notes Revision/Overflow on Container Change.md",
+    "Revision/MESHORT Notes Revision/I O ShortNotes.md",
+    "Revision/MESHORT Notes Revision/Formula for Pipeline.md",
+    "Revision/MESHORT Notes Revision/Floating Point Tricks.md",
+    "Revision/MESHORT Notes Revision/Disk Memory in Input output.md",
+    "Revision/MESHORT Notes Revision/connexion of register into system bus.md",
+    "Revision/MESHORT Notes Revision/Binary Operation Overflow stuff.md",
+    "Revision/MESHORT Notes Revision/Binary Number Ranges.md",
+    "Revision/MESHORT Notes Revision/big-indian and little-indian.md",
+    "Revision/MESHORT Notes Revision/media/Pasted image 20230928153152.png",
+    "Revision/MESHORT Notes Revision/media",
+    "Revision/PYQRevision/Type of Questions in Pipeline.md",
+    "Revision/MESHORT Notes Revision/media/Untitled 26.png",
+    "Revision/MESHORT Notes Revision/media/Untitled 1 4.png",
+    "Revision/MESHORT Notes Revision/Overflow on Container Change 72b45765ab0440d391f5547fa6c54de5",
+    "Revision/MESHORT Notes Revision/media/Untitled 24.png",
+    "Revision/MESHORT Notes Revision/media/Untitled 23.png",
+    "Revision/MESHORT Notes Revision/media/Untitled 22.png",
+    "Revision/MESHORT Notes Revision/media/Untitled 21.png",
+    "Revision/MESHORT Notes Revision/media/Untitled 20.png",
+    "Revision/MESHORT Notes Revision/media/Untitled 19.png",
+    "Revision/MESHORT Notes Revision/media/Untitled 18.png",
+    "Revision/MESHORT Notes Revision/I O ShortNotes 4a3b2b062865485eae22c149070299c8",
+    "Revision/MESHORT Notes Revision/Formula for Pipeline 90ad1ba97be149f18d80f45447279cc0",
+    "Revision/MESHORT Notes Revision/Floating Point Tricks 6fbfb38a55794c1d89921add0cb58be2",
+    "Revision/MESHORT Notes Revision/Disk Memory in Input output 585f2d2dad0f472f87a6c4f16615a71c",
+    "Revision/MESHORT Notes Revision/connexion of register into system bus efdc46c8bd4044ae9165977fe6635643",
+    "Revision/MESHORT Notes Revision/Binary Operation Overflow stuff a41e4125ff4a46c0b143d66bbeb80ba5",
+    "Revision/MESHORT Notes Revision/big-indian and little-indian 6cb26dcca4974deb86a6cb1e47554ab5",
     "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+    "Type of Questions in Pipeline cf869c5492d24772bf720aa64c4c107e",
+    "Dashboard.md",
     "shortNotesList.md",
-    "CalenderNotes/media/Pasted image 20230928112338.png",
-    "CalenderNotes/media/Pasted image 20230928112320.png",
-    "CalenderNotes/media/Pasted image 20230928112241.png",
-    "CalenderNotes/media/Pasted image 20230928112103.png",
     "Untitled.md",
-    "Revision/TSRevision/media/Pasted image 20230911175041.png",
-    "Revision",
-    "Revision/TSRevision/media/Pasted image 20230909180839.png",
-    "Revision/TSRevision/media/Pasted image 20230909160256.png",
-    "Revision/TSRevision/media/Pasted image 20230909160500.png",
     "Revision/TSRevision/TSDB.md",
     "CalenderNotes/2023-09-26 5hr Practice Subjects.md",
     "CalenderNotes/testDB.md",
@@ -220,30 +241,10 @@
     "Revision/PYQRevision/CD/Parser/Untitled.md",
     "Plan/Language Closure.md",
     "CalenderNotes/2023-09-26 Context Free Grammer and Language.md",
-    "CalenderNotes/media/Pasted image 20230926180819.png",
     "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
     "2023-09-14.md",
     "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "CalenderNotes/2023-09-25 DS advanced.md",
-    "CalenderNotes/2023-09-25 DM PYQ.md",
-    "Plan/Working of all sorting algo.md",
-    "CalenderNotes/2023-09-22 DM.md",
-    "fromWhereSubject.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Plan/Adjancey matirx protieres.md",
-    "Plan/Generating Function.md",
-    "Plan/Combintories.md",
-    "Revision/PYQRevision/media",
-    "Revision/ZealRevision",
-    "Revision/TSRevision/media",
-    "Revision/TSRevision",
-    "Plan/media",
-    "Plan",
-    "Revision/PYQRevision/CD/Parser",
-    "Revision/PYQRevision/CD",
-    "Revision/PYQRevision",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

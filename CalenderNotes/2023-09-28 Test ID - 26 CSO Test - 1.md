@@ -22,7 +22,7 @@ The range of two's complement form is from $-(2^{n-1}) \space to \space (2^{n-1}
 
 # Floating Point Tricks
 #ques/ZW/COA/Number_System/floating_point
-![[Untitled.png]]
+![[CalenderNotes/media/Untitled.png]]
 1. **Calculate the Exponent Based so Fast**
 
 	M = 10000011
