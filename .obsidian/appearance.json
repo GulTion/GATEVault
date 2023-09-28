@@ -1,8 +1,9 @@
 {
-  "accentColor": "#811eae",
+  "accentColor": "",
   "cssTheme": "Obsidian Nord",
   "theme": "obsidian",
   "baseFontSize": 18,
   "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "showViewHeader": false
 }

@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "65efc467900c9196",
+        "id": "660ba25f120af42d",
         "type": "tabs",
         "children": [
           {
-            "id": "b89ea2090cbbb09d",
+            "id": "bfe74ede9f308eff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34646569da761d26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CalenderNotes/2023-09-27 DM-Graph Theory revision from ME shortnotes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8ad5845210a6290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CalenderNotes/2023-09-16 GO Classes Test Series 2023  Algorithms Test 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CalenderNotes/2023-09-16 GO Classes Test Series 2023  Algorithms Test 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CalenderNotes/2023-09-16 GO Classes Test Series 2023  Algorithms Test 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CalenderNotes/2023-09-16 GO Classes Test Series 2023  Algorithms Test 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,22 +177,28 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "b8ad5845210a6290",
+  "active": "bfe74ede9f308eff",
   "lastOpenFiles": [
+    "CalenderNotes/2023-09-20 TEST ID-1 [DM-1].md",
+    "Revision/MESHORT Notes Revision/Binary Operation Overflow stuff.md",
+    "Dashboard.md",
+    "Revision/MESHORT Notes Revision/I O ShortNotes.md",
     "Revision/MESHORT Notes Revision/Overflow on Container Change.md",
+    "Revision/MESHORT Notes Revision/Binary Number Ranges.md",
+    "CalenderNotes/2023-09-16 GO Classes Test Series 2023  Algorithms Test 3.md",
+    "CalenderNotes/2023-09-19 Test ID - 36 [Toc Test - 1] - 2023.md",
+    "CalenderNotes/2023-09-21 TEST ID-7 [C-Prog ].md",
+    "CalenderNotes/2023-09-25 DM PYQ.md",
+    "CalenderNotes/2023-09-26 5hr Practice Subjects.md",
     "CalenderNotes/2023-09-27 DM-Graph Theory revision from ME shortnotes.md",
     "CalenderNotes/2023-09-26 Context Free Grammer and Language.md",
-    "Dashboard.md",
     "CalenderNotes/testDB.md",
     "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
     "Revision/MESHORT Notes Revision/Disk Memory in Input output.md",
     "Revision/MESHORT Notes Revision/Untitled database.md",
-    "Revision/MESHORT Notes Revision/I O ShortNotes.md",
     "Revision/MESHORT Notes Revision/Formula for Pipeline.md",
     "Revision/MESHORT Notes Revision/Floating Point Tricks.md",
     "Revision/MESHORT Notes Revision/connexion of register into system bus.md",
-    "Revision/MESHORT Notes Revision/Binary Operation Overflow stuff.md",
-    "Revision/MESHORT Notes Revision/Binary Number Ranges.md",
     "Revision/MESHORT Notes Revision/big-indian and little-indian.md",
     "Revision/MESHORT Notes Revision/media/Pasted image 20230928153152.png",
     "Revision/MESHORT Notes Revision/media",
@@ -250,13 +224,7 @@
     "shortNotesList.md",
     "Untitled.md",
     "Revision/TSRevision/TSDB.md",
-    "CalenderNotes/2023-09-26 5hr Practice Subjects.md",
     "Revision/PYQRevision/CD/Parser/Untitled.md",
-    "Plan/Language Closure.md",
-    "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
-    "2023-09-14.md",
-    "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
-    "CalenderNotes/2023-09-25 DS advanced.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
