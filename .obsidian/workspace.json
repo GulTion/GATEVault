@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8ad5845210a6290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md"
               }
             }
           },
@@ -164,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -184,8 +197,15 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "b89ea2090cbbb09d",
+  "active": "b8ad5845210a6290",
   "lastOpenFiles": [
+    "CalenderNotes/media/Pasted image 20230928112338.png",
+    "CalenderNotes/media/Pasted image 20230928112320.png",
+    "CalenderNotes/media/Pasted image 20230928112241.png",
+    "CalenderNotes/media/Pasted image 20230928112103.png",
+    "Dashboard.md",
+    "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+    "Untitled.md",
     "Revision/TSRevision/media/Pasted image 20230911175041.png",
     "Revision",
     "Revision/TSRevision/media/Pasted image 20230909180839.png",
@@ -195,17 +215,12 @@
     "CalenderNotes/2023-09-26 5hr Practice Subjects.md",
     "CalenderNotes/testDB.md",
     "CalenderNotes/2023-09-27 DM-Graph Theory revision from ME shortnotes.md",
-    "Dashboard.md",
     "Revision/PYQRevision/CD/Parser/Untitled.md",
     "Plan/Language Closure.md",
     "CalenderNotes/2023-09-26 Context Free Grammer and Language.md",
     "CalenderNotes/media/Pasted image 20230926180819.png",
     "CalenderNotes/media/Pasted image 20230926180725.png",
     "CalenderNotes/media/Pasted image 20230926180613.png",
-    "CalenderNotes/media/Pasted image 20230926180459.png",
-    "CalenderNotes/media/Pasted image 20230926180422.png",
-    "CalenderNotes/media/Pasted image 20230926180405.png",
-    "CalenderNotes/media/Pasted image 20230926180348.png",
     "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
     "2023-09-14.md",
     "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
@@ -216,13 +231,11 @@
     "fromWhereSubject.md",
     "shortNotesList.md",
     "Untitled 3.md",
-    "Untitled.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Plan/Adjancey matirx protieres.md",
     "Plan/Generating Function.md",
     "Plan/Combintories.md",
-    "Plan/pigeon hole.md",
     "Revision/PYQRevision/media",
     "Revision/ZealRevision",
     "Revision/TSRevision/media",
