@@ -3,7 +3,8 @@
   "dataview",
   "obsidian-trash-explorer",
   "table-editor-obsidian",
-  "obsidian-full-calendar",
   "obsidian-git",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-full-calendar",
+  "cmdr"
 ]

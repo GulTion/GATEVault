@@ -8,6 +8,8 @@ completed: null
 
 ## Zeal Question 
 
+
+
 ![[Find Base of Polynomial Equation]]
 ![[Basic Number System#^c5d009]]
 ![[Ranges of Number]]

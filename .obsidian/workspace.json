@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+                "file": "Revision/PYQRevision/Type of Questions in Pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,16 +33,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b301f141e47d7da",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "f05219de2c216c2d",
             "type": "leaf",
             "state": {
@@ -58,6 +48,16 @@
             }
           },
           {
+            "id": "5b301f141e47d7da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "e41ff63964e51d38",
             "type": "leaf",
             "state": {
@@ -66,14 +66,15 @@
             }
           },
           {
-            "id": "51ad777add565579",
+            "id": "d46a52c34033a3d8",
             "type": "leaf",
             "state": {
               "type": "trash-explorer",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+                "file": "Revision/PYQRevision/Type of Questions in Pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+                "file": "Revision/PYQRevision/Type of Questions in Pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md"
+                "file": "Revision/PYQRevision/Type of Questions in Pipeline.md"
               }
             }
           },
@@ -162,63 +163,77 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "cb346972b2d728b3",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-sidebar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "daily-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "e83d6a4e16020786",
   "lastOpenFiles": [
-    "Revision/ZealRevision/COA/Number System/Find Base of Polynomial Equation.md",
     "Untitled.md",
-    "Revision/ZealRevision/Untitled Kanban.md",
+    "Revision/PYQRevision/Type of Questions in Pipeline.md",
+    "Revision/ZealRevision/PAGE REPLACEMENT.md",
+    "2023-09-28.md",
+    "CalenderNotes/2023-09-25 DM PYQ.md",
+    "CalenderNotes/2023-09-25 DS advanced.md",
+    "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
+    "CalenderNotes/2023-09-22 DM.md",
+    "CalenderNotes/2023-09-21 TEST ID-7 [C-Prog ].md",
+    "CalenderNotes/2023-09-20 TEST ID-1 [DM-1].md",
+    "CalenderNotes/2023-09-19 Test ID - 36 [Toc Test - 1] - 2023.md",
+    "Revision/Notes Revision/Formula for Pipeline.md",
+    "Plan/Group Theory.md",
+    "Plan/pigeon hole.md",
     "2023-09-15.md",
+    "Plan/Number of Keys and Super keys in FDs.md",
+    "Plan/2NF, 3NF and BNCF.md",
+    "Revision/ZealRevision/12 epi-NFA closure.md",
+    "Revision/Notes Revision/C.md",
+    "2023-09-21.md",
+    "Revision/Notes Revision/big-indian and little-indian.md",
+    "Revision/ZealRevision/Basic Vertex and Edge Calculation.md",
+    "Plan/Aptitude Progress.md",
+    "Ranges of Number.md",
+    "Revision/ZealRevision/COA/Number System/Find Base of Polynomial Equation.md",
     "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+    "CalenderNotes/media/Recording 20230928223844.webm",
+    "CalenderNotes/media/Recording 20230928223830.webm",
+    "CalenderNotes/media/Recording 20230928223813.webm",
+    "CalenderNotes/media/Recording 20230928223748.webm",
+    "CalenderNotes/media/Recording 20230928223736.webm",
     "CalenderNotes/media/Pasted image 20230928112320.png",
-    "Revision/ZealRevision/COA/Number System/Basic Number System.md",
     "Revision/ZealRevision/COA/Number System/media/Pasted image 20230928212737.png",
     "CalenderNotes/media/Pasted image 20230928112103.png",
-    "Ranges of Number.md",
-    "Revision/Notes Revision/I O ShortNotes.md",
     "Revision/ZealRevision/COA/Number System/media",
     "Revision/ZealRevision/COA/Number System",
     "Revision/ZealRevision/COA",
-    "CalenderNotes/2023-09-20 TEST ID-1 [DM-1].md",
-    "Revision/Notes Revision/Binary Operation Overflow stuff.md",
-    "Dashboard.md",
-    "Revision/Notes Revision/Overflow on Container Change.md",
-    "Revision/Notes Revision/Binary Number Ranges.md",
-    "CalenderNotes/2023-09-16 GO Classes Test Series 2023  Algorithms Test 3.md",
-    "CalenderNotes/2023-09-19 Test ID - 36 [Toc Test - 1] - 2023.md",
-    "CalenderNotes/2023-09-21 TEST ID-7 [C-Prog ].md",
-    "CalenderNotes/2023-09-25 DM PYQ.md",
-    "CalenderNotes/2023-09-26 5hr Practice Subjects.md",
-    "CalenderNotes/2023-09-27 DM-Graph Theory revision from ME shortnotes.md",
-    "CalenderNotes/2023-09-26 Context Free Grammer and Language.md",
-    "CalenderNotes/testDB.md",
-    "Revision/Notes Revision/Disk Memory in Input output.md",
-    "Revision/Notes Revision/Untitled database.md",
-    "Revision/Notes Revision/Formula for Pipeline.md",
-    "Revision/Notes Revision/Floating Point Tricks.md",
-    "Revision/Notes Revision/connexion of register into system bus.md",
     "Revision/Notes Revision/media/Pasted image 20230928153152.png",
     "Revision/Notes Revision/media",
     "Revision/Notes Revision/media/Untitled 26.png",
@@ -228,11 +243,6 @@
     "Revision/Notes Revision/media/Untitled 23.png",
     "Revision/Notes Revision/media/Untitled 22.png",
     "Revision/Notes Revision/media/Untitled 21.png",
-    "Revision/MESHORT Notes Revision/I O ShortNotes 4a3b2b062865485eae22c149070299c8",
-    "Revision/MESHORT Notes Revision/Formula for Pipeline 90ad1ba97be149f18d80f45447279cc0",
-    "Revision/MESHORT Notes Revision/Floating Point Tricks 6fbfb38a55794c1d89921add0cb58be2",
-    "Revision/MESHORT Notes Revision/Disk Memory in Input output 585f2d2dad0f472f87a6c4f16615a71c",
-    "Revision/MESHORT Notes Revision/connexion of register into system bus efdc46c8bd4044ae9165977fe6635643",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
