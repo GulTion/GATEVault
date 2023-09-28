@@ -6,6 +6,8 @@ completed: null
 ---
 # Closure Properties Trick of CFL #notes/TOC/Closure_properties/CFG
 
+^fc8cae
+
 #### CLOSURE
 > Uper COrn Kon Rakhega 
 
