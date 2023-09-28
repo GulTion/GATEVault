@@ -1,6 +1,7 @@
-# Disk Memory in Input/output
+---
+type: MicroNotes
+---
 
-Created: June 9, 2023 4:50 AM
 
 ![Untitled](Revision/Notes%20Revision/media/Untitled%203.png)
 

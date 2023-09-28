@@ -1,9 +1,5 @@
-# Type of Questions in Pipeline #ques/PYQ/COA/pipeline
 
-
-- all Stage of all instruction are different
-    
-    ![Untitled](Revision/PYQRevision/media/Untitled.png)
+- all Stage of all instruction are different![Untitled](Revision/PYQRevision/media/Untitled.png)
     
     solution
     
@@ -58,5 +54,4 @@
     ![Untitled](Revision/PYQRevision/media/Untitled%2014.png)
     
     soultion
-    
     ![Untitled](Revision/PYQRevision/media/Untitled%2015.png)
