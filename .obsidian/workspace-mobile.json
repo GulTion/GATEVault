@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/MESHORT Notes Revision/I O ShortNotes.md",
+                "file": "Revision/PYQRevision/COA/Number Syst!em.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,6 +122,24 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "589707dc29387caa",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "918c05a97d0d5231",
+        "type": "leaf",
+        "state": {
+          "type": "mk-file-view",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -136,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Revision/MESHORT Notes Revision/I O ShortNotes.md",
+            "file": "Revision/PYQRevision/COA/Number Syst!em.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,7 +171,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Revision/MESHORT Notes Revision/I O ShortNotes.md",
+            "file": "Revision/PYQRevision/COA/Number Syst!em.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -165,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Revision/MESHORT Notes Revision/I O ShortNotes.md"
+            "file": "Revision/PYQRevision/COA/Number Syst!em.md"
           }
         }
       },
@@ -182,6 +200,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
       "dbfolder:Create a new database table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-full-calendar:Open Full Calendar": false,
@@ -194,8 +214,14 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "73cb8939be768d1a",
+  "active": "2803188bd8c0f921",
   "lastOpenFiles": [
+    "Revision/PYQRevision/COA/COA.md",
+    "Revision/PYQRevision/COA/Number Syst!em.md",
+    "Revision/PYQRevision/PYQ.md",
+    "Revision/Notes Revision/Overflow on Container Change.md",
+    "Revision/Notes Revision/Untitled database.md",
+    "Revision/Revision.md",
     "Revision/MESHORT Notes Revision/connexion of register into system bus.md",
     "Dashboard.md",
     "fromWhereSubject.md",
