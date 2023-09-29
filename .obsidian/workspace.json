@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Revision/PYQRevision/COA/COA - PYQ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76e4d83a8e67910f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Revision/PYQRevision/COA/Number System.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,14 +215,19 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "777e86c51c003ece",
+  "active": "76e4d83a8e67910f",
   "lastOpenFiles": [
+    "Revision/PYQRevision/COA/media/Pasted image 20230929183649.png",
+    "Revision/PYQRevision/COA/media/Pasted image 20230929183631.png",
+    "Revision/PYQRevision/COA/COA - PYQ.md",
+    "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+    "Revision/PYQRevision/COA/Number System.md",
+    "Revision/PYQRevision/COA/media/Pasted image 20230929180708.png",
+    "Revision/PYQRevision/COA/media/Pasted image 20230929180646.png",
     "Revision/PYQRevision/COA/media/Pasted image 20230929174738.png",
     "Revision/PYQRevision/COA/media/Pasted image 20230929174614.png",
-    "Revision/PYQRevision/COA/COA - PYQ.md",
     "Revision/PYQRevision/PYQ.md",
     "Dashboard.md",
-    "Revision/PYQRevision/COA/Number System.md",
     "Revision/ZealRevision/COA/Number Systems/Number System.md",
     "Revision/PYQRevision/COA/Number Syst!em.md",
     "Revision/ZealRevision/COA/Number Systems/Basic Number System.md",
@@ -220,7 +238,6 @@
     "Revision/Revision.md",
     "Plan/Plan.md",
     "Untitled.md",
-    "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
     "Context/spacesLastSync.log",
     "Context",
     "Revision/PYQRevision/COA/media/Pasted image 20230929155216.png",
@@ -234,8 +251,6 @@
     "Revision/Notes Revision/COA/Number System/media",
     "Revision/ZealRevision/COA/Number Systems/media/Pasted image 20230929083743.png",
     "Revision/ZealRevision/COA/Number Systems/media/Pasted image 20230929083303.png",
-    "Revision/ZealRevision/COA/Number Systems/media/Pasted image 20230929082229.png",
-    "Revision/Notes Revision/media/Untitled 1.png",
     "Revision/Notes Revision/COA/Number System/Invalid State in binary code representation.md",
     "Revision/Notes Revision/COA/Number System/Binary Operation Overflow stuff.md",
     "Revision/Notes Revision/Overflow on Container Change.md",
@@ -248,8 +263,6 @@
     "Revision/Notes Revision/COA/Number System/Ranges of Number.md",
     "Revision/Notes Revision/COA",
     "CalenderNotes/media/Recording 20230928223844.webm",
-    "CalenderNotes/media/Pasted image 20230928112320.png",
-    "Revision/ZealRevision/COA/Number Systems/media/Pasted image 20230928212737.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
