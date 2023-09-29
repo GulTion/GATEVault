@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "f07d57ec260cd8a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5f87a9df50324e70",
             "type": "leaf",
             "state": {
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "fc8308cc8d143d38",
@@ -156,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Revision/PYQRevision/PYQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Revision/PYQRevision/PYQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Revision/PYQRevision/PYQ.md"
+              }
             }
           },
           {
@@ -253,8 +269,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "ca7bc4254449ab06",
+  "active": "af2b671e0fcba5e4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Revision/PYQRevision/COA/Number Syst!em.md",
     "Revision/PYQRevision/COA/Number System.md",
     "fromWhereSubject.md",
     "Revision/PYQRevision/PYQ.md",
@@ -295,8 +313,6 @@
     "Revision/Notes Revision/Binary Number Ranges.md",
     "Revision/Notes Revision/COA",
     "Revision/PYQRevision/Type of Questions in Pipeline.md",
-    "2023-09-28.md",
-    "2023-09-21.md",
     "CalenderNotes/media/Recording 20230928223844.webm",
     "CalenderNotes/media/Pasted image 20230928112320.png",
     "Revision/ZealRevision/COA/Number Systems/media/Pasted image 20230928212737.png",
