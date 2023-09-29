@@ -6,6 +6,7 @@
       {
         "id": "022d92d8b5a42e9f",
         "type": "tabs",
+        "dimension": 48.71134020618557,
         "children": [
           {
             "id": "e83d6a4e16020786",
@@ -13,28 +14,53 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Notes Revision/COA/Number System/Untitled.md",
+                "file": "Revision/ZealRevision/COA/Number System/Number System.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "634ada8db3d6cb88",
+            "id": "5f87a9df50324e70",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Revision/Notes Revision/media/Untitled 1.png"
+                "file": "Revision/ZealRevision/COA/Number System/Find Base of Polynomial Equation.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "7b7ee87e0d67c67c",
+            "id": "4a68a1a4ae8d0ef5",
             "type": "leaf",
             "state": {
-              "type": "OOLW::InAppView",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Revision/Notes Revision/Floating Point Tricks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fc8308cc8d143d38",
+        "type": "tabs",
+        "dimension": 51.28865979381443,
+        "children": [
+          {
+            "id": "af2b671e0fcba5e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -51,26 +77,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f05219de2c216c2d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "5b301f141e47d7da",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f05219de2c216c2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "self ing",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -96,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -112,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Notes Revision/COA/Number System/Untitled.md",
+                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Notes Revision/COA/Number System/Untitled.md",
+                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Notes Revision/COA/Number System/Untitled.md"
+                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md"
               }
             }
           },
@@ -214,20 +241,24 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e83d6a4e16020786",
+  "active": "af2b671e0fcba5e4",
   "lastOpenFiles": [
-    "Revision/Notes Revision/COA/Number System/Binary Operation Overflow stuff.md",
-    "Revision/Notes Revision/COA/Number System/Untitled.md",
-    "Revision/Notes Revision/media/Untitled 1.png",
-    "Revision/Notes Revision/Overflow on Container Change.md",
-    "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+    "Revision/ZealRevision/COA/Number System/Number System.md",
     "Revision/ZealRevision/COA/Number System/Find Base of Polynomial Equation.md",
+    "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+    "Revision/ZealRevision/COA/Number System/media/Pasted image 20230929083743.png",
+    "Revision/ZealRevision/COA/Number System/media/Pasted image 20230929083303.png",
+    "Revision/ZealRevision/COA/Number System/media/Pasted image 20230929082229.png",
+    "Revision/Notes Revision/Floating Point Tricks.md",
+    "Revision/Notes Revision/media/Untitled 1.png",
+    "Revision/Notes Revision/COA/Number System/Invalid State in binary code representation.md",
+    "Revision/Notes Revision/COA/Number System/Binary Operation Overflow stuff.md",
+    "Revision/Notes Revision/Overflow on Container Change.md",
     "Revision/ZealRevision/COA/Number System/Basic Number System.md",
     "Binary Operation Overflow stuff a41e4125ff4a46c0b143d66bbeb80ba5",
     "Revision/ZealRevision/ZealDB.md",
     "Revision/ZealRevision/13.md",
     "Revision/Notes Revision/COA/Disk Memory in Input output.md",
-    "Revision/Notes Revision/Floating Point Tricks.md",
     "Revision/Notes Revision/connexion of register into system bus.md",
     "Revision/Notes Revision/COA/Number System",
     "Revision/Notes Revision/COA/Number System/Ranges of Number.md",
@@ -244,8 +275,6 @@
     "CalenderNotes/2023-09-25 DS advanced.md",
     "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
     "CalenderNotes/2023-09-22 DM.md",
-    "CalenderNotes/2023-09-21 TEST ID-7 [C-Prog ].md",
-    "CalenderNotes/2023-09-20 TEST ID-1 [DM-1].md",
     "CalenderNotes/media/Recording 20230928223844.webm",
     "CalenderNotes/media/Recording 20230928223830.webm",
     "CalenderNotes/media/Recording 20230928223813.webm",
@@ -259,9 +288,6 @@
     "Revision/Notes Revision/media/Pasted image 20230928153152.png",
     "Revision/Notes Revision/media/Untitled 26.png",
     "Revision/Notes Revision/media/Untitled 1 4.png",
-    "Revision/Notes Revision/media/Untitled 24.png",
-    "Revision/Notes Revision/media/Untitled 23.png",
-    "Revision/Notes Revision/media/Untitled 22.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
