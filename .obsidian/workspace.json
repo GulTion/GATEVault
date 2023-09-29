@@ -22,11 +22,10 @@
             "id": "ee79661cb2a0b5e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Revision/PYQRevision/COA/Number System.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/plugins/make-md/Spaces.mdb",
+                "staged": false
               }
             }
           },
@@ -157,7 +156,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQRevision/COA/Number System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +172,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQRevision/COA/Number System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,9 +193,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Revision/PYQRevision/COA/Number System.md"
-              }
+              "state": {}
             }
           },
           {
@@ -240,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 674.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,10 +253,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "ee79661cb2a0b5e2",
+  "active": "ca7bc4254449ab06",
   "lastOpenFiles": [
-    "fromWhereSubject.md",
     "Revision/PYQRevision/COA/Number System.md",
+    "fromWhereSubject.md",
     "Revision/PYQRevision/PYQ.md",
     "Revision/Revision.md",
     "Plan/Plan.md",
