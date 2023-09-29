@@ -6,7 +6,7 @@
       {
         "id": "022d92d8b5a42e9f",
         "type": "tabs",
-        "dimension": 48.71134020618557,
+        "dimension": 47.42268041237113,
         "children": [
           {
             "id": "e83d6a4e16020786",
@@ -49,7 +49,7 @@
       {
         "id": "fc8308cc8d143d38",
         "type": "tabs",
-        "dimension": 51.28865979381443,
+        "dimension": 52.57731958762887,
         "children": [
           {
             "id": "af2b671e0fcba5e4",
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+                "file": "Revision/Notes Revision/COA/Number System/big-indian and little-indian.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,8 +117,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+                "file": "Revision/Notes Revision/media/Untitled.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+                "file": "Revision/Notes Revision/media/Untitled.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md"
+                "file": "Revision/Notes Revision/media/Untitled.png"
               }
             }
           },
@@ -241,11 +240,50 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "af2b671e0fcba5e4",
+  "floating": {
+    "id": "f9e91f0e036ad726",
+    "type": "floating",
+    "children": [
+      {
+        "id": "33dfca27f2b41c44",
+        "type": "window",
+        "children": [
+          {
+            "id": "fe760f6fc6c05cdd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8601c278a375450a",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Revision/Notes Revision/media/Untitled.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 388,
+        "y": 45,
+        "width": 818,
+        "height": 833,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8601c278a375450a",
   "lastOpenFiles": [
+    "Revision/Notes Revision/COA/Number System/big-indian and little-indian.md",
+    "Revision/Notes Revision/COA/Number System/Floating Point Tables.md",
+    "Revision/Notes Revision/COA/Number System/media/Pasted image 20230929145138.png",
+    "Revision/Notes Revision/COA/Number System/media",
+    "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
     "Revision/ZealRevision/COA/Number System/Number System.md",
     "Revision/ZealRevision/COA/Number System/Find Base of Polynomial Equation.md",
-    "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
     "Revision/ZealRevision/COA/Number System/media/Pasted image 20230929083743.png",
     "Revision/ZealRevision/COA/Number System/media/Pasted image 20230929083303.png",
     "Revision/ZealRevision/COA/Number System/media/Pasted image 20230929082229.png",
@@ -263,7 +301,6 @@
     "Revision/Notes Revision/COA/Number System",
     "Revision/Notes Revision/COA/Number System/Ranges of Number.md",
     "Revision/Notes Revision/Binary Number Ranges.md",
-    "Revision/Notes Revision/COA/Number System/big-indian and little-indian.md",
     "Revision/Notes Revision/COA",
     "fromWhereSubject.md",
     "Revision/PYQRevision/Type of Questions in Pipeline.md",
@@ -274,7 +311,6 @@
     "CalenderNotes/2023-09-25 DM PYQ.md",
     "CalenderNotes/2023-09-25 DS advanced.md",
     "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
-    "CalenderNotes/2023-09-22 DM.md",
     "CalenderNotes/media/Recording 20230928223844.webm",
     "CalenderNotes/media/Recording 20230928223830.webm",
     "CalenderNotes/media/Recording 20230928223813.webm",
@@ -284,10 +320,8 @@
     "Revision/ZealRevision/COA/Number System/media/Pasted image 20230928212737.png",
     "CalenderNotes/media/Pasted image 20230928112103.png",
     "Revision/ZealRevision/COA/Number System/media",
-    "Revision/ZealRevision/COA/Number System",
     "Revision/Notes Revision/media/Pasted image 20230928153152.png",
     "Revision/Notes Revision/media/Untitled 26.png",
-    "Revision/Notes Revision/media/Untitled 1 4.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
