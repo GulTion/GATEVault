@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "65b77041300d9912",
+        "id": "022d92d8b5a42e9f",
         "type": "tabs",
         "children": [
           {
@@ -13,10 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Notes Revision/Overflow on Container Change.md",
+                "file": "Revision/Notes Revision/COA/Number System/Untitled.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "634ada8db3d6cb88",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Revision/Notes Revision/media/Untitled 1.png"
+              }
+            }
+          },
+          {
+            "id": "7b7ee87e0d67c67c",
+            "type": "leaf",
+            "state": {
+              "type": "OOLW::InAppView",
+              "state": {}
             }
           }
         ]
@@ -78,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 301.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -94,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Notes Revision/Overflow on Container Change.md",
+                "file": "Revision/Notes Revision/COA/Number System/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Notes Revision/Overflow on Container Change.md",
+                "file": "Revision/Notes Revision/COA/Number System/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Notes Revision/Overflow on Container Change.md"
+                "file": "Revision/Notes Revision/COA/Number System/Untitled.md"
               }
             }
           },
@@ -173,16 +191,16 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-trash-explorer:Open trash explorer": false,
-      "daily-notes:Open today's daily note": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -192,18 +210,26 @@
       "dbfolder:Create a new database table": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "e83d6a4e16020786",
   "lastOpenFiles": [
+    "Revision/Notes Revision/COA/Number System/Binary Operation Overflow stuff.md",
+    "Revision/Notes Revision/COA/Number System/Untitled.md",
+    "Revision/Notes Revision/media/Untitled 1.png",
+    "Revision/Notes Revision/Overflow on Container Change.md",
+    "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
+    "Revision/ZealRevision/COA/Number System/Find Base of Polynomial Equation.md",
+    "Revision/ZealRevision/COA/Number System/Basic Number System.md",
+    "Binary Operation Overflow stuff a41e4125ff4a46c0b143d66bbeb80ba5",
+    "Revision/ZealRevision/ZealDB.md",
+    "Revision/ZealRevision/13.md",
     "Revision/Notes Revision/COA/Disk Memory in Input output.md",
     "Revision/Notes Revision/Floating Point Tricks.md",
     "Revision/Notes Revision/connexion of register into system bus.md",
     "Revision/Notes Revision/COA/Number System",
-    "Revision/Notes Revision/COA/Number System/Binary Operation Overflow stuff.md",
-    "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
-    "Revision/ZealRevision/COA/Number System/Find Base of Polynomial Equation.md",
     "Revision/Notes Revision/COA/Number System/Ranges of Number.md",
     "Revision/Notes Revision/Binary Number Ranges.md",
     "Revision/Notes Revision/COA/Number System/big-indian and little-indian.md",
@@ -220,11 +246,6 @@
     "CalenderNotes/2023-09-22 DM.md",
     "CalenderNotes/2023-09-21 TEST ID-7 [C-Prog ].md",
     "CalenderNotes/2023-09-20 TEST ID-1 [DM-1].md",
-    "CalenderNotes/2023-09-19 Test ID - 36 [Toc Test - 1] - 2023.md",
-    "Revision/Notes Revision/Formula for Pipeline.md",
-    "Plan/Group Theory.md",
-    "Plan/pigeon hole.md",
-    "2023-09-15.md",
     "CalenderNotes/media/Recording 20230928223844.webm",
     "CalenderNotes/media/Recording 20230928223830.webm",
     "CalenderNotes/media/Recording 20230928223813.webm",
@@ -235,14 +256,12 @@
     "CalenderNotes/media/Pasted image 20230928112103.png",
     "Revision/ZealRevision/COA/Number System/media",
     "Revision/ZealRevision/COA/Number System",
-    "Revision/ZealRevision/COA",
     "Revision/Notes Revision/media/Pasted image 20230928153152.png",
     "Revision/Notes Revision/media/Untitled 26.png",
     "Revision/Notes Revision/media/Untitled 1 4.png",
     "Revision/Notes Revision/media/Untitled 24.png",
     "Revision/Notes Revision/media/Untitled 23.png",
     "Revision/Notes Revision/media/Untitled 22.png",
-    "Revision/Notes Revision/media/Untitled 21.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

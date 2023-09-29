@@ -1,0 +1,34 @@
+{
+  "selected": "_in_app_last",
+  "custom": {},
+  "modifierBindings": [],
+  "enableLog": false,
+  "timeout": 500,
+  "inAppViewRec": [
+    {
+      "leafId": "17b7a46513d3fac9",
+      "url": "https://google.com/",
+      "mode": 0
+    },
+    {
+      "leafId": "9176d05382b9cbfa",
+      "url": "https://google.com/",
+      "mode": 1
+    },
+    {
+      "leafId": "4d8cfaa3fdd8183e",
+      "url": "https://google.com/",
+      "mode": 1
+    },
+    {
+      "leafId": "742626e26014fcb8",
+      "url": "https://google.com/",
+      "mode": 1
+    },
+    {
+      "leafId": "73daced063273b7e",
+      "url": "https://google.com/",
+      "mode": 1
+    }
+  ]
+}

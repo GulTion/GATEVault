@@ -28,3 +28,5 @@ completed: null
 2. **Convert Binary to Decimal so Fast**
     1. e.g. 100000011
         1. digit after the first MSB is 8 ⇒ 2^8 ⇒ 256 digit after the add the 11 ⇒ 256 + 3 ⇒ 259
+
+

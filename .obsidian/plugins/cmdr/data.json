@@ -7,7 +7,8 @@
       "id": "app:delete-file",
       "icon": "lucide-trash-2",
       "name": "Delete current file",
-      "mode": "any"
+      "mode": "any",
+      "color": "#635865"
     }
   ],
   "fileMenu": [],
@@ -21,7 +22,7 @@
       "icon": "lucide-trash-2",
       "name": "Delete current file",
       "mode": "any",
-      "color": "#ffffff"
+      "color": "#808080"
     }
   ],
   "macros": [],
