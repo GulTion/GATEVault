@@ -1,3 +1,7 @@
+---
+type: zealWorkBook
+subType: topicWise
+---
 ![[Basic Number System]]
 ![[Find Base of Polynomial Equation]]
 

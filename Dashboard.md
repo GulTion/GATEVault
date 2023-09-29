@@ -1,4 +1,7 @@
 ![[Sch.png]]
+# Revision
+- [[PYQ]]
+- 
 # 2hr Distribuation
 - 4 segments in each subject
 	- 30 PYQ

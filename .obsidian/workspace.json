@@ -4,70 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "022d92d8b5a42e9f",
+        "id": "e7067fbeb777b961",
         "type": "tabs",
-        "dimension": 47.42268041237113,
         "children": [
           {
-            "id": "e83d6a4e16020786",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "GATEVault//"
-              }
-            }
-          },
-          {
-            "id": "ee79661cb2a0b5e2",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/make-md/Spaces.mdb",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "5f87a9df50324e70",
+            "id": "777e86c51c003ece",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealRevision/COA/Number Systems/Find Base of Polynomial Equation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a68a1a4ae8d0ef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/Notes Revision/Floating Point Tricks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "fc8308cc8d143d38",
-        "type": "tabs",
-        "dimension": 52.57731958762887,
-        "children": [
-          {
-            "id": "af2b671e0fcba5e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/PYQRevision/PYQ.md",
+                "file": "Revision/PYQRevision/COA/Number System.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,15 +74,14 @@
             }
           },
           {
-            "id": "aa10bc5904b413f8",
+            "id": "b124b1ce60556a81",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQRevision/PYQ.md",
+                "file": "Revision/PYQRevision/COA/Number System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQRevision/PYQ.md",
+                "file": "Revision/PYQRevision/COA/Number System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQRevision/PYQ.md"
+                "file": "Revision/PYQRevision/COA/Number System.md"
               }
             }
           },
@@ -239,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 674.5
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,21 +202,27 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "ca7bc4254449ab06",
+  "active": "777e86c51c003ece",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Revision/PYQRevision/COA/Number Syst!em.md",
-    "Revision/PYQRevision/COA/Number System.md",
-    "fromWhereSubject.md",
+    "Revision/PYQRevision/COA/media/Pasted image 20230929174738.png",
+    "Revision/PYQRevision/COA/media/Pasted image 20230929174614.png",
+    "Revision/PYQRevision/COA/COA - PYQ.md",
     "Revision/PYQRevision/PYQ.md",
+    "Dashboard.md",
+    "Revision/PYQRevision/COA/Number System.md",
+    "Revision/ZealRevision/COA/Number Systems/Number System.md",
+    "Revision/PYQRevision/COA/Number Syst!em.md",
+    "Revision/ZealRevision/COA/Number Systems/Basic Number System.md",
+    "Revision/ZealRevision/COA/Number Systems/Find Base of Polynomial Equation.md",
+    "Revision/Notes Revision/Floating Point Tricks.md",
+    "conflict-files-obsidian-git.md",
+    "fromWhereSubject.md",
     "Revision/Revision.md",
     "Plan/Plan.md",
     "Untitled.md",
     "CalenderNotes/2023-09-28 Test ID - 26 CSO Test - 1.md",
     "Context/spacesLastSync.log",
     "Context",
-    "Revision/PYQRevision/COA/COA.md",
-    "Revision/ZealRevision/COA/Number Systems/Number System.md",
     "Revision/PYQRevision/COA/media/Pasted image 20230929155216.png",
     "Revision/PYQRevision/COA/media",
     "Revision/Notes Revision/COA/Number System/big-indian and little-indian.md",
@@ -281,16 +232,13 @@
     "Revision/Notes Revision/COA/Number System/Floating Point Tables.md",
     "Revision/Notes Revision/COA/Number System/media/Pasted image 20230929145138.png",
     "Revision/Notes Revision/COA/Number System/media",
-    "Revision/ZealRevision/COA/Number Systems/Find Base of Polynomial Equation.md",
     "Revision/ZealRevision/COA/Number Systems/media/Pasted image 20230929083743.png",
     "Revision/ZealRevision/COA/Number Systems/media/Pasted image 20230929083303.png",
     "Revision/ZealRevision/COA/Number Systems/media/Pasted image 20230929082229.png",
-    "Revision/Notes Revision/Floating Point Tricks.md",
     "Revision/Notes Revision/media/Untitled 1.png",
     "Revision/Notes Revision/COA/Number System/Invalid State in binary code representation.md",
     "Revision/Notes Revision/COA/Number System/Binary Operation Overflow stuff.md",
     "Revision/Notes Revision/Overflow on Container Change.md",
-    "Revision/ZealRevision/COA/Number Systems/Basic Number System.md",
     "Binary Operation Overflow stuff a41e4125ff4a46c0b143d66bbeb80ba5",
     "Revision/ZealRevision/ZealDB.md",
     "Revision/ZealRevision/13.md",
@@ -298,13 +246,10 @@
     "Revision/Notes Revision/connexion of register into system bus.md",
     "Revision/Notes Revision/COA/Number System",
     "Revision/Notes Revision/COA/Number System/Ranges of Number.md",
-    "Revision/Notes Revision/Binary Number Ranges.md",
     "Revision/Notes Revision/COA",
-    "Revision/PYQRevision/Type of Questions in Pipeline.md",
     "CalenderNotes/media/Recording 20230928223844.webm",
     "CalenderNotes/media/Pasted image 20230928112320.png",
     "Revision/ZealRevision/COA/Number Systems/media/Pasted image 20230928212737.png",
-    "CalenderNotes/media/Pasted image 20230928112103.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
