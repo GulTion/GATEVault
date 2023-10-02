@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md",
+                "file": "Revision/ZealRevision/C/C.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.50436401367188
+    "width": 254.50436401367188,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md",
+                "file": "Revision/ZealRevision/C/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md",
+                "file": "Revision/ZealRevision/C/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md"
+                "file": "Revision/ZealRevision/C/C.md"
               }
             }
           },
@@ -205,14 +206,15 @@
   },
   "active": "2f5d194da5f82784",
   "lastOpenFiles": [
-    "Revision/ZealRevision/OS/InterProcess Communication.md",
+    "CalenderNotes/2023-10-01 TEST ID-7 C-Prog.md",
     "CalenderNotes/OS/2023-10-02 Test ID - 20 OS Test - 2.md",
+    "CalenderNotes/2023-09-15 Revision Stuff using PYQ GATE 2021-1.md",
+    "Revision/ZealRevision/OS/InterProcess Communication.md",
     "Revision/PYQRevision/OS/Memory.md",
     "Revision/ZealRevision/OS/media/Pasted image 20231002183808.png",
     "CalenderNotes/2023-09-25 DS advanced.md",
     "CalenderNotes/2023-09-25 DM PYQ.md",
     "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
-    "CalenderNotes/2023-10-01 TEST ID-7 C-Prog.md",
     "CalenderNotes/testDB.md",
     "Revision/Notes Revision/OS/Process Syncronization.md",
     "Revision/Notes Revision/OS/media/Pasted image 20231002153911.png",
