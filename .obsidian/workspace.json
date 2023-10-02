@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQRevision/OS/Memory.md",
+                "file": "CalenderNotes/OS/2023-10-02 Test ID - 20 OS Test - 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealRevision/OS/InterProcess Communication.md",
+                "file": "CalenderNotes/OS/2023-10-02 Test ID - 20 OS Test - 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealRevision/OS/InterProcess Communication.md",
+                "file": "CalenderNotes/OS/2023-10-02 Test ID - 20 OS Test - 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealRevision/OS/InterProcess Communication.md"
+                "file": "CalenderNotes/OS/2023-10-02 Test ID - 20 OS Test - 2.md"
               }
             }
           },
@@ -221,23 +221,23 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "2f5d194da5f82784",
+  "active": "95725354ba32a9a3",
   "lastOpenFiles": [
-    "Revision/ZealRevision/OS/media/Pasted image 20231002183808.png",
+    "Revision/ZealRevision/OS/InterProcess Communication.md",
+    "CalenderNotes/OS/2023-10-02 Test ID - 20 OS Test - 2.md",
     "Revision/PYQRevision/OS/Memory.md",
+    "Revision/ZealRevision/OS/media/Pasted image 20231002183808.png",
     "CalenderNotes/2023-09-25 DS advanced.md",
     "CalenderNotes/2023-09-25 DM PYQ.md",
     "CalenderNotes/2023-09-14 Some Notes must write on paper.md",
     "CalenderNotes/2023-10-01 TEST ID-7 C-Prog.md",
     "CalenderNotes/testDB.md",
-    "CalenderNotes/OS/2023-10-02 Test ID - 20 OS Test - 2.md",
     "Revision/Notes Revision/OS/Process Syncronization.md",
     "Revision/Notes Revision/OS/media/Pasted image 20231002153911.png",
     "Revision/Notes Revision/OS/media/Pasted image 20231002153613.png",
     "Revision/Notes Revision/OS/media/Pasted image 20231002144655.png",
     "Revision/Notes Revision/OS/media",
     "Revision/Notes Revision/OS",
-    "Revision/ZealRevision/OS/InterProcess Communication.md",
     "Revision/ZealRevision/OS/media/Pasted image 20231002132831.png",
     "Revision/ZealRevision/OS/media/Pasted image 20231002132830.png",
     "Revision/ZealRevision/OS/media/Pasted image 20231002132827.png",
@@ -254,7 +254,6 @@
     "Revision/PYQRevision/OS/media/Pasted image 20231002131308.png",
     "Revision/PYQRevision/OS/media/Pasted image 20231002131239.png",
     "Revision/PYQRevision/OS/media/Pasted image 20231002125817.png",
-    "Revision/PYQRevision/OS/media/Pasted image 20231002125807.png",
     "Revision/PYQRevision/OS/CPU Scheduling.md",
     "Revision/PYQRevision/OS/media",
     "Revision/ZealRevision/C/C.md",
