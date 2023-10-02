@@ -1,0 +1,2 @@
+- IPC  Model and types![[Pasted image 20231002144655.png]]
+- 
