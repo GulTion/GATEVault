@@ -81,12 +81,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200.50436401367188
+    "width": 200.50436401367188,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -203,7 +203,7 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "2f5d194da5f82784",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
     "CalenderNotes/C/2023-10-01 TEST ID-7 C-Prog.md",
     "TEST PROGRESS.md",
