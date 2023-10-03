@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealRevision/C/C.md",
+                "file": "Revision/ZealRevision/OS/InterProcess Communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.50436401367188,
-    "collapsed": true
+    "width": 254.50436401367188
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealRevision/C/C.md",
+                "file": "Revision/ZealRevision/OS/InterProcess Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealRevision/C/C.md",
+                "file": "Revision/ZealRevision/OS/InterProcess Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealRevision/C/C.md"
+                "file": "Revision/ZealRevision/OS/InterProcess Communication.md"
               }
             }
           },
@@ -205,6 +204,8 @@
   },
   "active": "2f5d194da5f82784",
   "lastOpenFiles": [
+    "Revision/ZealRevision/OS/media/Pasted image 20231003131019.png",
+    "Revision/ZealRevision/C/C.md",
     "Revision/ZealRevision/C/media/Pasted image 20231003003523.png",
     "Revision/ZealRevision/C/media/Pasted image 20231003002742.png",
     "Revision/ZealRevision/C/media/Pasted image 20231003002730.png",
@@ -227,7 +228,6 @@
     "Revision/Notes Revision/OS",
     "Revision/ZealRevision/OS/media/Pasted image 20231002132831.png",
     "Revision/ZealRevision/OS/media/Pasted image 20231002132830.png",
-    "Revision/ZealRevision/OS/media/Pasted image 20231002132827.png",
     "Revision/ZealRevision/OS/media",
     "Revision/ZealRevision/OS",
     "CalenderNotes/COA/2023-09-28 Test ID - 26 CSO Test - 1.md",
@@ -240,7 +240,6 @@
     "CalenderNotes/OS",
     "Revision/PYQRevision/OS/CPU Scheduling.md",
     "Revision/PYQRevision/OS/media",
-    "Revision/ZealRevision/C/C.md",
     "Revision/PYQRevision/OS",
     "Revision/Notes Revision/CN/Application Layer.md",
     "Revision/Notes Revision/CN/TCP Notes.md",
