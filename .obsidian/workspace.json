@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealRevision/DBMS/Indexing DBMS ZEAL.md",
+                "file": "Revision/ZealRevision/ZealRevision.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealRevision/DBMS/Indexing DBMS ZEAL.md",
+                "file": "Revision/ZealRevision/ZealRevision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealRevision/DBMS/Indexing DBMS ZEAL.md",
+                "file": "Revision/ZealRevision/ZealRevision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealRevision/DBMS/Indexing DBMS ZEAL.md"
+                "file": "Revision/ZealRevision/ZealRevision.md"
               }
             }
           },
@@ -218,16 +218,22 @@
   },
   "active": "644570073db0d85f",
   "lastOpenFiles": [
+    "Revision/ZealRevision/ZealDB.md",
+    "Revision/ZealRevision/ZealRevision.md",
+    "Revision/ZealRevision/DBMS/DBMS-zealwork.md",
+    "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
+    "Revision/ZealRevision/DBMS/Indexing DBMS ZEAL at 47.md",
+    "CalenderNotes/TEST PROGRESS.md",
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231004200211.png",
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231004200156.png",
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231004195905.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004160431.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004160119.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004155933.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004155914.png",
     "Revision/ZealRevision/DBMS/media",
-    "Revision/ZealRevision/DBMS/DBMS-zealwork.md",
-    "Revision/ZealRevision/DBMS/Indexing DBMS ZEAL.md",
     "CalenderNotes/2023-10-04 Test ID - 34 DBMS Test - 4 - 2023.md",
     "Revision/ZealRevision/DBMS",
-    "CalenderNotes/TEST PROGRESS.md",
     "shortNotesList.md",
     "index.md",
     "TEST.md",
@@ -248,18 +254,12 @@
     "Revision/Notes Revision/Notes Revision.md",
     "Revision/Notes Revision/DLD/DLD-notes.md",
     "Revision/Notes Revision/DLD/Flip Flops.md",
-    "Revision/Notes Revision/DLD/media/Pasted image 20231004130622.png",
     "Revision/Notes Revision/DLD/media",
     "Revision/Notes Revision/DLD",
     "TimeTable.md",
     "templates",
     "DialyStuff",
     "2023-10-04.md",
-    "Revision/Notes Revision/Aptitude/Verbal/Antonym Synonym.md",
-    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004114018.png",
-    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004113853.png",
-    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004113625.png",
-    "Revision/Notes Revision/Aptitude/Apti-notes.md",
     "Revision/Notes Revision/Aptitude/Verbal/media",
     "Revision/Notes Revision/Aptitude/Non-verbal",
     "Revision/Notes Revision/Aptitude/Verbal",
