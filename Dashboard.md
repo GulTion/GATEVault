@@ -2,6 +2,7 @@
 # Revision
 - [[PYQ]]
 - [[TEST PROGRESS]]
+- [[Notes Revision]]
 # 2hr Distribuation
 - 4 segments in each subject
 	- 30 PYQ

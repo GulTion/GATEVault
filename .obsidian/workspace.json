@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Revision/Notes Revision/Aptitude/Verbal/Antonym Synonym.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Revision/Notes Revision/Aptitude/Verbal/Antonym Synonym.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Revision/Notes Revision/Aptitude/Verbal/Antonym Synonym.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Revision/Notes Revision/Aptitude/Verbal/Antonym Synonym.md"
               }
             }
           },
@@ -204,22 +204,32 @@
   },
   "active": "2f5d194da5f82784",
   "lastOpenFiles": [
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004111528.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004111110.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004110922.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004103837.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004103527.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004103308.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004103205.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004102936.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004102723.png",
+    "Revision/Notes Revision/Aptitude/Apti-notes.md",
+    "Revision/Notes Revision/Notes Revision.md",
+    "Dashboard.md",
+    "Revision/Notes Revision/Aptitude/Verbal/Antonym Synonym.md",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004102208.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media",
+    "Revision/Notes Revision/Aptitude/Non-verbal",
+    "Revision/Notes Revision/Aptitude/Verbal",
+    "Revision/Notes Revision/Aptitude.md",
+    "Revision/Notes Revision/Aptitude",
+    "Revision/Notes Revision/Untitled",
     "Revision/Notes Revision/CD/CD-notes.md",
     "Revision/Notes Revision/CD/Introduction CD notes.md",
     "Revision/Notes Revision/CD/Parser CD notes.md",
     "Revision/Notes Revision/CD/media/Pasted image 20231004090030.png",
-    "Revision/Notes Revision/CD/media/Pasted image 20231004085820.png",
-    "Revision/Notes Revision/CD/media/Pasted image 20231004085615.png",
-    "Revision/Notes Revision/CD/media/Pasted image 20231004085455.png",
-    "Revision/Notes Revision/CD/media/Pasted image 20231004085202.png",
-    "Revision/Notes Revision/CD/media/Pasted image 20231004085003.png",
-    "Revision/Notes Revision/CD/media/Pasted image 20231004084959.png",
-    "Revision/Notes Revision/CD/media/Pasted image 20231004084539.png",
     "Revision/Notes Revision/CD/media",
-    "Dashboard.md",
     "Revision/Notes Revision/CD",
-    "Revision/Notes Revision/Untitled.md",
-    "Revision/Notes Revision/Notes Revision.md",
     "Revision/Notes Revision/CN/CN-notes.md",
     "Revision/Notes Revision/COA/COA-notes.md",
     "Revision/Notes Revision/DS/DS-notes.md",
@@ -228,8 +238,6 @@
     "Revision/Notes Revision/Untitled database.md",
     "Revision/Notes Revision/COA/Number System/Overflow on Container Change.md",
     "Revision/Notes Revision/DS/Stack.md",
-    "Revision/Notes Revision/DS/media/Pasted image 20231004083413.png",
-    "Revision/Notes Revision/DS/media/Pasted image 20231004082941.png",
     "Revision/Notes Revision/DS/media",
     "TimeTable.md",
     "Revision/Notes Revision/DS",
@@ -241,14 +249,7 @@
     "CalenderNotes/C",
     "CalenderNotes/CN/2023-09-30 Test ID - 17 CN Test - 4.md",
     "CalenderNotes/testDB.md",
-    "CalenderNotes/CD",
     "CalenderNotes/OS/2023-10-02 Test ID - 20 OS Test - 2.md",
-    "Revision/Notes Revision/OS/Process Syncronization.md",
-    "Revision/ZealRevision/OS/InterProcess Communication.md",
-    "Revision/Notes Revision/OS/media",
-    "Revision/Notes Revision/OS",
-    "Revision/ZealRevision/OS/media",
-    "Revision/ZealRevision/OS",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
