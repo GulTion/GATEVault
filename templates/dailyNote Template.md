@@ -1,6 +1,40 @@
-# To be Done at Today
-- list1
+# Must DONE
+## By Heart Revision
+| Subject | Done? | Must Do | Next Day |
+| ------- | ----- | ------- | -------- |
+| DM      |       |         |          |
+| EM      |       |         |          |
+| TOC     |       |         |          |
+| DS      |       |         |          |
+| DAA     |       |         |          |
+| DLD     |       |         |          |
+| C       |       |         |          |
+| DBMS    |       |         |          |
+| COA     |       |         |          |
+| APTI    |       |         |          |
+| OS      |       |         |          |
+
+## New Learning
+| Subject | Done? | will Learn | Next Day |
+| ------- | ----- | ---------- | -------- |
+| DM      |       |            |          |
+| EM      |       |            |          |
+| TOC     |       |            |          |
+| DS      |       |            |          |
+| DAA     |       |            |          |
+| DLD     |       |            |          |
+| C       |       |            |          |
+| DBMS    |       |            |          |
+| COA     |       |            |          |
+| APTI    |       |            |          |
+| OS      |       |            |          |
 
 
-# To be Done at Next Day
-- list2
+## CONTENT FOR TS REVISION
+- data
+
+## TEST SERIES  Analysis and marking
+- data
+
+## Last Day Revision
+- data
