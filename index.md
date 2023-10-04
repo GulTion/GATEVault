@@ -4,6 +4,7 @@
 - [[ZealRevision]]
 - [[TEST PROGRESS]]
 - [[Notes Revision]]
+- [[Refer UANOTES]]
 # 2hr Distribuation
 - 4 segments in each subject
 	- 30 PYQ

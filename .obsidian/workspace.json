@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "815b1f3778b8b01d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Refer UANOTES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Refer UANOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Refer UANOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Refer UANOTES.md"
               }
             }
           },
@@ -202,10 +215,16 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "bfc341ff9cb80625",
+  "active": "815b1f3778b8b01d",
   "lastOpenFiles": [
-    "Test Canvas.canvas",
+    "media/Pasted image 20231004231756.png",
+    "media/Pasted image 20231004231708.png",
+    "Refer UANOTES.md",
     "index.md",
+    "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231004225626.png",
+    "Test Canvas.canvas",
+    "Revision/ZealRevision/DBMS/Untitled.md",
     "DialyStuff/2023-10-04.md",
     "Revision/Notes Revision/DLD/Flip Flops.md",
     "DaskBoard Back.md",
@@ -220,7 +239,6 @@
     "Revision/ZealRevision/COA/Number Systems/Number System.md",
     "Revision/ZealRevision/ZealDB.md",
     "Revision/ZealRevision/DBMS/DBMS-zealwork.md",
-    "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
     "Revision/ZealRevision/DBMS/Indexing DBMS ZEAL at 47.md",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004200211.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004200156.png",
@@ -238,10 +256,6 @@
     "Revision/PYQRevision/PYQ.md",
     "Revision/PYQRevision/GATE 2021 SET-2.md",
     "Revision/PYQRevision/COA/media/Untitled 10.png",
-    "Revision/PYQRevision/COA/media/Untitled 12.png",
-    "Revision/PYQRevision/COA/media/Untitled 13.png",
-    "Revision/PYQRevision/CD/Parser/Untitled.md",
-    "Revision/PYQRevision/OS/OS-pyq.md",
     "Revision/Notes Revision/DLD/media",
     "Revision/Notes Revision/DLD",
     "templates",
