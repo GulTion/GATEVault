@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Test Canvas.canvas",
                 "viewState": {
                   "x": -3.35671875,
                   "y": 227.13796875000037,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Test Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Test Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Test Canvas.canvas"
               }
             }
           },
@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,9 +205,9 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "bfc341ff9cb80625",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Test Canvas.canvas",
     "Revision/Notes Revision/DLD/Flip Flops.md",
     "index.md",
     "DaskBoard Back.md",
