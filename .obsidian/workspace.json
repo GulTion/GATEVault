@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f0f438c8fcaef4ce",
+        "id": "63768b7bec271e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "2f5d194da5f82784",
+            "id": "1b380e19e30fd717",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Notes Revision/Aptitude/Verbal/Antonym Synonym.md",
+                "file": "DialyStuff/2023-10-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Notes Revision/Aptitude/Verbal/Antonym Synonym.md",
+                "file": "DialyStuff/2023-10-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Notes Revision/Aptitude/Verbal/Antonym Synonym.md",
+                "file": "DialyStuff/2023-10-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Notes Revision/Aptitude/Verbal/Antonym Synonym.md"
+                "file": "DialyStuff/2023-10-04.md"
               }
             }
           },
@@ -202,22 +202,27 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "2f5d194da5f82784",
+  "active": "1b380e19e30fd717",
   "lastOpenFiles": [
+    "templates/dailyNote Template.md",
+    "DialyStuff/2023-10-04.md",
+    "templates",
+    "DialyStuff",
+    "2023-10-04.md",
+    "Revision/Notes Revision/Aptitude/Verbal/Antonym Synonym.md",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004114018.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004113853.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004113625.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004113434.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004113329.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004113043.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004112846.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004112625.png",
+    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004111818.png",
     "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004111528.png",
-    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004111110.png",
-    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004110922.png",
-    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004103837.png",
-    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004103527.png",
-    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004103308.png",
-    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004103205.png",
-    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004102936.png",
-    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004102723.png",
     "Revision/Notes Revision/Aptitude/Apti-notes.md",
     "Revision/Notes Revision/Notes Revision.md",
     "Dashboard.md",
-    "Revision/Notes Revision/Aptitude/Verbal/Antonym Synonym.md",
-    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231004102208.png",
     "Revision/Notes Revision/Aptitude/Verbal/media",
     "Revision/Notes Revision/Aptitude/Non-verbal",
     "Revision/Notes Revision/Aptitude/Verbal",
@@ -227,7 +232,6 @@
     "Revision/Notes Revision/CD/CD-notes.md",
     "Revision/Notes Revision/CD/Introduction CD notes.md",
     "Revision/Notes Revision/CD/Parser CD notes.md",
-    "Revision/Notes Revision/CD/media/Pasted image 20231004090030.png",
     "Revision/Notes Revision/CD/media",
     "Revision/Notes Revision/CD",
     "Revision/Notes Revision/CN/CN-notes.md",
@@ -240,16 +244,12 @@
     "Revision/Notes Revision/DS/Stack.md",
     "Revision/Notes Revision/DS/media",
     "TimeTable.md",
-    "Revision/Notes Revision/DS",
     "TEST PROGRESS.md",
     "CalenderNotes/C/2023-10-01 TEST ID-7 C-Prog.md",
     "CalenderNotes/2023-10-03 TEST ID-2 DM-2.md",
     "CalenderNotes/2023-10-03 Test ID - 39 Compiler Test-1.md",
     "CalenderNotes/TOC/2023-10-03 Test ID - 36 Toc Test - 1 - 2023.md",
-    "CalenderNotes/C",
     "CalenderNotes/CN/2023-09-30 Test ID - 17 CN Test - 4.md",
-    "CalenderNotes/testDB.md",
-    "CalenderNotes/OS/2023-10-02 Test ID - 20 OS Test - 2.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
