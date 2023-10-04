@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refer UANOTES.md",
+                "file": "DialyStuff/2023-10-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refer UANOTES.md",
+                "file": "DialyStuff/2023-10-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refer UANOTES.md",
+                "file": "DialyStuff/2023-10-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refer UANOTES.md"
+                "file": "DialyStuff/2023-10-05.md"
               }
             }
           },
@@ -217,9 +217,10 @@
   },
   "active": "815b1f3778b8b01d",
   "lastOpenFiles": [
+    "Refer UANOTES.md",
+    "DialyStuff/2023-10-05.md",
     "media/Pasted image 20231004231756.png",
     "media/Pasted image 20231004231708.png",
-    "Refer UANOTES.md",
     "index.md",
     "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004225626.png",
@@ -255,7 +256,6 @@
     "Revision/Revision.md",
     "Revision/PYQRevision/PYQ.md",
     "Revision/PYQRevision/GATE 2021 SET-2.md",
-    "Revision/PYQRevision/COA/media/Untitled 10.png",
     "Revision/Notes Revision/DLD/media",
     "Revision/Notes Revision/DLD",
     "templates",
