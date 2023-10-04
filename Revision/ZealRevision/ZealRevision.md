@@ -1,3 +1,8 @@
 # Subjects
-[[C]]
+- [[C]]
+
+# Topics 
 ![[CN]]
+![[COA-zeal]]
+![[DBMS-zealwork]]
+![[OS-zeal]]

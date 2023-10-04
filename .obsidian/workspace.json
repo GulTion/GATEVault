@@ -4,35 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "61dd65fbf03e7e1b",
+        "id": "f25a1a8b10bf10d3",
         "type": "tabs",
         "children": [
           {
-            "id": "67d9edb61ddc50ab",
+            "id": "bfc341ff9cb80625",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "CalenderNotes/TEST PROGRESS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "644570073db0d85f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/ZealRevision/ZealRevision.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -3.35671875,
+                  "y": 227.13796875000037,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealRevision/ZealRevision.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealRevision/ZealRevision.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealRevision/ZealRevision.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -216,14 +206,25 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "644570073db0d85f",
+  "active": "bfc341ff9cb80625",
   "lastOpenFiles": [
-    "Revision/ZealRevision/ZealDB.md",
+    "Untitled.canvas",
+    "Revision/Notes Revision/DLD/Flip Flops.md",
+    "index.md",
+    "DaskBoard Back.md",
+    "templates/dailyNote Template.md",
+    "2023-10-04.md",
+    "CalenderNotes/TEST PROGRESS.md",
+    "shortNotesList.md",
     "Revision/ZealRevision/ZealRevision.md",
+    "Revision/ZealRevision/OS/OS-zeal.md",
+    "Revision/ZealRevision/CN/CN.md",
+    "Revision/ZealRevision/COA/COA-zeal.md",
+    "Revision/ZealRevision/COA/Number Systems/Number System.md",
+    "Revision/ZealRevision/ZealDB.md",
     "Revision/ZealRevision/DBMS/DBMS-zealwork.md",
     "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
     "Revision/ZealRevision/DBMS/Indexing DBMS ZEAL at 47.md",
-    "CalenderNotes/TEST PROGRESS.md",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004200211.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004200156.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004195905.png",
@@ -234,13 +235,10 @@
     "Revision/ZealRevision/DBMS/media",
     "CalenderNotes/2023-10-04 Test ID - 34 DBMS Test - 4 - 2023.md",
     "Revision/ZealRevision/DBMS",
-    "shortNotesList.md",
-    "index.md",
     "TEST.md",
     "Untitled.md",
     "DialyStuff/2023-10-04.md",
     "Revision/Revision.md",
-    "templates/dailyNote Template.md",
     "Revision/PYQRevision/PYQ.md",
     "Revision/PYQRevision/GATE 2021 SET-2.md",
     "Revision/PYQRevision/COA/media/Untitled 10.png",
@@ -248,23 +246,14 @@
     "Revision/PYQRevision/COA/media/Untitled 13.png",
     "Revision/PYQRevision/CD/Parser/Untitled.md",
     "Revision/PYQRevision/OS/OS-pyq.md",
-    "Revision/PYQRevision/OS/Memory.md",
-    "Revision/PYQRevision/OS/IPC.md",
-    "Revision/PYQRevision/OS/CPU Scheduling.md",
-    "Revision/Notes Revision/Notes Revision.md",
-    "Revision/Notes Revision/DLD/DLD-notes.md",
-    "Revision/Notes Revision/DLD/Flip Flops.md",
     "Revision/Notes Revision/DLD/media",
     "Revision/Notes Revision/DLD",
-    "TimeTable.md",
     "templates",
     "DialyStuff",
-    "2023-10-04.md",
     "Revision/Notes Revision/Aptitude/Verbal/media",
     "Revision/Notes Revision/Aptitude/Non-verbal",
     "Revision/Notes Revision/Aptitude/Verbal",
     "Revision/Notes Revision/Aptitude",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }

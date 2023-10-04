@@ -1,8 +1,9 @@
 ![[TimeTable]]
 # Revision
-- ![[PYQ]]
+- [[PYQ]]
+- [[ZealRevision]]
 - [[TEST PROGRESS]]
-- ![[Notes Revision]]
+- [[Notes Revision]]
 # 2hr Distribuation
 - 4 segments in each subject
 	- 30 PYQ
