@@ -1,4 +1,4 @@
-![[Sch.png]]
+![[TimeTable]]
 # Revision
 - [[PYQ]]
 - [[TEST PROGRESS]]
