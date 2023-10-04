@@ -11,14 +11,11 @@
             "id": "bfc341ff9cb80625",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Test Canvas.canvas",
-                "viewState": {
-                  "x": -3.35671875,
-                  "y": 227.13796875000037,
-                  "zoom": 0
-                }
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Canvas.canvas",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Canvas.canvas",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Canvas.canvas"
+                "file": "index.md"
               }
             }
           },
@@ -205,11 +202,12 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "5b301f141e47d7da",
+  "active": "bfc341ff9cb80625",
   "lastOpenFiles": [
     "Test Canvas.canvas",
-    "Revision/Notes Revision/DLD/Flip Flops.md",
     "index.md",
+    "DialyStuff/2023-10-04.md",
+    "Revision/Notes Revision/DLD/Flip Flops.md",
     "DaskBoard Back.md",
     "templates/dailyNote Template.md",
     "2023-10-04.md",
@@ -236,7 +234,6 @@
     "Revision/ZealRevision/DBMS",
     "TEST.md",
     "Untitled.md",
-    "DialyStuff/2023-10-04.md",
     "Revision/Revision.md",
     "Revision/PYQRevision/PYQ.md",
     "Revision/PYQRevision/GATE 2021 SET-2.md",
