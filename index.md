@@ -1,4 +1,4 @@
-![[TimeTable]]
+# [[TimeTable]]
 # Revision
 - [[PYQ]] ^96be26
 - [[ZealRevision]]
