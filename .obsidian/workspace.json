@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-05.md",
+                "file": "Revision/ZealRevision/COA/Memory Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-05.md",
+                "file": "Revision/ZealRevision/COA/Memory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-05.md",
+                "file": "Revision/ZealRevision/COA/Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-05.md"
+                "file": "Revision/ZealRevision/COA/Memory Management.md"
               }
             }
           },
@@ -221,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,11 +242,15 @@
   },
   "active": "2949ed3f81e64650",
   "lastOpenFiles": [
+    "Revision/ZealRevision/COA/media/Pasted image 20231005101121.png",
+    "Revision/ZealRevision/COA/media/Pasted image 20231005101040.png",
+    "Revision/ZealRevision/COA/media",
+    "DialyStuff/2023-10-05.md",
+    "Revision/ZealRevision/COA/Memory Management.md",
     "CalenderNotes/TOC/media/Pasted image 20231005010755.png",
     "CalenderNotes/TOC/media",
     "CalenderNotes/TEST PROGRESS.md",
     "index.md",
-    "DialyStuff/2023-10-05.md",
     "Refer UANOTES.md",
     "media/Pasted image 20231004231756.png",
     "media/Pasted image 20231004231708.png",
@@ -272,22 +277,18 @@
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004195905.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004160431.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004160119.png",
-    "Revision/ZealRevision/DBMS/media/Pasted image 20231004155933.png",
-    "Revision/ZealRevision/DBMS/media/Pasted image 20231004155914.png",
     "Revision/ZealRevision/DBMS/media",
     "CalenderNotes/2023-10-04 Test ID - 34 DBMS Test - 4 - 2023.md",
     "Revision/ZealRevision/DBMS",
     "TEST.md",
     "Untitled.md",
     "Revision/Revision.md",
-    "Revision/PYQRevision/PYQ.md",
     "Revision/Notes Revision/DLD/media",
     "Revision/Notes Revision/DLD",
     "templates",
     "DialyStuff",
     "Revision/Notes Revision/Aptitude/Verbal/media",
     "Revision/Notes Revision/Aptitude/Non-verbal",
-    "Revision/Notes Revision/Aptitude/Verbal",
     "Untitled 1.canvas"
   ]
 }
