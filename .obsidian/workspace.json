@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
+                "file": "Revision/Notes Revision/Notes Revision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "852d3794e6c44b07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/Notes Revision/DBMS/DBMS-notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
+                "file": "Revision/Notes Revision/DBMS/DBMS-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
+                "file": "Revision/Notes Revision/DBMS/DBMS-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md"
+                "file": "Revision/Notes Revision/DBMS/DBMS-notes.md"
               }
             }
           },
@@ -239,15 +252,18 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "bfc341ff9cb80625",
+  "active": "852d3794e6c44b07",
   "lastOpenFiles": [
+    "Revision/Notes Revision/DBMS/Indexing.md",
+    "Revision/Notes Revision/DBMS/DBMS-notes.md",
+    "Revision/Notes Revision/Notes Revision.md",
+    "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
+    "Revision/Notes Revision/DBMS",
     "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231005141939.png",
     "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231005141816.png",
     "Revision/Notes Revision/Aptitude/Apti-notes.md",
     "CalenderNotes/TEST PROGRESS.md",
-    "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
     "Revision/Notes Revision/Aptitude/Verbal/Antonym Synonym.md",
-    "Revision/Notes Revision/Notes Revision.md",
     "index.md",
     "DialyStuff/2023-10-05.md",
     "Revision/ZealRevision/COA/media/Pasted image 20231005101121.png",
@@ -276,10 +292,8 @@
     "Revision/ZealRevision/COA/Number Systems/Number System.md",
     "Revision/ZealRevision/ZealDB.md",
     "Revision/ZealRevision/DBMS/DBMS-zealwork.md",
-    "Revision/ZealRevision/DBMS/Indexing DBMS ZEAL at 47.md",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004200211.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004200156.png",
-    "Revision/ZealRevision/DBMS/media/Pasted image 20231004195905.png",
     "Revision/ZealRevision/DBMS/media",
     "Revision/ZealRevision/DBMS",
     "Revision/Notes Revision/DLD/media",
@@ -287,7 +301,6 @@
     "templates",
     "DialyStuff",
     "Revision/Notes Revision/Aptitude/Verbal/media",
-    "Revision/Notes Revision/Aptitude/Non-verbal",
     "Untitled 1.canvas"
   ]
 }
