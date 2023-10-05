@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-08.md",
+                "file": "DialyStuff/2023-10-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-08.md",
+                "file": "DialyStuff/2023-10-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-08.md",
+                "file": "DialyStuff/2023-10-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-08.md"
+                "file": "DialyStuff/2023-10-05.md"
               }
             }
           },
@@ -213,6 +213,8 @@
   },
   "active": "88d6be9260197a42",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-08.md",
+    "DialyStuff/2023-10-05.md",
     "pdfs/MADEEASY SHORT NOTES/DM and EM/8. Calculus.pdf",
     "pdfs/MADEEASY SHORT NOTES/DM and EM/7. Numerical Methods.pdf",
     "pdfs/MADEEASY SHORT NOTES/DM and EM/6. Linear Algebra.pdf",
@@ -223,11 +225,8 @@
     "pdfs/MADEEASY SHORT NOTES/DM and EM/2. Combinatorics",
     "pdfs/MADEEASY SHORT NOTES/TOC_Processed.pdf",
     "pdfs/MADEEASY SHORT NOTES/OS_Processed.pdf",
-    "pdfs/MADEEASY SHORT NOTES/DM.pdf",
     "pdfs/uanotes/url.md",
-    "DialyStuff/2023-10-08.md",
     "Revision/Notes Revision/DBMS/DBMS-notes.md",
-    "DialyStuff/2023-10-05.md",
     "CalenderNotes/C/2023-10-01 TEST ID-7 C-Prog.md",
     "Revision/PYQRevision/OS/IPC.md",
     "index.md",
