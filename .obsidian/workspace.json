@@ -55,9 +55,11 @@
             "id": "b7e5b8bb24758b24",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdfs/MADEEASY SHORT NOTES/DBMS_Processed.pdf"
+                "file": "DialyStuff/2023-10-06.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -145,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdfs/MADEEASY SHORT NOTES/DBMS_Processed.pdf",
+                "file": "DialyStuff/2023-10-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdfs/MADEEASY SHORT NOTES/DBMS_Processed.pdf",
+                "file": "DialyStuff/2023-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdfs/MADEEASY SHORT NOTES/DBMS_Processed.pdf"
+                "file": "DialyStuff/2023-10-06.md"
               }
             }
           },
