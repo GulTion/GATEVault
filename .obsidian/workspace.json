@@ -16,7 +16,19 @@
             }
           },
           {
-            "id": "bed784bef35e68c7",
+            "id": "4a91c0ea656bcfe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CalenderNotes/TEST PROGRESS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c57166e204e749cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,33 +38,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4522630c49308e39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CalenderNotes/OS/2023-10-02 Test ID - 20 OS Test - 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc60c96f79459bcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/ZealRevision/OS/InterProcess Communication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5043640136719
+    "width": 314.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealRevision/OS/InterProcess Communication.md",
+                "file": "DialyStuff/2023-10-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealRevision/OS/InterProcess Communication.md",
+                "file": "DialyStuff/2023-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealRevision/OS/InterProcess Communication.md"
+                "file": "DialyStuff/2023-10-06.md"
               }
             }
           },
@@ -236,18 +224,23 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "bc60c96f79459bcc",
+  "active": "c57166e204e749cf",
   "lastOpenFiles": [
+    "CalenderNotes/TEST PROGRESS.md",
+    "DialyStuff/2023-10-06.md",
+    "pdfs/MADEEASY SHORT NOTES/TOC_Processed.pdf",
+    "TimeTable.md",
+    "DialyStuff/2023-10-07.md",
+    "DialyStuff/media/Recording 20231006133025.webm",
+    "DialyStuff/media/Recording 20231006132951.webm",
+    "DialyStuff/media",
+    "pdfs/uanotes/OS/3Operating System - Process Synchronization.pdf",
+    "Revision/ZealRevision/OS/InterProcess Communication.md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "pdfs/MADEEASY SHORT NOTES/OS_Processed.pdf",
-    "Revision/ZealRevision/OS/InterProcess Communication.md",
     "CalenderNotes/OS/2023-10-02 Test ID - 20 OS Test - 2.md",
-    "DialyStuff/2023-10-06.md",
     "DialyStuff/2023-10-04.md",
-    "CalenderNotes/TEST PROGRESS.md",
-    "DialyStuff/2023-10-07.md",
     "CalenderNotes/COA/2023-09-28 Test ID - 26 CSO Test - 1.md",
-    "TimeTable.md",
     "Revision/PYQRevision/COA/Number System.md",
     "Revision/Notes Revision/COA/Floating Point Tricks.md",
     "Revision/ZealRevision/COA/Number Systems/Number System.md",
@@ -260,16 +253,11 @@
     "media/media/media/Recording 20231006112048.webm",
     "media/media/media/media",
     "media/media/Recording 20231006112015.webm",
-    "media/media/media",
-    "media/Recording 20231006111926.webm",
-    "media/media",
-    "pdfs/MADEEASY SHORT NOTES/COA_Processed.pdf",
     "Refer UANOTES.md",
     "DialyStuff/2023-10-05.md",
     "index.md",
     "proc.md",
     "DialyStuff/2023-10-08.md",
-    "pdfs/MADEEASY SHORT NOTES/DBMS_Processed.pdf",
     "DBMS_Processed.pdf^10.md",
     "pdfs/uanotes/url.md",
     "Revision/Notes Revision/DBMS/DBMS-notes.md",
