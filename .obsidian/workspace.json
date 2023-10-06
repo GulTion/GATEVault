@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "462313c058a1c030",
+        "id": "118cd99f7ddcb680",
         "type": "tabs",
         "children": [
           {
-            "id": "b2addf5b4d0bfb1c",
+            "id": "f16d2db64145101d",
             "type": "leaf",
             "state": {
               "type": "weekly",
@@ -16,36 +16,24 @@
             }
           },
           {
-            "id": "4904265f62424d30",
+            "id": "9fbccf2e21ca0354",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CalenderNotes/TEST PROGRESS.md",
+                "file": "CalenderNotes/COA/2023-09-28 Test ID - 26 CSO Test - 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8f18e4a3ebb6762a",
+            "id": "332538d209cd7074",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d7d1354ab630fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-06.md",
+                "file": "Revision/ZealRevision/COA/Number Systems/Number System.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5043640136719
+    "width": 272.5043640136719,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -134,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-06.md",
+                "file": "Revision/ZealRevision/COA/Number Systems/Number System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-06.md",
+                "file": "Revision/ZealRevision/COA/Number Systems/Number System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-06.md"
+                "file": "Revision/ZealRevision/COA/Number Systems/Number System.md"
               }
             }
           },
@@ -216,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,26 +225,29 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "8f18e4a3ebb6762a",
+  "active": "332538d209cd7074",
   "lastOpenFiles": [
-    "CalenderNotes/TEST PROGRESS.md",
+    "CalenderNotes/COA/2023-09-28 Test ID - 26 CSO Test - 1.md",
+    "Revision/ZealRevision/COA/Number Systems/Find Base of Polynomial Equation.md",
+    "Revision/ZealRevision/COA/Number Systems/Basic Number System.md",
     "DialyStuff/2023-10-06.md",
+    "media/media/media/media/Recording 20231006112111.webm",
+    "media/media/media/Recording 20231006112048.webm",
+    "media/media/media/media",
+    "media/media/Recording 20231006112015.webm",
+    "media/media/media",
+    "media/Recording 20231006111926.webm",
+    "media/media",
+    "pdfs/MADEEASY SHORT NOTES/COA_Processed.pdf",
+    "Refer UANOTES.md",
+    "CalenderNotes/TEST PROGRESS.md",
     "DialyStuff/2023-10-05.md",
     "index.md",
-    "Refer UANOTES.md",
     "proc.md",
     "DialyStuff/2023-10-08.md",
     "pdfs/MADEEASY SHORT NOTES/DBMS_Processed.pdf",
     "DBMS_Processed.pdf^10.md",
     "pdfs/MADEEASY SHORT NOTES/DM and EM/8. Calculus.pdf",
-    "pdfs/MADEEASY SHORT NOTES/DM and EM/7. Numerical Methods.pdf",
-    "pdfs/MADEEASY SHORT NOTES/DM and EM/6. Linear Algebra.pdf",
-    "pdfs/MADEEASY SHORT NOTES/DM and EM/5. Probability.pdf",
-    "pdfs/MADEEASY SHORT NOTES/DM and EM/4. Graph Theory.pdf",
-    "pdfs/MADEEASY SHORT NOTES/DM and EM/3. Set Theory and Algebra.pdf",
-    "pdfs/MADEEASY SHORT NOTES/DM and EM/1. Mathematical Logic.pdf",
-    "pdfs/MADEEASY SHORT NOTES/DM and EM/2. Combinatorics",
-    "pdfs/MADEEASY SHORT NOTES/TOC_Processed.pdf",
     "pdfs/uanotes/url.md",
     "Revision/Notes Revision/DBMS/DBMS-notes.md",
     "CalenderNotes/C/2023-10-01 TEST ID-7 C-Prog.md",
@@ -275,11 +268,9 @@
     "Revision/Notes Revision/Aptitude/Verbal/Antonym Synonym.md",
     "Revision/ZealRevision/COA/media/Pasted image 20231005101121.png",
     "Revision/ZealRevision/COA/media/Pasted image 20231005101040.png",
-    "Revision/ZealRevision/COA/Memory Management.md",
     "CalenderNotes/TOC/media/Pasted image 20231005010755.png",
     "media/Pasted image 20231004231756.png",
     "media/Pasted image 20231004231708.png",
-    "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004225626.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004200211.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004200156.png",
