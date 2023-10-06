@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#notes/DBMS/normalisation/candiate_key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -248,8 +249,13 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "b7e5b8bb24758b24",
+  "active": "f05219de2c216c2d",
   "lastOpenFiles": [
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231006220614.png",
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231006214631.png",
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231006213111.png",
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231006213054.png",
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231006213020.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231006211244.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231006201100.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231006200431.png",
@@ -284,7 +290,6 @@
     "Revision/ZealRevision/COA/Number Systems/Number System.md",
     "Revision/Notes Revision/COA/Number System/complements of number.md",
     "Revision/Notes Revision/COA/COA-notes.md",
-    "Revision/ZealRevision/COA/Number Systems/media/Pasted image 20230929082229.png",
     "Revision/ZealRevision/COA/Number Systems/Find Base of Polynomial Equation.md",
     "Revision/ZealRevision/COA/Number Systems/Basic Number System.md",
     "Refer UANOTES.md",
@@ -294,10 +299,6 @@
     "pdfs/uanotes/url.md",
     "Revision/Notes Revision/DBMS/DBMS-notes.md",
     "Test Canvas.canvas",
-    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231005141939.png",
-    "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231005141816.png",
-    "Revision/ZealRevision/COA/media/Pasted image 20231005101121.png",
-    "Revision/ZealRevision/COA/media/Pasted image 20231005101040.png",
     "Untitled 1.canvas"
   ]
 }

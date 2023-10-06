@@ -2,6 +2,10 @@
   | A   | B   | we can't conclude that A->B
   | --- | --- | we can only tell about violation
   | 1  | 2   |
-- Find Key![[Pasted image 20231006200431.png]]
-- Number of Keys![[Pasted image 20231006201100.png]]
-- number of superkeys![[Pasted image 20231006211244.png]]
+- #notes/DBMS/normalisation/CK  Find Key![[Pasted image 20231006200431.png]]
+- #notes/DBMS/normalisation/CK  Number of Keys![[Pasted image 20231006201100.png]]
+- #notes/DBMS/normalisation/SK  number of superkeys![[Pasted image 20231006211244.png]]
+- #notes/DBMS/normalisation/SK ![[Pasted image 20231006213054.png]]![[Pasted image 20231006213111.png]]
+- #notes/DBMS/normalisation/CK ![[Pasted image 20231006214631.png]]
+- #notes/DBMS/normalisation/CK  Part of Key is only key if closure contains all attribute![[Pasted image 20231006220614.png]] 
+- 
