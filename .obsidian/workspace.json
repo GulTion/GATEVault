@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "118cd99f7ddcb680",
+        "id": "4b1924675cb3f5bc",
         "type": "tabs",
         "children": [
           {
-            "id": "f16d2db64145101d",
+            "id": "058073d8ae5ca7d5",
             "type": "leaf",
             "state": {
               "type": "weekly",
@@ -16,19 +16,7 @@
             }
           },
           {
-            "id": "4a91c0ea656bcfe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CalenderNotes/TEST PROGRESS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c57166e204e749cf",
+            "id": "3cc12f09ea3abd75",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,12 +28,24 @@
             }
           },
           {
-            "id": "244ae482e37ee2f1",
+            "id": "4d0d5e0ba6aef5d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-06.md",
+                "file": "DialyStuff/2023-10-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd84a1aef2c3c93c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-06.md",
+                "file": "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-06.md",
+                "file": "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-06.md"
+                "file": "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md"
               }
             }
           },
@@ -212,7 +212,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -235,22 +236,29 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "244ae482e37ee2f1",
+  "active": "fd84a1aef2c3c93c",
   "lastOpenFiles": [
-    "CalenderNotes/TEST PROGRESS.md",
     "DialyStuff/2023-10-06.md",
+    "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
+    "Revision/TSRevision/GO/Topicwise Test/DBMS",
+    "Revision/TSRevision/GO/Topicwise Test",
+    "Revision/TSRevision/GO/DBMS/Untitled",
+    "Revision/TSRevision/GO/DBMS",
+    "Revision/TSRevision/GO",
+    "DialyStuff/2023-10-08.md",
+    "DialyStuff/2023-10-04.md",
+    "DialyStuff/2023-10-05.md",
+    "DialyStuff/2023-10-07.md",
+    "CalenderNotes/TEST PROGRESS.md",
     "pdfs/MADEEASY SHORT NOTES/TOC_Processed.pdf",
     "TimeTable.md",
-    "DialyStuff/2023-10-07.md",
     "DialyStuff/media/Recording 20231006133025.webm",
     "DialyStuff/media/Recording 20231006132951.webm",
     "DialyStuff/media",
     "pdfs/uanotes/OS/3Operating System - Process Synchronization.pdf",
     "Revision/ZealRevision/OS/InterProcess Communication.md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
-    "pdfs/MADEEASY SHORT NOTES/OS_Processed.pdf",
     "CalenderNotes/OS/2023-10-02 Test ID - 20 OS Test - 2.md",
-    "DialyStuff/2023-10-04.md",
     "CalenderNotes/COA/2023-09-28 Test ID - 26 CSO Test - 1.md",
     "Revision/PYQRevision/COA/Number System.md",
     "Revision/Notes Revision/COA/Floating Point Tricks.md",
@@ -260,15 +268,9 @@
     "Revision/ZealRevision/COA/Number Systems/media/Pasted image 20230929082229.png",
     "Revision/ZealRevision/COA/Number Systems/Find Base of Polynomial Equation.md",
     "Revision/ZealRevision/COA/Number Systems/Basic Number System.md",
-    "media/media/media/media/Recording 20231006112111.webm",
-    "media/media/media/Recording 20231006112048.webm",
-    "media/media/media/media",
-    "media/media/Recording 20231006112015.webm",
     "Refer UANOTES.md",
-    "DialyStuff/2023-10-05.md",
     "index.md",
     "proc.md",
-    "DialyStuff/2023-10-08.md",
     "DBMS_Processed.pdf^10.md",
     "pdfs/uanotes/url.md",
     "Revision/Notes Revision/DBMS/DBMS-notes.md",
