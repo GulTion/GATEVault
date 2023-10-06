@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#notes/DBMS/indexing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,6 +239,9 @@
   },
   "active": "fd84a1aef2c3c93c",
   "lastOpenFiles": [
+    "Revision/TSRevision/GO/Topicwise Test/DBMS/media/Pasted image 20231006145502.png",
+    "Revision/TSRevision/GO/Topicwise Test/DBMS/media/Pasted image 20231006145422.png",
+    "Revision/TSRevision/GO/Topicwise Test/DBMS/media",
     "DialyStuff/2023-10-06.md",
     "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "Revision/TSRevision/GO/Topicwise Test/DBMS",
@@ -255,7 +259,6 @@
     "DialyStuff/media/Recording 20231006133025.webm",
     "DialyStuff/media/Recording 20231006132951.webm",
     "DialyStuff/media",
-    "pdfs/uanotes/OS/3Operating System - Process Synchronization.pdf",
     "Revision/ZealRevision/OS/InterProcess Communication.md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "CalenderNotes/OS/2023-10-02 Test ID - 20 OS Test - 2.md",
@@ -275,7 +278,6 @@
     "pdfs/uanotes/url.md",
     "Revision/Notes Revision/DBMS/DBMS-notes.md",
     "CalenderNotes/C/2023-10-01 TEST ID-7 C-Prog.md",
-    "Revision/PYQRevision/OS/IPC.md",
     "Test Canvas.canvas",
     "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231005141939.png",
     "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231005141816.png",
@@ -285,7 +287,6 @@
     "media/Pasted image 20231004231756.png",
     "media/Pasted image 20231004231708.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004225626.png",
-    "Revision/ZealRevision/DBMS/media/Pasted image 20231004200211.png",
     "Untitled 1.canvas"
   ]
 }
