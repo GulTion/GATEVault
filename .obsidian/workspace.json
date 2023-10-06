@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "244ae482e37ee2f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,7 +235,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "c57166e204e749cf",
+  "active": "244ae482e37ee2f1",
   "lastOpenFiles": [
     "CalenderNotes/TEST PROGRESS.md",
     "DialyStuff/2023-10-06.md",
