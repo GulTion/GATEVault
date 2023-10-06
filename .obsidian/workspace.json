@@ -16,31 +16,43 @@
             }
           },
           {
-            "id": "9fbccf2e21ca0354",
+            "id": "bed784bef35e68c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CalenderNotes/COA/2023-09-28 Test ID - 26 CSO Test - 1.md",
+                "file": "DialyStuff/2023-10-06.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "332538d209cd7074",
+            "id": "4522630c49308e39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealRevision/COA/Number Systems/Number System.md",
+                "file": "CalenderNotes/OS/2023-10-02 Test ID - 20 OS Test - 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc60c96f79459bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ZealRevision/OS/InterProcess Communication.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5043640136719,
-    "collapsed": true
+    "width": 272.5043640136719
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealRevision/COA/Number Systems/Number System.md",
+                "file": "Revision/ZealRevision/OS/InterProcess Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealRevision/COA/Number Systems/Number System.md",
+                "file": "Revision/ZealRevision/OS/InterProcess Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealRevision/COA/Number Systems/Number System.md"
+                "file": "Revision/ZealRevision/OS/InterProcess Communication.md"
               }
             }
           },
@@ -225,12 +236,26 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "332538d209cd7074",
+  "active": "bc60c96f79459bcc",
   "lastOpenFiles": [
+    "Revision/Notes Revision/OS/Message Passing.canvas",
+    "pdfs/MADEEASY SHORT NOTES/OS_Processed.pdf",
+    "Revision/ZealRevision/OS/InterProcess Communication.md",
+    "CalenderNotes/OS/2023-10-02 Test ID - 20 OS Test - 2.md",
+    "DialyStuff/2023-10-06.md",
+    "DialyStuff/2023-10-04.md",
+    "CalenderNotes/TEST PROGRESS.md",
+    "DialyStuff/2023-10-07.md",
     "CalenderNotes/COA/2023-09-28 Test ID - 26 CSO Test - 1.md",
+    "TimeTable.md",
+    "Revision/PYQRevision/COA/Number System.md",
+    "Revision/Notes Revision/COA/Floating Point Tricks.md",
+    "Revision/ZealRevision/COA/Number Systems/Number System.md",
+    "Revision/Notes Revision/COA/Number System/complements of number.md",
+    "Revision/Notes Revision/COA/COA-notes.md",
+    "Revision/ZealRevision/COA/Number Systems/media/Pasted image 20230929082229.png",
     "Revision/ZealRevision/COA/Number Systems/Find Base of Polynomial Equation.md",
     "Revision/ZealRevision/COA/Number Systems/Basic Number System.md",
-    "DialyStuff/2023-10-06.md",
     "media/media/media/media/Recording 20231006112111.webm",
     "media/media/media/Recording 20231006112048.webm",
     "media/media/media/media",
@@ -240,32 +265,19 @@
     "media/media",
     "pdfs/MADEEASY SHORT NOTES/COA_Processed.pdf",
     "Refer UANOTES.md",
-    "CalenderNotes/TEST PROGRESS.md",
     "DialyStuff/2023-10-05.md",
     "index.md",
     "proc.md",
     "DialyStuff/2023-10-08.md",
     "pdfs/MADEEASY SHORT NOTES/DBMS_Processed.pdf",
     "DBMS_Processed.pdf^10.md",
-    "pdfs/MADEEASY SHORT NOTES/DM and EM/8. Calculus.pdf",
     "pdfs/uanotes/url.md",
     "Revision/Notes Revision/DBMS/DBMS-notes.md",
     "CalenderNotes/C/2023-10-01 TEST ID-7 C-Prog.md",
     "Revision/PYQRevision/OS/IPC.md",
-    "templates/Normal Task Template.md",
-    "templates/dailyNote Template.md",
-    "DaskBoard Back.md",
-    "2023-10-04.md",
     "Test Canvas.canvas",
-    "DialyStuff/2023-10-04.md",
-    "Revision/Notes Revision/Notes Revision.md",
-    "Revision/Notes Revision/DBMS/Indexing.md",
-    "DialyStuff/2023-10-03.md",
-    "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
     "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231005141939.png",
     "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231005141816.png",
-    "Revision/Notes Revision/Aptitude/Apti-notes.md",
-    "Revision/Notes Revision/Aptitude/Verbal/Antonym Synonym.md",
     "Revision/ZealRevision/COA/media/Pasted image 20231005101121.png",
     "Revision/ZealRevision/COA/media/Pasted image 20231005101040.png",
     "CalenderNotes/TOC/media/Pasted image 20231005010755.png",
@@ -273,7 +285,6 @@
     "media/Pasted image 20231004231708.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004225626.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231004200211.png",
-    "Revision/ZealRevision/DBMS/media/Pasted image 20231004200156.png",
     "Untitled 1.canvas"
   ]
 }

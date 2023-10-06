@@ -11,7 +11,7 @@ syllabus: Inter-Process Communication, Concurrency And SynchronizationAnd Deadlo
 - Must Practice on the All IPC problem of PYQ
 
 # Zeal Workbook
-![[InterProcess Communication]]
+[[InterProcess Communication]]
 
 
 # Test Series Anlaysis
