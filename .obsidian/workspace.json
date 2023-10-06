@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-06.md",
+                "file": "Revision/ZealRevision/DBMS/Nomalization.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-06.md",
+                "file": "Revision/ZealRevision/DBMS/Nomalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-06.md",
+                "file": "Revision/ZealRevision/DBMS/Nomalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-06.md"
+                "file": "Revision/ZealRevision/DBMS/Nomalization.md"
               }
             }
           },
@@ -251,11 +250,16 @@
   },
   "active": "b7e5b8bb24758b24",
   "lastOpenFiles": [
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231006211244.png",
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231006201100.png",
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231006200431.png",
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231006193535.png",
+    "DialyStuff/2023-10-06.md",
+    "Revision/ZealRevision/DBMS/Nomalization.md",
     "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "Revision/TSRevision/GO/Topicwise Test/DBMS/media/Pasted image 20231006145502.png",
     "Revision/TSRevision/GO/Topicwise Test/DBMS/media/Pasted image 20231006145422.png",
     "Revision/TSRevision/GO/Topicwise Test/DBMS/media",
-    "DialyStuff/2023-10-06.md",
     "Revision/TSRevision/GO/Topicwise Test/DBMS",
     "Revision/TSRevision/GO/Topicwise Test",
     "Revision/TSRevision/GO/DBMS/Untitled",
@@ -289,15 +293,11 @@
     "DBMS_Processed.pdf^10.md",
     "pdfs/uanotes/url.md",
     "Revision/Notes Revision/DBMS/DBMS-notes.md",
-    "CalenderNotes/C/2023-10-01 TEST ID-7 C-Prog.md",
     "Test Canvas.canvas",
     "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231005141939.png",
     "Revision/Notes Revision/Aptitude/Verbal/media/Pasted image 20231005141816.png",
     "Revision/ZealRevision/COA/media/Pasted image 20231005101121.png",
     "Revision/ZealRevision/COA/media/Pasted image 20231005101040.png",
-    "CalenderNotes/TOC/media/Pasted image 20231005010755.png",
-    "media/Pasted image 20231004231756.png",
-    "media/Pasted image 20231004231708.png",
     "Untitled 1.canvas"
   ]
 }
