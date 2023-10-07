@@ -19,7 +19,7 @@ syllabus: Inter-Process Communication, Concurrency And SynchronizationAnd Deadlo
 
 | Q.No. | mistakes                     |
 | ----- | ---------------------------- |
-| 1*    | TLE                          |
+| 1    | TLE                          |
 | 7*    | Lack of Concept              |
 | 9*    | Lack of Practice and Concept |
 | 11*   | Lack of Deep Analysis        |
