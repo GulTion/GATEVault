@@ -1,0 +1,2 @@
+- ![[Pasted image 20231007213949.png]]![[Pasted image 20231007214022.png]]
+- statment about the prime attribute![[Pasted image 20231007214323.png]]![[Pasted image 20231007214348.png]]
