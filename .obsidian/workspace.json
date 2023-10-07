@@ -14,8 +14,19 @@
               "type": "weekly",
               "state": {}
             }
+          },
+          {
+            "id": "19c4cb0aac1a4ae0",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Revision/RevisionDONE.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Revision/RevisionDONE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Revision/RevisionDONE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Revision/RevisionDONE.md"
+              }
             }
           },
           {
@@ -196,8 +211,10 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "c14939093fb787e3",
+  "active": "19c4cb0aac1a4ae0",
   "lastOpenFiles": [
+    "CalenderNotes/TEST PROGRESS.md",
+    "Revision/RevisionDONE.md",
     "DialyStuff/2023-10-07.md",
     "Revision/ZealRevision/Untitled Kanban.md",
     "Revision/TSRevision/TSDB.md",
@@ -242,8 +259,6 @@
     "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "DialyStuff/2023-10-06.md",
     "DialyStuff/2023-10-04.md",
-    "DialyStuff/2023-10-05.md",
-    "CalenderNotes/TEST PROGRESS.md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
