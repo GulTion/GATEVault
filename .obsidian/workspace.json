@@ -69,12 +69,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdfs/uanotes/TOC/2 Theory of Computation - Finite Automata.pdf"
+                "file": "pdfs/MADEEASY SHORT NOTES/TOC_Processed.pdf"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdfs/uanotes/TOC/2 Theory of Computation - Finite Automata.pdf",
+                "file": "DialyStuff/2023-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdfs/uanotes/TOC/2 Theory of Computation - Finite Automata.pdf",
+                "file": "DialyStuff/2023-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdfs/uanotes/TOC/2 Theory of Computation - Finite Automata.pdf"
+                "file": "DialyStuff/2023-10-07.md"
               }
             }
           },
@@ -240,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,34 +258,34 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "e8849784ff2574a1",
+  "active": "2d08305214c5514c",
   "lastOpenFiles": [
-    "pdfs/MADEEASY SHORT NOTES/TOC_Processed.pdf",
+    "Revision/TSRevision/Zeal/Round 0/OS/Test ID - 20 OS Test - 2.md",
     "Revision/TSRevision/Zeal/Round 0/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
-    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007120113.png",
-    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007120106.png",
-    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007115438.png",
-    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007115406.png",
-    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007114747.png",
-    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007114736.png",
+    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007125134.png",
+    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007125124.png",
+    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007125058.png",
+    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007125053.png",
+    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007124923.png",
+    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007124906.png",
+    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007124858.png",
+    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007124714.png",
+    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007124658.png",
+    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007124648.png",
+    "pdfs/MADEEASY SHORT NOTES/TOC_Processed.pdf",
+    "pdfs/uanotes/TOC/2 Theory of Computation - Finite Automata.pdf",
     "Revision/TSRevision/Zeal/Round 0/TOC/media",
     "Revision/TSRevision/Zeal/Round 0/TOC",
     "DialyStuff/2023-10-07.md",
-    "Revision/TSRevision/Zeal/Round 0/OS/Test ID - 20 OS Test - 2.md",
     "pdfs/mynotes/OS full.pdf",
     "pdfs/mynotes/DM - Recurrence Relation.pdf",
     "pdfs/mynotes/DM Hasse Diagram.pdf",
     "pdfs/mynotes/DM Combination.pdf",
     "pdfs/mynotes/DLD Sequential.pdf",
     "pdfs/mynotes/DBMS transaction Concurrency Control.pdf",
-    "pdfs/mynotes/DBMS Indexing.pdf",
     "DialyStuff/2023-10-10.md",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 26 CSO Test - 1.md",
     "Revision/TSRevision/Zeal/Round 0/COA/TEST ID 26.md",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231007104045.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231007104039.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231007100920.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231007100914.png",
     "Revision/TSRevision/Zeal/Round 0.md",
     "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "DialyStuff/2023-10-08.md",
