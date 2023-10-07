@@ -50,9 +50,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a32f6d4e61242a4b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/MADEEASY SHORT NOTES/TOC_Processed.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQRevision/COA/Type of Questions in Pipeline.md",
+                "file": "pdfs/MADEEASY SHORT NOTES/TOC_Processed.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQRevision/COA/Type of Questions in Pipeline.md",
+                "file": "pdfs/MADEEASY SHORT NOTES/TOC_Processed.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQRevision/COA/Type of Questions in Pipeline.md"
+                "file": "pdfs/MADEEASY SHORT NOTES/TOC_Processed.pdf"
               }
             }
           },
@@ -237,11 +247,12 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "7f3dbfd7f9db6c31",
+  "active": "a32f6d4e61242a4b",
   "lastOpenFiles": [
+    "pdfs/uanotes/combine/TOC.pdf",
+    "Revision/PYQRevision/COA/Type of Questions in Pipeline.md",
     "Revision/PYQRevision/COA/media/Pasted image 20231007183456.png",
     "DialyStuff/2023-10-07.md",
-    "Revision/PYQRevision/COA/Type of Questions in Pipeline.md",
     "Revision/PYQRevision/COA/pipline.md",
     "Revision/PYQRevision/COA/media/Pasted image 20231007180747.png",
     "Revision/PYQRevision/COA/COA - PYQ.md",
@@ -261,7 +272,6 @@
     "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007124923.png",
     "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007124906.png",
     "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007124858.png",
-    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007124714.png",
     "pdfs/uanotes/TOC/2 Theory of Computation - Finite Automata.pdf",
     "Revision/TSRevision/Zeal/Round 0/TOC/media",
     "Revision/TSRevision/Zeal/Round 0/TOC",
