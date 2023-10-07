@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d08305214c5514c",
+            "id": "c14939093fb787e3",
             "type": "leaf",
             "state": {
               "type": "weekly",
@@ -16,19 +16,7 @@
             }
           },
           {
-            "id": "4fefa597e2ab600e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3774dd595e5a4a6",
+            "id": "887c7f5b859dc73a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,41 +28,43 @@
             }
           },
           {
-            "id": "b2d30cbf4607e78f",
+            "id": "6f7f21d9cd3f28e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TSRevision/Zeal/Round 0/OS/Test ID - 20 OS Test - 2.md",
+                "file": "Revision/ZealRevision/DBMS/DBMS-zealwork.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8a39f7f602c28fdd",
+            "id": "7d60c839d44a0d1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TSRevision/Zeal/Round 0/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
+                "file": "Revision/ZealRevision/DBMS/Nomalization.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e8849784ff2574a1",
+            "id": "4906a0a3815fc475",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdfs/MADEEASY SHORT NOTES/TOC_Processed.pdf"
+                "file": "Revision/PYQRevision/OS/OS-pyq.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "c14939093fb787e3",
+            "id": "acfa753aa5edad2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5,
-    "collapsed": true
+    "width": 456.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -271,11 +260,20 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "c14939093fb787e3",
+  "active": "acfa753aa5edad2e",
   "lastOpenFiles": [
+    "Revision/PYQRevision/OS/OS-pyq.md",
+    "Revision/PYQRevision/COA/COA - PYQ.md",
+    "Revision/PYQRevision/COA/Type of Questions in Pipeline.md",
+    "Revision/ZealRevision/COA/Memory Management.md",
+    "DialyStuff/2023-10-07.md",
+    "Revision/ZealRevision/DBMS/Nomalization.md",
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231007162432.png",
+    "Revision/ZealRevision/DBMS/DBMS-zealwork.md",
     "DialyStuff/2023-10-10.md",
     "Revision/TSRevision/Zeal/Round 0/OS/Test ID - 20 OS Test - 2.md",
     "Revision/TSRevision/Zeal/Round 0/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
+    "pdfs/MADEEASY SHORT NOTES/TOC_Processed.pdf",
     "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007125134.png",
     "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007125124.png",
     "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007125058.png",
@@ -285,12 +283,9 @@
     "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007124858.png",
     "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007124714.png",
     "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007124658.png",
-    "Revision/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007124648.png",
-    "pdfs/MADEEASY SHORT NOTES/TOC_Processed.pdf",
     "pdfs/uanotes/TOC/2 Theory of Computation - Finite Automata.pdf",
     "Revision/TSRevision/Zeal/Round 0/TOC/media",
     "Revision/TSRevision/Zeal/Round 0/TOC",
-    "DialyStuff/2023-10-07.md",
     "pdfs/mynotes/OS full.pdf",
     "pdfs/mynotes/DM - Recurrence Relation.pdf",
     "pdfs/mynotes/DM Hasse Diagram.pdf",
@@ -303,7 +298,6 @@
     "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "DialyStuff/2023-10-08.md",
     "DialyStuff/2023-10-06.md",
-    "Revision/ZealRevision/DBMS/Nomalization.md",
     "DialyStuff/2023-10-04.md",
     "DialyStuff/2023-10-05.md",
     "CalenderNotes/TEST PROGRESS.md",
@@ -315,10 +309,6 @@
     "Revision/ZealRevision/COA/Number Systems/Number System.md",
     "Revision/Notes Revision/COA/Number System/complements of number.md",
     "Revision/Notes Revision/COA/COA-notes.md",
-    "Revision/ZealRevision/COA/Number Systems/Find Base of Polynomial Equation.md",
-    "Revision/ZealRevision/COA/Number Systems/Basic Number System.md",
-    "Refer UANOTES.md",
-    "index.md",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
   ]

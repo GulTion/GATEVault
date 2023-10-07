@@ -14,3 +14,5 @@
 - ![[Pasted image 20231007014501.png]]![[Pasted image 20231007014509.png]]![[Pasted image 20231007014533.png]]
 - ![[Pasted image 20231007014605.png]]![[Pasted image 20231007014619.png]]
 - ![[Pasted image 20231007015723.png]]
+- MVD![[Pasted image 20231007162432.png]]
+- 
