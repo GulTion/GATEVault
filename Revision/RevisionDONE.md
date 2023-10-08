@@ -6,13 +6,14 @@ kanban-plugin: basic
 
 ## DBMS
 
-- [ ] INDEXING BTREE B++
-- [ ] Nomralizatoin
+- [ ] INDEXING BTREE B++ #done
+- [ ] Nomralizatoin pyq #done
+- [ ] normalization zeal #done
 
 
 ## COA
 
-- [ ] Number SYstem
+- [ ] Number SYstem #done
 
 
 ## CN

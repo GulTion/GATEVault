@@ -28,17 +28,65 @@
             }
           },
           {
-            "id": "95913d9d131b5278",
+            "id": "a550b511c4e30503",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdfs/mynotes/DM Hasse Diagram.pdf"
+                "file": "DialyStuff/2023-10-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07191578e4a2f098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94f4180edb58b217",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Revision/RevisionDONE.md"
+              }
+            }
+          },
+          {
+            "id": "f2eadcd3c7997f8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4726b9d46bd9e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-08.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -104,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -121,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdfs/mynotes/DM Hasse Diagram.pdf",
+                "file": "DialyStuff/2023-10-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdfs/mynotes/DM Hasse Diagram.pdf",
+                "file": "DialyStuff/2023-10-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdfs/mynotes/DM Hasse Diagram.pdf"
+                "file": "DialyStuff/2023-10-08.md"
               }
             }
           },
@@ -224,14 +271,17 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "95913d9d131b5278",
+  "active": "b4726b9d46bd9e01",
   "lastOpenFiles": [
+    "Revision/RevisionDONE.md",
+    "DialyStuff/2023-10-08.md",
+    "pdfs/MADEEASY SHORT NOTES/DM.pdf",
     "Revision/ZealRevision/DM/Partial Order Relation-zeal.md",
+    "pdfs/mynotes/DM Hasse Diagram.pdf",
     "Revision/ZealRevision/DM/media/Pasted image 20231008124513.png",
     "Revision/ZealRevision/DM/media/Pasted image 20231008124501.png",
     "Revision/ZealRevision/DM/media/Pasted image 20231008124445.png",
     "Revision/ZealRevision/DM/media",
-    "DialyStuff/2023-10-08.md",
     "Revision/ZealRevision/DM",
     "Revision/PYQRevision/DBMS/DBMS-pyq.md",
     "Revision/PYQRevision/DBMS/Normal Forms-pyq.md",
@@ -249,7 +299,6 @@
     "Revision/PYQRevision/DBMS/media/Pasted image 20231008114242.png",
     "Revision/PYQRevision/DBMS/media/Pasted image 20231008114221.png",
     "CalenderNotes/TEST PROGRESS.md",
-    "Revision/RevisionDONE.md",
     "Revision/ZealRevision/Untitled Kanban.md",
     "Revision/TSRevision/TSDB.md",
     "Revision/TSRevision/Zeal/Round 0/CN/CN TEST 4.md",
@@ -269,8 +318,6 @@
     "DialyStuff/2023-10-10.md",
     "Revision/TSRevision/Zeal/Round 0/OS/Test ID - 20 OS Test - 2.md",
     "Revision/TSRevision/Zeal/Round 0/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
-    "pdfs/uanotes/TOC/2 Theory of Computation - Finite Automata.pdf",
-    "Revision/TSRevision/Zeal/Round 0/TOC/media",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
