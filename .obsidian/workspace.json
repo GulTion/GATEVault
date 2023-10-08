@@ -16,38 +16,24 @@
             }
           },
           {
-            "id": "ac036f19fb6d50c7",
+            "id": "4568ba4f6774503f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQRevision/DBMS/DBMS-pyq.md",
+                "file": "Revision/ZealRevision/DM/Partial Order Relation-zeal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "db5c96ccd21fef6b",
+            "id": "95913d9d131b5278",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Revision/PYQRevision/DBMS/Normal Forms-pyq.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87854c32b3562eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-08.md",
-                "mode": "source",
-                "source": false
+                "file": "pdfs/mynotes/DM Hasse Diagram.pdf"
               }
             }
           }
@@ -118,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQRevision/DBMS/Normal Forms-pyq.md",
+                "file": "pdfs/mynotes/DM Hasse Diagram.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQRevision/DBMS/Normal Forms-pyq.md",
+                "file": "pdfs/mynotes/DM Hasse Diagram.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQRevision/DBMS/Normal Forms-pyq.md"
+                "file": "pdfs/mynotes/DM Hasse Diagram.pdf"
               }
             }
           },
@@ -237,25 +224,32 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "db5c96ccd21fef6b",
+  "active": "95913d9d131b5278",
   "lastOpenFiles": [
+    "Revision/ZealRevision/DM/Partial Order Relation-zeal.md",
+    "Revision/ZealRevision/DM/media/Pasted image 20231008124513.png",
+    "Revision/ZealRevision/DM/media/Pasted image 20231008124501.png",
+    "Revision/ZealRevision/DM/media/Pasted image 20231008124445.png",
+    "Revision/ZealRevision/DM/media",
+    "DialyStuff/2023-10-08.md",
+    "Revision/ZealRevision/DM",
+    "Revision/PYQRevision/DBMS/DBMS-pyq.md",
+    "Revision/PYQRevision/DBMS/Normal Forms-pyq.md",
+    "DialyStuff/2023-10-06.md",
+    "DialyStuff/2023-10-07.md",
+    "Revision/TSRevision/Zeal/Round 0/DM/TEST ID-2 DM-2.md",
+    "Revision/TSRevision/Zeal/Round 0/DM",
+    "CalenderNotes/2023-09-27 DM-Graph Theory revision from ME shortnotes.md",
+    "CalenderNotes/2023-09-25 DM PYQ.md",
+    "Revision/PYQRevision/DBMS/media/Pasted image 20231008120311.png",
+    "Revision/PYQRevision/DBMS/media/Pasted image 20231008120255.png",
+    "Revision/PYQRevision/DBMS/media/Pasted image 20231008120216.png",
+    "Revision/PYQRevision/DBMS/media/Pasted image 20231008120159.png",
     "Revision/PYQRevision/DBMS/media/Pasted image 20231008114355.png",
     "Revision/PYQRevision/DBMS/media/Pasted image 20231008114242.png",
     "Revision/PYQRevision/DBMS/media/Pasted image 20231008114221.png",
-    "Revision/PYQRevision/DBMS/media/Pasted image 20231008114000.png",
-    "Revision/PYQRevision/DBMS/media/Pasted image 20231008113937.png",
-    "Revision/PYQRevision/DBMS/media/Pasted image 20231008113156.png",
-    "Revision/PYQRevision/DBMS/media/Pasted image 20231008113134.png",
-    "Revision/PYQRevision/DBMS/DBMS-pyq.md",
-    "DialyStuff/2023-10-08.md",
-    "Revision/PYQRevision/DBMS/Normal Forms-pyq.md",
-    "Revision/PYQRevision/DBMS/media/Pasted image 20231008102813.png",
-    "Revision/PYQRevision/DBMS/media/Pasted image 20231008102802.png",
-    "Revision/PYQRevision/DBMS/media/Pasted image 20231008101353.png",
-    "Revision/PYQRevision/DBMS/media/Pasted image 20231008100648.png",
     "CalenderNotes/TEST PROGRESS.md",
     "Revision/RevisionDONE.md",
-    "DialyStuff/2023-10-07.md",
     "Revision/ZealRevision/Untitled Kanban.md",
     "Revision/TSRevision/TSDB.md",
     "Revision/TSRevision/Zeal/Round 0/CN/CN TEST 4.md",
@@ -277,14 +271,6 @@
     "Revision/TSRevision/Zeal/Round 0/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
     "pdfs/uanotes/TOC/2 Theory of Computation - Finite Automata.pdf",
     "Revision/TSRevision/Zeal/Round 0/TOC/media",
-    "Revision/TSRevision/Zeal/Round 0/TOC",
-    "pdfs/mynotes/OS full.pdf",
-    "pdfs/mynotes/DM - Recurrence Relation.pdf",
-    "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 26 CSO Test - 1.md",
-    "Revision/TSRevision/Zeal/Round 0/COA/TEST ID 26.md",
-    "Revision/TSRevision/Zeal/Round 0.md",
-    "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
-    "DialyStuff/2023-10-06.md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

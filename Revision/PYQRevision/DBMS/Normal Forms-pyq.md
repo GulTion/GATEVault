@@ -7,4 +7,5 @@
 - BCNF defination![[Pasted image 20231008113937.png]]![[Pasted image 20231008114000.png]]
 - ![[Pasted image 20231008114221.png]]![[Pasted image 20231008114242.png]]
 - adequte=not more, not less![[Pasted image 20231008114355.png]]
-- 
+- ![[Pasted image 20231008120159.png]]![[Pasted image 20231008120216.png]]
+- ![[Pasted image 20231008120255.png]]![[Pasted image 20231008120311.png]]
