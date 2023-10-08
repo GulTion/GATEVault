@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19c4cb0aac1a4ae0",
+            "id": "2f50c2a0416e398f",
             "type": "leaf",
             "state": {
               "type": "weekly",
@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "2f50c2a0416e398f",
+            "id": "546c53108cc3c88c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -213,11 +213,11 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "2f50c2a0416e398f",
+  "active": "546c53108cc3c88c",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-08.md",
     "pdfs/MADEEASY SHORT NOTES/DBMS_Processed.pdf",
     "pdfs/mynotes/DBMS transaction Concurrency Control.pdf",
-    "DialyStuff/2023-10-08.md",
     "Revision/RevisionDONE.md",
     "pdfs/MADEEASY SHORT NOTES/DM.pdf",
     "Revision/ZealRevision/DM/Partial Order Relation-zeal.md",
@@ -250,7 +250,6 @@
     "Revision/ZealRevision/CN/TCP.md",
     "Revision/PYQRevision/DBMS/media",
     "Revision/PYQRevision/DBMS",
-    "pdfs/MADEEASY SHORT NOTES/TOC_Processed.pdf",
     "Revision/PYQRevision/COA/pipline.md",
     "Revision/PYQRevision/COA/Type of Questions in Pipeline.md",
     "Revision/PYQRevision/COA/COA - PYQ.md",
