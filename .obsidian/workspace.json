@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-08.md",
+                "file": "DialyStuff/2023-10-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-08.md",
+                "file": "DialyStuff/2023-10-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-08.md",
+                "file": "DialyStuff/2023-10-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-08.md"
+                "file": "DialyStuff/2023-10-09.md"
               }
             }
           },
@@ -216,6 +216,7 @@
   "active": "546c53108cc3c88c",
   "lastOpenFiles": [
     "DialyStuff/2023-10-08.md",
+    "DialyStuff/2023-10-09.md",
     "pdfs/MADEEASY SHORT NOTES/DBMS_Processed.pdf",
     "pdfs/mynotes/DBMS transaction Concurrency Control.pdf",
     "Revision/RevisionDONE.md",
