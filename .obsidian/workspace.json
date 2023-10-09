@@ -28,30 +28,6 @@
             }
           },
           {
-            "id": "c70ae6507d996742",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93ad941b5265e6de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e58d3141545d8226",
             "type": "leaf",
             "state": {
@@ -98,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8bcc6a4ad8a14a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -285,15 +273,18 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "d45ca57d83aca13e",
+  "active": "e58d3141545d8226",
   "lastOpenFiles": [
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009195437.png",
     "DialyStuff/2023-10-09.md",
+    "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 27 CSO Test - 2.md",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009202103.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009202004.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009200530.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009195437.png",
     "Revision/PYQRevision/COA/Cache Memory.md",
     "Revision/ZealRevision/COA/COA-zeal.md",
     "Revision/ZealRevision/COA/Memory Management.md",
     "Revision/PYQRevision/COA/COA - PYQ.md",
-    "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 27 CSO Test - 2.md",
     "DialyStuff/2023-10-13.md",
     "DialyStuff/2023-10-08.md",
     "pdfs/MADEEASY SHORT NOTES/DBMS_Processed.pdf",
@@ -318,10 +309,6 @@
     "Revision/PYQRevision/DBMS/media/Pasted image 20231008120311.png",
     "Revision/PYQRevision/DBMS/media/Pasted image 20231008120255.png",
     "Revision/PYQRevision/DBMS/media/Pasted image 20231008120216.png",
-    "Revision/PYQRevision/DBMS/media/Pasted image 20231008120159.png",
-    "Revision/PYQRevision/DBMS/media/Pasted image 20231008114355.png",
-    "Revision/PYQRevision/DBMS/media/Pasted image 20231008114242.png",
-    "Revision/PYQRevision/DBMS/media/Pasted image 20231008114221.png",
     "CalenderNotes/TEST PROGRESS.md",
     "Revision/ZealRevision/Untitled Kanban.md",
     "Revision/TSRevision/TSDB.md",
