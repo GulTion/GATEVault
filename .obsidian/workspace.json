@@ -122,9 +122,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a6c189126b71aa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7596b68333fed8bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -309,7 +333,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "eb9f181b4a170723",
+  "active": "7596b68333fed8bb",
   "lastOpenFiles": [
     "pdfs/MADEEASY SHORT NOTES/COA_Processed.pdf",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 27 CSO Test - 2.md",
