@@ -17,12 +17,12 @@
 - 
 - 
 - 
-- [[2023-09-30 Test ID - 17 CN Test - 4]] #done 
+- [[Test ID - 17 CN Test - 4]] #done 
 
 ### OS
 - 
 - [[Test ID - 20 OS Test - 2]] #done 
 
 ### C
-- [[2023-10-01 TEST ID-7 C-Prog]] #undone 
+- [[TEST ID-7 C-Prog]] #undone 
 

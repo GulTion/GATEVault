@@ -16,6 +16,10 @@ syllabus: TCP/UDP, Sockets, Congestion Control, Application LayerProtocols (DNS,
 # Test Series Questions
 1. 
 	![[Pasted image 20231001151238.png]]![[Pasted image 20231001151248.png]]
+- ![[Pasted image 20231001163534.png]]![[Pasted image 20231001163542.png]]
+- ![[Pasted image 20231001164339.png]]![[Pasted image 20231001164345.png]]
+- ![[Pasted image 20231001165040.png]]![[Pasted image 20231001165045.png]]
+- ![[Pasted image 20231001165908.png]]![[Pasted image 20231001165919.png]]
    
 # Notes
 ![[Revision/Notes Revision/CN/Application Layer#^390eb9|Application Layer]]

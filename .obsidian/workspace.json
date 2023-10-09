@@ -4,45 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3a87b0a9b1a885aa",
+        "id": "680316aa1f171bb2",
         "type": "tabs",
         "children": [
           {
-            "id": "c5c3a70c78f5af77",
+            "id": "fd51d19fc6e03068",
             "type": "leaf",
             "state": {
-              "type": "weekly",
-              "state": {}
-            }
-          },
-          {
-            "id": "92ecd9956c573f53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CalenderNotes/TEST PROGRESS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "30e37ddedf44ba2d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5ce59f7de1f8f0da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/TSRevision/Zeal/Round 0/CN/CN TEST 4.md",
-                "mode": "source",
-                "source": false
+                "file": "media/media 1/Pasted image 20230928112103.png"
               }
             }
           }
@@ -128,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TSRevision/Zeal/Round 0/CN/CN TEST 4.md",
+                "file": "media/media 1/Pasted image 20230928112103.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TSRevision/Zeal/Round 0/CN/CN TEST 4.md",
+                "file": "media/media 1/Pasted image 20230928112103.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TSRevision/Zeal/Round 0/CN/CN TEST 4.md"
+                "file": "media/media 1/Pasted image 20230928112103.png"
               }
             }
           },
@@ -206,13 +177,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,11 +200,36 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "5ce59f7de1f8f0da",
+  "active": "fd51d19fc6e03068",
   "lastOpenFiles": [
-    "CalenderNotes/CN/2023-09-30 Test ID - 17 CN Test - 4.md",
-    "CalenderNotes/TEST PROGRESS.md",
+    "media/media 1/Pasted image 20230926180348.png",
+    "media/media 1/Pasted image 20230925120207.png",
+    "media/media 1/Pasted image 20230925111904.png",
+    "Revision/PYQRevision/recurrence DM PYQ.md",
+    "media/media 1/Pasted image 20230925131315.png",
+    "media/media 1/Pasted image 20230925114350.png",
+    "media/media 1/Pasted image 20230926180422.png",
+    "media/media 1/Pasted image 20230926180459.png",
+    "media/media 1/Pasted image 20230926180613.png",
+    "media/media 1/Pasted image 20230916214702.png",
+    "TEST PROGRESS.md",
+    "Revision/ZealRevision/DS/DS advanced.md",
+    "CalenderNotes/2023-09-16 GO Classes Test Series 2023  Algorithms Test 3.md",
+    "Revision/ZealRevision/DS",
+    "Revision/Notes Revision/EM/Revision Stuff using PYQ GATE 2021-1.md",
+    "CalenderNotes/2023-09-27 DM-Graph Theory revision from ME shortnotes.md",
     "CalenderNotes/2023-10-03 Test ID - 39 Compiler Test-1.md",
+    "CalenderNotes/2023-10-04 Test ID - 34 DBMS Test - 4 - 2023.md",
+    "Revision/Notes Revision/EM",
+    "Revision/Notes Revision/TOC/Context Free Grammer and Language.md",
+    "CalenderNotes/TOC/media/Pasted image 20231005010755.png",
+    "Revision/Notes Revision/Notes Revision.md",
+    "Revision/Notes Revision/TOC",
+    "Revision/Notes Revision/CD/Some Notes must write on paper.md",
+    "Revision/TSRevision/Zeal/Round 0/CN/Test ID - 17 CN Test - 4.md",
+    "Revision/TSRevision/Zeal/Round 0/CN/CN TEST 4.md",
+    "Revision/TSRevision/Zeal/Round 0/C/TEST ID-7 C-Prog.md",
+    "Revision/TSRevision/Zeal/Round 0/C",
     "Revision/TSRevision/Zeal/Round 0/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
     "DialyStuff/2023-10-09.md",
     "Revision/PYQRevision/COA/Cache Memory.md",
@@ -243,16 +237,7 @@
     "DialyStuff/2023-10-10.md",
     "DialyStuff/2023-10-12.md",
     "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009235709.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009235658.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009235609.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009235555.png",
     "pdfs/MADEEASY SHORT NOTES/COA_Processed.pdf",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009220159.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009220115.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009215908.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009202103.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009202004.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009200530.png",
     "Revision/ZealRevision/COA/COA-zeal.md",
     "Revision/ZealRevision/COA/Memory Management.md",
     "Revision/PYQRevision/COA/COA - PYQ.md",
@@ -260,25 +245,9 @@
     "DialyStuff/2023-10-08.md",
     "pdfs/MADEEASY SHORT NOTES/DBMS_Processed.pdf",
     "pdfs/mynotes/DBMS transaction Concurrency Control.pdf",
-    "Revision/RevisionDONE.md",
     "pdfs/MADEEASY SHORT NOTES/DM.pdf",
-    "Revision/ZealRevision/DM/Partial Order Relation-zeal.md",
     "pdfs/mynotes/DM Hasse Diagram.pdf",
     "Revision/ZealRevision/DM/media",
-    "Revision/ZealRevision/DM",
-    "Revision/PYQRevision/DBMS/DBMS-pyq.md",
-    "Revision/PYQRevision/DBMS/Normal Forms-pyq.md",
-    "DialyStuff/2023-10-06.md",
-    "DialyStuff/2023-10-07.md",
-    "Revision/TSRevision/Zeal/Round 0/DM/TEST ID-2 DM-2.md",
-    "Revision/TSRevision/Zeal/Round 0/DM",
-    "CalenderNotes/2023-09-27 DM-Graph Theory revision from ME shortnotes.md",
-    "CalenderNotes/2023-09-25 DM PYQ.md",
-    "Revision/ZealRevision/Untitled Kanban.md",
-    "Revision/TSRevision/TSDB.md",
-    "Revision/TSRevision/Zeal/Round 0/CN/CN TEST 4.md",
-    "Revision/TSRevision/Zeal/Round 0/CN",
-    "Revision/PYQRevision/DBMS/media",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
