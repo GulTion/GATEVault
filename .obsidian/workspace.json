@@ -16,139 +16,37 @@
             }
           },
           {
-            "id": "b819ac8e9b5b9279",
+            "id": "92ecd9956c573f53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b546b2216855ad98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/PYQRevision/COA/Cache Memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "521de68e77836d5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d45ca57d83aca13e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 27 CSO Test - 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bcc6a4ad8a14a7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d508835f286883ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8a24ff2c1c32b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80505fb655f859ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb9f181b4a170723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a6c189126b71aa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7596b68333fed8bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-09.md",
+                "file": "CalenderNotes/TEST PROGRESS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
+      },
+      {
+        "id": "30e37ddedf44ba2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ce59f7de1f8f0da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TSRevision/Zeal/Round 0/CN/CN TEST 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-09.md",
+                "file": "Revision/TSRevision/Zeal/Round 0/CN/CN TEST 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-09.md",
+                "file": "Revision/TSRevision/Zeal/Round 0/CN/CN TEST 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-09.md"
+                "file": "Revision/TSRevision/Zeal/Round 0/CN/CN TEST 4.md"
               }
             }
           },
@@ -333,20 +231,28 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "7596b68333fed8bb",
+  "active": "5ce59f7de1f8f0da",
   "lastOpenFiles": [
-    "pdfs/MADEEASY SHORT NOTES/COA_Processed.pdf",
+    "CalenderNotes/CN/2023-09-30 Test ID - 17 CN Test - 4.md",
+    "CalenderNotes/TEST PROGRESS.md",
+    "CalenderNotes/2023-10-03 Test ID - 39 Compiler Test-1.md",
+    "Revision/TSRevision/Zeal/Round 0/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
+    "DialyStuff/2023-10-09.md",
+    "Revision/PYQRevision/COA/Cache Memory.md",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 27 CSO Test - 2.md",
+    "DialyStuff/2023-10-10.md",
+    "DialyStuff/2023-10-12.md",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009235709.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009235658.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009235609.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009235555.png",
+    "pdfs/MADEEASY SHORT NOTES/COA_Processed.pdf",
     "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009220159.png",
     "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009220115.png",
     "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009215908.png",
-    "DialyStuff/2023-10-09.md",
-    "DialyStuff/2023-10-10.md",
     "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009202103.png",
     "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009202004.png",
     "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009200530.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009195437.png",
-    "Revision/PYQRevision/COA/Cache Memory.md",
     "Revision/ZealRevision/COA/COA-zeal.md",
     "Revision/ZealRevision/COA/Memory Management.md",
     "Revision/PYQRevision/COA/COA - PYQ.md",
@@ -358,9 +264,6 @@
     "pdfs/MADEEASY SHORT NOTES/DM.pdf",
     "Revision/ZealRevision/DM/Partial Order Relation-zeal.md",
     "pdfs/mynotes/DM Hasse Diagram.pdf",
-    "Revision/ZealRevision/DM/media/Pasted image 20231008124513.png",
-    "Revision/ZealRevision/DM/media/Pasted image 20231008124501.png",
-    "Revision/ZealRevision/DM/media/Pasted image 20231008124445.png",
     "Revision/ZealRevision/DM/media",
     "Revision/ZealRevision/DM",
     "Revision/PYQRevision/DBMS/DBMS-pyq.md",
@@ -371,16 +274,11 @@
     "Revision/TSRevision/Zeal/Round 0/DM",
     "CalenderNotes/2023-09-27 DM-Graph Theory revision from ME shortnotes.md",
     "CalenderNotes/2023-09-25 DM PYQ.md",
-    "CalenderNotes/TEST PROGRESS.md",
     "Revision/ZealRevision/Untitled Kanban.md",
     "Revision/TSRevision/TSDB.md",
     "Revision/TSRevision/Zeal/Round 0/CN/CN TEST 4.md",
     "Revision/TSRevision/Zeal/Round 0/CN",
-    "Revision/ZealRevision/CN/TCP.md",
     "Revision/PYQRevision/DBMS/media",
-    "Revision/PYQRevision/DBMS",
-    "Revision/PYQRevision/COA/pipline.md",
-    "Revision/PYQRevision/COA/Type of Questions in Pipeline.md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

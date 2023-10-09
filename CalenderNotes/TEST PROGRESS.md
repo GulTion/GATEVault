@@ -1,7 +1,7 @@
 # ZealTS2023
 ## ROUND 0
 ### TOC
-- [[Test ID - 36 Toc Test - 1 - 2023]] #undone
+- [[Test ID - 36 Toc Test - 1 - 2023]] #done
 
 ### CD
 - [[2023-10-03 Test ID - 39 Compiler Test-1]] #undone 
