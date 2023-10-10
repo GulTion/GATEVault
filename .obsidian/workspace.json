@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
+                "file": "DialyStuff/2023-10-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,11 +224,12 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "01765fefeae932f9",
+  "active": "27964075808cde27",
   "lastOpenFiles": [
+    "Revision/Notes Revision/OS/Message Passing.canvas",
+    "DialyStuff/2023-10-10.md",
     "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
     "Revision/ZealRevision/ZealDB.md",
-    "DialyStuff/2023-10-10.md",
     "DialyStuff/2023-10-09.md",
     "DialyStuff/2023-10-08.md",
     "DialyStuff/2023-10-07.md",
@@ -263,7 +264,6 @@
     "CalenderNotes/2023-10-03 Test ID - 39 Compiler Test-1.md",
     "CalenderNotes/2023-10-04 Test ID - 34 DBMS Test - 4 - 2023.md",
     "Revision/Notes Revision/EM",
-    "Revision/Notes Revision/TOC/Context Free Grammer and Language.md",
     "Revision/Notes Revision/TOC",
     "Revision/TSRevision/Zeal/Round 0/C",
     "pdfs/MADEEASY SHORT NOTES/COA_Processed.pdf",
@@ -272,7 +272,6 @@
     "pdfs/MADEEASY SHORT NOTES/DM.pdf",
     "pdfs/mynotes/DM Hasse Diagram.pdf",
     "Revision/ZealRevision/DM/media",
-    "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
   ]
