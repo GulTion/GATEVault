@@ -12,7 +12,14 @@
     }
   ],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-day-planner:show-weekly-view",
+      "icon": "align-vertical-distribute-start",
+      "name": "Day Planner: Show the Week Planner",
+      "mode": "any"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
