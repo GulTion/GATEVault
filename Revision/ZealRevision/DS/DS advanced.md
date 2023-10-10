@@ -7,6 +7,7 @@ date: 2023-09-25
 completed: false
 atQ/P: 10/9
 type: single
+subject: DM
 ---
 
 # row-order and column order #notes/DS/Array/Address 

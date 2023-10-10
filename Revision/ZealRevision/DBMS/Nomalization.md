@@ -1,3 +1,6 @@
+---
+subject: DBMS
+---
 - Conclusion from single instance![[Pasted image 20231006193535.png]]
   | A   | B   | we can't conclude that A->B
   | --- | --- | we can only tell about violation

@@ -1,6 +1,7 @@
 ---
 type: zealWorkBook
 subType: topicWise
+subject: COA
 ---
 ![[Basic Number System]]
 ![[Find Base of Polynomial Equation]]

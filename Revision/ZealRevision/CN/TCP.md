@@ -1,6 +1,7 @@
 ---
 type: zealWorkBook
 subType: topicWise
+subject: CN
 ---
 - Window size calculation from RTT and Bandwidth![[Pasted image 20230930105606.png]]
 	

@@ -129,6 +129,8 @@ columns:
       - { label: "DM", value: "DM", color: "hsl(10, 95%, 90%)"}
       - { label: "OS", value: "OS", color: "hsl(300, 95%, 90%)"}
       - { label: "MATH", value: "MATH", color: "hsl(27, 95%, 90%)"}
+      - { label: "COA", value: "COA", color: "hsl(38, 95%, 90%)"}
+      - { label: "DBMS", value: "DBMS", color: "hsl(127, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -222,7 +224,7 @@ config:
   remove_field_when_delete_column: false
   cell_size: normal
   sticky_first_column: false
-  group_folder_column: 
+  group_folder_column: subject
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true

@@ -1,3 +1,6 @@
+---
+subject: CN
+---
 - statements about the HTTP for the persistence and non-persistence connection
 	![[Pasted image 20231001083255.png]]
 - local DNS server function statement

@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-10.md",
+                "file": "Revision/ZealRevision/CN/2 Data Link Layer Error Control.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f901111138573a2a",
+            "id": "01765fefeae932f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TimeTable.md",
+                "file": "DialyStuff/2023-10-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,15 +208,17 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "d3dbc86fd4575432",
+  "active": "01765fefeae932f9",
   "lastOpenFiles": [
-    "Revision/ZealRevision/CN/CN.md",
+    "Revision/ZealRevision/CN/2 Data Link Layer Error Control.md",
     "Revision/ZealRevision/ZealDB.md",
+    "TimeTable.md",
     "DialyStuff/2023-10-10.md",
+    "Revision/Notes Revision/OS/Process Syncronization.md",
+    "Revision/ZealRevision/CN/CN.md",
     "DialyStuff/2023-10-09.md",
     "DialyStuff/2023-10-12.md",
     "TEST PROGRESS.md",
-    "TimeTable.md",
     "media/media 1/Pasted image 20230926180348.png",
     "media/media 1/Pasted image 20230925120207.png",
     "media/media 1/Pasted image 20230925111904.png",
@@ -248,8 +251,6 @@
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 27 CSO Test - 2.md",
     "pdfs/MADEEASY SHORT NOTES/COA_Processed.pdf",
     "Revision/ZealRevision/COA/COA-zeal.md",
-    "Revision/ZealRevision/COA/Memory Management.md",
-    "Revision/PYQRevision/COA/COA - PYQ.md",
     "pdfs/MADEEASY SHORT NOTES/DBMS_Processed.pdf",
     "pdfs/mynotes/DBMS transaction Concurrency Control.pdf",
     "pdfs/MADEEASY SHORT NOTES/DM.pdf",
