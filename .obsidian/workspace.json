@@ -11,9 +11,11 @@
             "id": "fd51d19fc6e03068",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "media/media 1/Pasted image 20230928112103.png"
+                "file": "DialyStuff/2023-10-10.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/media 1/Pasted image 20230928112103.png",
+                "file": "DialyStuff/2023-10-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/media 1/Pasted image 20230928112103.png",
+                "file": "DialyStuff/2023-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "media/media 1/Pasted image 20230928112103.png"
+                "file": "DialyStuff/2023-10-10.md"
               }
             }
           },
