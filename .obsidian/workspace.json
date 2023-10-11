@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d06f363d0e99ea7c",
+            "id": "467a38c4cb8d8fb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealRevision/OS/6. PAGE REPLACEMENT.pdf.md",
+                "file": "Revision/ZealRevision/OS/8. TLB HIT MISS.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "467a38c4cb8d8fb1",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Revision/ZealRevision/ZealDB.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealRevision/ZealDB.md",
+                "file": "Revision/ZealRevision/OS/8. TLB HIT MISS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealRevision/ZealDB.md",
+                "file": "Revision/ZealRevision/OS/8. TLB HIT MISS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealRevision/ZealDB.md"
+                "file": "Revision/ZealRevision/OS/8. TLB HIT MISS.md"
               }
             }
           },
@@ -226,10 +215,13 @@
   },
   "active": "467a38c4cb8d8fb1",
   "lastOpenFiles": [
-    "DialyStuff/2023-10-10.md",
+    "Revision/ZealRevision/OS/7. SEGMENT PAGE TABLE AND INVERT PAGE.md",
+    "Revision/ZealRevision/OS/8. TLB HIT MISS.md",
+    "DialyStuff/2023-10-11.md",
     "Revision/ZealRevision/OS/6. PAGE REPLACEMENT.pdf.md",
-    "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "DialyStuff/2023-10-10.md",
     "Revision/ZealRevision/ZealDB.md",
+    "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
@@ -262,9 +254,6 @@
     "Revision/ZealRevision/DS/DS advanced.md",
     "CalenderNotes/2023-09-16 GO Classes Test Series 2023  Algorithms Test 3.md",
     "Revision/ZealRevision/DS",
-    "Revision/Notes Revision/EM/Revision Stuff using PYQ GATE 2021-1.md",
-    "CalenderNotes/2023-09-27 DM-Graph Theory revision from ME shortnotes.md",
-    "CalenderNotes/2023-10-03 Test ID - 39 Compiler Test-1.md",
     "Revision/Notes Revision/EM",
     "Revision/Notes Revision/TOC",
     "Revision/TSRevision/Zeal/Round 0/C",
