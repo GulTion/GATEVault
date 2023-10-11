@@ -23,11 +23,9 @@
             "id": "467a38c4cb8d8fb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "DialyStuff/2023-10-10.md",
-                "mode": "source",
-                "source": false
+                "file": "Revision/ZealRevision/ZealDB.md"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-10.md",
+                "file": "Revision/ZealRevision/ZealDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-10.md",
+                "file": "Revision/ZealRevision/ZealDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-10.md"
+                "file": "Revision/ZealRevision/ZealDB.md"
               }
             }
           },
@@ -228,8 +226,8 @@
   },
   "active": "467a38c4cb8d8fb1",
   "lastOpenFiles": [
-    "Revision/ZealRevision/OS/6. PAGE REPLACEMENT.pdf.md",
     "DialyStuff/2023-10-10.md",
+    "Revision/ZealRevision/OS/6. PAGE REPLACEMENT.pdf.md",
     "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealRevision/ZealDB.md",
     "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
