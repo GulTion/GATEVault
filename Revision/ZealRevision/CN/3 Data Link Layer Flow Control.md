@@ -1,0 +1,1 @@
+- send N frames with W window size using sliding window protocl , find the total time![[Pasted image 20231012163232.png]]![[Pasted image 20231012163249.png]]

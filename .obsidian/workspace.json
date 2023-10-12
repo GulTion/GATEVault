@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-12.md",
+                "file": "Revision/ZealRevision/COA/IO device.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-12.md",
+                "file": "Revision/ZealRevision/COA/IO device.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-12.md",
+                "file": "Revision/ZealRevision/COA/IO device.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-12.md"
+                "file": "Revision/ZealRevision/COA/IO device.md"
               }
             }
           },
@@ -215,9 +215,13 @@
   },
   "active": "9de4fccd1a2c8555",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-12.md",
+    "Revision/ZealRevision/COA/IO device.md",
+    "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
+    "Revision/ZealRevision/CN/media/Pasted image 20231012163249.png",
+    "Revision/ZealRevision/CN/media/Pasted image 20231012163232.png",
     "DialyStuff/2023-10-13.md",
     "DialyStuff/media/Pasted image 20231012135746.png",
-    "DialyStuff/2023-10-12.md",
     "DialyStuff/media/Pasted image 20231012134355.png",
     "DialyStuff/media/Pasted image 20231012134254.png",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/20. Fact, Inference, and Judgement.pdf",
@@ -256,11 +260,8 @@
     "Revision/ZealRevision/CN/media/Pasted image 20231010125524.png",
     "TimeTable.md",
     "Revision/Notes Revision/OS/Process Syncronization.md",
-    "Revision/ZealRevision/CN/CN.md",
     "media/media 1/Pasted image 20230926180348.png",
     "media/media 1/Pasted image 20230925120207.png",
-    "media/media 1/Pasted image 20230925111904.png",
-    "media/media 1/Pasted image 20230925131315.png",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
   ]
