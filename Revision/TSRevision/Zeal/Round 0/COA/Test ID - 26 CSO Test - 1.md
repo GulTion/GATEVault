@@ -4,6 +4,8 @@ allDay: true
 date: 2023-09-28
 completed: 
 type: ZealTS
+subject: COA
+subType: topicWise
 ---
 # Number System COA
 

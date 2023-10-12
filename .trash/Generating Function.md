@@ -2,7 +2,7 @@
 Last_Time: 2023-09-02T13:30:00.000+05:30
 Repetation: 1
 type: GOTS
-atQ/P: Q4
+atQ: Q4
 ---
 [Link](https://gateoverflow.in/tag/generating-functions?start=0)
 

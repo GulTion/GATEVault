@@ -4,6 +4,8 @@ allDay: true
 date: 2023-09-30
 completed: 
 syllabus: TCP/UDP, Sockets, Congestion Control, Application LayerProtocols (DNS, SMTP, POP, FTP, HTTP And DHCP).
+subject: CN
+type: ZealTS
 ---
 # STACK
 - ~~Application Layer Zeal WorkBook~~

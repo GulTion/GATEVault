@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "86ec9799d7e2da72",
+        "id": "aa584da356e2982d",
         "type": "tabs",
         "children": [
           {
-            "id": "9de4fccd1a2c8555",
+            "id": "78a79780e3e9590d",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Revision/TSRevision/TSDB.md"
+              }
+            }
+          },
+          {
+            "id": "9ca4b9532a1cd3bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +60,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": true,
@@ -180,11 +191,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "cmdr:Day Planner: Show the Week Planner": false,
       "obsidian-day-planner:Week plan": false,
       "daily-notes:Open today's daily note": true,
       "switcher:Open quick switcher": true,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
@@ -195,39 +206,42 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "9de4fccd1a2c8555",
+  "active": "9ca4b9532a1cd3bb",
   "lastOpenFiles": [
-    "Revision/ZealRevision/OS/OSDB.md",
+    "Revision/TSRevision/TSDB.md",
+    "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 26 CSO Test - 1.md",
+    "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 27 CSO Test - 2.md",
+    "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
+    "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "DialyStuff/2023-10-12.md",
+    "DialyStuff/2023-10-13.md",
+    "fromWhereSubject.md",
+    "TEST PROGRESS.md",
+    "shortNotesList.md",
+    "DaskBoard Back.md",
+    "Refer UANOTES.md",
+    "index.md",
+    "media/media 2/Pasted image 20230829180728.png",
+    "Revision/Notes Revision/TOC/Language Closure.md",
+    "Plan/Plan.md",
+    "Plan/PLANDB.md",
+    "Revision/PYQRevision/DM/Combintories.md",
+    "Plan/Generating Function.md",
+    "Revision/PYQRevision/DM",
+    "Plan/CIDR Aggregation.md",
+    "Plan/Aptitude Progress.md",
+    "Plan/Adjancey matirx protieres.md",
+    "Revision/Notes Revision/TOC/Context Free Grammer and Language.md",
+    "Revision/ZealRevision/DS/DS advanced.md",
+    "Plan/Relational Algebra.md",
+    "Revision/TSRevision/Zeal/Round 0/C/TEST ID-7 C-Prog.md",
+    "Plan/Cache Average time.md",
     "Revision/ZealRevision/OS/OS",
-    "Revision/ZealRevision/ZealDB.md",
-    "Revision/ZealRevision/OS/OS-zeal.md",
-    "Revision/ZealRevision/OS/10. FILE SYSTEM AND DISK SCHEDULING.pdf.md",
-    "DialyStuff/2023-10-11.md",
-    "DialyStuff/2023-10-10.md",
-    "Revision/ZealRevision/CN/5 Network Layer Solutions.md",
-    "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
-    "Revision/ZealRevision/ZealRevision.md",
-    "Revision/ZealRevision/COA/Number Systems/Number System.md",
-    "Revision/ZealRevision/COA/Number Systems/Find Base of Polynomial Equation.md",
-    "Revision/ZealRevision/COA/Number Systems/Basic Number System.md",
-    "Revision/ZealRevision/CN/TCP.md",
-    "Revision/ZealRevision/CN/CN.md",
-    "Revision/ZealRevision/CN/Application Layer.md",
-    "Revision/ZealRevision/C/C.md",
-    "Revision/ZealRevision/DM/Basic Vertex and Edge Calculation.md",
     "Revision/ZealRevision/EM",
-    "Revision/ZealRevision/DM/Bipartite Graph and its Properties.md",
-    "Revision/ZealRevision/DM/Bridge and Spanning Tree.md",
-    "Revision/ZealRevision/DM/Planner and its Properties.md",
-    "Revision/ZealRevision/TOC/12 epi-NFA closure.md",
     "Revision/ZealRevision/TOC",
     "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "DialyStuff/2023-10-13.md",
-    "Revision/ZealRevision/COA/IO device.md",
     "Revision/ZealRevision/COA/media/Pasted image 20231012171820.png",
     "Revision/ZealRevision/COA/media/Pasted image 20231012170717.png",
-    "Revision/ZealRevision/CN/2 Data Link Layer Error Control.md",
     "Revision/ZealRevision/CN/media/Pasted image 20231012163249.png",
     "Revision/ZealRevision/CN/media/Pasted image 20231012163232.png",
     "DialyStuff/media/Pasted image 20231012135746.png",
@@ -238,11 +252,9 @@
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/18. Statement- Arguments.pdf",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/17. Statement- Conclusions.pdf",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/16. Statement- Assumptions.pdf",
-    "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/15. Analogies.pdf",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Revision/ZealRevision/CN/media/Pasted image 20231010131341.png",
     "Revision/ZealRevision/CN/media/Pasted image 20231010131314.png",
-    "Revision/ZealRevision/CN/media/Pasted image 20231010125524.png",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
   ]
