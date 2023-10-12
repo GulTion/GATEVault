@@ -11,11 +11,9 @@
             "id": "9de4fccd1a2c8555",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Revision/ZealRevision/COA/IO device.md",
-                "mode": "source",
-                "source": false
+                "file": "Revision/ZealRevision/ZealDB.md"
               }
             }
           }
@@ -38,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealRevision/COA/IO device.md",
+                "file": "Revision/ZealRevision/ZealDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealRevision/COA/IO device.md",
+                "file": "Revision/ZealRevision/ZealDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealRevision/COA/IO device.md"
+                "file": "Revision/ZealRevision/ZealDB.md"
               }
             }
           },
@@ -215,12 +213,34 @@
   },
   "active": "9de4fccd1a2c8555",
   "lastOpenFiles": [
+    "Revision/ZealRevision/CN/5 Network Layer Solutions.md",
+    "Revision/ZealRevision/ZealDB.md",
+    "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
+    "Revision/ZealRevision/ZealRevision.md",
+    "Revision/ZealRevision/COA/Number Systems/Number System.md",
+    "Revision/ZealRevision/COA/Number Systems/Find Base of Polynomial Equation.md",
+    "Revision/ZealRevision/COA/Number Systems/Basic Number System.md",
+    "Revision/ZealRevision/CN/TCP.md",
     "DialyStuff/2023-10-12.md",
+    "Revision/ZealRevision/CN/CN.md",
+    "Revision/ZealRevision/CN/Application Layer.md",
+    "Revision/ZealRevision/C/C.md",
+    "Revision/ZealRevision/DM/Basic Vertex and Edge Calculation.md",
+    "Revision/ZealRevision/EM",
+    "Revision/ZealRevision/DM/Bipartite Graph and its Properties.md",
+    "Revision/ZealRevision/DM/Bridge and Spanning Tree.md",
+    "Revision/ZealRevision/DM/Planner and its Properties.md",
+    "Revision/ZealRevision/TOC/12 epi-NFA closure.md",
+    "Revision/ZealRevision/TOC",
+    "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "DialyStuff/2023-10-13.md",
     "Revision/ZealRevision/COA/IO device.md",
+    "Revision/ZealRevision/COA/media/Pasted image 20231012171820.png",
+    "Revision/ZealRevision/COA/media/Pasted image 20231012170717.png",
+    "Revision/ZealRevision/CN/2 Data Link Layer Error Control.md",
     "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
     "Revision/ZealRevision/CN/media/Pasted image 20231012163249.png",
     "Revision/ZealRevision/CN/media/Pasted image 20231012163232.png",
-    "DialyStuff/2023-10-13.md",
     "DialyStuff/media/Pasted image 20231012135746.png",
     "DialyStuff/media/Pasted image 20231012134355.png",
     "DialyStuff/media/Pasted image 20231012134254.png",
@@ -231,37 +251,15 @@
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/16. Statement- Assumptions.pdf",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/15. Analogies.pdf",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/14. Sentence Rearrangement.pdf",
-    "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/13. Sentence Improvement.pdf",
-    "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/12. SPOTTING THE ERROR-IDENTIFICATION METHOD.pdf",
-    "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/11. Figures of Speech.pdf",
     "DialyStuff/2023-10-10.md",
     "index.md",
     "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
     "Revision/ZealRevision/OS/7. SEGMENT PAGE TABLE AND INVERT PAGE.md",
     "Revision/ZealRevision/OS/8. TLB HIT MISS.md",
-    "DialyStuff/2023-10-11.md",
-    "Revision/ZealRevision/OS/6. PAGE REPLACEMENT.pdf.md",
-    "Revision/ZealRevision/ZealDB.md",
-    "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
-    "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
-    "DialyStuff/2023-10-09.md",
-    "DialyStuff/2023-10-08.md",
-    "DialyStuff/2023-10-07.md",
-    "Plan/Language Closure.md",
-    "Revision/Notes Revision/COA/Number System/Ranges of Number.md",
-    "DialyStuff/2023-10-06.md",
-    "Revision/Notes Revision/DLD/Flip Flops.md",
-    "Revision/ZealRevision/DM/Partial Order Relation-zeal.md",
-    "Revision/ZealRevision/CN/2 Data Link Layer Error Control.md",
     "Revision/ZealRevision/CN/media/Pasted image 20231010131341.png",
     "Revision/ZealRevision/CN/media/Pasted image 20231010131314.png",
-    "Revision/Notes Revision/CN/Error Control.md",
     "Revision/ZealRevision/CN/media/Pasted image 20231010125524.png",
-    "TimeTable.md",
-    "Revision/Notes Revision/OS/Process Syncronization.md",
-    "media/media 1/Pasted image 20230926180348.png",
-    "media/media 1/Pasted image 20230925120207.png",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
   ]

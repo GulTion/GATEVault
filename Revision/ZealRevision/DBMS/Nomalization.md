@@ -1,5 +1,6 @@
 ---
 subject: DBMS
+type: zealWorkBook
 ---
 - Conclusion from single instance![[Pasted image 20231006193535.png]]
   | A   | B   | we can't conclude that A->B

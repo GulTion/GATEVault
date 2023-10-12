@@ -1,5 +1,6 @@
 ---
 subject: OS
+type: zealWorkBook
 ---
 
 > [!IMPORTANT] MUST DO ALL Question from ZEAL 
