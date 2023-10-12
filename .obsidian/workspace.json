@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12cc8c3d3e64f2da",
+        "id": "86ec9799d7e2da72",
         "type": "tabs",
         "children": [
           {
-            "id": "467a38c4cb8d8fb1",
+            "id": "9de4fccd1a2c8555",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -213,13 +213,17 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "467a38c4cb8d8fb1",
+  "active": "9de4fccd1a2c8555",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-13.md",
+    "DialyStuff/2023-10-12.md",
+    "DialyStuff/2023-10-10.md",
+    "index.md",
+    "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
     "Revision/ZealRevision/OS/7. SEGMENT PAGE TABLE AND INVERT PAGE.md",
     "Revision/ZealRevision/OS/8. TLB HIT MISS.md",
     "DialyStuff/2023-10-11.md",
     "Revision/ZealRevision/OS/6. PAGE REPLACEMENT.pdf.md",
-    "DialyStuff/2023-10-10.md",
     "Revision/ZealRevision/ZealDB.md",
     "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
@@ -241,18 +245,14 @@
     "TimeTable.md",
     "Revision/Notes Revision/OS/Process Syncronization.md",
     "Revision/ZealRevision/CN/CN.md",
-    "DialyStuff/2023-10-12.md",
     "TEST PROGRESS.md",
     "media/media 1/Pasted image 20230926180348.png",
     "media/media 1/Pasted image 20230925120207.png",
     "media/media 1/Pasted image 20230925111904.png",
-    "Revision/PYQRevision/recurrence DM PYQ.md",
     "media/media 1/Pasted image 20230925131315.png",
     "media/media 1/Pasted image 20230925114350.png",
     "media/media 1/Pasted image 20230926180422.png",
     "media/media 1/Pasted image 20230926180459.png",
-    "Revision/ZealRevision/DS/DS advanced.md",
-    "CalenderNotes/2023-09-16 GO Classes Test Series 2023  Algorithms Test 3.md",
     "Revision/ZealRevision/DS",
     "Revision/Notes Revision/EM",
     "Revision/Notes Revision/TOC",
