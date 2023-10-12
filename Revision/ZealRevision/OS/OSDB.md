@@ -1,7 +1,6 @@
 ---
-
 database-plugin: basic
-
+type: DataBase
 ---
 
 ```yaml:dbfolder
@@ -235,8 +234,8 @@ columns:
     isSortedDesc: true
     options:
       - { label: "zealWorkBook", value: "zealWorkBook", color: "hsl(3, 95%, 90%)"}
+      - { label: "single", value: "single", color: "hsl(38, 95%, 90%)"}
       - { label: "folder", value: "folder", color: "hsl(236,100%,85%)"}
-      - { label: "DataBase", value: "DataBase", color: "hsl(235, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -251,7 +250,7 @@ config:
   remove_field_when_delete_column: false
   cell_size: normal
   sticky_first_column: false
-  group_folder_column: subject
+  group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true

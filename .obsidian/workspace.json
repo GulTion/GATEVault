@@ -11,9 +11,11 @@
             "id": "9de4fccd1a2c8555",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Revision/ZealRevision/ZealDB.md"
+                "file": "DialyStuff/2023-10-12.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealRevision/ZealDB.md",
+                "file": "DialyStuff/2023-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealRevision/ZealDB.md",
+                "file": "DialyStuff/2023-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealRevision/ZealDB.md"
+                "file": "DialyStuff/2023-10-12.md"
               }
             }
           },
@@ -171,24 +173,6 @@
           }
         ],
         "currentTab": 7
-      },
-      {
-        "id": "5fd6aca08e0d464b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "01765fefeae932f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -213,15 +197,21 @@
   },
   "active": "9de4fccd1a2c8555",
   "lastOpenFiles": [
-    "Revision/ZealRevision/CN/5 Network Layer Solutions.md",
+    "Revision/ZealRevision/OS/OSDB.md",
+    "DialyStuff/2023-10-12.md",
+    "Revision/ZealRevision/OS/OS",
     "Revision/ZealRevision/ZealDB.md",
+    "Revision/ZealRevision/OS/OS-zeal.md",
+    "Revision/ZealRevision/OS/10. FILE SYSTEM AND DISK SCHEDULING.pdf.md",
+    "DialyStuff/2023-10-11.md",
+    "DialyStuff/2023-10-10.md",
+    "Revision/ZealRevision/CN/5 Network Layer Solutions.md",
     "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
     "Revision/ZealRevision/ZealRevision.md",
     "Revision/ZealRevision/COA/Number Systems/Number System.md",
     "Revision/ZealRevision/COA/Number Systems/Find Base of Polynomial Equation.md",
     "Revision/ZealRevision/COA/Number Systems/Basic Number System.md",
     "Revision/ZealRevision/CN/TCP.md",
-    "DialyStuff/2023-10-12.md",
     "Revision/ZealRevision/CN/CN.md",
     "Revision/ZealRevision/CN/Application Layer.md",
     "Revision/ZealRevision/C/C.md",
@@ -238,7 +228,6 @@
     "Revision/ZealRevision/COA/media/Pasted image 20231012171820.png",
     "Revision/ZealRevision/COA/media/Pasted image 20231012170717.png",
     "Revision/ZealRevision/CN/2 Data Link Layer Error Control.md",
-    "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
     "Revision/ZealRevision/CN/media/Pasted image 20231012163249.png",
     "Revision/ZealRevision/CN/media/Pasted image 20231012163232.png",
     "DialyStuff/media/Pasted image 20231012135746.png",
@@ -250,12 +239,6 @@
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/17. Statement- Conclusions.pdf",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/16. Statement- Assumptions.pdf",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/15. Analogies.pdf",
-    "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/14. Sentence Rearrangement.pdf",
-    "DialyStuff/2023-10-10.md",
-    "index.md",
-    "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
-    "Revision/ZealRevision/OS/7. SEGMENT PAGE TABLE AND INVERT PAGE.md",
-    "Revision/ZealRevision/OS/8. TLB HIT MISS.md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Revision/ZealRevision/CN/media/Pasted image 20231010131341.png",
     "Revision/ZealRevision/CN/media/Pasted image 20231010131314.png",
