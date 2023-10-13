@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f5c46f54dbd72953",
+        "id": "09f583af14fcfb0a",
         "type": "tabs",
         "children": [
           {
-            "id": "20e872c161c92f69",
+            "id": "ff46295d96f3e62f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
+                "file": "Revision/ZealRevision/DBMS/relation algbera.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
+                "file": "Revision/ZealRevision/DBMS/relation algbera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
+                "file": "Revision/ZealRevision/DBMS/relation algbera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md"
+                "file": "Revision/ZealRevision/DBMS/relation algbera.md"
               }
             }
           },
@@ -203,9 +203,17 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "20e872c161c92f69",
+  "active": "ff46295d96f3e62f",
   "lastOpenFiles": [
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231013222627.png",
+    "Revision/ZealRevision/DBMS/media/Pasted image 20231013222613.png",
+    "Revision/ZealRevision/COA/IO device.md",
+    "Revision/ZealRevision/DBMS/relation algbera.md",
+    "Revision/ZealRevision/COA/media/Pasted image 20231013222502.png",
+    "Revision/ZealRevision/COA/media/Pasted image 20231013222450.png",
     "DialyStuff/2023-10-13.md",
+    "DialyStuff/2023-10-14.md",
+    "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/Notes Revision/DBMS/DBMS-notes.md",
     "Revision/Notes Revision/DBMS/Indexing.md",
@@ -213,9 +221,7 @@
     "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/TSRevision/TSDB.md",
     "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
-    "Revision/ZealRevision/COA/IO device.md",
     "Revision/ZealRevision/ZealDB.md",
-    "DialyStuff/2023-10-14.md",
     "Revision/ZealRevision/CN/media/Pasted image 20231013165055.png",
     "Revision/ZealRevision/CN/media/Pasted image 20231013165014.png",
     "DialyStuff/media/Pasted image 20231013154935.png",
@@ -225,7 +231,6 @@
     "DialyStuff/2023-10-12.md",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 26 CSO Test - 1.md",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 27 CSO Test - 2.md",
-    "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "fromWhereSubject.md",
     "TEST PROGRESS.md",
     "shortNotesList.md",
@@ -236,16 +241,11 @@
     "Revision/Notes Revision/TOC/Language Closure.md",
     "Plan/Plan.md",
     "Plan/PLANDB.md",
-    "Revision/PYQRevision/DM/Combintories.md",
-    "Plan/Generating Function.md",
     "Revision/PYQRevision/DM",
     "Revision/ZealRevision/OS/OS",
     "Revision/ZealRevision/EM",
     "Revision/ZealRevision/TOC",
     "Revision/ZealRevision/COA/media/Pasted image 20231012171820.png",
-    "Revision/ZealRevision/COA/media/Pasted image 20231012170717.png",
-    "Revision/ZealRevision/CN/media/Pasted image 20231012163249.png",
-    "Revision/ZealRevision/CN/media/Pasted image 20231012163232.png",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/20. Fact, Inference, and Judgement.pdf",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/19. Syllogisms.pdf",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/18. Statement- Arguments.pdf",
