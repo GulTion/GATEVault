@@ -181,6 +181,14 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "05e4ba669e292778",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 7
@@ -208,8 +216,11 @@
   },
   "active": "9ca4b9532a1cd3bb",
   "lastOpenFiles": [
-    "DialyStuff/2023-10-12.md",
+    "DialyStuff/2023-10-14.md",
+    "DialyStuff/media/Pasted image 20231013151058.png",
     "DialyStuff/2023-10-13.md",
+    "Revision/Notes Revision/Aptitude/Verbal/Voca.md",
+    "DialyStuff/2023-10-12.md",
     "Revision/TSRevision/TSDB.md",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 26 CSO Test - 1.md",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 27 CSO Test - 2.md",
@@ -233,9 +244,6 @@
     "Plan/Adjancey matirx protieres.md",
     "Revision/Notes Revision/TOC/Context Free Grammer and Language.md",
     "Revision/ZealRevision/DS/DS advanced.md",
-    "Plan/Relational Algebra.md",
-    "Revision/TSRevision/Zeal/Round 0/C/TEST ID-7 C-Prog.md",
-    "Plan/Cache Average time.md",
     "Revision/ZealRevision/OS/OS",
     "Revision/ZealRevision/EM",
     "Revision/ZealRevision/TOC",
@@ -254,7 +262,6 @@
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/16. Statement- Assumptions.pdf",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Revision/ZealRevision/CN/media/Pasted image 20231010131341.png",
-    "Revision/ZealRevision/CN/media/Pasted image 20231010131314.png",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
   ]
