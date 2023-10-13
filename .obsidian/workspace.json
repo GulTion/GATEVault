@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-13.md",
+                "file": "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-13.md",
+                "file": "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-13.md",
+                "file": "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-13.md"
+                "file": "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md"
               }
             }
           },
@@ -205,13 +205,16 @@
   },
   "active": "20e872c161c92f69",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-13.md",
+    "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
+    "Revision/Notes Revision/DBMS/DBMS-notes.md",
+    "Revision/Notes Revision/DBMS/Indexing.md",
     "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
     "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/TSRevision/TSDB.md",
     "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
     "Revision/ZealRevision/COA/IO device.md",
     "Revision/ZealRevision/ZealDB.md",
-    "DialyStuff/2023-10-13.md",
     "DialyStuff/2023-10-14.md",
     "Revision/ZealRevision/CN/media/Pasted image 20231013165055.png",
     "Revision/ZealRevision/CN/media/Pasted image 20231013165014.png",
@@ -223,7 +226,6 @@
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 26 CSO Test - 1.md",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 27 CSO Test - 2.md",
     "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
-    "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "fromWhereSubject.md",
     "TEST PROGRESS.md",
     "shortNotesList.md",
@@ -237,8 +239,6 @@
     "Revision/PYQRevision/DM/Combintories.md",
     "Plan/Generating Function.md",
     "Revision/PYQRevision/DM",
-    "Plan/CIDR Aggregation.md",
-    "Plan/Aptitude Progress.md",
     "Revision/ZealRevision/OS/OS",
     "Revision/ZealRevision/EM",
     "Revision/ZealRevision/TOC",
