@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aa584da356e2982d",
+        "id": "f5c46f54dbd72953",
         "type": "tabs",
         "children": [
           {
-            "id": "78a79780e3e9590d",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Revision/TSRevision/TSDB.md"
-              }
-            }
-          },
-          {
-            "id": "9ca4b9532a1cd3bb",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Revision/ZealRevision/ZealDB.md"
-              }
-            }
-          },
-          {
-            "id": "1da2e8b0438fc2d8",
+            "id": "20e872c161c92f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
+                "file": "DialyStuff/2023-10-13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
+                "file": "DialyStuff/2023-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
+                "file": "DialyStuff/2023-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md"
+                "file": "DialyStuff/2023-10-13.md"
               }
             }
           },
@@ -224,18 +204,23 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "1da2e8b0438fc2d8",
+  "active": "20e872c161c92f69",
   "lastOpenFiles": [
-    "DialyStuff/2023-10-13.md",
+    "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
+    "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/TSRevision/TSDB.md",
     "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
+    "Revision/ZealRevision/COA/IO device.md",
     "Revision/ZealRevision/ZealDB.md",
+    "DialyStuff/2023-10-13.md",
     "DialyStuff/2023-10-14.md",
+    "Revision/ZealRevision/CN/media/Pasted image 20231013165055.png",
+    "Revision/ZealRevision/CN/media/Pasted image 20231013165014.png",
     "DialyStuff/media/Pasted image 20231013154935.png",
     "DialyStuff/media/Pasted image 20231013154933.png",
     "DialyStuff/media/Pasted image 20231013151058.png",
     "Revision/Notes Revision/Aptitude/Verbal/Voca.md",
     "DialyStuff/2023-10-12.md",
-    "Revision/TSRevision/TSDB.md",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 26 CSO Test - 1.md",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 27 CSO Test - 2.md",
     "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
@@ -255,18 +240,13 @@
     "Revision/PYQRevision/DM",
     "Plan/CIDR Aggregation.md",
     "Plan/Aptitude Progress.md",
-    "Plan/Adjancey matirx protieres.md",
-    "Revision/Notes Revision/TOC/Context Free Grammer and Language.md",
     "Revision/ZealRevision/OS/OS",
     "Revision/ZealRevision/EM",
     "Revision/ZealRevision/TOC",
-    "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealRevision/COA/media/Pasted image 20231012171820.png",
     "Revision/ZealRevision/COA/media/Pasted image 20231012170717.png",
     "Revision/ZealRevision/CN/media/Pasted image 20231012163249.png",
     "Revision/ZealRevision/CN/media/Pasted image 20231012163232.png",
-    "DialyStuff/media/Pasted image 20231012135746.png",
-    "DialyStuff/media/Pasted image 20231012134355.png",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/20. Fact, Inference, and Judgement.pdf",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/19. Syllogisms.pdf",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/18. Statement- Arguments.pdf",
