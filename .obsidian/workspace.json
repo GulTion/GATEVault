@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealRevision/DBMS/relation algbera.md",
+                "file": "DialyStuff/2023-10-14.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "239ff38cbac693a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
               }
             }
           }
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealRevision/DBMS/relation algbera.md",
+                "file": "DialyStuff/2023-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealRevision/DBMS/relation algbera.md",
+                "file": "DialyStuff/2023-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealRevision/DBMS/relation algbera.md"
+                "file": "DialyStuff/2023-10-14.md"
               }
             }
           },
@@ -205,10 +215,16 @@
   },
   "active": "ff46295d96f3e62f",
   "lastOpenFiles": [
+    "Revision/TSRevision/TSDB.md",
+    "Revision/TSRevision/Zeal/Round 3/Test ID - 83 Mock - 7 - 2022.md",
+    "Revision/ZealRevision/CN/TCP.md",
+    "Revision/TSRevision/Zeal/Round 3",
+    "Revision/ZealRevision/CN/media/Pasted image 20231013234540.png",
+    "Revision/ZealRevision/CN/media/Pasted image 20231013234533.png",
+    "Revision/ZealRevision/DBMS/relation algbera.md",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231013222627.png",
     "Revision/ZealRevision/DBMS/media/Pasted image 20231013222613.png",
     "Revision/ZealRevision/COA/IO device.md",
-    "Revision/ZealRevision/DBMS/relation algbera.md",
     "Revision/ZealRevision/COA/media/Pasted image 20231013222502.png",
     "Revision/ZealRevision/COA/media/Pasted image 20231013222450.png",
     "DialyStuff/2023-10-13.md",
@@ -219,14 +235,12 @@
     "Revision/Notes Revision/DBMS/Indexing.md",
     "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
     "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/TSRevision/TSDB.md",
     "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
     "Revision/ZealRevision/ZealDB.md",
     "Revision/ZealRevision/CN/media/Pasted image 20231013165055.png",
     "Revision/ZealRevision/CN/media/Pasted image 20231013165014.png",
     "DialyStuff/media/Pasted image 20231013154935.png",
     "DialyStuff/media/Pasted image 20231013154933.png",
-    "DialyStuff/media/Pasted image 20231013151058.png",
     "Revision/Notes Revision/Aptitude/Verbal/Voca.md",
     "DialyStuff/2023-10-12.md",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 26 CSO Test - 1.md",
@@ -237,20 +251,16 @@
     "DaskBoard Back.md",
     "Refer UANOTES.md",
     "index.md",
-    "media/media 2/Pasted image 20230829180728.png",
     "Revision/Notes Revision/TOC/Language Closure.md",
     "Plan/Plan.md",
-    "Plan/PLANDB.md",
     "Revision/PYQRevision/DM",
     "Revision/ZealRevision/OS/OS",
     "Revision/ZealRevision/EM",
     "Revision/ZealRevision/TOC",
-    "Revision/ZealRevision/COA/media/Pasted image 20231012171820.png",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/20. Fact, Inference, and Judgement.pdf",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/19. Syllogisms.pdf",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/18. Statement- Arguments.pdf",
     "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/17. Statement- Conclusions.pdf",
-    "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/16. Statement- Assumptions.pdf",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

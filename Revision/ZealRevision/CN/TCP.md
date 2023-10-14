@@ -17,3 +17,5 @@ last_time: 2023-10-12T00:00:00.000+05:30
 	![[Pasted image 20230930132716.png]]![[Pasted image 20230930132738.png]]
 	
 
+- congested slow start![[Pasted image 20231013234533.png]]![[Pasted image 20231013234540.png]]
+- 

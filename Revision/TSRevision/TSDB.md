@@ -38,7 +38,7 @@ columns:
     key: subject
     id: subject
     label: subject
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -51,6 +51,7 @@ columns:
       - { label: "COA", value: "COA", color: "hsl(38, 95%, 90%)"}
       - { label: "DBMS", value: "DBMS", color: "hsl(127, 95%, 90%)"}
       - { label: "C", value: "C", color: "hsl(300, 95%, 90%)"}
+      - { label: "FULL", value: "FULL", color: "hsl(302, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -66,7 +67,7 @@ columns:
     key: last_time
     id: last_time
     label: last_time
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -86,7 +87,7 @@ columns:
     key: type
     id: type
     label: type
-    position: 2
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: 1
@@ -116,7 +117,7 @@ columns:
     key: syllabus
     id: syllabus
     label: syllabus
-    position: 7
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -139,7 +140,7 @@ columns:
     key: completed
     id: completed
     label: completed
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -158,12 +159,32 @@ columns:
     key: subType
     id: subType
     label: subType
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
       - { label: "topicWise", value: "topicWise", color: "hsl(259, 95%, 90%)"}
+      - { label: "mock", value: "mock", color: "hsl(98, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  atQ:
+    input: number
+    accessorKey: atQ
+    key: atQ
+    id: atQ
+    label: atQ
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
