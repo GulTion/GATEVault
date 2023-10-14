@@ -33,20 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "2da03780d26603ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "838f1b1005c29f8c",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -228,11 +214,10 @@
       "audio-recorder:Start/stop recording": false,
       "dbfolder:Create a new database table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "838f1b1005c29f8c",
+  "active": "ca7bc4254449ab06",
   "lastOpenFiles": [
     "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM/media/Pasted image 20231014093432.png",
     "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM/media/Pasted image 20231014093328.png",
