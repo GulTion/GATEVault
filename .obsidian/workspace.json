@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-14.md",
+                "file": "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,14 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WeakSubtopic.md",
+                "file": "DialyStuff/2023-10-14.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
+                "file": "DialyStuff/2023-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
+                "file": "DialyStuff/2023-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TSRevision/ZealTEST 2023 INDEX.pdf"
+                "file": "DialyStuff/2023-10-14.md"
               }
             }
           },
@@ -227,14 +226,15 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "02b7b3cd093c7815",
+  "active": "51232c2944f921b4",
   "lastOpenFiles": [
-    "DialyStuff/2023-10-14.md",
+    "WeakSubtopic.md",
     "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+    "DialyStuff/2023-10-14.md",
     "Revision/TSRevision/Zeal/Round 0/DBMS/Test 4 DBMS TEST ID 34.md",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014142526.png",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014142520.png",
-    "WeakSubtopic.md",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014141707.png",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014141700.png",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014140501.png",
@@ -273,7 +273,6 @@
     "Revision/ZealRevision/DBMS/relation algbera.md",
     "Revision/ZealRevision/COA/IO device.md",
     "DialyStuff/2023-10-13.md",
-    "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
