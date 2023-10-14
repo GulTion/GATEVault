@@ -3,6 +3,7 @@ syllabus: Combinatorics
 type: GOTS
 subject: DM
 subType: topicWise
+atQ: 5
 ---
 
 Q. select r from n #DM 

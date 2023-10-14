@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TSRevision/GO/Topicwise Test/DM/Discrete Mathematics Test 4 - Combintories.md",
+                "file": "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TSRevision/GO/Topicwise Test/DM/Discrete Mathematics Test 4 - Combintories.md",
+                "file": "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TSRevision/GO/Topicwise Test/DM/Discrete Mathematics Test 4 - Combintories.md",
+                "file": "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TSRevision/GO/Topicwise Test/DM/Discrete Mathematics Test 4 - Combintories.md"
+                "file": "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md"
               }
             }
           },
@@ -194,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -217,12 +216,27 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "ca7bc4254449ab06",
+  "active": "239ff38cbac693a0",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-14.md",
+    "DialyStuff/2023-10-15.md",
+    "DialyStuff/media/Pasted image 20231014115525.png",
+    "Revision/PYQRevision/APTI/Time , Speed & Distance.md",
+    "Revision/PYQRevision/APTI/media/Pasted image 20231014115258.png",
+    "Revision/PYQRevision/APTI/media/Pasted image 20231014115256.png",
+    "Revision/Notes Revision/COA/Disk Memory in Input output.md",
+    "DialyStuff/media/Pasted image 20231014103716.png",
+    "Revision/PYQRevision/APTI/Time and Work.md",
+    "Revision/PYQRevision/APTI/media/Pasted image 20231014103642.png",
+    "Revision/PYQRevision/APTI/media/Pasted image 20231014103243.png",
+    "Revision/PYQRevision/APTI/media/Pasted image 20231014102525.png",
+    "Revision/PYQRevision/APTI/media",
+    "Revision/PYQRevision/APTI",
+    "Revision/TSRevision/TSDB.md",
+    "Revision/TSRevision/GO/Topicwise Test/DM/Discrete Mathematics Test 4 - Combintories.md",
     "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM/media/Pasted image 20231014093432.png",
     "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM/media/Pasted image 20231014093328.png",
     "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM/media/Pasted image 20231014085701.png",
-    "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM/media/Pasted image 20231014085619.png",
     "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM/media",
     "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM",
     "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test",
@@ -231,24 +245,11 @@
     "export/Discrete Mathematics Test 4 - Combintories/Revision",
     "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/README.md",
     "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/_style.css",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img/blackboard.png",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img/boardmarker-black.png",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img/boardmarker-blue.png",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img/boardmarker-green.png",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img/boardmarker-orange.png",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img/boardmarker-purple.png",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img/boardmarker-red.png",
     "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/plugin (copy).js",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/style.css",
     "export/Discrete Mathematics Test 4 - Combintories/plugin/chart/README.md",
     "export/Discrete Mathematics Test 4 - Combintories/plugin/customcontrols/README.md",
     "export/Discrete Mathematics Test 4 - Combintories/plugin/menu/CONTRIBUTING.md",
     "export/Discrete Mathematics Test 4 - Combintories/plugin/menu/README.md",
-    "Revision/TSRevision/TSDB.md",
-    "Revision/TSRevision/GO/Topicwise Test/DM/Discrete Mathematics Test 4 - Combintories.md",
-    "DialyStuff/2023-10-14.md",
-    "Revision/Notes Revision/COA/Disk Memory in Input output.md",
     "Revision/Notes Revision/COA/COA-notes.md",
     "Revision/Notes Revision/DBMS/Indexing.md",
     "Revision/Notes Revision/DBMS/DBMS-notes.md",
@@ -262,9 +263,6 @@
     "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
     "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
-    "Revision/ZealRevision/ZealDB.md",
-    "Revision/Notes Revision/Aptitude/Verbal/Voca.md",
-    "DialyStuff/2023-10-12.md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
