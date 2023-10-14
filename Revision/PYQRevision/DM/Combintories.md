@@ -1,8 +1,10 @@
 ---
 Last_Time: 2023-09-02T13:30:00.000+05:30
 Repetation: 1
-type: GOTS
-atQ:
+type: MixQue
+atQ: 
+subject: DM
+repeation: 1
 ---
 [LINK](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/results.html?exam_id=342)
 #notes/DM/Combintories

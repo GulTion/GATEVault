@@ -23,19 +23,31 @@
             "id": "02b7b3cd093c7815",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "database-plugin",
               "state": {
-                "file": "Revision/TSRevision/ZealTEST 2023 INDEX.pdf"
+                "file": "Revision/PYQRevision/PYQ DB.md"
               }
             }
           },
           {
-            "id": "51232c2944f921b4",
+            "id": "4b9e3ef793732efe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-14.md",
+                "file": "DialyStuff/2023-10-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4c6971ee6ba6804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-14.md",
+                "file": "DialyStuff/2023-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-14.md",
+                "file": "DialyStuff/2023-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-14.md"
+                "file": "DialyStuff/2023-10-15.md"
               }
             }
           },
@@ -226,53 +238,53 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "51232c2944f921b4",
+  "active": "4b9e3ef793732efe",
   "lastOpenFiles": [
-    "WeakSubtopic.md",
-    "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/TSRevision/TSDB.md",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+    "Revision/PYQRevision/PYQ DB.md",
+    "Revision/PYQRevision/FULL",
+    "Revision/PYQRevision/OS/Memory.md",
+    "Revision/PYQRevision/OS/IPC.md",
+    "Revision/PYQRevision/COA/COA - PYQ.md",
+    "Revision/PYQRevision/OS/CPU Scheduling.md",
+    "Revision/PYQRevision/FULL/GATE 2021 SET-2.md",
+    "Revision/PYQRevision/DBMS/Normal Forms-pyq.md",
+    "Revision/PYQRevision/COA/pipline.md",
+    "Revision/PYQRevision/PYQ.md",
+    "Revision/PYQRevision/DM/recurrence DM PYQ.md",
+    "Revision/PYQRevision/DM/Combintories.md",
+    "Revision/PYQRevision/CD/Parser/Untitled.md",
+    "Revision/PYQRevision/DBMS/DBMS-pyq.md",
+    "Revision/PYQRevision/COA/Cache Memory.md",
+    "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/PYQRevision/COA/Type of Questions in Pipeline.md",
+    "Revision/PYQRevision/APTI/Time and Work.md",
+    "Revision/PYQRevision/APTI/Time , Speed & Distance.md",
+    "Revision/PYQRevision/DS/Hashing.md",
+    "Revision/PYQRevision/DS/media/Pasted image 20231014220141.png",
+    "Revision/PYQRevision/DS/media/Pasted image 20231014220119.png",
     "DialyStuff/2023-10-14.md",
+    "Revision/PYQRevision/DS/media/Pasted image 20231014213718.png",
+    "Revision/PYQRevision/DS/media/Pasted image 20231014213446.png",
+    "Revision/PYQRevision/DS/media/Pasted image 20231014213113.png",
+    "Revision/PYQRevision/DS/media",
+    "Revision/PYQRevision/DS",
+    "DialyStuff/2023-10-13.md",
+    "WeakSubtopic.md",
     "Revision/TSRevision/Zeal/Round 0/DBMS/Test 4 DBMS TEST ID 34.md",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014142526.png",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014142520.png",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014141707.png",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014141700.png",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014140501.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014140455.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014140040.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014140029.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014135917.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014135910.png",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media",
-    "Revision/TSRevision/TSDB.md",
     "Revision/Notes Revision/COA/Disk Memory in Input output.md",
     "Revision/TSRevision/Zeal/Round 0/DBMS",
-    "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
-    "DialyStuff/2023-10-15.md",
-    "Revision/PYQRevision/APTI/Time , Speed & Distance.md",
-    "Revision/PYQRevision/APTI/Time and Work.md",
     "Revision/PYQRevision/APTI/media",
     "Revision/PYQRevision/APTI",
-    "Revision/TSRevision/GO/Topicwise Test/DM/Discrete Mathematics Test 4 - Combintories.md",
     "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM/media",
     "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM",
-    "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test",
-    "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO",
-    "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/README.md",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/chart/README.md",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/customcontrols/README.md",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/menu/CONTRIBUTING.md",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/menu/README.md",
-    "Revision/Notes Revision/COA/COA-notes.md",
-    "Revision/Notes Revision/DBMS/Indexing.md",
-    "Revision/Notes Revision/DBMS/DBMS-notes.md",
-    "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
-    "Revision/TSRevision/Zeal/Round 3/Test ID - 83 Mock - 7 - 2022.md",
-    "Revision/ZealRevision/CN/TCP.md",
-    "Revision/ZealRevision/DBMS/relation algbera.md",
-    "Revision/ZealRevision/COA/IO device.md",
-    "DialyStuff/2023-10-13.md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

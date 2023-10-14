@@ -4,7 +4,9 @@ allDay: false
 startTime: 13:00
 endTime: 14:00
 date: 2023-09-25
-completed: null
+completed: 
+type: PYQ
+subject: DM
 ---
 
 
