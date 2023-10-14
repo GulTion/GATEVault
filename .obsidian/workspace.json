@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-14.md",
+                "file": "Revision/Notes Revision/COA/Disk Memory in Input output.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,13 +23,16 @@
             "id": "239ff38cbac693a0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "DialyStuff/2023-10-14.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,8 +216,14 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "ff46295d96f3e62f",
+  "active": "239ff38cbac693a0",
   "lastOpenFiles": [
+    "Revision/Notes Revision/COA/Disk Memory in Input output.md",
+    "Revision/Notes Revision/COA/COA-notes.md",
+    "Revision/Notes Revision/DBMS/Indexing.md",
+    "Revision/Notes Revision/DBMS/DBMS-notes.md",
+    "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
+    "DialyStuff/2023-10-14.md",
     "Revision/TSRevision/TSDB.md",
     "Revision/TSRevision/Zeal/Round 3/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/ZealRevision/CN/TCP.md",
@@ -228,11 +237,8 @@
     "Revision/ZealRevision/COA/media/Pasted image 20231013222502.png",
     "Revision/ZealRevision/COA/media/Pasted image 20231013222450.png",
     "DialyStuff/2023-10-13.md",
-    "DialyStuff/2023-10-14.md",
     "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
-    "Revision/Notes Revision/DBMS/DBMS-notes.md",
-    "Revision/Notes Revision/DBMS/Indexing.md",
     "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
     "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
@@ -250,9 +256,6 @@
     "shortNotesList.md",
     "DaskBoard Back.md",
     "Refer UANOTES.md",
-    "index.md",
-    "Revision/Notes Revision/TOC/Language Closure.md",
-    "Plan/Plan.md",
     "Revision/PYQRevision/DM",
     "Revision/ZealRevision/OS/OS",
     "Revision/ZealRevision/EM",
