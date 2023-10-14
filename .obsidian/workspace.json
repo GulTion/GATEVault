@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
+                "file": "Revision/TSRevision/Zeal/Round 0/DBMS/Test 4 DBMS TEST ID 34.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "6697cc08fae79845",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fd84deabbefc474",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Revision/TSRevision/TSDB.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -118,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WeakSubtopic.md",
+                "file": "Revision/TSRevision/Zeal/Round 0/DBMS/Test 4 DBMS TEST ID 34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WeakSubtopic.md",
+                "file": "Revision/TSRevision/Zeal/Round 0/DBMS/Test 4 DBMS TEST ID 34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WeakSubtopic.md"
+                "file": "Revision/TSRevision/Zeal/Round 0/DBMS/Test 4 DBMS TEST ID 34.md"
               }
             }
           },
@@ -209,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 453.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,38 +246,40 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "51232c2944f921b4",
+  "active": "239ff38cbac693a0",
   "lastOpenFiles": [
-    "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014142526.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014142520.png",
     "WeakSubtopic.md",
-    "Revision/ZealRevision/CN/media/Pasted image 20231014130727.png",
-    "Revision/ZealRevision/CN/media/Pasted image 20231014130713.png",
-    "Revision/ZealRevision/CN/media/Pasted image 20231014130147.png",
-    "Revision/ZealRevision/CN/media/Pasted image 20231014125934.png",
-    "Revision/ZealRevision/CN/media/Pasted image 20231014125841.png",
-    "Revision/ZealRevision/CN/media/Pasted image 20231014125821.png",
-    "Revision/ZealRevision/CN/media/Pasted image 20231014124857.png",
-    "DialyStuff/2023-10-14.md",
-    "Revision/ZealRevision/CN/media/Pasted image 20231014121259.png",
-    "Revision/ZealRevision/CN/media/Pasted image 20231014121248.png",
-    "DialyStuff/2023-10-15.md",
-    "DialyStuff/media/Pasted image 20231014115525.png",
-    "Revision/PYQRevision/APTI/Time , Speed & Distance.md",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/Test 4 DBMS TEST ID 34.md",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014141707.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014141700.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014140501.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014140455.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014140040.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014140029.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014135917.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014135910.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014135745.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media",
+    "Revision/TSRevision/TSDB.md",
+    "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/Notes Revision/COA/Disk Memory in Input output.md",
+    "DialyStuff/2023-10-14.md",
+    "Revision/TSRevision/Zeal/Round 0/DBMS",
+    "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
+    "DialyStuff/2023-10-15.md",
+    "Revision/PYQRevision/APTI/Time , Speed & Distance.md",
     "Revision/PYQRevision/APTI/Time and Work.md",
     "Revision/PYQRevision/APTI/media",
     "Revision/PYQRevision/APTI",
-    "Revision/TSRevision/TSDB.md",
     "Revision/TSRevision/GO/Topicwise Test/DM/Discrete Mathematics Test 4 - Combintories.md",
     "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM/media",
     "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM",
     "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test",
     "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO",
     "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision",
-    "export/Discrete Mathematics Test 4 - Combintories/Revision",
     "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/README.md",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/_style.css",
-    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img",
     "export/Discrete Mathematics Test 4 - Combintories/plugin/chart/README.md",
     "export/Discrete Mathematics Test 4 - Combintories/plugin/customcontrols/README.md",
     "export/Discrete Mathematics Test 4 - Combintories/plugin/menu/CONTRIBUTING.md",
@@ -274,8 +294,6 @@
     "Revision/ZealRevision/COA/IO device.md",
     "DialyStuff/2023-10-13.md",
     "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
-    "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
-    "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

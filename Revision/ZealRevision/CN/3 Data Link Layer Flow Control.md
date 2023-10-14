@@ -1,7 +1,7 @@
 ---
 startQ: 1
 endQ: 46
-atQ: 28
+atQ: 37
 subject: CN
 Last_Time: 2023-10-12T12:30:00.000+05:30
 Repetation: 1

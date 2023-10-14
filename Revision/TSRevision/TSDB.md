@@ -90,9 +90,9 @@ columns:
     position: 3
     skipPersist: false
     isHidden: false
-    sortIndex: 1
+    sortIndex: -1
     width: 150
-    isSorted: true
+    isSorted: false
     isSortedDesc: true
     options:
       - { label: "zealWorkBook", value: "zealWorkBook", color: "hsl(3, 95%, 90%)"}
