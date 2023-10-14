@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-14.md",
+                "file": "Revision/TSRevision/GO/Topicwise Test/DM/Discrete Mathematics Test 4 - Combintories.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +33,20 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "2da03780d26603ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "838f1b1005c29f8c",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -106,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-14.md",
+                "file": "Revision/TSRevision/GO/Topicwise Test/DM/Discrete Mathematics Test 4 - Combintories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-14.md",
+                "file": "Revision/TSRevision/GO/Topicwise Test/DM/Discrete Mathematics Test 4 - Combintories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-14.md"
+                "file": "Revision/TSRevision/GO/Topicwise Test/DM/Discrete Mathematics Test 4 - Combintories.md"
               }
             }
           },
@@ -213,57 +228,58 @@
       "audio-recorder:Start/stop recording": false,
       "dbfolder:Create a new database table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "239ff38cbac693a0",
+  "active": "838f1b1005c29f8c",
   "lastOpenFiles": [
+    "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM/media/Pasted image 20231014093432.png",
+    "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM/media/Pasted image 20231014093328.png",
+    "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM/media/Pasted image 20231014085701.png",
+    "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM/media/Pasted image 20231014085619.png",
+    "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM/media",
+    "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM",
+    "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test",
+    "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO",
+    "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision",
+    "export/Discrete Mathematics Test 4 - Combintories/Revision",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/README.md",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/_style.css",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img/blackboard.png",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img/boardmarker-black.png",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img/boardmarker-blue.png",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img/boardmarker-green.png",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img/boardmarker-orange.png",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img/boardmarker-purple.png",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img/boardmarker-red.png",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/img",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/plugin (copy).js",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/chalkboard/style.css",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/chart/README.md",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/customcontrols/README.md",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/menu/CONTRIBUTING.md",
+    "export/Discrete Mathematics Test 4 - Combintories/plugin/menu/README.md",
+    "Revision/TSRevision/TSDB.md",
+    "Revision/TSRevision/GO/Topicwise Test/DM/Discrete Mathematics Test 4 - Combintories.md",
+    "DialyStuff/2023-10-14.md",
     "Revision/Notes Revision/COA/Disk Memory in Input output.md",
     "Revision/Notes Revision/COA/COA-notes.md",
     "Revision/Notes Revision/DBMS/Indexing.md",
     "Revision/Notes Revision/DBMS/DBMS-notes.md",
     "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
-    "DialyStuff/2023-10-14.md",
-    "Revision/TSRevision/TSDB.md",
     "Revision/TSRevision/Zeal/Round 3/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/ZealRevision/CN/TCP.md",
-    "Revision/TSRevision/Zeal/Round 3",
-    "Revision/ZealRevision/CN/media/Pasted image 20231013234540.png",
-    "Revision/ZealRevision/CN/media/Pasted image 20231013234533.png",
     "Revision/ZealRevision/DBMS/relation algbera.md",
-    "Revision/ZealRevision/DBMS/media/Pasted image 20231013222627.png",
-    "Revision/ZealRevision/DBMS/media/Pasted image 20231013222613.png",
     "Revision/ZealRevision/COA/IO device.md",
-    "Revision/ZealRevision/COA/media/Pasted image 20231013222502.png",
-    "Revision/ZealRevision/COA/media/Pasted image 20231013222450.png",
     "DialyStuff/2023-10-13.md",
     "Revision/TSRevision/GO/Topicwise Test/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "Revision/TSRevision/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/ZealRevision/DBMS/TRANSACTION-zeal.md",
-    "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealRevision/CN/3 Data Link Layer Flow Control.md",
     "Revision/ZealRevision/ZealDB.md",
-    "Revision/ZealRevision/CN/media/Pasted image 20231013165055.png",
-    "Revision/ZealRevision/CN/media/Pasted image 20231013165014.png",
-    "DialyStuff/media/Pasted image 20231013154935.png",
-    "DialyStuff/media/Pasted image 20231013154933.png",
     "Revision/Notes Revision/Aptitude/Verbal/Voca.md",
     "DialyStuff/2023-10-12.md",
-    "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 26 CSO Test - 1.md",
-    "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 27 CSO Test - 2.md",
-    "fromWhereSubject.md",
-    "TEST PROGRESS.md",
-    "shortNotesList.md",
-    "DaskBoard Back.md",
-    "Refer UANOTES.md",
-    "Revision/PYQRevision/DM",
-    "Revision/ZealRevision/OS/OS",
-    "Revision/ZealRevision/EM",
-    "Revision/ZealRevision/TOC",
-    "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/20. Fact, Inference, and Judgement.pdf",
-    "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/19. Syllogisms.pdf",
-    "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/18. Statement- Arguments.pdf",
-    "pdfs/uanotes/Apti/General Aptitude - Verbal Ability/17. Statement- Conclusions.pdf",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
