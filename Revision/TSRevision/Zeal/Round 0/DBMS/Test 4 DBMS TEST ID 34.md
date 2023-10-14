@@ -1,7 +1,7 @@
 ---
 subject: DBMS
 syllabus: Indexing, B-Tree, B+-Tree, Hashing, Transaction And Concurrency Control
-atQ: "1"
+atQ: "11"
 type: ZealTS
 subType: topicWise
 last_time: 2023-10-14T00:00:00.000+05:30
