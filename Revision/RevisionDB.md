@@ -136,6 +136,7 @@ columns:
       - { label: "DS", value: "DS", color: "hsl(318, 95%, 90%)"}
       - { label: "APTI", value: "APTI", color: "hsl(71, 95%, 90%)"}
       - { label: "CD", value: "CD", color: "hsl(353, 95%, 90%)"}
+      - { label: "DLD", value: "DLD", color: "hsl(17, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

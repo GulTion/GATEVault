@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81a900b469d3e54c",
+            "id": "132bad9fffaba269",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
@@ -18,19 +18,7 @@
             }
           },
           {
-            "id": "af0e9c7f84af953b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/CD/Some Notes must write on paper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "132bad9fffaba269",
+            "id": "a0b1e432b800f392",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/CD/Some Notes must write on paper.md",
+                "file": "Revision/RevisionDONE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/CD/Some Notes must write on paper.md",
+                "file": "Revision/RevisionDONE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/CD/Some Notes must write on paper.md"
+                "file": "Revision/RevisionDONE.md"
               }
             }
           },
@@ -225,13 +213,16 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "af0e9c7f84af953b",
+  "active": "a0b1e432b800f392",
   "lastOpenFiles": [
-    "Revision/RevisionDONE.md",
     "Revision/RevisionDB.md",
-    "Revision/CD/Some Notes must write on paper.md",
-    "Revision/CD/Parser CD notes.md",
+    "Revision/RevisionDONE.md",
+    "Revision/Notes Revision/COA/Number System/Overflow on Container Change.md",
+    "Revision/DLD",
     "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
+    "Revision/CD/Some Notes must write on paper.md",
+    "Revision/Notes Revision/DS/Sorting.md",
+    "Revision/CD/Parser CD notes.md",
     "Revision/ZealRevision/OS/media/Pasted image 20231002132827.png",
     "Revision/COA",
     "Revision/CN",
@@ -266,13 +257,10 @@
     "Revision/Revision.md",
     "Revision/TSRevision/ME/2023/Full Syllabus/media",
     "Revision/TSRevision/ME/2023/Full Syllabus",
-    "Revision/TSRevision/ME/2023",
     "Revision/PYQRevision/OS/Memory.md",
     "Revision/PYQRevision/OS/IPC.md",
     "Revision/PYQRevision/COA/COA - PYQ.md",
     "Revision/PYQRevision/OS/CPU Scheduling.md",
-    "Revision/PYQRevision/FULL/GATE 2021 SET-2.md",
-    "Revision/PYQRevision/DBMS/Normal Forms-pyq.md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

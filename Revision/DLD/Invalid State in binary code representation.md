@@ -1,3 +1,9 @@
+---
+type: MicroNotes
+subject: DLD
+repeation: 7
+last_time: 2023-10-15T00:00:00.000+05:30
+---
 
 - **BCD Code**
 	- 1010 to 1111 are invalid
