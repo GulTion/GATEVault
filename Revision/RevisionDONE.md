@@ -6,13 +6,13 @@ kanban-plugin: basic
 
 ## MicroNotes NOT DONE
 
+- [ ] TOC
 - [ ] DSA
 - [ ] APTI
 - [ ] DM
 - [ ] EM - Calculus
 - [ ] EM - Linear
 - [ ] EM - Prob
-- [ ] TOC
 - [ ] CN
 - [ ] DBMS
 - [ ] COA
