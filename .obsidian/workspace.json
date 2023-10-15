@@ -20,15 +20,51 @@
             }
           },
           {
-            "id": "2dc6222343a625d3",
+            "id": "bcf8dc9b7dd1cf98",
             "type": "leaf",
             "state": {
-              "type": "weekly",
-              "state": {}
+              "type": "database-plugin",
+              "state": {
+                "file": "Revision/ZealRevision/ZealDB.md"
+              }
             }
           },
           {
-            "id": "bcf8dc9b7dd1cf98",
+            "id": "974df089fd7e038a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0a06080cf05fdee",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Revision/ZealRevision/OS/OSDB.md"
+              }
+            }
+          },
+          {
+            "id": "f089cde3805100c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ZealRevision/OS/2. FORK SYSTEM CALL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41c1794de12848bc",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -38,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -96,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -113,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/RevisionDONE.md",
+                "file": "Revision/ZealRevision/OS/2. FORK SYSTEM CALL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/RevisionDONE.md",
+                "file": "Revision/ZealRevision/OS/2. FORK SYSTEM CALL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/RevisionDONE.md"
+                "file": "Revision/ZealRevision/OS/2. FORK SYSTEM CALL.md"
               }
             }
           },
@@ -204,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5,
-    "collapsed": true
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,21 +258,31 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "bcf8dc9b7dd1cf98",
+  "active": "f089cde3805100c6",
   "lastOpenFiles": [
-    "Revision/Revision.md",
+    "Revision/ZealRevision/OS/media/Pasted image 20231015094941.png",
+    "Revision/ZealRevision/OS/media/Pasted image 20231015094928.png",
     "Revision/RevisionDONE.md",
-    "DialyStuff/2023-10-15.md",
-    "DialyStuff/2023-10-14.md",
-    "Revision/TSRevision/TSDB.md",
-    "Revision/PYQRevision/PYQ DB.md",
+    "Revision/ZealRevision/OS/2. FORK SYSTEM CALL.md",
+    "Revision/ZealRevision/ZealRevision.md",
+    "Revision/ZealRevision/OS/media/Pasted image 20231015094023.png",
+    "Revision/ZealRevision/OS/media/Pasted image 20231015093922.png",
+    "Revision/ZealRevision/OS/OSDB.md",
     "Revision/TSRevision/ME/2023/Full Syllabus/Basic Level Full Syllabus Test -1 (GATE 2023).md",
+    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231015093307.png",
+    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231015092525.png",
+    "DialyStuff/2023-10-15.md",
+    "Revision/ZealRevision/CN/5 Network Layer Solutions.md",
+    "Revision/ZealRevision/ZealDB.md",
+    "DialyStuff/2023-10-14.md",
+    "Revision/PYQRevision/PYQ DB.md",
+    "Revision/Revision.md",
+    "Revision/TSRevision/TSDB.md",
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014224814.png",
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014224026.png",
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014223846.png",
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014223323.png",
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014223257.png",
-    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014223149.png",
     "Revision/TSRevision/ME/2023/Full Syllabus/media",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/TSRevision/ME/2023/Full Syllabus",
@@ -258,18 +302,8 @@
     "Revision/PYQRevision/DM/Combintories.md",
     "Revision/PYQRevision/CD/Parser/Untitled.md",
     "Revision/PYQRevision/DBMS/DBMS-pyq.md",
-    "Revision/PYQRevision/COA/Cache Memory.md",
-    "Revision/PYQRevision/COA/Type of Questions in Pipeline.md",
-    "Revision/PYQRevision/APTI/Time and Work.md",
-    "Revision/PYQRevision/APTI/Time , Speed & Distance.md",
-    "Revision/PYQRevision/DS/Hashing.md",
-    "Revision/PYQRevision/DS/media/Pasted image 20231014220141.png",
-    "Revision/PYQRevision/DS/media/Pasted image 20231014220119.png",
-    "Revision/PYQRevision/DS/media/Pasted image 20231014213718.png",
-    "Revision/PYQRevision/DS/media/Pasted image 20231014213446.png",
     "Revision/PYQRevision/DS/media",
     "Revision/PYQRevision/DS",
-    "DialyStuff/2023-10-13.md",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media",
     "Revision/TSRevision/Zeal/Round 0/DBMS",
     "Revision/Notes Revision/OS/Message Passing.canvas",

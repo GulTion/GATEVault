@@ -4,23 +4,23 @@ kanban-plugin: basic
 
 ---
 
-## MicroNotes REVISION DONE
-
-- [ ] CN
-- [ ] DBMS
-- [ ] COA
-
-
 ## MicroNotes NOT DONE
 
+- [ ] OS
 - [ ] APTI
 - [ ] DM
 - [ ] DSA
 - [ ] EM - Calculus
 - [ ] EM - Linear
 - [ ] EM - Prob
-- [ ] OS
 - [ ] TOC
+
+
+## MicroNotes REVISION DONE
+
+- [ ] CN
+- [ ] DBMS
+- [ ] COA
 
 
 
