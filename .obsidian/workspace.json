@@ -4,50 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "09f583af14fcfb0a",
+        "id": "a7a73fd213cdc730",
         "type": "tabs",
         "children": [
           {
-            "id": "ff46295d96f3e62f",
+            "id": "5969d9d900fe46c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+                "file": "DialyStuff/2023-10-14.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "02b7b3cd093c7815",
+            "id": "2dc6222343a625d3",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Revision/PYQRevision/PYQ DB.md"
-              }
+              "type": "weekly",
+              "state": {}
             }
           },
           {
-            "id": "4b9e3ef793732efe",
+            "id": "bcf8dc9b7dd1cf98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DialyStuff/2023-10-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4c6971ee6ba6804",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,11 +224,25 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "4b9e3ef793732efe",
+  "active": "bcf8dc9b7dd1cf98",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-14.md",
     "Revision/TSRevision/TSDB.md",
-    "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/PYQRevision/PYQ DB.md",
+    "Revision/TSRevision/ME/2023/Full Syllabus/Basic Level Full Syllabus Test -1 (GATE 2023).md",
+    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014224814.png",
+    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014224026.png",
+    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014223846.png",
+    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014223323.png",
+    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014223257.png",
+    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014223149.png",
+    "Revision/TSRevision/ME/2023/Full Syllabus/media",
+    "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+    "DialyStuff/2023-10-15.md",
+    "Revision/TSRevision/ME/2023/Full Syllabus",
+    "Revision/TSRevision/ME/2023",
+    "Revision/TSRevision/ME",
+    "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/PYQRevision/FULL",
     "Revision/PYQRevision/OS/Memory.md",
     "Revision/PYQRevision/OS/IPC.md",
@@ -257,34 +257,20 @@
     "Revision/PYQRevision/CD/Parser/Untitled.md",
     "Revision/PYQRevision/DBMS/DBMS-pyq.md",
     "Revision/PYQRevision/COA/Cache Memory.md",
-    "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/PYQRevision/COA/Type of Questions in Pipeline.md",
     "Revision/PYQRevision/APTI/Time and Work.md",
     "Revision/PYQRevision/APTI/Time , Speed & Distance.md",
     "Revision/PYQRevision/DS/Hashing.md",
     "Revision/PYQRevision/DS/media/Pasted image 20231014220141.png",
     "Revision/PYQRevision/DS/media/Pasted image 20231014220119.png",
-    "DialyStuff/2023-10-14.md",
     "Revision/PYQRevision/DS/media/Pasted image 20231014213718.png",
     "Revision/PYQRevision/DS/media/Pasted image 20231014213446.png",
-    "Revision/PYQRevision/DS/media/Pasted image 20231014213113.png",
     "Revision/PYQRevision/DS/media",
     "Revision/PYQRevision/DS",
     "DialyStuff/2023-10-13.md",
     "WeakSubtopic.md",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/Test 4 DBMS TEST ID 34.md",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014142526.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014142520.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014141707.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014141700.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014140501.png",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media",
-    "Revision/Notes Revision/COA/Disk Memory in Input output.md",
     "Revision/TSRevision/Zeal/Round 0/DBMS",
-    "Revision/PYQRevision/APTI/media",
-    "Revision/PYQRevision/APTI",
-    "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM/media",
-    "export/Discrete Mathematics Test 4 - Combintories/Revision/TSRevision/GO/Topicwise Test/DM",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
