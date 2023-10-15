@@ -16,8 +16,31 @@
                 "file": "Revision/RevisionDB.md"
               }
             }
+          },
+          {
+            "id": "af0e9c7f84af953b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/CD/Some Notes must write on paper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "132bad9fffaba269",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Revision/RevisionDONE.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/RevisionDB.md",
+                "file": "Revision/CD/Some Notes must write on paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/RevisionDB.md",
+                "file": "Revision/CD/Some Notes must write on paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/RevisionDB.md"
+                "file": "Revision/CD/Some Notes must write on paper.md"
               }
             }
           },
@@ -202,16 +225,18 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "81a900b469d3e54c",
+  "active": "af0e9c7f84af953b",
   "lastOpenFiles": [
+    "Revision/RevisionDONE.md",
+    "Revision/CD/Some Notes must write on paper.md",
     "Revision/RevisionDB.md",
+    "Revision/CD/Parser CD notes.md",
+    "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
     "Revision/ZealRevision/OS/media/Pasted image 20231002132827.png",
     "Revision/COA",
     "Revision/CN",
     "Revision/CD",
-    "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
     "Revision/APTI",
-    "Revision/RevisionDONE.md",
     "DialyStuff/2023-10-15.md",
     "Revision/Notes Revision/Aptitude/Apti-notes.md",
     "Revision/ZealRevision/ZealDB.md",
@@ -248,7 +273,6 @@
     "Revision/PYQRevision/OS/CPU Scheduling.md",
     "Revision/PYQRevision/FULL/GATE 2021 SET-2.md",
     "Revision/PYQRevision/DBMS/Normal Forms-pyq.md",
-    "Revision/PYQRevision/COA/pipline.md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
