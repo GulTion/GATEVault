@@ -4,31 +4,23 @@ kanban-plugin: basic
 
 ---
 
-## DBMS
+## MicroNotes REVISION DONE
 
-- [ ] INDEXING BTREE B++ #done
-- [ ] Nomralizatoin pyq #done
-- [ ] normalization zeal #done
-
-
-## COA
-
-- [ ] Number SYstem #done
+- [ ] CN
+- [ ] DBMS
+- [ ] COA
 
 
-## CN
+## MicroNotes NOT DONE
 
-- [ ] TCP layer
-
-
-## TOC
-
-- [ ] DFA
-
-
-## OS
-
-- [ ] Process Syncronization
+- [ ] APTI
+- [ ] DM
+- [ ] DSA
+- [ ] EM - Calculus
+- [ ] EM - Linear
+- [ ] EM - Prob
+- [ ] OS
+- [ ] TOC
 
 
 

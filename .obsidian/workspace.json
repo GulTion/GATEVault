@@ -31,11 +31,9 @@
             "id": "bcf8dc9b7dd1cf98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "DialyStuff/2023-10-15.md",
-                "mode": "source",
-                "source": false
+                "file": "Revision/RevisionDONE.md"
               }
             }
           }
@@ -98,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-15.md",
+                "file": "Revision/RevisionDONE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-15.md",
+                "file": "Revision/RevisionDONE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-15.md"
+                "file": "Revision/RevisionDONE.md"
               }
             }
           },
@@ -205,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 453.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,6 +226,9 @@
   },
   "active": "bcf8dc9b7dd1cf98",
   "lastOpenFiles": [
+    "Revision/Revision.md",
+    "Revision/RevisionDONE.md",
+    "DialyStuff/2023-10-15.md",
     "DialyStuff/2023-10-14.md",
     "Revision/TSRevision/TSDB.md",
     "Revision/PYQRevision/PYQ DB.md",
@@ -238,7 +241,6 @@
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014223149.png",
     "Revision/TSRevision/ME/2023/Full Syllabus/media",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
-    "DialyStuff/2023-10-15.md",
     "Revision/TSRevision/ME/2023/Full Syllabus",
     "Revision/TSRevision/ME/2023",
     "Revision/TSRevision/ME",
@@ -268,7 +270,6 @@
     "Revision/PYQRevision/DS/media",
     "Revision/PYQRevision/DS",
     "DialyStuff/2023-10-13.md",
-    "WeakSubtopic.md",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media",
     "Revision/TSRevision/Zeal/Round 0/DBMS",
     "Revision/Notes Revision/OS/Message Passing.canvas",
