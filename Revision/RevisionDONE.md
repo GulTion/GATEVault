@@ -6,10 +6,10 @@ kanban-plugin: basic
 
 ## MicroNotes NOT DONE
 
-- [ ] OS
-- [ ] APTI
 - [ ] DM
 - [ ] DSA
+- [ ] OS
+- [ ] APTI
 - [ ] EM - Calculus
 - [ ] EM - Linear
 - [ ] EM - Prob

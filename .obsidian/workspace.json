@@ -8,29 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5969d9d900fe46c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcf8dc9b7dd1cf98",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Revision/ZealRevision/ZealDB.md"
-              }
-            }
-          },
-          {
-            "id": "974df089fd7e038a",
+            "id": "35806b1d1639572b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,45 +16,10 @@
                 "file": "DialyStuff/2023-10-15.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "d0a06080cf05fdee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f089cde3805100c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41c1794de12848bc",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Revision/RevisionDONE.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,13 +203,14 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "d0a06080cf05fdee",
+  "active": "35806b1d1639572b",
   "lastOpenFiles": [
+    "Revision/ZealRevision/ZealDB.md",
     "DialyStuff/2023-10-15.md",
+    "Revision/RevisionDONE.md",
     "Revision/ZealRevision/OS/2. FORK SYSTEM CALL.md",
     "Revision/ZealRevision/OS/media/Pasted image 20231015094941.png",
     "Revision/ZealRevision/OS/media/Pasted image 20231015094928.png",
-    "Revision/RevisionDONE.md",
     "Revision/ZealRevision/ZealRevision.md",
     "Revision/ZealRevision/OS/media/Pasted image 20231015094023.png",
     "Revision/ZealRevision/OS/media/Pasted image 20231015093922.png",
@@ -275,7 +219,6 @@
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231015093307.png",
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231015092525.png",
     "Revision/ZealRevision/CN/5 Network Layer Solutions.md",
-    "Revision/ZealRevision/ZealDB.md",
     "DialyStuff/2023-10-14.md",
     "Revision/PYQRevision/PYQ DB.md",
     "Revision/Revision.md",
