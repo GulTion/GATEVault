@@ -70,8 +70,10 @@ columns:
     position: 7
     skipPersist: false
     isHidden: false
-    sortIndex: -1
+    sortIndex: 1
     width: 113
+    isSorted: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -182,6 +184,25 @@ columns:
     id: atQ
     label: atQ
     position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  src:
+    input: text
+    accessorKey: src
+    key: src
+    id: src
+    label: src
+    position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1

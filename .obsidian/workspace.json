@@ -20,14 +20,34 @@
             }
           },
           {
-            "id": "4c50b8c8648c4e03",
+            "id": "f709a83f8ca0607a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+                "file": "Revision/TSRevision/Zeal/Round 0/DBMS/Test 4 DBMS TEST ID 34.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4c50b8c8648c4e03",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Revision/TSRevision/TSDB.md"
+              }
+            }
+          },
+          {
+            "id": "c7ad0f4a948eff9b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Revision/TSRevision/ZealTEST 2023 INDEX.pdf"
               }
             }
           }
@@ -107,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+                "file": "Revision/TSRevision/Zeal/Round 0/DBMS/Test 4 DBMS TEST ID 34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+                "file": "Revision/TSRevision/Zeal/Round 0/DBMS/Test 4 DBMS TEST ID 34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md"
+                "file": "Revision/TSRevision/Zeal/Round 0/DBMS/Test 4 DBMS TEST ID 34.md"
               }
             }
           },
@@ -198,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5,
-    "collapsed": true
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,40 +237,41 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "4c50b8c8648c4e03",
+  "active": "f709a83f8ca0607a",
   "lastOpenFiles": [
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015152158.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015152151.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015145841.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015145834.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015145019.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015145010.png",
-    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015145004.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015160407.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015160348.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015160227.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015160221.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015155441.png",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015155434.png",
+    "Revision/TSRevision/TSDB.md",
+    "Revision/TSRevision/Zeal/Round 0/DBMS/Test 4 DBMS TEST ID 34.md",
     "DialyStuff/2023-10-15.md",
+    "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015153805.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015153753.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015152632.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015152624.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015152158.png",
     "Revision/TSRevision/ME/2023/Topicwise Test/GENERAL APTITUDE-1 (GATE 2023).md",
-    "Revision/TSRevision/ME/2023/Topicwise Test/media/Pasted image 20231015130115.png",
     "Revision/TSRevision/ME/2023/Topicwise Test/media",
     "Revision/TSRevision/ME/2023/Topicwise Test",
     "Revision/ZealRevision/ZealDB.md",
     "Revision/RevisionDONE.md",
     "Revision/ZealRevision/OS/2. FORK SYSTEM CALL.md",
-    "Revision/ZealRevision/OS/media/Pasted image 20231015094941.png",
-    "Revision/ZealRevision/OS/media/Pasted image 20231015094928.png",
     "Revision/ZealRevision/ZealRevision.md",
-    "Revision/ZealRevision/OS/media/Pasted image 20231015094023.png",
     "Revision/ZealRevision/OS/OSDB.md",
     "Revision/TSRevision/ME/2023/Full Syllabus/Basic Level Full Syllabus Test -1 (GATE 2023).md",
     "Revision/ZealRevision/CN/5 Network Layer Solutions.md",
     "DialyStuff/2023-10-14.md",
     "Revision/PYQRevision/PYQ DB.md",
     "Revision/Revision.md",
-    "Revision/TSRevision/TSDB.md",
     "Revision/TSRevision/ME/2023/Full Syllabus/media",
-    "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/TSRevision/ME/2023/Full Syllabus",
     "Revision/TSRevision/ME/2023",
     "Revision/TSRevision/ME",
-    "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/PYQRevision/FULL",
     "Revision/PYQRevision/OS/Memory.md",
     "Revision/PYQRevision/OS/IPC.md",
@@ -263,7 +283,6 @@
     "Revision/PYQRevision/PYQ.md",
     "Revision/PYQRevision/DM/recurrence DM PYQ.md",
     "Revision/PYQRevision/DM/Combintories.md",
-    "Revision/PYQRevision/CD/Parser/Untitled.md",
     "Revision/PYQRevision/DS/media",
     "Revision/PYQRevision/DS",
     "Revision/Notes Revision/OS/Message Passing.canvas",
