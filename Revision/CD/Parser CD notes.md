@@ -1,3 +1,7 @@
+---
+type: ShortNotes
+subject: CD
+---
 - type of parser![[Pasted image 20231004085003.png]]
 - Left Recursive Elimination![[Pasted image 20231004085202.png]]
 - Checking of LL(1) grammer ![[Pasted image 20231004085455.png]]

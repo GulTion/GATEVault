@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 453.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,10 +204,16 @@
   },
   "active": "81a900b469d3e54c",
   "lastOpenFiles": [
+    "Revision/RevisionDB.md",
+    "Revision/ZealRevision/OS/media/Pasted image 20231002132827.png",
+    "Revision/COA",
+    "Revision/CN",
+    "Revision/CD",
+    "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
+    "Revision/APTI",
+    "Revision/RevisionDONE.md",
     "DialyStuff/2023-10-15.md",
     "Revision/Notes Revision/Aptitude/Apti-notes.md",
-    "Revision/RevisionDB.md",
-    "Revision/RevisionDONE.md",
     "Revision/ZealRevision/ZealDB.md",
     "Revision/TSRevision/Zeal/Round 0/DBMS/Test 4 DBMS TEST ID 34.md",
     "Revision/TSRevision/TSDB.md",
@@ -219,7 +226,6 @@
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164119.png",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164115.png",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015160407.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015160348.png",
     "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/TSRevision/ME/2023/Topicwise Test/GENERAL APTITUDE-1 (GATE 2023).md",
@@ -236,8 +242,6 @@
     "Revision/TSRevision/ME/2023/Full Syllabus/media",
     "Revision/TSRevision/ME/2023/Full Syllabus",
     "Revision/TSRevision/ME/2023",
-    "Revision/TSRevision/ME",
-    "Revision/PYQRevision/FULL",
     "Revision/PYQRevision/OS/Memory.md",
     "Revision/PYQRevision/OS/IPC.md",
     "Revision/PYQRevision/COA/COA - PYQ.md",
@@ -245,10 +249,6 @@
     "Revision/PYQRevision/FULL/GATE 2021 SET-2.md",
     "Revision/PYQRevision/DBMS/Normal Forms-pyq.md",
     "Revision/PYQRevision/COA/pipline.md",
-    "Revision/PYQRevision/PYQ.md",
-    "Revision/PYQRevision/DM/recurrence DM PYQ.md",
-    "Revision/PYQRevision/DS/media",
-    "Revision/PYQRevision/DS",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

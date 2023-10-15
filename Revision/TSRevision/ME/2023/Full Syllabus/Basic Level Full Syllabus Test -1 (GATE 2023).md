@@ -5,6 +5,8 @@ subType: mock
 last_time: 2023-10-14T00:00:00.000+05:30
 atQ: 27
 syllabus: all
+startQ: 1
+endQ: 65
 ---
 - load factor![[Pasted image 20231014223257.png]]
 - #notes/DLD/combination_circuit![[Pasted image 20231014223323.png]]

@@ -39,7 +39,7 @@ columns:
     key: startQ
     id: startQ
     label: startQ
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -59,7 +59,7 @@ columns:
     key: endQ
     id: endQ
     label: endQ
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -79,7 +79,7 @@ columns:
     key: totalQ
     id: totalQ
     label: totalQ
-    position: 7
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -92,14 +92,14 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      formula_query: ${parseInt(row.endQ-row.startQ+1)}
+      formula_query: "${row.startQ?parseInt(((row.endQ+1)||0)-(row.startQ||0)):\"\"}"
   atQ:
     input: number
     accessorKey: atQ
     key: atQ
     id: atQ
     label: atQ
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -119,7 +119,7 @@ columns:
     key: subject
     id: subject
     label: subject
-    position: 8
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -135,6 +135,7 @@ columns:
       - { label: "FULL", value: "FULL", color: "hsl(256, 95%, 90%)"}
       - { label: "DS", value: "DS", color: "hsl(318, 95%, 90%)"}
       - { label: "APTI", value: "APTI", color: "hsl(71, 95%, 90%)"}
+      - { label: "CD", value: "CD", color: "hsl(353, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -173,6 +174,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 62
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -188,7 +190,7 @@ columns:
     key: complete_till
     id: complete_till
     label: complete_till
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -201,7 +203,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      formula_query: "${row.type==\"folder\"?\"\":row.atQ?Math.round(100-(row.endQ - row.atQ)*100/row.totalQ)+\"%\":\"0%\"}"
+      formula_query: "${row.type==\"folder\"?\"\":row.atQ?Math.round(100-(row.endQ - row.atQ)*100/row.totalQ)+\"%\":\"\"}"
   next_time:
     input: formula
     accessorKey: next_time

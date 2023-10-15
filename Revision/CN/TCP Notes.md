@@ -1,3 +1,7 @@
+---
+type: ShortNotes
+subject: CN
+---
 - RTT Bandwidth Relation
 	$$RTT* B = W$$
 	Here W is size in Bytes

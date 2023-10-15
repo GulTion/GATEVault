@@ -1,3 +1,7 @@
+---
+type: ShortNotes
+subject: CN
+---
 
 # DHCP
 - ## Working of DHCP server to Client

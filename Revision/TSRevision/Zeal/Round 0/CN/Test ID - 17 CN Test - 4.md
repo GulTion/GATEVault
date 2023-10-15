@@ -24,7 +24,7 @@ type: ZealTS
 - ![[Pasted image 20231001165908.png]]![[Pasted image 20231001165919.png]]
    
 # Notes
-![[Revision/Notes Revision/CN/Application Layer#^390eb9|Application Layer]]
+![[Revision/CN/Application Layer#^390eb9|Application Layer]]
 ![[TCP Notes#^0d1753]]
 
 

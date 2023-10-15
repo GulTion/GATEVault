@@ -1,3 +1,7 @@
+---
+type: folder
+subject: COA
+---
 # Number System
 [[big-indian and little-indian]]
 [[Binary Operation Overflow stuff]]

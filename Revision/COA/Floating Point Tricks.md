@@ -1,3 +1,7 @@
+---
+type: ShortNotes
+subject: COA
+---
 # Floating Point Tricks
 
 Created: May 14, 2023 6:10 PM
