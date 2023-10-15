@@ -1,10 +1,10 @@
 ---
 subject: DBMS
 syllabus: Indexing, B-Tree, B+-Tree, Hashing, Transaction And Concurrency Control
-atQ: "11"
+atQ: "25"
 type: ZealTS
 subType: topicWise
-last_time: 2023-10-14T00:00:00.000+05:30
+last_time: 2023-10-15T00:00:00.000+05:30
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=631efedfa733d3d3b8fe44e3&test_id=24
 ---
 - 3. silly mistake ![[Pasted image 20231014135729.png]]![[Pasted image 20231014135745.png]]
@@ -16,4 +16,8 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 - 11. ![[Pasted image 20231015155434.png]]![[Pasted image 20231015155441.png]]
 - 13. ![[Pasted image 20231015160221.png]]![[Pasted image 20231015160227.png]]
 - 14. lack of concept #r2![[Pasted image 20231015160348.png]]![[Pasted image 20231015160407.png]]
+- 21 statemwnts ![[Pasted image 20231015164115.png]] ![[Pasted image 20231015164119.png]]
+- 23 new concept![[Pasted image 20231015164404.png]]![[Pasted image 20231015164411.png]]
+- 24 lack of practice ![[Pasted image 20231015164857.png]]![[Pasted image 20231015164902.png]]
+- 25 lack of practice ![[Pasted image 20231015164923.png]]![[Pasted image 20231015164928.png]]
 - 

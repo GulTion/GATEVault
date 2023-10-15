@@ -93,7 +93,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 150
+    width: 185
     isSorted: false
     isSortedDesc: true
     options:
@@ -103,6 +103,7 @@ columns:
       - { label: "ZealTS", value: "ZealTS", color: "hsl(189, 95%, 90%)"}
       - { label: "MadeEasyTS", value: "MadeEasyTS", color: "hsl(138, 95%, 90%)"}
       - { label: "GOTS", value: "GOTS", color: "hsl(2, 95%, 90%)"}
+      - { label: "MicroNotes", value: "MicroNotes", color: "hsl(82, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -146,6 +147,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: -2
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -196,12 +198,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  link:
+  src:
     input: text
-    accessorKey: link
-    key: link
+    accessorKey: src
+    key: src
     id: src
-    label: link
+    label: src
     position: 100
     skipPersist: false
     isHidden: false
