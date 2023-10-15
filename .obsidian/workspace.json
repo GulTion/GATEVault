@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -197,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 453.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,6 +220,13 @@
   },
   "active": "4c50b8c8648c4e03",
   "lastOpenFiles": [
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015152158.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015152151.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015145841.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015145834.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015145019.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015145010.png",
+    "Revision/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015145004.png",
     "DialyStuff/2023-10-15.md",
     "Revision/TSRevision/ME/2023/Topicwise Test/GENERAL APTITUDE-1 (GATE 2023).md",
     "Revision/TSRevision/ME/2023/Topicwise Test/media/Pasted image 20231015130115.png",
@@ -230,19 +239,13 @@
     "Revision/ZealRevision/OS/media/Pasted image 20231015094928.png",
     "Revision/ZealRevision/ZealRevision.md",
     "Revision/ZealRevision/OS/media/Pasted image 20231015094023.png",
-    "Revision/ZealRevision/OS/media/Pasted image 20231015093922.png",
     "Revision/ZealRevision/OS/OSDB.md",
     "Revision/TSRevision/ME/2023/Full Syllabus/Basic Level Full Syllabus Test -1 (GATE 2023).md",
-    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231015093307.png",
-    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231015092525.png",
     "Revision/ZealRevision/CN/5 Network Layer Solutions.md",
     "DialyStuff/2023-10-14.md",
     "Revision/PYQRevision/PYQ DB.md",
     "Revision/Revision.md",
     "Revision/TSRevision/TSDB.md",
-    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014224814.png",
-    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014224026.png",
-    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014223846.png",
     "Revision/TSRevision/ME/2023/Full Syllabus/media",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/TSRevision/ME/2023/Full Syllabus",
