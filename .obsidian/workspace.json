@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c50b8c8648c4e03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-15.md",
+                "file": "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-15.md",
+                "file": "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-15.md"
+                "file": "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md"
               }
             }
           },
@@ -203,10 +216,14 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "35806b1d1639572b",
+  "active": "4c50b8c8648c4e03",
   "lastOpenFiles": [
-    "Revision/ZealRevision/ZealDB.md",
     "DialyStuff/2023-10-15.md",
+    "Revision/TSRevision/ME/2023/Topicwise Test/GENERAL APTITUDE-1 (GATE 2023).md",
+    "Revision/TSRevision/ME/2023/Topicwise Test/media/Pasted image 20231015130115.png",
+    "Revision/TSRevision/ME/2023/Topicwise Test/media",
+    "Revision/TSRevision/ME/2023/Topicwise Test",
+    "Revision/ZealRevision/ZealDB.md",
     "Revision/RevisionDONE.md",
     "Revision/ZealRevision/OS/2. FORK SYSTEM CALL.md",
     "Revision/ZealRevision/OS/media/Pasted image 20231015094941.png",
@@ -226,7 +243,6 @@
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014224814.png",
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014224026.png",
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014223846.png",
-    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014223323.png",
     "Revision/TSRevision/ME/2023/Full Syllabus/media",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/TSRevision/ME/2023/Full Syllabus",
@@ -245,11 +261,8 @@
     "Revision/PYQRevision/DM/recurrence DM PYQ.md",
     "Revision/PYQRevision/DM/Combintories.md",
     "Revision/PYQRevision/CD/Parser/Untitled.md",
-    "Revision/PYQRevision/DBMS/DBMS-pyq.md",
     "Revision/PYQRevision/DS/media",
     "Revision/PYQRevision/DS",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media",
-    "Revision/TSRevision/Zeal/Round 0/DBMS",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
