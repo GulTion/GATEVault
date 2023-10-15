@@ -45,9 +45,11 @@
             "id": "d0a06080cf05fdee",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Revision/ZealRevision/OS/OSDB.md"
+                "file": "DialyStuff/2023-10-15.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -57,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealRevision/OS/2. FORK SYSTEM CALL.md",
+                "file": "DialyStuff/2023-10-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealRevision/OS/2. FORK SYSTEM CALL.md",
+                "file": "DialyStuff/2023-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealRevision/OS/2. FORK SYSTEM CALL.md",
+                "file": "DialyStuff/2023-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealRevision/OS/2. FORK SYSTEM CALL.md"
+                "file": "DialyStuff/2023-10-15.md"
               }
             }
           },
@@ -258,12 +260,13 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "f089cde3805100c6",
+  "active": "d0a06080cf05fdee",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-15.md",
+    "Revision/ZealRevision/OS/2. FORK SYSTEM CALL.md",
     "Revision/ZealRevision/OS/media/Pasted image 20231015094941.png",
     "Revision/ZealRevision/OS/media/Pasted image 20231015094928.png",
     "Revision/RevisionDONE.md",
-    "Revision/ZealRevision/OS/2. FORK SYSTEM CALL.md",
     "Revision/ZealRevision/ZealRevision.md",
     "Revision/ZealRevision/OS/media/Pasted image 20231015094023.png",
     "Revision/ZealRevision/OS/media/Pasted image 20231015093922.png",
@@ -271,7 +274,6 @@
     "Revision/TSRevision/ME/2023/Full Syllabus/Basic Level Full Syllabus Test -1 (GATE 2023).md",
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231015093307.png",
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231015092525.png",
-    "DialyStuff/2023-10-15.md",
     "Revision/ZealRevision/CN/5 Network Layer Solutions.md",
     "Revision/ZealRevision/ZealDB.md",
     "DialyStuff/2023-10-14.md",
@@ -282,7 +284,6 @@
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014224026.png",
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014223846.png",
     "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014223323.png",
-    "Revision/TSRevision/ME/2023/Full Syllabus/media/Pasted image 20231014223257.png",
     "Revision/TSRevision/ME/2023/Full Syllabus/media",
     "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/TSRevision/ME/2023/Full Syllabus",
