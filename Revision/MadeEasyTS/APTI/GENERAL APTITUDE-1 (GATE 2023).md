@@ -5,6 +5,8 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 startQ: 1
 endQ: 17
 atQ: 1
+repeation: 1
+last_time: 2023-10-16T00:00:00.000+05:30
 ---
 - average speed![[Pasted image 20231015130115.png]]
 - 
