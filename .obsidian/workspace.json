@@ -11,11 +11,38 @@
             "id": "132bad9fffaba269",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "713153e833ff7f05",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Revision/RevisionDB.md"
+              }
+            }
+          },
+          {
+            "id": "e5d14d8c76b46bbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/MixQue/APTI/Time , Speed & Distance.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5,
-    "collapsed": true
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,55 +226,55 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "132bad9fffaba269",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
-    "Revision/ZealRevision/DBMS/DBMS-zealwork.md",
+    "Revision/TSDB.md",
     "Revision/RevisionDB.md",
+    "Revision/relation algbera.md",
+    "Revision/ZealDB.md",
+    "Revision/OSDB.md",
+    "DialyStuff/2023-10-16.md",
+    "Revision/zealWorkBook/zealWorkBookDB.md",
+    "Revision/ZealRevision.md",
+    "Revision/zealWorkBook/C/C.md",
+    "Revision/zealWorkBook/C",
+    "Revision/folder/OS/OS-zeal.md",
+    "Revision/DB/FULL/PYQ DB.md",
+    "Revision/ZealTS/C",
+    "Revision/zealWorkBook/TOC",
+    "Revision/folder/OS",
+    "Revision/zealWorkBook/OS",
+    "Revision/zealWorkBook/MATH",
+    "Revision/zealWorkBook/DM",
+    "Revision/zealWorkBook/DBMS",
+    "Revision/zealWorkBook/COA",
+    "Revision/GOTS/DM",
+    "Revision/ShortNotes/OS/Process Syncronization.md",
+    "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
+    "Revision/ShortNotes/TOC/Language Closure.md",
+    "Revision/MixQue/APTI/Time , Speed & Distance.md",
+    "Revision/media/Notes Revision/OS/Message Passing.canvas",
+    "pdfs/uanotes/url.md",
+    "media/media 2/Pasted image 20230913093257.png",
+    "media/media 2/Pasted image 20230902080846.png",
+    "media/media 2/Pasted image 20230902080828.png",
+    "media/media 2/Pasted image 20230901174743.png",
+    "media/media 2/Pasted image 20230901174731.png",
+    "media/media 2/Pasted image 20230901173821.png",
+    "media/media 2/Pasted image 20230901125944.png",
+    "media/media 2/Pasted image 20230901125923.png",
+    "media/media 2/Pasted image 20230901125835.png",
+    "media/media 2/Pasted image 20230901125408.png",
+    "Revision/ZealRevision/DBMS/DBMS-zealwork.md",
     "Revision/ZealRevision/COA/COA-zeal.md",
     "Revision/ZealRevision/CN/CN.md",
     "Revision/PYQRevision/OS/OS-pyq.md",
     "Revision/PYQRevision/DBMS/DBMS-pyq.md",
     "Revision/PYQRevision/COA/COA - PYQ.md",
-    "Revision/FULL/RevisionDONE.md",
+    "Revision/folder/FULL/RevisionDONE.md",
     "Revision/Revision.md",
-    "Revision/FULL",
-    "Revision/COA/connexion of register into system bus.md",
-    "Revision/MATH/Mode of the Binomial Distribution.md",
-    "Revision/DS/Stack.md",
-    "Revision/DLD/Flip Flops.md",
-    "Revision/TOC/Context Free Grammer and Language.md",
-    "Revision/PYQRevision/CD/Parser/Untitled.md",
-    "Revision/TOC",
-    "Revision/OS",
-    "Revision/OS/Process Syncronization.md",
-    "Revision/Notes Revision/OS/OS-notes.md",
-    "Revision/MATH",
-    "Revision/DS",
-    "Revision/Notes Revision/DS/DS-notes.md",
-    "Revision/Notes Revision/DLD/DLD-notes.md",
-    "Revision/Notes Revision/DBMS/DBMS-notes.md",
-    "Revision/Notes Revision/DBMS/Indexing.md",
-    "Revision/Notes Revision/COA/Number System/big-indian and little-indian.md",
-    "Revision/Notes Revision/COA/Number System/Ranges of Number.md",
-    "Revision/Notes Revision/COA/Number System/Overflow on Container Change.md",
-    "Revision/DLD",
-    "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
-    "Revision/CD/Some Notes must write on paper.md",
-    "Revision/ZealRevision/OS/media/Pasted image 20231002132827.png",
-    "Revision/COA",
-    "Revision/CN",
-    "Revision/CD",
-    "Revision/APTI",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164928.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164923.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164902.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164857.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164411.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164404.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164119.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164115.png",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015160407.png",
-    "Revision/Notes Revision/OS/Message Passing.canvas",
+    "Revision/ShortNotes/COA/connexion of register into system bus.md",
+    "Revision/ShortNotes/DS/Stack.md",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
   ]
