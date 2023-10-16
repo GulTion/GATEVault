@@ -39,7 +39,7 @@ columns:
     key: startQ
     id: startQ
     label: startQ
-    position: 9
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -59,7 +59,7 @@ columns:
     key: endQ
     id: endQ
     label: endQ
-    position: 10
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -191,7 +191,7 @@ columns:
     key: complete_till
     id: complete_till
     label: complete_till
-    position: 8
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1

@@ -11,6 +11,16 @@
             "id": "586d4fcf1940ae40",
             "type": "leaf",
             "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Revision/RevisionDB.md"
+              }
+            }
+          },
+          {
+            "id": "9b519f0eb0d5834e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "DialyStuff/2023-10-16.md",
@@ -19,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -184,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5,
-    "collapsed": true
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,15 +215,16 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "586d4fcf1940ae40",
+  "active": "9b519f0eb0d5834e",
   "lastOpenFiles": [
+    "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
+    "Revision/RevisionDB.md",
     "DialyStuff/2023-10-16.md",
     "Revision/zealWorkBook/OS/InterProcess Communication.md",
     "consistency-report.md",
     "Revision/zealWorkBook/DBMS/Nomalization.md",
     "Revision/media/ZealRevision/DBMS/media/Pasted image 20231006193535.png",
     "Revision/zealWorkBook/zealWorkBookDB.md",
-    "Revision/RevisionDB.md",
     "Revision/relation algbera.md",
     "Revision/MadeEasyTS/MadeEasyTSDB.md",
     "Revision/MixQue/APTI/Time , Speed & Distance.md",
@@ -232,7 +244,6 @@
     "Revision/TSDB.md",
     "Revision/ZealDB.md",
     "Revision/OSDB.md",
-    "Revision/ZealRevision.md",
     "Revision/zealWorkBook/C",
     "Revision/ZealTS/C",
     "Revision/zealWorkBook/TOC",
