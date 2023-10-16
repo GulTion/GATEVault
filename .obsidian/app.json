@@ -11,5 +11,6 @@
   },
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "showUnsupportedFiles": false
 }

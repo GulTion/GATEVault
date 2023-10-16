@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bc62211f2bf2380d",
+        "id": "b80b59acc7de8ca3",
         "type": "tabs",
         "children": [
           {
-            "id": "132bad9fffaba269",
+            "id": "586d4fcf1940ae40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DialyStuff/2023-10-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "713153e833ff7f05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5d14d8c76b46bbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/MixQue/APTI/Time , Speed & Distance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 453.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,20 +204,36 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "713153e833ff7f05",
+  "active": "586d4fcf1940ae40",
   "lastOpenFiles": [
-    "Revision/TSDB.md",
+    "DialyStuff/2023-10-16.md",
+    "Revision/zealWorkBook/OS/InterProcess Communication.md",
+    "consistency-report.md",
+    "Revision/zealWorkBook/DBMS/Nomalization.md",
+    "Revision/media/ZealRevision/DBMS/media/Pasted image 20231006193535.png",
+    "Revision/zealWorkBook/zealWorkBookDB.md",
     "Revision/RevisionDB.md",
     "Revision/relation algbera.md",
+    "Revision/MadeEasyTS/MadeEasyTSDB.md",
+    "Revision/MixQue/APTI/Time , Speed & Distance.md",
+    "Revision/MicroNotes/MicroNotesDB.md",
+    "Revision/MixQue/MixQueDB.md",
+    "Revision/PYQ/PYQDB.md",
+    "Revision/ShortNotes/ShortNotesDB.md",
+    "Revision/ZealTS/ZealTSDB.md",
+    "Revision/GOTS/GOTSDB.md",
+    "Revision/GOTS/ZealTSDB.md",
+    "Revision/MadeEasyTS/ZealTSDB.md",
+    "Revision/MicroNotes/ZealTSDB.md",
+    "Revision/MixQue/ZealTSDB.md",
+    "Revision/PYQ/ZealTSDB.md",
+    "Revision/ShortNotes/ZealTSDB.md",
+    "Revision/ZealTS/zealWorkBookDB.md",
+    "Revision/TSDB.md",
     "Revision/ZealDB.md",
     "Revision/OSDB.md",
-    "DialyStuff/2023-10-16.md",
-    "Revision/zealWorkBook/zealWorkBookDB.md",
     "Revision/ZealRevision.md",
-    "Revision/zealWorkBook/C/C.md",
     "Revision/zealWorkBook/C",
-    "Revision/folder/OS/OS-zeal.md",
-    "Revision/DB/FULL/PYQ DB.md",
     "Revision/ZealTS/C",
     "Revision/zealWorkBook/TOC",
     "Revision/folder/OS",
@@ -251,12 +243,7 @@
     "Revision/zealWorkBook/DBMS",
     "Revision/zealWorkBook/COA",
     "Revision/GOTS/DM",
-    "Revision/ShortNotes/OS/Process Syncronization.md",
-    "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
-    "Revision/ShortNotes/TOC/Language Closure.md",
-    "Revision/MixQue/APTI/Time , Speed & Distance.md",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
-    "pdfs/uanotes/url.md",
     "media/media 2/Pasted image 20230913093257.png",
     "media/media 2/Pasted image 20230902080846.png",
     "media/media 2/Pasted image 20230902080828.png",
@@ -266,17 +253,6 @@
     "media/media 2/Pasted image 20230901125944.png",
     "media/media 2/Pasted image 20230901125923.png",
     "media/media 2/Pasted image 20230901125835.png",
-    "media/media 2/Pasted image 20230901125408.png",
-    "Revision/ZealRevision/DBMS/DBMS-zealwork.md",
-    "Revision/ZealRevision/COA/COA-zeal.md",
-    "Revision/ZealRevision/CN/CN.md",
-    "Revision/PYQRevision/OS/OS-pyq.md",
-    "Revision/PYQRevision/DBMS/DBMS-pyq.md",
-    "Revision/PYQRevision/COA/COA - PYQ.md",
-    "Revision/folder/FULL/RevisionDONE.md",
-    "Revision/Revision.md",
-    "Revision/ShortNotes/COA/connexion of register into system bus.md",
-    "Revision/ShortNotes/DS/Stack.md",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
   ]
