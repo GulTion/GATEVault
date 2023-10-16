@@ -1,11 +1,12 @@
 ---
-
 kanban-plugin: basic
-
+type: folder
+subject: FULL
 ---
 
 ## MicroNotes NOT DONE
 
+- [ ] COA
 - [ ] TOC
 - [ ] DSA
 - [ ] APTI
@@ -15,7 +16,6 @@ kanban-plugin: basic
 - [ ] EM - Prob
 - [ ] CN
 - [ ] DBMS
-- [ ] COA
 - [ ] OS
 - [ ] CD
 

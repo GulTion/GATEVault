@@ -26,7 +26,7 @@ subType: topicWise
 
 
 ## PYQ
-![[Revision/PYQRevision/COA/Number System|Number System]]
+![[Revision/COA/Number System|Number System]]
 
 
 # TEST 

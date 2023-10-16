@@ -1,7 +1,7 @@
 ---
-
 database-plugin: basic
-
+type: DB
+subject: FULL
 ---
 
 ```yaml:dbfolder

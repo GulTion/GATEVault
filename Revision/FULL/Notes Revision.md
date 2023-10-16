@@ -1,3 +1,7 @@
+---
+type: folder
+subject: FULL
+---
 # Subjects
 [[CN-notes]]
 [[COA-notes]]

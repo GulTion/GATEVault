@@ -1,5 +1,6 @@
 ---
 type: PYQ
+subject: COA
 ---
 
 - Big endian - little endian (A,D) 

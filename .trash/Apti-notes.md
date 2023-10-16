@@ -1,5 +1,6 @@
 ---
 type: folder
+subject: APTI
 ---
 # Verbal
 - [[Antonym Synonym]]

@@ -11,24 +11,11 @@
             "id": "132bad9fffaba269",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Revision/RevisionDB.md"
-              }
-            }
-          },
-          {
-            "id": "a0b1e432b800f392",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Revision/RevisionDONE.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/RevisionDONE.md",
+                "file": "Revision/RevisionDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/RevisionDONE.md",
+                "file": "Revision/RevisionDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/RevisionDONE.md"
+                "file": "Revision/RevisionDB.md"
               }
             }
           },
@@ -213,26 +200,45 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "a0b1e432b800f392",
+  "active": "132bad9fffaba269",
   "lastOpenFiles": [
+    "Revision/ZealRevision/DBMS/DBMS-zealwork.md",
     "Revision/RevisionDB.md",
-    "Revision/RevisionDONE.md",
+    "Revision/ZealRevision/COA/COA-zeal.md",
+    "Revision/ZealRevision/CN/CN.md",
+    "Revision/PYQRevision/OS/OS-pyq.md",
+    "Revision/PYQRevision/DBMS/DBMS-pyq.md",
+    "Revision/PYQRevision/COA/COA - PYQ.md",
+    "Revision/FULL/RevisionDONE.md",
+    "Revision/Revision.md",
+    "Revision/FULL",
+    "Revision/COA/connexion of register into system bus.md",
+    "Revision/MATH/Mode of the Binomial Distribution.md",
+    "Revision/DS/Stack.md",
+    "Revision/DLD/Flip Flops.md",
+    "Revision/TOC/Context Free Grammer and Language.md",
+    "Revision/PYQRevision/CD/Parser/Untitled.md",
+    "Revision/TOC",
+    "Revision/OS",
+    "Revision/OS/Process Syncronization.md",
+    "Revision/Notes Revision/OS/OS-notes.md",
+    "Revision/MATH",
+    "Revision/DS",
+    "Revision/Notes Revision/DS/DS-notes.md",
+    "Revision/Notes Revision/DLD/DLD-notes.md",
+    "Revision/Notes Revision/DBMS/DBMS-notes.md",
+    "Revision/Notes Revision/DBMS/Indexing.md",
+    "Revision/Notes Revision/COA/Number System/big-indian and little-indian.md",
+    "Revision/Notes Revision/COA/Number System/Ranges of Number.md",
     "Revision/Notes Revision/COA/Number System/Overflow on Container Change.md",
     "Revision/DLD",
     "Revision/Notes Revision/Aptitude/Verbal/Sentense completation.md",
     "Revision/CD/Some Notes must write on paper.md",
-    "Revision/Notes Revision/DS/Sorting.md",
-    "Revision/CD/Parser CD notes.md",
     "Revision/ZealRevision/OS/media/Pasted image 20231002132827.png",
     "Revision/COA",
     "Revision/CN",
     "Revision/CD",
     "Revision/APTI",
-    "DialyStuff/2023-10-15.md",
-    "Revision/Notes Revision/Aptitude/Apti-notes.md",
-    "Revision/ZealRevision/ZealDB.md",
-    "Revision/TSRevision/Zeal/Round 0/DBMS/Test 4 DBMS TEST ID 34.md",
-    "Revision/TSRevision/TSDB.md",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164928.png",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164923.png",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164902.png",
@@ -242,25 +248,6 @@
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164119.png",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164115.png",
     "Revision/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015160407.png",
-    "Revision/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/TSRevision/Zeal/Round 0/COA/Test ID - 29 CSO Test - 4 - 2023.md",
-    "Revision/TSRevision/ME/2023/Topicwise Test/GENERAL APTITUDE-1 (GATE 2023).md",
-    "Revision/TSRevision/ME/2023/Topicwise Test/media",
-    "Revision/TSRevision/ME/2023/Topicwise Test",
-    "Revision/ZealRevision/OS/2. FORK SYSTEM CALL.md",
-    "Revision/ZealRevision/ZealRevision.md",
-    "Revision/ZealRevision/OS/OSDB.md",
-    "Revision/TSRevision/ME/2023/Full Syllabus/Basic Level Full Syllabus Test -1 (GATE 2023).md",
-    "Revision/ZealRevision/CN/5 Network Layer Solutions.md",
-    "DialyStuff/2023-10-14.md",
-    "Revision/PYQRevision/PYQ DB.md",
-    "Revision/Revision.md",
-    "Revision/TSRevision/ME/2023/Full Syllabus/media",
-    "Revision/TSRevision/ME/2023/Full Syllabus",
-    "Revision/PYQRevision/OS/Memory.md",
-    "Revision/PYQRevision/OS/IPC.md",
-    "Revision/PYQRevision/COA/COA - PYQ.md",
-    "Revision/PYQRevision/OS/CPU Scheduling.md",
     "Revision/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

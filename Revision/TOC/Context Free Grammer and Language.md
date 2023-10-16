@@ -2,7 +2,12 @@
 title: Context Free Grammer and Language
 allDay: true
 date: 2023-09-26
-completed: null
+completed: 
+isNoted: "false"
+type: MicroNotes
+subject: TOC
+repeation: 3
+last_time: 2023-10-16T00:00:00.000+05:30
 ---
 # Closure Properties Trick of CFL #notes/TOC/Closure_properties/CFG
 

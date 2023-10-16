@@ -251,6 +251,7 @@ columns:
       - { label: "MicroNotes", value: "MicroNotes", color: "hsl(276, 95%, 90%)"}
       - { label: "MadeEasyTS", value: "MadeEasyTS", color: "hsl(210, 95%, 90%)"}
       - { label: "GOTS", value: "GOTS", color: "hsl(327, 95%, 90%)"}
+      - { label: "DB", value: "DB", color: "hsl(218, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

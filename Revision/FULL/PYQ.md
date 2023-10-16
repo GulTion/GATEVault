@@ -1,5 +1,6 @@
 ---
 type: folder
+subject: FULL
 ---
 # Subjects
 - [[COA - PYQ]]
