@@ -4,101 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "b80b59acc7de8ca3",
+        "id": "493af5ac9f6ff5a4",
         "type": "tabs",
         "children": [
           {
-            "id": "0302e3864a16e07d",
+            "id": "dfc7be9b390c0688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "870dd59c7d68d668",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "Revision/zealWorkBook/zealWorkBookDB.md"
+                "file": "Revision/MadeEasyTS/MadeEasyTSDB.md"
               }
             }
           },
           {
-            "id": "e1da45e1899d1008",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "036eaed9ef5f0c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WeakSubtopic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f1a58c4758d0952",
+            "id": "ee5408479b53906f",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "Revision/PYQ/PYQDB.md"
+                "file": "Revision/RevisionDB.md"
               }
             }
           },
           {
-            "id": "4e01fea3b97654af",
+            "id": "54c83a2249f5609f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/MATH/Probability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8f83bc06fca8e3f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
-              }
-            }
-          },
-          {
-            "id": "f632c775e4b11586",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/zealWorkBook/MATH/2 CONDITIONAL PROBABILITY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c18e1ebd7347bf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/zealWorkBook/MATH/1 Basic concept of probability.md",
+                "file": "DialyStuff/2023-10-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/MATH/Probability.md",
+                "file": "DialyStuff/2023-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/MATH/Probability.md",
+                "file": "DialyStuff/2023-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/MATH/Probability.md"
+                "file": "DialyStuff/2023-10-17.md"
               }
             }
           },
@@ -263,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5,
-    "collapsed": true
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,25 +236,39 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "4e01fea3b97654af",
+  "active": "54c83a2249f5609f",
   "lastOpenFiles": [
+    "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
+    "Revision/RevisionDB.md",
+    "Revision/MadeEasyTS/MadeEasyTSDB.md",
+    "DialyStuff/2023-10-17.md",
+    "Revision/zealWorkBook/MATH/1 Basic concept of probability.md",
+    "Revision/zealWorkBook/MATH/2 CONDITIONAL PROBABILITY.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
+    "index.md",
+    "WeakSubtopic.md",
+    "Revision/PYQ/PYQDB.md",
+    "DialyStuff/2023-10-18.md",
+    "Revision/GOTS/GOTSDB.md",
+    "Revision/GOTS/MATH/media/Pasted image 20231017132657.png",
+    "Revision/GOTS/MATH/media/Pasted image 20231017132637.png",
+    "Revision/GOTS/MATH/media/Pasted image 20231017132218.png",
+    "Revision/GOTS/MATH/media/Pasted image 20231017132207.png",
+    "Revision/GOTS/MATH/media",
+    "Revision/GOTS/MATH",
+    "Revision/PYQ/MATH/Probability.md",
+    "Revision/PYQ/MATH/media/Pasted image 20231017125609.png",
+    "Revision/PYQ/MATH/media/Pasted image 20231017125559.png",
     "Revision/PYQ/MATH/media/Pasted image 20231017122219.png",
     "Revision/PYQ/MATH/media/Pasted image 20231017122209.png",
     "Revision/PYQ/MATH/media",
-    "Revision/PYQ/PYQDB.md",
     "Revision/PYQ/MATH",
     "Revision/PYQ/PYQ/MATH",
     "Revision/PYQ/PYQ",
-    "Revision/PYQ/MATH/Probability.md",
-    "WeakSubtopic.md",
     "Revision/folder/FULL/RevisionDONE.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "index.md",
     "Revision/zealWorkBook/MATH/3 RANDOM VARIABLES, EXPECTATION AND VARIANCE.md",
     "Revision/zealWorkBook/zealWorkBookDB.md",
-    "Revision/zealWorkBook/MATH/2 CONDITIONAL PROBABILITY.md",
-    "Revision/zealWorkBook/MATH/1 Basic concept of probability.md",
-    "DialyStuff/2023-10-17.md",
     "DaskBoard Back.md",
     "Revision/ZealTS/ZealTSDB.md",
     "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
@@ -309,28 +276,14 @@
     "Revision/ZealTS/C/media/Pasted image 20231017095928.png",
     "Revision/ZealTS/C/media",
     "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
-    "Revision/ZealTS/FULL/media/Pasted image 20231016175939.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231016175839.png",
     "Revision/MicroNotes/MicroNotesDB.md",
     "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
-    "Revision/ZealTS/FULL/media/Pasted image 20231016173441.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231016173434.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231016173157.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231016173150.png",
     "Revision/ZealTS/FULL/media",
-    "Revision/RevisionDB.md",
     "DialyStuff/2023-10-16.md",
-    "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
     "Revision/zealWorkBook/OS/InterProcess Communication.md",
     "consistency-report.md",
     "Revision/zealWorkBook/DBMS/Nomalization.md",
-    "Revision/media/ZealRevision/DBMS/media/Pasted image 20231006193535.png",
-    "Revision/relation algbera.md",
-    "Revision/MadeEasyTS/MadeEasyTSDB.md",
-    "Revision/MixQue/APTI/Time , Speed & Distance.md",
     "Revision/zealWorkBook/C",
-    "Revision/ZealTS/C",
-    "Revision/zealWorkBook/TOC",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
