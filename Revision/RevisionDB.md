@@ -274,6 +274,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "Analysis", value: "Analysis", color: "hsl(70, 95%, 90%)"}
+      - { label: "Revision", value: "Revision", color: "hsl(36, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

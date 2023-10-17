@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
+                "file": "Revision/RevisionDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
+                "file": "Revision/RevisionDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md"
+                "file": "Revision/RevisionDB.md"
               }
             }
           },
@@ -248,8 +247,13 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "3ad30af767263fd7",
+  "active": "4d3641823261a577",
   "lastOpenFiles": [
+    "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
+    "Revision/GOTS/DBMS/media/Pasted image 20231017200242.png",
+    "Revision/GOTS/DBMS/media/Pasted image 20231017200225.png",
+    "Revision/GOTS/DBMS/media/Pasted image 20231017195352.png",
+    "Revision/GOTS/DBMS/media/Pasted image 20231017195326.png",
     "Revision/GOTS/DBMS/media/Pasted image 20231017183936.png",
     "Revision/GOTS/DBMS/media/Pasted image 20231017183846.png",
     "Revision/GOTS/DBMS/media/Pasted image 20231017181707.png",
@@ -257,7 +261,6 @@
     "Revision/GOTS/DBMS/media/Pasted image 20231017181625.png",
     "Revision/GOTS/DBMS/media",
     "Revision/folder/FULL/RevisionDONE.md",
-    "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "Revision/RevisionDB.md",
     "Revision/relation algbera.md",
     "DaskBoard Back.md",
@@ -270,10 +273,7 @@
     "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
     "Revision/MixQue/APTI/Time and Work.md",
     "Revision/MadeEasyTS/APTI/media/Pasted image 20231017141813.png",
-    "Revision/MadeEasyTS/APTI/media/Pasted image 20231017141758.png",
-    "Revision/MadeEasyTS/APTI/media/Pasted image 20231017141751.png",
     "Revision/MadeEasyTS/APTI/media",
-    "Revision/MixQue/APTI/media/Pasted image 20231017140850.png",
     "Revision/MixQue/APTI/media",
     "Revision/zealWorkBook/MATH/1 Basic concept of probability.md",
     "Revision/zealWorkBook/MATH/2 CONDITIONAL PROBABILITY.md",
@@ -281,8 +281,6 @@
     "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
     "WeakSubtopic.md",
     "Revision/PYQDB.md",
-    "Revision/GOTS/MATH/media/Pasted image 20231017132657.png",
-    "Revision/GOTS/MATH/media/Pasted image 20231017132637.png",
     "Revision/GOTS/MATH/media",
     "Revision/GOTS/MATH",
     "Revision/PYQ/MATH/Probability.md",
