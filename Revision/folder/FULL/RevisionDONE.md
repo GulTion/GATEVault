@@ -8,6 +8,7 @@ subject: FULL
 
 ## MicroNotes NOT DONE
 
+- [ ] DBMS
 - [ ] APTI
 - [ ] EM - Prob
 - [ ] DM
@@ -17,7 +18,6 @@ subject: FULL
 - [ ] EM - Calculus
 - [ ] EM - Linear
 - [ ] CN
-- [ ] DBMS
 - [ ] OS
 - [ ] CD
 
