@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "de910ff8ee67fd53",
+        "id": "191dec5181f8702c",
         "type": "tabs",
         "children": [
           {
-            "id": "5ca8931c14708f1d",
+            "id": "93c2f6be68331130",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/FULL/media/Pasted image 20231017215142.png"
+                "file": "Revision/zealWorkBook/CN/Application Layer 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/FULL/media/Pasted image 20231017215142.png",
+                "file": "Revision/zealWorkBook/CN/Application Layer 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/FULL/media/Pasted image 20231017215142.png",
+                "file": "Revision/zealWorkBook/CN/Application Layer 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/FULL/media/Pasted image 20231017215142.png"
+                "file": "Revision/zealWorkBook/CN/Application Layer 1.md"
               }
             }
           },
@@ -177,8 +179,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,8 +203,11 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "5ca8931c14708f1d",
+  "active": "93c2f6be68331130",
   "lastOpenFiles": [
+    "Revision/media/CN/media/Pasted image 20231001100032.png",
+    "DaskBoard Back.md",
+    "Revision/GOTS/DBMS/media/Pasted image 20231017200225.png",
     "Revision/PYQ/FULL/GATE 2021 SET-2.md",
     "Revision/PYQ/FULL/media/Pasted image 20231017215142.png",
     "DialyStuff/2023-10-18.md",
@@ -215,7 +219,6 @@
     "Revision/PYQ/FULL/media/Pasted image 20231017215227.png",
     "Revision/PYQ/FULL/media",
     "Revision/GOTS/DBMS/media/Pasted image 20231017200242.png",
-    "Revision/GOTS/DBMS/media/Pasted image 20231017200225.png",
     "Revision/GOTS/DBMS/media/Pasted image 20231017195352.png",
     "Revision/GOTS/DBMS/media/Pasted image 20231017195326.png",
     "Revision/GOTS/DBMS/media/Pasted image 20231017183936.png",
@@ -225,7 +228,6 @@
     "Revision/GOTS/DBMS/media",
     "Revision/folder/FULL/RevisionDONE.md",
     "Revision/relation algbera.md",
-    "DaskBoard Back.md",
     "index.md",
     "Revision/zealWorkBook/OS/10. FILE SYSTEM AND DISK SCHEDULING.pdf.md",
     "Revision/GOTS/GOTSDB.md",
@@ -249,7 +251,6 @@
     "Revision/zealWorkBook/MATH/3 RANDOM VARIABLES, EXPECTATION AND VARIANCE.md",
     "Revision/zealWorkBook/zealWorkBookDB.md",
     "Revision/ZealTSDB.md",
-    "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
