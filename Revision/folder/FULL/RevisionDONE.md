@@ -1,27 +1,25 @@
 ---
+
 kanban-plugin: basic
 type: folder
 subject: FULL
+
 ---
 
 ## MicroNotes NOT DONE
 
-- [ ] COA
+- [ ] EM - Prob
+- [ ] DM
 - [ ] TOC
+- [ ] COA
 - [ ] DSA
 - [ ] APTI
-- [ ] DM
 - [ ] EM - Calculus
 - [ ] EM - Linear
-- [ ] EM - Prob
 - [ ] CN
 - [ ] DBMS
 - [ ] OS
 - [ ] CD
-
-
-## MicroNotes REVISION DONE
-
 
 
 

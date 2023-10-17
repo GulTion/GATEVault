@@ -266,7 +266,7 @@ config:
   remove_field_when_delete_column: false
   cell_size: normal
   sticky_first_column: false
-  group_folder_column: 
+  group_folder_column: subject
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
