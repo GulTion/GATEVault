@@ -1,0 +1,1 @@
+{"path":"Revision/media/C/media/Pasted image 20231002012236.png","text":"Q71. | What will be the output of following C program? Add a statement in the function fun () such that address of a get stored in X. main() { int *X; void fun(int**) fun(&X); } void fun(int**Y) { inta = 20; /* Add Statement */ } (@)X=&a (ORE (0) *x=&a (d) Y=ta","libVersion":"0.2.3","langs":"eng"}

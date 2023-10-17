@@ -1,0 +1,1 @@
+{"path":"Revision/media/CN/media/Pasted image 20231010131341.png","text":"Solution: if parity is not mention then consider by default odd parity. 1000110 20={1,3,5,7,9,11} 20=error 21={2,3,6,7} = no error 22={4,5,6,7} =no error so 1 bit contain an error Answer is A","libVersion":"0.2.3","langs":"eng"}

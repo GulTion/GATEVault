@@ -1,0 +1,1 @@
+{"path":"Revision/media/C/media/Pasted image 20231001213814.png","text":"2 ”atwi e the output of the rogram? - Q25. | Wh 11 be th put of the C program? #include<stdio.h> int main() { int size = sizeof(volatile) + sizeof(const); printf(\"%d\",++size); return 0; } a)8 b)10 d)Compilation Error","libVersion":"0.2.3","langs":"eng"}

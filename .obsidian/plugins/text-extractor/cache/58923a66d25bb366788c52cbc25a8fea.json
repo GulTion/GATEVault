@@ -1,0 +1,1 @@
+{"path":"Revision/media/C/media/Pasted image 20231001213927.png","text":"Q29. Consider the following code: #include <stdio.h> int main() { inta[]={1,2,3,4,5}; printf(\"%d\", *(++a)); return 0; } What will be the output of above code: (a)1 (b) 2 _ (d) Run-time Error","libVersion":"0.2.3","langs":"eng"}
