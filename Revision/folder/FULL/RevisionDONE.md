@@ -8,12 +8,12 @@ subject: FULL
 
 ## MicroNotes NOT DONE
 
+- [ ] APTI
 - [ ] EM - Prob
 - [ ] DM
 - [ ] TOC
 - [ ] COA
 - [ ] DSA
-- [ ] APTI
 - [ ] EM - Calculus
 - [ ] EM - Linear
 - [ ] CN

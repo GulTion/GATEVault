@@ -40,19 +40,25 @@
             }
           },
           {
-            "id": "54c83a2249f5609f",
+            "id": "384120b4d23ae990",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e3abacdfd7dbff8",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
               "state": {
-                "file": "DialyStuff/2023-10-17.md",
-                "mode": "source",
-                "source": false
+                "file": "Revision/folder/FULL/RevisionDONE.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-17.md",
+                "file": "Revision/folder/FULL/RevisionDONE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-17.md",
+                "file": "Revision/folder/FULL/RevisionDONE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-17.md"
+                "file": "Revision/folder/FULL/RevisionDONE.md"
               }
             }
           },
@@ -236,12 +242,19 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "54c83a2249f5609f",
+  "active": "7e3abacdfd7dbff8",
   "lastOpenFiles": [
-    "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
-    "Revision/RevisionDB.md",
     "Revision/MadeEasyTS/MadeEasyTSDB.md",
     "DialyStuff/2023-10-17.md",
+    "Revision/MixQue/APTI/Time and Work.md",
+    "Revision/RevisionDB.md",
+    "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
+    "Revision/MadeEasyTS/APTI/media/Pasted image 20231017141813.png",
+    "Revision/MadeEasyTS/APTI/media/Pasted image 20231017141758.png",
+    "Revision/MadeEasyTS/APTI/media/Pasted image 20231017141751.png",
+    "Revision/MadeEasyTS/APTI/media",
+    "Revision/MixQue/APTI/media/Pasted image 20231017140850.png",
+    "Revision/MixQue/APTI/media",
     "Revision/zealWorkBook/MATH/1 Basic concept of probability.md",
     "Revision/zealWorkBook/MATH/2 CONDITIONAL PROBABILITY.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
@@ -260,8 +273,6 @@
     "Revision/PYQ/MATH/Probability.md",
     "Revision/PYQ/MATH/media/Pasted image 20231017125609.png",
     "Revision/PYQ/MATH/media/Pasted image 20231017125559.png",
-    "Revision/PYQ/MATH/media/Pasted image 20231017122219.png",
-    "Revision/PYQ/MATH/media/Pasted image 20231017122209.png",
     "Revision/PYQ/MATH/media",
     "Revision/PYQ/MATH",
     "Revision/PYQ/PYQ/MATH",
@@ -272,18 +283,12 @@
     "DaskBoard Back.md",
     "Revision/ZealTS/ZealTSDB.md",
     "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
-    "Revision/ZealTS/C/media/Pasted image 20231017095938.png",
-    "Revision/ZealTS/C/media/Pasted image 20231017095928.png",
     "Revision/ZealTS/C/media",
     "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/MicroNotes/MicroNotesDB.md",
     "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
-    "Revision/ZealTS/FULL/media",
     "DialyStuff/2023-10-16.md",
     "Revision/zealWorkBook/OS/InterProcess Communication.md",
-    "consistency-report.md",
-    "Revision/zealWorkBook/DBMS/Nomalization.md",
-    "Revision/zealWorkBook/C",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
