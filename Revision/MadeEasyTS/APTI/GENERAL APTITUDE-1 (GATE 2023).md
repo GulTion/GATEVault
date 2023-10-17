@@ -6,7 +6,7 @@ startQ: 1
 endQ: 17
 atQ: 4
 repeation: 1
-last_time: 2023-10-16T00:00:00.000+05:30
+last_time: 2023-10-17T00:00:00.000+05:30
 status: Analysis
 ---
 - average speed![[Pasted image 20231015130115.png]]

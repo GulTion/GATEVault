@@ -302,7 +302,7 @@ config:
   source_destination_path: /
   row_templates_folder: /templates
   current_row_template: 
-  pagination_size: 20
+  pagination_size: 200
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /
