@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
+                "file": "DialyStuff/2023-10-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
+                "file": "DialyStuff/2023-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
+                "file": "DialyStuff/2023-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/MicroNotes/TOC/Context Free Grammer and Language.md"
+                "file": "DialyStuff/2023-10-17.md"
               }
             }
           },
@@ -229,8 +229,12 @@
   },
   "active": "586d4fcf1940ae40",
   "lastOpenFiles": [
-    "Revision/MicroNotes/MicroNotesDB.md",
     "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
+    "DialyStuff/2023-10-17.md",
+    "Revision/ZealTS/FULL/media/Pasted image 20231016175939.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231016175839.png",
+    "Revision/MicroNotes/MicroNotesDB.md",
+    "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
     "Revision/ZealTS/FULL/media/Pasted image 20231016173441.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231016173434.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231016173157.png",
@@ -259,8 +263,6 @@
     "Revision/MixQue/ZealTSDB.md",
     "Revision/PYQ/ZealTSDB.md",
     "Revision/ShortNotes/ZealTSDB.md",
-    "Revision/ZealTS/zealWorkBookDB.md",
-    "Revision/TSDB.md",
     "Revision/zealWorkBook/C",
     "Revision/ZealTS/C",
     "Revision/zealWorkBook/TOC",
@@ -274,8 +276,6 @@
     "media/media 2/Pasted image 20230913093257.png",
     "media/media 2/Pasted image 20230902080846.png",
     "media/media 2/Pasted image 20230902080828.png",
-    "media/media 2/Pasted image 20230901174743.png",
-    "media/media 2/Pasted image 20230901174731.png",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
   ]
