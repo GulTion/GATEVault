@@ -1,0 +1,1 @@
+{"path":"Revision/media/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231009235609.png","text":"Answer: 5.44 Solution: Miss cycles per instruction o I-cache: 0.02 x 100 =2 o D-cache: 0.36 x 0.04 x 100 = 1.44 o Actual CPI=2+2+144=544","libVersion":"0.2.3","langs":"eng"}

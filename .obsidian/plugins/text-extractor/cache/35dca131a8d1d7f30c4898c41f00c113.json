@@ -1,0 +1,1 @@
+{"path":"media/media 1/Pasted image 20230926180725.png","text":"Equivalence between CFL and CFG 1) L={a™b\" | m=n} Grammar corresponding to given CFL: S — aSb|e 2) L={am™b\" | m = 2n} Grammar Corresponding to given CFL: S — aaSb|e 3) L={ambc\"|m, n>1} Grammar Corresponding to given CFL: S > AB A — alaA B — bBc|bc Vo","libVersion":"0.2.3","langs":"eng"}

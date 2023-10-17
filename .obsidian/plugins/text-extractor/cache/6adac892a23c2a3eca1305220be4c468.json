@@ -1,0 +1,1 @@
+{"path":"Revision/media/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231007100914.png","text":"Consider that floats are represented with 12 bits, with 1 bit for the sign of mantissa, 6 bits for the excess 31 exponent, and 5 bits for normalized mantissa.What does the number 255 round to using this format?","libVersion":"0.2.3","langs":"eng"}

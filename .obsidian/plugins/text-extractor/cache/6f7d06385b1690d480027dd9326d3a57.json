@@ -1,0 +1,1 @@
+{"path":"media/Pasted image 20230914141240.png","text":"What is the maximum number of reduce moves that can be taken by a bottom-up parser for a grammar with no epsilon- and unit-production (i.e., of type A — e and A — a) to parse a string with n tokens? e n/2 J n-1 X 2n-1 ©: GATE CSE 2013 Compiler Design","libVersion":"0.2.3","langs":"eng"}

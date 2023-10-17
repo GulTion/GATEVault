@@ -1,0 +1,1 @@
+{"path":"Revision/media/PYQRevision/DBMS/media/Pasted image 20231008114242.png","text":"Answer : In both 2NF and 3NF Dependencies are S§—>T,T->UU->V V->S S+=STUV U+=UVST T+=UVST V+=VSTU There is no Partial Dependencies here So it is in 2 NF RHS of every Dependencies is a Key as well as all are Prime Attributes So it s in 3 NF.","libVersion":"0.2.3","langs":"eng"}

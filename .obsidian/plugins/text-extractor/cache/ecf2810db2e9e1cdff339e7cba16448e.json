@@ -1,0 +1,1 @@
+{"path":"media/media 1/Pasted image 20230926180214.png","text":"S—>A A—>aAle B > bA Eliminate useless symbol from the given grammar. Here, we can remove B — bA, since B is not reachable from the start state. Final grammar is S—>A A — aAle","libVersion":"0.2.3","langs":"eng"}

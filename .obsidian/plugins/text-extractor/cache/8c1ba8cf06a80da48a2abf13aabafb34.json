@@ -1,0 +1,1 @@
+{"path":"Revision/media/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015152632.png","text":"Answer: 1.9 Solution: Given that The Execution time of single instruction is 2ns. So, execution time of single instruction = CPI x Clock cycle time 2 ns = (0.1x5 + 0.4x4 + 0.3x3 + 0.2x4) x 1/frequency Frequency = 1.9 GHz.","libVersion":"0.2.3","langs":"eng"}

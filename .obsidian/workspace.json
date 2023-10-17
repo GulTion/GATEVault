@@ -4,81 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "63ca4c6b440940b9",
+        "id": "de910ff8ee67fd53",
         "type": "tabs",
         "children": [
           {
-            "id": "4d3641823261a577",
+            "id": "5ca8931c14708f1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DialyStuff/2023-10-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "449a24d856833b44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ad30af767263fd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d60ea04290b1a644",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Revision/folder/FULL/RevisionDONE.md"
-              }
-            }
-          },
-          {
-            "id": "ae26e1af7d1b1d11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DaskBoard Back.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff239f064859c45e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-17.md",
-                "mode": "source",
-                "source": false
+                "file": "Revision/PYQ/FULL/media/Pasted image 20231017215142.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-18.md",
+                "file": "Revision/PYQ/FULL/media/Pasted image 20231017215142.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-18.md",
+                "file": "Revision/PYQ/FULL/media/Pasted image 20231017215142.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-18.md"
+                "file": "Revision/PYQ/FULL/media/Pasted image 20231017215142.png"
               }
             }
           },
@@ -239,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -259,16 +198,22 @@
       "audio-recorder:Start/stop recording": false,
       "dbfolder:Create a new database table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "449a24d856833b44",
+  "active": "5ca8931c14708f1d",
   "lastOpenFiles": [
-    "Revision/PYQ/FULL/media/Pasted image 20231017215227.png",
+    "Revision/PYQ/FULL/GATE 2021 SET-2.md",
     "Revision/PYQ/FULL/media/Pasted image 20231017215142.png",
-    "Revision/PYQ/FULL/media",
+    "DialyStuff/2023-10-18.md",
     "DialyStuff/2023-10-17.md",
+    "consistency-report.md",
     "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
+    "Revision/ShortNotes/CD/Parser CD notes.md",
+    "Revision/RevisionDB.md",
+    "Revision/PYQ/FULL/media/Pasted image 20231017215227.png",
+    "Revision/PYQ/FULL/media",
     "Revision/GOTS/DBMS/media/Pasted image 20231017200242.png",
     "Revision/GOTS/DBMS/media/Pasted image 20231017200225.png",
     "Revision/GOTS/DBMS/media/Pasted image 20231017195352.png",
@@ -277,15 +222,12 @@
     "Revision/GOTS/DBMS/media/Pasted image 20231017183846.png",
     "Revision/GOTS/DBMS/media/Pasted image 20231017181707.png",
     "Revision/GOTS/DBMS/media/Pasted image 20231017181651.png",
-    "Revision/GOTS/DBMS/media/Pasted image 20231017181625.png",
     "Revision/GOTS/DBMS/media",
     "Revision/folder/FULL/RevisionDONE.md",
-    "Revision/RevisionDB.md",
     "Revision/relation algbera.md",
     "DaskBoard Back.md",
     "index.md",
     "Revision/zealWorkBook/OS/10. FILE SYSTEM AND DISK SCHEDULING.pdf.md",
-    "DialyStuff/2023-10-18.md",
     "Revision/GOTS/GOTSDB.md",
     "Revision/MadeEasyTSDB.md",
     "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
@@ -308,8 +250,6 @@
     "Revision/zealWorkBook/zealWorkBookDB.md",
     "Revision/ZealTSDB.md",
     "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
-    "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
-    "Revision/MicroNotes/MicroNotesDB.md",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

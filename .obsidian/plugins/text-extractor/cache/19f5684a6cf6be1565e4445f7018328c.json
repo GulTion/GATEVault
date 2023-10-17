@@ -1,0 +1,1 @@
+{"path":"Revision/media/ZealRevision/DBMS/media/Pasted image 20231006213054.png","text":"Q30. | Consider relation RR(@, B, C, D, E, F, G, H) with set of functional dependencies {CH—G, A-BC, B-CFH, E—~A and F-EG}. How many super keys are possible in relation R? Answer 120","libVersion":"0.2.3","langs":"eng"}

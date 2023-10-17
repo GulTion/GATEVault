@@ -1,0 +1,1 @@
+{"path":"Revision/media/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007125058.png","text":"Answer: 31 Solution: No. of state in L1 = 5 [3 non final - 2 final] Lz = 7 [S non final - 2 final] So intersection contains 35 states, 31 non final, and 4 final states. So L; N L, are 31 final state & 4 non final states. Answer: 31","libVersion":"0.2.3","langs":"eng"}

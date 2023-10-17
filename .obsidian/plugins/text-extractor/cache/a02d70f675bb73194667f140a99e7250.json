@@ -1,0 +1,1 @@
+{"path":"media/media 1/Pasted image 20230926180405.png","text":"Advantages of Chomsky’s normal form: i) Length of each production is restricted. ii) Derivation tree (parse tree) obtained from CNF is always a binary tree. iii) The number of steps required to derive a string of length |w| is (2|w|-1).","libVersion":"0.2.3","langs":"eng"}

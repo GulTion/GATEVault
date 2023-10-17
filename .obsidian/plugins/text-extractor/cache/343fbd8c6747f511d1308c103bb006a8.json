@@ -1,0 +1,1 @@
+{"path":"Revision/media/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231015164928.png","text":"Answer: (c) Solution: Here T4 is committed before checkpoint hence cannot do anything. T2 is committed after checkpoint hence need to be redo. T1 and T3 are not committed even after the checkpoint hence undo changes T3 and T1.","libVersion":"0.2.3","langs":"eng"}

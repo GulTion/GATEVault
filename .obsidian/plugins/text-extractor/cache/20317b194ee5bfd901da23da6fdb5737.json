@@ -1,0 +1,1 @@
+{"path":"Revision/media/PYQRevision/DS/media/Pasted image 20231014220141.png","text":"Question 8 Explanation: In this, maximum size of cluster = 4 (S6, S3, S7, S1) — Worst case of finding a number is equal to maximum size of cluster + 1(after searching all the cluster it enters into empty cluster) — Maximum no. of comparisons = 4 +1=5","libVersion":"0.2.3","langs":"eng"}

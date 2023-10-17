@@ -1,0 +1,1 @@
+{"path":"Revision/media/TSRevision/Zeal/Round 0/TOC/media/Pasted image 20231007122032.png","text":"Consider the following DFA: 0 1 0 <‘is9:; (51) (s2)2 1 0 The regular expression for above DFA is (a) (0 + 11 + 101*01)* (b) (0*1(01*0)*1)* (c) (0*1(01*0)*10%)* (d) 0*(0*1(01*0)*10*)*0*","libVersion":"0.2.3","langs":"eng"}

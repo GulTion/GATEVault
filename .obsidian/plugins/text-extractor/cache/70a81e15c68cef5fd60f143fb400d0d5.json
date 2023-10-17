@@ -1,0 +1,1 @@
+{"path":"Revision/media/TSRevision/Zeal/Round 0/COA/media/Pasted image 20231015152158.png","text":"Answer: 35 Explanation: Ideal pipeline CPI = 1 cycle per instruction (if no bubbles) Increase in CPI due to bubbles = 0.15 * 1 + 0.1 * 2 = 0.35 cycles per instruction Pipeline CPI with bubbles = 1 + 0.35 = 1.35 (35% increase over ideal CPI)","libVersion":"0.2.3","langs":"eng"}

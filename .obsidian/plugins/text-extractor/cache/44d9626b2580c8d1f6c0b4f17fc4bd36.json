@@ -1,0 +1,1 @@
+{"path":"media/Pasted image 20230914124615.png","text":"Parsers Comparision e OPP<LL(1)<LR(0)<SLR(1)< LALR(1) < CLR(1) e Number of states (SLR(1)) = Number of states (LALR(1)) < Nurnie s states (CLR(1)) LALR(1) - 5 g(aturs,a @s» (= CLR(1) or LR(1) Ambiguous Unambiguous Grammar Grammar e LRO)cSLR()c LALR(1) c CLR(Y) e LL()cLALR()c CLR(Y)","libVersion":"0.2.3","langs":"eng"}
