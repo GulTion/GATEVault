@@ -1,6 +1,12 @@
 ---
 type: MadeEasyTS
 subject: FULL
+status: Analysis
+atQ: 29
+startQ: 1
+endQ: 65
+repeation: 1
+last_time: 2023-10-18T00:00:00.000+05:30
 ---
 ![[Pasted image 20230909160256.png]]
 - #video/english https://youtu.be/zfbUzWqsH74?si=9C4g_eLE61uBkb0r #notes/english/subject-verb-agreement
@@ -22,4 +28,8 @@ fdf
 
 - #notes/dm/function ![[Pasted image 20230911175406.png]]
 
-
+- #notes/COA/input_output/DMA/cycle_stealing![[Pasted image 20231018234843.png]]
+- #notes/CN/DLD/MacLayer/CSMA/CD![[Pasted image 20231018235714.png]]
+- #notes/CN/NetworkLayer/IP_packet/fragment ![[Pasted image 20231018235915.png]]
+- #notes/DM/graph_theory/Euler_graph![[Pasted image 20231019000208.png]]
+- 

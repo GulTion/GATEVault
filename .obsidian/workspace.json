@@ -11,18 +11,6 @@
             "id": "3e6d0d7f1cd16830",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6df49a0156ff11eb",
-            "type": "leaf",
-            "state": {
               "type": "database-plugin",
               "state": {
                 "file": "Revision/RevisionDB.md"
@@ -30,19 +18,31 @@
             }
           },
           {
-            "id": "f5203252d4a15bef",
+            "id": "395b970dc9cab872",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
+                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "816457496dd5d50a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TimeTable.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
+                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
+                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md"
+                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md"
               }
             }
           },
@@ -205,11 +204,28 @@
           }
         ],
         "currentTab": 7
+      },
+      {
+        "id": "d95866b30298046d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "600364e82ac48bcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 453.5,
-    "collapsed": true
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,28 +245,32 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "f5203252d4a15bef",
+  "active": "395b970dc9cab872",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-19.md",
+    "TimeTable.md",
+    "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231019000208.png",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231019000123.png",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231019000118.png",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231018235915.png",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231018235714.png",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231018234843.png",
+    "Revision/MadeEasyTS/FULL/media",
+    "Revision/RevisionDB.md",
+    "DialyStuff/2023-10-18.md",
+    "pdfs/uanotes/Apti/General Aptitude 1- General Aptitude - Verbal Ability.pdf",
+    "consistency-report.md",
+    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "Revision/GOTS/DM/media/Pasted image 20231018225110.png",
     "Revision/GOTS/DM/media/Pasted image 20231018225059.png",
     "Revision/GOTS/DM/media/Pasted image 20231018224612.png",
     "Revision/GOTS/DM/media/Pasted image 20231018224550.png",
-    "Revision/GOTS/DM/media/Pasted image 20231018224120.png",
-    "Revision/GOTS/DM/media/Pasted image 20231018224103.png",
-    "Revision/GOTS/DM/media/Pasted image 20231018223930.png",
-    "Revision/GOTS/DM/media/Pasted image 20231018223909.png",
-    "Revision/GOTS/DM/media/Pasted image 20231018223308.png",
-    "Revision/GOTS/DM/media/Pasted image 20231018223257.png",
-    "Revision/GOTS/DM/media/Pasted image 20231018223016.png",
     "Revision/GOTS/DM/media",
-    "Revision/RevisionDB.md",
-    "DialyStuff/2023-10-18.md",
     "Revision/PYQ/FULL/GATE 2021 SET-2.md",
-    "DialyStuff/2023-10-19.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
     "DaskBoard Back.md",
     "DialyStuff/2023-10-17.md",
-    "consistency-report.md",
     "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "Revision/ShortNotes/CD/Parser CD notes.md",
     "Revision/PYQ/FULL/media",
@@ -270,13 +290,8 @@
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
     "WeakSubtopic.md",
-    "Revision/PYQDB.md",
     "Revision/GOTS/MATH/media",
     "Revision/GOTS/MATH",
-    "Revision/PYQ/MATH/Probability.md",
-    "Revision/PYQ/MATH/media",
-    "Revision/PYQ/MATH",
-    "Revision/zealWorkBook/MATH/3 RANDOM VARIABLES, EXPECTATION AND VARIANCE.md",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
