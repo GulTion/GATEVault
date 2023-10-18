@@ -23,6 +23,7 @@ columns:
     sortIndex: -1
     isSorted: false
     isSortedDesc: false
+    width: 248
     config:
       enable_media_view: true
       link_alias_enabled: true
