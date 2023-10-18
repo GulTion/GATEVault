@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md",
+                "file": "DialyStuff/2023-10-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md",
+                "file": "DialyStuff/2023-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md",
+                "file": "DialyStuff/2023-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md"
+                "file": "DialyStuff/2023-10-19.md"
               }
             }
           },
@@ -219,6 +219,8 @@
   },
   "active": "6df49a0156ff11eb",
   "lastOpenFiles": [
+    "Revision/PYQ/FULL/GATE 2021 SET-2.md",
+    "DialyStuff/2023-10-19.md",
     "Revision/PYQ/FULL/media/Pasted image 20231018160211.png",
     "Revision/PYQ/FULL/media/Pasted image 20231018160155.png",
     "DialyStuff/2023-10-18.md",
@@ -227,7 +229,6 @@
     "Revision/media/CN/media/Pasted image 20231001100032.png",
     "DaskBoard Back.md",
     "Revision/GOTS/DBMS/media/Pasted image 20231017200225.png",
-    "Revision/PYQ/FULL/GATE 2021 SET-2.md",
     "Revision/PYQ/FULL/media/Pasted image 20231017215142.png",
     "DialyStuff/2023-10-17.md",
     "consistency-report.md",
@@ -239,7 +240,6 @@
     "Revision/GOTS/DBMS/media/Pasted image 20231017200242.png",
     "Revision/GOTS/DBMS/media/Pasted image 20231017195352.png",
     "Revision/GOTS/DBMS/media/Pasted image 20231017195326.png",
-    "Revision/GOTS/DBMS/media/Pasted image 20231017183936.png",
     "Revision/GOTS/DBMS/media",
     "Revision/folder/FULL/RevisionDONE.md",
     "Revision/relation algbera.md",
