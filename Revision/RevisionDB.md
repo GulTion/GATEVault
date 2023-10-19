@@ -138,6 +138,7 @@ columns:
       - { label: "APTI", value: "APTI", color: "hsl(71, 95%, 90%)"}
       - { label: "CD", value: "CD", color: "hsl(353, 95%, 90%)"}
       - { label: "DLD", value: "DLD", color: "hsl(17, 95%, 90%)"}
+      - { label: "DSA", value: "DSA", color: "hsl(180, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -276,6 +277,7 @@ columns:
     options:
       - { label: "Analysis", value: "Analysis", color: "hsl(70, 95%, 90%)"}
       - { label: "Revision", value: "Revision", color: "hsl(36, 95%, 90%)"}
+      - { label: "Ready", value: "Ready", color: "hsl(53, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
