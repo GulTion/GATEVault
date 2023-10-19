@@ -12,3 +12,8 @@ endQ: 100
 - ![[Pasted image 20231019172051.png]]
 - ![[Pasted image 20231019172309.png]]
 - ![[Pasted image 20231019182439.png]]
+- ![[Pasted image 20231020031509.png]]![[Pasted image 20231020031537.png]]
+- ![[Pasted image 20231020031550.png]]![[Pasted image 20231020031612.png]]
+- ![[Pasted image 20231020034251.png]]
+- ![[Pasted image 20231020034357.png]]
+- ![[Pasted image 20231020035122.png]]
