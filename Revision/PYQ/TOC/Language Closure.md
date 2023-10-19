@@ -2,7 +2,7 @@
 Last_Time: 2023-09-01T13:00:00.000+05:30
 Repetation: 1
 type: ShortNotes
-atQ: Q6
+atQ: 6
 subject: TOC
 ---
 #notes/TOC/Closure_properties

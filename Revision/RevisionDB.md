@@ -286,12 +286,12 @@ columns:
       footer_type: none
       persist_changes: false
 config:
-  remove_field_when_delete_column: true
+  remove_field_when_delete_column: false
   cell_size: normal
   sticky_first_column: false
-  group_folder_column: type,subject
-  remove_empty_folders: true
-  automatically_group_files: true
+  group_folder_column: 
+  remove_empty_folders: false
+  automatically_group_files: false
   hoist_files_with_empty_attributes: true
   show_metadata_created: false
   show_metadata_modified: false
