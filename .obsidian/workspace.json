@@ -30,19 +30,7 @@
             }
           },
           {
-            "id": "02fe5c1b4225a2fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/PYQ/TOC/Language Closure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "816457496dd5d50a",
+            "id": "eb9357ef2cd18daa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,17 +40,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ccc25edb461708ed",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,16 +245,22 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "816457496dd5d50a",
+  "active": "eb9357ef2cd18daa",
   "lastOpenFiles": [
+    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
+    "Revision/MicroNotes/DLD/Invalid State in binary code representation.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "DialyStuff/2023-10-19.md",
+    "templates/Normal Task Template.md",
     "Revision/RevisionDB.md",
-    "Revision/PYQ/MATH/Linear_Algebra_PYQ.md",
+    "templates/dailyNote Template.md",
+    "Revision/PYQ/PYQDB.md",
     "Revision/PYQ/TOC/Language Closure.md",
+    "Revision/PYQ/MATH/Linear_Algebra_PYQ.md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/PYQ/TOC",
     "Revision/PYQ/MATH/media/Pasted image 20231019101726.png",
     "Revision/PYQ/MATH/media/Pasted image 20231019101555.png",
-    "DialyStuff/2023-10-19.md",
     "TimeTable.md",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231019002555.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231019002249.png",
@@ -288,7 +274,6 @@
     "DialyStuff/2023-10-18.md",
     "pdfs/uanotes/Apti/General Aptitude 1- General Aptitude - Verbal Ability.pdf",
     "consistency-report.md",
-    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "Revision/GOTS/DM/media",
     "Revision/PYQ/FULL/GATE 2021 SET-2.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
@@ -303,15 +288,10 @@
     "index.md",
     "Revision/zealWorkBook/OS/10. FILE SYSTEM AND DISK SCHEDULING.pdf.md",
     "Revision/GOTS/GOTSDB.md",
-    "Revision/MadeEasyTSDB.md",
+    "Revision/MadeEasyTS/MadeEasyTSDB.md",
     "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
-    "Revision/MixQue/APTI/Time and Work.md",
     "Revision/MadeEasyTS/APTI/media",
     "Revision/MixQue/APTI/media",
-    "Revision/zealWorkBook/MATH/1 Basic concept of probability.md",
-    "Revision/zealWorkBook/MATH/2 CONDITIONAL PROBABILITY.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
     "Revision/GOTS/MATH/media",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
