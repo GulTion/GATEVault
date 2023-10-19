@@ -51,7 +51,7 @@
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
-    "GATEVault"
+    "content"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -76,7 +76,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695986477231,
+  "spacesAutoBackupLast": 1697730113922,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

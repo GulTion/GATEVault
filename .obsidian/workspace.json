@@ -4,33 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d8fd8c3aedd2d10",
+        "id": "2f9f8c2c18976c2e",
         "type": "tabs",
         "children": [
           {
-            "id": "395b970dc9cab872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66722882227fb9fa",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Revision/zealWorkBook/zealWorkBookDB.md"
-              }
-            }
-          },
-          {
-            "id": "a81bef5050c9901e",
+            "id": "6c477195d69c7e94",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
@@ -40,7 +18,7 @@
             }
           },
           {
-            "id": "bfdf031d5e31efd0",
+            "id": "009eb5479df76cac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,21 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eb9357ef2cd18daa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/zealWorkBook/DS/Searching sorting Basic Solution final.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,13 +83,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "017a6b0655253368",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -269,14 +243,22 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "bfdf031d5e31efd0",
+  "active": "009eb5479df76cac",
   "lastOpenFiles": [
+    "Context/spacesLastSync.log",
+    "Context",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-10-19 20.57.42.excalidraw.md",
+    "Revision/media/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014135729.png",
+    "Revision/ZealTS/DBMS/Test 4 DBMS TEST ID 34.md",
+    "Excalidraw",
     "Revision/ZealTS/ZealTSDB.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
-    "Revision/zealWorkBook/zealWorkBookDB.md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
-    "Revision/RevisionDB.md",
+    "DialyStuff/2023-10-19.md",
+    "Revision/zealWorkBook/zealWorkBookDB.md",
     "Revision/zealWorkBook/DS/Searching sorting Basic Solution final.md",
+    "Revision/RevisionDB.md",
     "Revision/zealWorkBook/DS/media/Pasted image 20231019182439.png",
     "Revision/zealWorkBook/DS/media/Pasted image 20231019172309.png",
     "Revision/zealWorkBook/DS/media/Pasted image 20231019172051.png",
@@ -286,7 +268,6 @@
     "Revision/zealWorkBook/DS/media/Pasted image 20231019163042.png",
     "Revision/zealWorkBook/DS/media",
     "Revision/zealWorkBook/DS",
-    "DialyStuff/2023-10-19.md",
     "Revision/ZealTS/DSA",
     "DialyStuff/2023-10-20.md",
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
@@ -301,7 +282,6 @@
     "Revision/PYQ/MATH/media/Pasted image 20231019101726.png",
     "Revision/PYQ/MATH/media/Pasted image 20231019101555.png",
     "TimeTable.md",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231019002555.png",
     "Revision/MadeEasyTS/FULL/media",
     "DialyStuff/2023-10-18.md",
     "pdfs/uanotes/Apti/General Aptitude 1- General Aptitude - Verbal Ability.pdf",
@@ -312,11 +292,6 @@
     "DaskBoard Back.md",
     "DialyStuff/2023-10-17.md",
     "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
-    "Revision/ShortNotes/CD/Parser CD notes.md",
-    "Revision/PYQ/FULL/media",
-    "Revision/GOTS/DBMS/media",
-    "Revision/folder/FULL/RevisionDONE.md",
-    "Revision/relation algbera.md",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
