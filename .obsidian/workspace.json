@@ -40,9 +40,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ccc25edb461708ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -116,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md"
-              }
+              "state": {}
             }
           },
           {
@@ -245,11 +250,16 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "395b970dc9cab872",
+  "active": "ccc25edb461708ed",
   "lastOpenFiles": [
-    "DialyStuff/2023-10-19.md",
     "TimeTable.md",
+    "Revision/RevisionDB.md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231019002555.png",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231019002249.png",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231019001956.png",
+    "DialyStuff/2023-10-19.md",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231019001502.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231019000208.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231019000123.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231019000118.png",
@@ -257,15 +267,10 @@
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231018235714.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231018234843.png",
     "Revision/MadeEasyTS/FULL/media",
-    "Revision/RevisionDB.md",
     "DialyStuff/2023-10-18.md",
     "pdfs/uanotes/Apti/General Aptitude 1- General Aptitude - Verbal Ability.pdf",
     "consistency-report.md",
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
-    "Revision/GOTS/DM/media/Pasted image 20231018225110.png",
-    "Revision/GOTS/DM/media/Pasted image 20231018225059.png",
-    "Revision/GOTS/DM/media/Pasted image 20231018224612.png",
-    "Revision/GOTS/DM/media/Pasted image 20231018224550.png",
     "Revision/GOTS/DM/media",
     "Revision/PYQ/FULL/GATE 2021 SET-2.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",

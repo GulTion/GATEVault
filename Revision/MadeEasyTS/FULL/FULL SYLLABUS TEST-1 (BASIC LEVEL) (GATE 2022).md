@@ -2,7 +2,7 @@
 type: MadeEasyTS
 subject: FULL
 status: Analysis
-atQ: 29
+atQ: 43
 startQ: 1
 endQ: 65
 repeation: 1
@@ -32,4 +32,7 @@ fdf
 - #notes/CN/DLD/MacLayer/CSMA/CD![[Pasted image 20231018235714.png]]
 - #notes/CN/NetworkLayer/IP_packet/fragment ![[Pasted image 20231018235915.png]]
 - #notes/DM/graph_theory/Euler_graph![[Pasted image 20231019000208.png]]
-- 
+- #notes/DBMS/hashing/probability![[Pasted image 20231019001502.png]]
+- #notes/MATH/linear_algebra/system_of_equation![[Pasted image 20231019001956.png]]
+- #notes/DS/Tree/BST/special![[Pasted image 20231019002249.png]]
+- #notes/COA/pipeline/CPI![[Pasted image 20231019002555.png]]
