@@ -4,29 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "aebeb634387ff2b7",
+        "id": "46fe91544f90de21",
         "type": "tabs",
         "children": [
           {
-            "id": "952926f4063777a8",
+            "id": "621bb5a366066a0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "weekly",
               "state": {}
             }
           },
           {
-            "id": "f98898fbf7a13463",
+            "id": "2ab7ecd648c4840f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "MicroNoteArrage.md"
+                "file": "DialyStuff/2023-10-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ef3dfc9c60d5d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/MixQue/DLD/Sequential Circule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68a5a2d47c7e8877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-20.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,14 +91,6 @@
             }
           },
           {
-            "id": "d46a52c34033a3d8",
-            "type": "leaf",
-            "state": {
-              "type": "trash-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "e41ff63964e51d38",
             "type": "leaf",
             "state": {
@@ -84,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -100,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MicroNoteArrage.md",
+                "file": "DialyStuff/2023-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MicroNoteArrage.md",
+                "file": "DialyStuff/2023-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MicroNoteArrage.md"
+                "file": "DialyStuff/2023-10-20.md"
               }
             }
           },
@@ -171,59 +190,25 @@
             }
           },
           {
-            "id": "d4e7926506c6e595",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "05e4ba669e292778",
             "type": "leaf",
             "state": {
               "type": "dictionary-view",
               "state": {}
             }
-          },
-          {
-            "id": "40c65814d537a598",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 7
-      },
-      {
-        "id": "d95866b30298046d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "600364e82ac48bcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 443.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
-      "cmdr:Day Planner: Show the Week Planner": false,
       "obsidian-day-planner:Week plan": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": true,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
@@ -233,18 +218,30 @@
       "audio-recorder:Start/stop recording": false,
       "dbfolder:Create a new database table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "cmdr:Day Planner: Show the Week Planner": false,
       "omnisearch:Omnisearch": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5b301f141e47d7da",
+  "active": "68a5a2d47c7e8877",
   "lastOpenFiles": [
+    "Revision/MixQue/DLD/Sequential Circule.md",
+    "Revision/MixQue/DLD/media/Pasted image 20231020164105.png",
+    "Revision/MixQue/DLD/media/Pasted image 20231020164042.png",
+    "DialyStuff/2023-10-20.md",
+    "DialyStuff/2023-10-19.md",
+    "DialyStuff/2023-10-17.md",
+    "Revision/MixQue/DLD/media/Pasted image 20231020161341.png",
+    "Revision/MixQue/DLD/media/Pasted image 20231020161325.png",
+    "Revision/MixQue/DLD/media/Pasted image 20231020160343.png",
+    "Revision/MixQue/DLD/media/Pasted image 20231020160310.png",
+    "Revision/MixQue/DLD/media",
+    "MicroNoteArrage.md",
+    "Revision/MixQue/DLD",
     "index.md",
     "fromWhereSubject.md",
-    "MicroNoteArrage.md",
     "Revision/MixQue/APTI/Antonym Synonym.md",
-    "DialyStuff/2023-10-20.md",
     "TimeTable.md",
     "WeakSubtopic.md",
     "DaskBoard Back.md",
@@ -256,9 +253,7 @@
     "Revision/ZealTS/COA/media/Pasted image 20231020145400.png",
     "Revision/ZealTS/COA/media/Pasted image 20231020145351.png",
     "Revision/ZealTS/COA/media",
-    "Revision/media/TSRevision/media/Pasted image 20231001165916.png",
     "Revision/ZealTS/ZealTSDB.md",
-    "Revision/media/PYQRevision/COA/media/Untitled 12.png",
     "Revision/RevisionDB.md",
     "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
     "Revision/MixQue/COA/Type of Questions in Pipeline.md",
@@ -271,22 +266,12 @@
     "Revision/MadeEasyTS/MadeEasyTSDB.md",
     "Revision/ShortNotes/OS/Process Syncronization.md",
     "Revision/PYQ/DM/recurrence DM PYQ.md",
-    "templates/dailyNote Template.md",
-    "DialyStuff/2023-10-17.md",
-    "Revision/MicroNotes/APTI/Voca.md",
-    "Revision/GOTS/GOTSDB.md",
     "Untitled.canvas",
-    "Revision/zealWorkBook/DS/media/Pasted image 20231020041118.png",
-    "Revision/zealWorkBook/DS/media/Pasted image 20231020035122.png",
-    "Revision/zealWorkBook/DS/media/Pasted image 20231020034357.png",
-    "Revision/zealWorkBook/DS/media/Pasted image 20231020034251.png",
     "Revision/ZealTS/DSA/context.mdb",
     "Context/spacesLastSync.log",
     "Context",
     "Excalidraw",
     "Revision/zealWorkBook/DS/media",
-    "Revision/zealWorkBook/DS",
-    "Revision/ZealTS/DSA",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
