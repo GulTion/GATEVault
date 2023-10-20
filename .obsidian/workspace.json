@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-20.md",
+                "file": "Revision/MixQue/APTI/Antonym Synonym.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
+                "file": "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee48a886bc293d5f",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Revision/RevisionDB.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-20.md",
+                "file": "Revision/media/TSRevision/media/Pasted image 20231001165916.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-20.md",
+                "file": "Revision/media/TSRevision/media/Pasted image 20231001165916.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-20.md"
+                "file": "Revision/media/TSRevision/media/Pasted image 20231001165916.png"
               }
             }
           },
@@ -200,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       },
       {
         "id": "d95866b30298046d",
@@ -243,28 +254,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6c477195d69c7e94",
+  "active": "65b2c4a5b14b47db",
   "lastOpenFiles": [
+    "Revision/ZealTS/ZealTSDB.md",
+    "Revision/media/PYQRevision/COA/media/Untitled 12.png",
+    "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+    "Revision/RevisionDB.md",
+    "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
+    "Revision/MixQue/COA/Type of Questions in Pipeline.md",
+    "Revision/PYQ/TOC/Language Closure.md",
+    "Revision/MixQue/APTI/Antonym Synonym.md",
+    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
+    "Revision/zealWorkBook/zealWorkBookDB.md",
+    "DialyStuff/2023-10-20.md",
     "Revision/relation algbera.md",
     "index.md",
     "Revision/folder/FULL/PYQ.md",
     "Revision/zealWorkBook/DM/Bridge and Spanning Tree.md",
     "Revision/MadeEasyTS/MadeEasyTSDB.md",
     "Revision/ShortNotes/OS/Process Syncronization.md",
-    "Revision/RevisionDB.md",
     "Revision/PYQ/DM/recurrence DM PYQ.md",
     "templates/dailyNote Template.md",
     "DialyStuff/2023-10-17.md",
     "Revision/MicroNotes/APTI/Voca.md",
     "Revision/GOTS/GOTSDB.md",
     "Untitled.canvas",
-    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
-    "Revision/ZealTS/ZealTSDB.md",
     "Revision/PYQ/DS/Hashing.md",
     "Revision/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
     "Revision/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
     "Revision/ShortNotes/COA/Floating Point Tricks.md",
-    "Revision/zealWorkBook/DS/Searching sorting Basic Solution final.md",
     "Revision/zealWorkBook/DS/media/Pasted image 20231020041118.png",
     "Revision/zealWorkBook/DS/media/Pasted image 20231020035122.png",
     "Revision/zealWorkBook/DS/media/Pasted image 20231020034357.png",
@@ -273,22 +291,14 @@
     "Revision/zealWorkBook/DS/media/Pasted image 20231020031550.png",
     "Revision/zealWorkBook/DS/media/Pasted image 20231020031537.png",
     "Revision/zealWorkBook/DS/media/Pasted image 20231020031509.png",
-    "Revision/ZealTS/DBMS/Test 4 DBMS TEST ID 34.md",
-    "DialyStuff/2023-10-19.md",
-    "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/media/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014135729.png",
     "Revision/ZealTS/DSA/context.mdb",
     "Context/spacesLastSync.log",
     "Context",
-    "Excalidraw/Drawing 2023-10-19 20.57.42.excalidraw.md",
     "Excalidraw",
-    "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
-    "Revision/zealWorkBook/zealWorkBookDB.md",
-    "Revision/zealWorkBook/DS/media/Pasted image 20231019182439.png",
     "Revision/zealWorkBook/DS/media",
     "Revision/zealWorkBook/DS",
     "Revision/ZealTS/DSA",
-    "DialyStuff/2023-10-20.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/PYQ/TOC",
     "Revision/MadeEasyTS/FULL/media",
