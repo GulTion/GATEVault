@@ -74,8 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41954f244e1125b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-20.md",
+                "file": "DialyStuff/2023-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-20.md",
+                "file": "DialyStuff/2023-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-20.md"
+                "file": "DialyStuff/2023-10-21.md"
               }
             }
           },
@@ -218,9 +231,17 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "b311a627bdd67844",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -246,15 +267,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "621bb5a366066a0f",
+  "active": "41954f244e1125b7",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-20.md",
+    "DialyStuff/2023-10-21.md",
     "DialyStuff/2023-10-22.md",
     "Revision/PYQ/COA/Interrupt - pyq.md",
     "Revision/PYQ/COA/media/Pasted image 20231020184222.png",
     "Revision/PYQ/COA/media/Pasted image 20231020184209.png",
     "Revision/PYQ/COA/media/Pasted image 20231020184120.png",
     "Revision/PYQ/COA/media",
-    "DialyStuff/2023-10-20.md",
     "Revision/MixQue/DLD/Sequential Circule.md",
     "Revision/MixQue/DLD/media/Pasted image 20231020164105.png",
     "Revision/MixQue/DLD/media/Pasted image 20231020164042.png",
@@ -289,7 +311,6 @@
     "Revision/folder/FULL/PYQ.md",
     "Revision/zealWorkBook/DM/Bridge and Spanning Tree.md",
     "Revision/MadeEasyTS/MadeEasyTSDB.md",
-    "Revision/ShortNotes/OS/Process Syncronization.md",
     "Untitled.canvas",
     "Revision/ZealTS/DSA/context.mdb",
     "Context/spacesLastSync.log",
