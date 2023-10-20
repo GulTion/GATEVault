@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2f9f8c2c18976c2e",
+        "id": "aebeb634387ff2b7",
         "type": "tabs",
         "children": [
           {
-            "id": "6c477195d69c7e94",
+            "id": "952926f4063777a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/MixQue/APTI/Antonym Synonym.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "5b1f59e00ab5cf69",
+            "id": "f98898fbf7a13463",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee48a886bc293d5f",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Revision/RevisionDB.md"
+                "file": "MicroNoteArrage.md"
               }
             }
           }
@@ -116,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/media/TSRevision/media/Pasted image 20231001165916.png",
+                "file": "MicroNoteArrage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/media/TSRevision/media/Pasted image 20231001165916.png",
+                "file": "MicroNoteArrage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/media/TSRevision/media/Pasted image 20231001165916.png"
+                "file": "MicroNoteArrage.md"
               }
             }
           },
@@ -211,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       },
       {
         "id": "d95866b30298046d",
@@ -254,21 +238,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "65b2c4a5b14b47db",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
+    "index.md",
+    "fromWhereSubject.md",
+    "MicroNoteArrage.md",
+    "Revision/MixQue/APTI/Antonym Synonym.md",
+    "DialyStuff/2023-10-20.md",
+    "TimeTable.md",
+    "WeakSubtopic.md",
+    "DaskBoard Back.md",
+    "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+    "Revision/ZealTS/COA/media/Recording 20231020152304.webm",
+    "Revision/ZealTS/COA/media/Recording 20231020152126.webm",
+    "Revision/ZealTS/COA/media/Pasted image 20231020152012.png",
+    "Revision/ZealTS/COA/media/Pasted image 20231020151953.png",
+    "Revision/ZealTS/COA/media/Pasted image 20231020145400.png",
+    "Revision/ZealTS/COA/media/Pasted image 20231020145351.png",
+    "Revision/ZealTS/COA/media",
+    "Revision/media/TSRevision/media/Pasted image 20231001165916.png",
     "Revision/ZealTS/ZealTSDB.md",
     "Revision/media/PYQRevision/COA/media/Untitled 12.png",
-    "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/RevisionDB.md",
     "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
     "Revision/MixQue/COA/Type of Questions in Pipeline.md",
     "Revision/PYQ/TOC/Language Closure.md",
-    "Revision/MixQue/APTI/Antonym Synonym.md",
     "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
     "Revision/zealWorkBook/zealWorkBookDB.md",
-    "DialyStuff/2023-10-20.md",
     "Revision/relation algbera.md",
-    "index.md",
     "Revision/folder/FULL/PYQ.md",
     "Revision/zealWorkBook/DM/Bridge and Spanning Tree.md",
     "Revision/MadeEasyTS/MadeEasyTSDB.md",
@@ -279,19 +276,10 @@
     "Revision/MicroNotes/APTI/Voca.md",
     "Revision/GOTS/GOTSDB.md",
     "Untitled.canvas",
-    "Revision/PYQ/DS/Hashing.md",
-    "Revision/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
-    "Revision/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
-    "Revision/ShortNotes/COA/Floating Point Tricks.md",
     "Revision/zealWorkBook/DS/media/Pasted image 20231020041118.png",
     "Revision/zealWorkBook/DS/media/Pasted image 20231020035122.png",
     "Revision/zealWorkBook/DS/media/Pasted image 20231020034357.png",
     "Revision/zealWorkBook/DS/media/Pasted image 20231020034251.png",
-    "Revision/zealWorkBook/DS/media/Pasted image 20231020031612.png",
-    "Revision/zealWorkBook/DS/media/Pasted image 20231020031550.png",
-    "Revision/zealWorkBook/DS/media/Pasted image 20231020031537.png",
-    "Revision/zealWorkBook/DS/media/Pasted image 20231020031509.png",
-    "Revision/media/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014135729.png",
     "Revision/ZealTS/DSA/context.mdb",
     "Context/spacesLastSync.log",
     "Context",
@@ -299,9 +287,6 @@
     "Revision/zealWorkBook/DS/media",
     "Revision/zealWorkBook/DS",
     "Revision/ZealTS/DSA",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/PYQ/TOC",
-    "Revision/MadeEasyTS/FULL/media",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
