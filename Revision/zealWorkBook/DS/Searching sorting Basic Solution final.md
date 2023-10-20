@@ -3,7 +3,7 @@ type: zealWorkBook
 subject: DS
 repeation: 2
 last_time: 2023-10-19T00:00:00.000+05:30
-atQ: 42
+atQ: 70
 startQ: 1
 endQ: 100
 ---
@@ -17,3 +17,4 @@ endQ: 100
 - ![[Pasted image 20231020034251.png]]
 - ![[Pasted image 20231020034357.png]]
 - ![[Pasted image 20231020035122.png]]
+- ![[Pasted image 20231020041118.png]]

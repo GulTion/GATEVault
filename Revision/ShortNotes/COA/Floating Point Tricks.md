@@ -1,10 +1,10 @@
 ---
 type: ShortNotes
 subject: COA
+last_time: 2023-10-19T00:00:00.000+05:30
 ---
 # Floating Point Tricks
 
-Created: May 14, 2023 6:10 PM
 
 ![Untitled](Revision/media/Notes%20Revision/media/Untitled%204.png)
 

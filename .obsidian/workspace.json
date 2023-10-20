@@ -11,26 +11,15 @@
             "id": "6c477195d69c7e94",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Revision/ZealTS/ZealTSDB.md"
-              }
-            }
-          },
-          {
-            "id": "1b957f60e0312109",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/DS/Searching sorting Basic Solution final.md",
+                "file": "Revision/PYQ/DS/Hashing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#notes/DS/Hashing/chaining/advantage",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/zealWorkBook/DS/Searching sorting Basic Solution final.md",
+                "file": "Revision/PYQ/DS/Hashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/zealWorkBook/DS/Searching sorting Basic Solution final.md",
+                "file": "Revision/PYQ/DS/Hashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/zealWorkBook/DS/Searching sorting Basic Solution final.md"
+                "file": "Revision/PYQ/DS/Hashing.md"
               }
             }
           },
@@ -189,9 +179,17 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "40c65814d537a598",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       },
       {
         "id": "d95866b30298046d",
@@ -213,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5,
-    "collapsed": true
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,11 +228,20 @@
       "dbfolder:Create a new database table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1b957f60e0312109",
+  "active": "6c477195d69c7e94",
   "lastOpenFiles": [
+    "Revision/relation algbera.md",
+    "Revision/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
+    "Revision/RevisionDB.md",
+    "Revision/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
+    "Revision/ShortNotes/COA/Floating Point Tricks.md",
+    "Revision/ZealTS/ZealTSDB.md",
+    "Revision/zealWorkBook/DS/Searching sorting Basic Solution final.md",
+    "Revision/zealWorkBook/DS/media/Pasted image 20231020041118.png",
     "Revision/zealWorkBook/DS/media/Pasted image 20231020035122.png",
     "Revision/zealWorkBook/DS/media/Pasted image 20231020034357.png",
     "Revision/zealWorkBook/DS/media/Pasted image 20231020034251.png",
@@ -245,7 +251,6 @@
     "Revision/zealWorkBook/DS/media/Pasted image 20231020031509.png",
     "Revision/ZealTS/DBMS/Test 4 DBMS TEST ID 34.md",
     "DialyStuff/2023-10-19.md",
-    "Revision/ZealTS/ZealTSDB.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/media/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014135729.png",
     "Revision/ZealTS/DSA/context.mdb",
@@ -256,11 +261,7 @@
     "Excalidraw",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/zealWorkBook/zealWorkBookDB.md",
-    "Revision/zealWorkBook/DS/Searching sorting Basic Solution final.md",
-    "Revision/RevisionDB.md",
     "Revision/zealWorkBook/DS/media/Pasted image 20231019182439.png",
-    "Revision/zealWorkBook/DS/media/Pasted image 20231019172309.png",
-    "Revision/zealWorkBook/DS/media/Pasted image 20231019172051.png",
     "Revision/zealWorkBook/DS/media",
     "Revision/zealWorkBook/DS",
     "Revision/ZealTS/DSA",
@@ -280,9 +281,6 @@
     "consistency-report.md",
     "Revision/PYQ/FULL/GATE 2021 SET-2.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
-    "DaskBoard Back.md",
-    "DialyStuff/2023-10-17.md",
-    "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
