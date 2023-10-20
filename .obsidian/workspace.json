@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,8 +246,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "635454b9aeaf3023",
+  "active": "621bb5a366066a0f",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-22.md",
     "Revision/PYQ/COA/Interrupt - pyq.md",
     "Revision/PYQ/COA/media/Pasted image 20231020184222.png",
     "Revision/PYQ/COA/media/Pasted image 20231020184209.png",

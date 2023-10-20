@@ -12,4 +12,4 @@ subType: topicWise
 syllabus: Interrupt
 ---
 #card/COA/interrupt
-- ![[Pasted image 20231020184120.png]]::10.2![[Pasted image 20231020184209.png]]![[Pasted image 20231020184222.png]]
+- ![[Pasted image 20231020184120.png]]::10.2![[Pasted image 20231020184209.png]]![[Pasted image 20231020184222.png]] <!--SR:!2023-10-24,4,270-->
