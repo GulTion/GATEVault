@@ -278,6 +278,7 @@ columns:
       - { label: "Analysis", value: "Analysis", color: "hsl(70, 95%, 90%)"}
       - { label: "Revision", value: "Revision", color: "hsl(36, 95%, 90%)"}
       - { label: "Ready", value: "Ready", color: "hsl(53, 95%, 90%)"}
+      - { label: "acquiring", value: "acquiring", color: "hsl(47, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -299,6 +300,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "card", value: "card", color: "hsl(340, 95%, 90%)"}
+      - { label: "review", value: "review", color: "hsl(31, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

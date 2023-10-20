@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/DS/Hashing.md",
+                "file": "Revision/MixQue/APTI/Antonym Synonym.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b1f59e00ab5cf69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#notes/DS/Hashing/chaining/advantage",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/DS/Hashing.md",
+                "file": "Revision/MixQue/APTI/Antonym Synonym.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/DS/Hashing.md",
+                "file": "Revision/MixQue/APTI/Antonym Synonym.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/DS/Hashing.md"
+                "file": "Revision/MixQue/APTI/Antonym Synonym.md"
               }
             }
           },
@@ -189,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       },
       {
         "id": "d95866b30298046d",
@@ -211,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 453.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,11 +247,24 @@
   "active": "6c477195d69c7e94",
   "lastOpenFiles": [
     "Revision/relation algbera.md",
-    "Revision/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
+    "index.md",
+    "Revision/folder/FULL/PYQ.md",
+    "Revision/zealWorkBook/DM/Bridge and Spanning Tree.md",
+    "Revision/MadeEasyTS/MadeEasyTSDB.md",
+    "Revision/ShortNotes/OS/Process Syncronization.md",
     "Revision/RevisionDB.md",
+    "Revision/PYQ/DM/recurrence DM PYQ.md",
+    "templates/dailyNote Template.md",
+    "DialyStuff/2023-10-17.md",
+    "Revision/MicroNotes/APTI/Voca.md",
+    "Revision/GOTS/GOTSDB.md",
+    "Untitled.canvas",
+    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
+    "Revision/ZealTS/ZealTSDB.md",
+    "Revision/PYQ/DS/Hashing.md",
+    "Revision/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
     "Revision/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
     "Revision/ShortNotes/COA/Floating Point Tricks.md",
-    "Revision/ZealTS/ZealTSDB.md",
     "Revision/zealWorkBook/DS/Searching sorting Basic Solution final.md",
     "Revision/zealWorkBook/DS/media/Pasted image 20231020041118.png",
     "Revision/zealWorkBook/DS/media/Pasted image 20231020035122.png",
@@ -256,7 +281,6 @@
     "Revision/ZealTS/DSA/context.mdb",
     "Context/spacesLastSync.log",
     "Context",
-    "Untitled.canvas",
     "Excalidraw/Drawing 2023-10-19 20.57.42.excalidraw.md",
     "Excalidraw",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
@@ -266,21 +290,9 @@
     "Revision/zealWorkBook/DS",
     "Revision/ZealTS/DSA",
     "DialyStuff/2023-10-20.md",
-    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
-    "Revision/MicroNotes/DLD/Invalid State in binary code representation.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "templates/Normal Task Template.md",
-    "templates/dailyNote Template.md",
-    "Revision/PYQ/PYQDB.md",
-    "Revision/PYQ/TOC/Language Closure.md",
-    "Revision/PYQ/MATH/Linear_Algebra_PYQ.md",
     "Revision/PYQ/TOC",
-    "TimeTable.md",
     "Revision/MadeEasyTS/FULL/media",
-    "DialyStuff/2023-10-18.md",
-    "consistency-report.md",
-    "Revision/PYQ/FULL/GATE 2021 SET-2.md",
-    "Revision/zealWorkBook/CN/Application Layer 1.md",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

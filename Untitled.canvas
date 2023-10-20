@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"30a3261869c4894d","x":160,"y":-200,"width":400,"height":69,"type":"file","file":"Revision/media/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014135729.png"},
-		{"id":"4429f5611de6604c","x":200,"y":-40,"width":400,"height":116,"type":"file","file":"Revision/media/TSRevision/Zeal/Round 0/DBMS/media/Pasted image 20231014135745.png"}
-	],
-	"edges":[
-		{"id":"4e95084d92633e9d","fromNode":"30a3261869c4894d","fromSide":"bottom","toNode":"4429f5611de6604c","toSide":"top"}
-	]
-}

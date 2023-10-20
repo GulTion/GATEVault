@@ -1,6 +1,5 @@
 ---
-tags:
-  - review
+tags: []
 ---
 ![[Pasted image 20231013222613.png]]
 ??
