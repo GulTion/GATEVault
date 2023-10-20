@@ -50,9 +50,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "273a6e7d71c880d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/PYQ/COA/Interrupt - pyq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "635454b9aeaf3023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -102,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -224,12 +247,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "68a5a2d47c7e8877",
+  "active": "635454b9aeaf3023",
   "lastOpenFiles": [
+    "Revision/PYQ/COA/Interrupt - pyq.md",
+    "Revision/PYQ/COA/media/Pasted image 20231020184222.png",
+    "Revision/PYQ/COA/media/Pasted image 20231020184209.png",
+    "Revision/PYQ/COA/media/Pasted image 20231020184120.png",
+    "Revision/PYQ/COA/media",
+    "DialyStuff/2023-10-20.md",
     "Revision/MixQue/DLD/Sequential Circule.md",
     "Revision/MixQue/DLD/media/Pasted image 20231020164105.png",
     "Revision/MixQue/DLD/media/Pasted image 20231020164042.png",
-    "DialyStuff/2023-10-20.md",
     "DialyStuff/2023-10-19.md",
     "DialyStuff/2023-10-17.md",
     "Revision/MixQue/DLD/media/Pasted image 20231020161341.png",
@@ -249,9 +277,6 @@
     "Revision/ZealTS/COA/media/Recording 20231020152304.webm",
     "Revision/ZealTS/COA/media/Recording 20231020152126.webm",
     "Revision/ZealTS/COA/media/Pasted image 20231020152012.png",
-    "Revision/ZealTS/COA/media/Pasted image 20231020151953.png",
-    "Revision/ZealTS/COA/media/Pasted image 20231020145400.png",
-    "Revision/ZealTS/COA/media/Pasted image 20231020145351.png",
     "Revision/ZealTS/COA/media",
     "Revision/ZealTS/ZealTSDB.md",
     "Revision/RevisionDB.md",
@@ -265,13 +290,11 @@
     "Revision/zealWorkBook/DM/Bridge and Spanning Tree.md",
     "Revision/MadeEasyTS/MadeEasyTSDB.md",
     "Revision/ShortNotes/OS/Process Syncronization.md",
-    "Revision/PYQ/DM/recurrence DM PYQ.md",
     "Untitled.canvas",
     "Revision/ZealTS/DSA/context.mdb",
     "Context/spacesLastSync.log",
     "Context",
     "Excalidraw",
-    "Revision/zealWorkBook/DS/media",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

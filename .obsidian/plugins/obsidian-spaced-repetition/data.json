@@ -4,7 +4,9 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "flashcardTags": [
-      "#card"
+      "#card",
+      "#tscard",
+      "#pyqcard"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": true,
