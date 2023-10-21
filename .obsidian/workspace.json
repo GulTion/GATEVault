@@ -212,7 +212,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -242,6 +243,10 @@
   "lastOpenFiles": [
     "DialyStuff/2023-10-21.md",
     "Revision/PYQ/OS/CPU Scheduling - pyq.md",
+    "Revision/PYQ/OS/media/Pasted image 20231021210630.png",
+    "Revision/PYQ/OS/media/Pasted image 20231021210620.png",
+    "Revision/PYQ/OS/media/Pasted image 20231021201755.png",
+    "Revision/PYQ/OS/media/Pasted image 20231021201736.png",
     "Revision/PYQ/OS/media/Pasted image 20231021194202.png",
     "Revision/PYQ/OS/media/Pasted image 20231021194139.png",
     "Revision/PYQ/OS/media/Pasted image 20231021173545.png",
@@ -249,20 +254,16 @@
     "Revision/PYQ/OS/Process - pyq.md",
     "Revision/PYQ/OS/media/Pasted image 20231021172227.png",
     "Revision/PYQ/OS/media/Pasted image 20231021172214.png",
-    "Revision/PYQ/OS/media/Pasted image 20231021172030.png",
-    "Revision/PYQ/OS/media/Pasted image 20231021172012.png",
     "Revision/PYQ/OS/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/OS/Test ID - 19 OS Test - 1.md",
     "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
     "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
-    "Revision/ShortNotes/CN/media/Screenshot_2023_1021_153423.png",
     "Revision/ShortNotes/CN/media",
     "MicroNoteArrage.md",
     "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
     "Revision/PYQ/C/Full C.md",
     "DialyStuff/2023-10-22.md",
-    "Revision/PYQ/C/media/Pasted image 20231021132456.png",
     "Revision/PYQ/C/media",
     "Revision/PYQ/Untitled.md",
     "Revision/PYQ/C",
