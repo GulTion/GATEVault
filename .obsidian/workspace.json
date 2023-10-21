@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fda2effcaf610406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/PYQ/OS/CPU Scheduling - pyq.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9cfa64997eb14e94",
             "type": "leaf",
             "state": {
@@ -28,26 +16,21 @@
                 "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "81f0e30173dcc0fd",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "173e19092a04642a",
+            "id": "6c2259053164457f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-21.md",
+                "file": "Revision/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -126,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-21.md",
+                "file": "Revision/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-21.md",
+                "file": "Revision/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-21.md"
+                "file": "Revision/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md"
               }
             }
           },
@@ -217,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,12 +222,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "173e19092a04642a",
+  "active": "6c2259053164457f",
   "lastOpenFiles": [
+    "Revision/ShortNotes/OS/media/Pasted image 20231021220801.png",
+    "Revision/ShortNotes/OS/media",
     "Revision/PYQ/OS/CPU Scheduling - pyq.md",
+    "Revision/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md",
+    "DialyStuff/2023-10-21.md",
+    "Revision/ShortNotes/OS/Process Syncronization.md",
     "Revision/PYQ/OS/media/Pasted image 20231021214652.png",
     "Revision/PYQ/OS/media/Pasted image 20231021214638.png",
-    "DialyStuff/2023-10-21.md",
     "Revision/PYQ/OS/media/Pasted image 20231021213542.png",
     "Revision/PYQ/OS/media/Pasted image 20231021213529.png",
     "Revision/PYQ/OS/media/Pasted image 20231021213224.png",
@@ -282,10 +269,7 @@
     "DialyStuff/2023-10-17.md",
     "Revision/MixQue/APTI/Antonym Synonym.md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
-    "Revision/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
-    "Revision/PYQ/MATH/Probability.md",
     "Revision/PYQ/COA/media",
-    "Revision/MixQue/DLD/media",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",

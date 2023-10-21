@@ -2,11 +2,13 @@
   "accentColor": "",
   "cssTheme": "Obsidian Nord",
   "theme": "system",
-  "baseFontSize": 20,
+  "baseFontSize": 19,
   "nativeMenus": false,
   "translucency": false,
   "showViewHeader": true,
   "enabledCssSnippets": [
     "imageCenter"
-  ]
+  ],
+  "textFontFamily": "Ubuntu",
+  "interfaceFontFamily": ""
 }

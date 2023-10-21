@@ -1,0 +1,1 @@
+{"path":"Revision/ShortNotes/OS/media/Pasted image 20231021220801.png","text":"1.4.3 Real time operating system » It has well-defined and fixed time constraints. * Processing of the programs must be done in the defined constraints or the system will fail. * They are categorized into-hard and soft real time systems.","libVersion":"0.2.3","langs":"eng"}
