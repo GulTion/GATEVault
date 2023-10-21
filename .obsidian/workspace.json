@@ -4,55 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd7d3729fcad1e9",
+        "id": "369c31025b5bfc34",
         "type": "tabs",
         "children": [
           {
-            "id": "a570dc72c9de6f89",
-            "type": "leaf",
-            "state": {
-              "type": "weekly",
-              "state": {}
-            }
-          },
-          {
-            "id": "5671cae35f362c3a",
+            "id": "fda2effcaf610406",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
+                "file": "Revision/PYQ/OS/CPU Scheduling - pyq.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "376cf2c51f143a62",
+            "id": "9cfa64997eb14e94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Revision/PYQ/C/Full C.md",
-                "mode": "source",
-                "source": false
+                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "81f0e30173dcc0fd",
+        "type": "tabs",
+        "children": [
           {
-            "id": "45fb284bf99cb524",
+            "id": "173e19092a04642a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-22.md",
+                "file": "DialyStuff/2023-10-21.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -130,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-22.md",
+                "file": "Revision/PYQ/OS/CPU Scheduling - pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-22.md",
+                "file": "Revision/PYQ/OS/CPU Scheduling - pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-22.md"
+                "file": "Revision/PYQ/OS/CPU Scheduling - pyq.md"
               }
             }
           },
@@ -238,15 +234,32 @@
       "cmdr:Day Planner: Show the Week Planner": false,
       "omnisearch:Omnisearch": false,
       "obsidian-trash-explorer:Open trash explorer": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "45fb284bf99cb524",
+  "active": "fda2effcaf610406",
   "lastOpenFiles": [
+    "Revision/PYQ/OS/media/Pasted image 20231021173545.png",
+    "Revision/PYQ/OS/media/Pasted image 20231021173523.png",
     "DialyStuff/2023-10-21.md",
+    "Revision/PYQ/OS/CPU Scheduling - pyq.md",
+    "Revision/PYQ/OS/Process - pyq.md",
+    "Revision/PYQ/OS/media/Pasted image 20231021172227.png",
+    "Revision/PYQ/OS/media/Pasted image 20231021172214.png",
+    "Revision/PYQ/OS/media/Pasted image 20231021172030.png",
+    "Revision/PYQ/OS/media/Pasted image 20231021172012.png",
+    "Revision/PYQ/OS/media",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/ZealTS/OS/Test ID - 19 OS Test - 1.md",
+    "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
+    "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
+    "Revision/ShortNotes/CN/media/Screenshot_2023_1021_153423.png",
+    "Revision/ShortNotes/CN/media",
+    "MicroNoteArrage.md",
     "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
-    "DialyStuff/2023-10-22.md",
     "Revision/PYQ/C/Full C.md",
+    "DialyStuff/2023-10-22.md",
     "Revision/PYQ/C/media/Pasted image 20231021132456.png",
     "Revision/PYQ/C/media/Pasted image 20231021132408.png",
     "Revision/PYQ/C/media",
@@ -256,15 +269,8 @@
     "Revision/zealWorkBook/DM/media/Pasted image 20231021112517.png",
     "Revision/zealWorkBook/DM/media/Pasted image 20231021112502.png",
     "Revision/zealWorkBook/DM/media",
-    "Revision/MicroNotes/DM/media/Pasted image 20231021100421.png",
-    "Revision/MicroNotes/DM/media/Pasted image 20231021100005.png",
-    "Revision/MicroNotes/DM/media/Pasted image 20231021095919.png",
-    "Revision/MicroNotes/DM/media/Pasted image 20231021095909.png",
-    "Revision/MicroNotes/DM/media/Pasted image 20231021095828.png",
-    "Revision/MicroNotes/DM/media/Pasted image 20231021095816.png",
     "Revision/MicroNotes/DM/media",
     "Revision/MicroNotes/DM",
-    "MicroNoteArrage.md",
     "DialyStuff/2023-10-20.md",
     "Revision/PYQ/COA/Interrupt - pyq.md",
     "Revision/MixQue/DLD/Sequential Circule.md",
@@ -278,16 +284,8 @@
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
     "Revision/PYQ/MATH/Probability.md",
-    "Revision/zealWorkBook/CN/Application Layer 1.md",
     "Revision/PYQ/COA/media",
-    "DialyStuff/2023-10-19.md",
     "Revision/MixQue/DLD/media",
-    "Revision/MixQue/DLD",
-    "index.md",
-    "fromWhereSubject.md",
-    "TimeTable.md",
-    "Revision/ZealTS/COA/media/Recording 20231020152304.webm",
-    "Revision/ZealTS/COA/media/Recording 20231020152126.webm",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",

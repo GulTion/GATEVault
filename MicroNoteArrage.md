@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## ShortNotes Arrange
 
+- [ ] OS
 - [ ] DM
 - [ ] DLD
 - [ ] DS
@@ -18,7 +19,6 @@ kanban-plugin: basic
 - [ ] COA
 - [ ] EM-calculs
 - [ ] CN
-- [ ] OS
 - [ ] EM-Pro
 
 
