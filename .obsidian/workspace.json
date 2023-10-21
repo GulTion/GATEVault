@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md",
+                "file": "DialyStuff/2023-10-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md",
+                "file": "DialyStuff/2023-10-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md",
+                "file": "DialyStuff/2023-10-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md"
+                "file": "DialyStuff/2023-10-22.md"
               }
             }
           },
@@ -224,6 +224,10 @@
   },
   "active": "6c2259053164457f",
   "lastOpenFiles": [
+    "Revision/ShortNotes/OS/media/Pasted image 20231021221810.png",
+    "Revision/ShortNotes/OS/media/Pasted image 20231021221119.png",
+    "Revision/ShortNotes/OS/media/Pasted image 20231021221056.png",
+    "Revision/ShortNotes/OS/media/Pasted image 20231021221034.png",
     "Revision/ShortNotes/OS/media/Pasted image 20231021220801.png",
     "Revision/ShortNotes/OS/media",
     "Revision/PYQ/OS/CPU Scheduling - pyq.md",
@@ -236,10 +240,6 @@
     "Revision/PYQ/OS/media/Pasted image 20231021213529.png",
     "Revision/PYQ/OS/media/Pasted image 20231021213224.png",
     "Revision/PYQ/OS/media/Pasted image 20231021213154.png",
-    "Revision/PYQ/OS/media/Pasted image 20231021211351.png",
-    "Revision/PYQ/OS/media/Pasted image 20231021211326.png",
-    "Revision/PYQ/OS/media/Pasted image 20231021210630.png",
-    "Revision/PYQ/OS/media/Pasted image 20231021210620.png",
     "Revision/PYQ/OS/Process - pyq.md",
     "Revision/PYQ/OS/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
