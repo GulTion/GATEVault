@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/OS/CPU Scheduling - pyq.md",
+                "file": "DialyStuff/2023-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/OS/CPU Scheduling - pyq.md",
+                "file": "DialyStuff/2023-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/OS/CPU Scheduling - pyq.md"
+                "file": "DialyStuff/2023-10-21.md"
               }
             }
           },
@@ -239,21 +239,21 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "fda2effcaf610406",
+  "active": "173e19092a04642a",
   "lastOpenFiles": [
-    "DialyStuff/2023-10-21.md",
     "Revision/PYQ/OS/CPU Scheduling - pyq.md",
+    "Revision/PYQ/OS/media/Pasted image 20231021214652.png",
+    "Revision/PYQ/OS/media/Pasted image 20231021214638.png",
+    "DialyStuff/2023-10-21.md",
+    "Revision/PYQ/OS/media/Pasted image 20231021213542.png",
+    "Revision/PYQ/OS/media/Pasted image 20231021213529.png",
+    "Revision/PYQ/OS/media/Pasted image 20231021213224.png",
+    "Revision/PYQ/OS/media/Pasted image 20231021213154.png",
+    "Revision/PYQ/OS/media/Pasted image 20231021211351.png",
+    "Revision/PYQ/OS/media/Pasted image 20231021211326.png",
     "Revision/PYQ/OS/media/Pasted image 20231021210630.png",
     "Revision/PYQ/OS/media/Pasted image 20231021210620.png",
-    "Revision/PYQ/OS/media/Pasted image 20231021201755.png",
-    "Revision/PYQ/OS/media/Pasted image 20231021201736.png",
-    "Revision/PYQ/OS/media/Pasted image 20231021194202.png",
-    "Revision/PYQ/OS/media/Pasted image 20231021194139.png",
-    "Revision/PYQ/OS/media/Pasted image 20231021173545.png",
-    "Revision/PYQ/OS/media/Pasted image 20231021173523.png",
     "Revision/PYQ/OS/Process - pyq.md",
-    "Revision/PYQ/OS/media/Pasted image 20231021172227.png",
-    "Revision/PYQ/OS/media/Pasted image 20231021172214.png",
     "Revision/PYQ/OS/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/OS/Test ID - 19 OS Test - 1.md",
