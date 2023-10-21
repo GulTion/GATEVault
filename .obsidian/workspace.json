@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "376cf2c51f143a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
+                "file": "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
+                "file": "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/MicroNotes/DM/Micro-DM-combinatorics.md"
+                "file": "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md"
               }
             }
           },
@@ -217,8 +229,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5671cae35f362c3a",
+  "active": "376cf2c51f143a62",
   "lastOpenFiles": [
+    "Revision/zealWorkBook/DM/media/Pasted image 20231021112517.png",
+    "Revision/zealWorkBook/DM/media/Pasted image 20231021112502.png",
+    "Revision/zealWorkBook/DM/media",
+    "DialyStuff/2023-10-21.md",
+    "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md",
+    "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
     "Revision/MicroNotes/DM/media/Pasted image 20231021100421.png",
     "Revision/MicroNotes/DM/media/Pasted image 20231021100005.png",
     "Revision/MicroNotes/DM/media/Pasted image 20231021095919.png",
@@ -229,10 +247,7 @@
     "Revision/MicroNotes/DM/media/Pasted image 20231021095711.png",
     "Revision/MicroNotes/DM/media/Pasted image 20231021094748.png",
     "Revision/MicroNotes/DM/media",
-    "DialyStuff/2023-10-21.md",
-    "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
     "Revision/MicroNotes/DM",
-    "DialyStuff/media/Pasted image 20231021094402.png",
     "MicroNoteArrage.md",
     "DialyStuff/2023-10-20.md",
     "Revision/PYQ/COA/Interrupt - pyq.md",
@@ -249,7 +264,6 @@
     "Revision/PYQ/MATH/Probability.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
     "DialyStuff/2023-10-22.md",
-    "Revision/PYQ/COA/media/Pasted image 20231020184222.png",
     "Revision/PYQ/COA/media",
     "DialyStuff/2023-10-19.md",
     "Revision/MixQue/DLD/media",
@@ -259,13 +273,11 @@
     "TimeTable.md",
     "WeakSubtopic.md",
     "DaskBoard Back.md",
-    "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/ZealTS/COA/media/Recording 20231020152304.webm",
     "Revision/ZealTS/COA/media/Recording 20231020152126.webm",
     "Revision/ZealTS/COA/media",
     "Untitled.canvas",
     "Revision/ZealTS/DSA/context.mdb",
-    "Context/spacesLastSync.log",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
