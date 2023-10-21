@@ -5,8 +5,7 @@
     "flashcardHardText": "Hard",
     "flashcardTags": [
       "#card",
-      "#tscard",
-      "#pyqcard"
+      "#micro"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": true,

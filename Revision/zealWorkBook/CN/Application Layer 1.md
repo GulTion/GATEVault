@@ -12,8 +12,8 @@ tags:
 #card/CN/ApplicationLayer
 statements about the HTTP for the persistence and non-persistence connection	![[Pasted image 20231001083255.png]]::B
 
-local DNS server function statement![[Pasted image 20231001084809.png]]::D
+local DNS server function statement![[Pasted image 20231001084809.png]]::D <!--SR:!2023-10-22,1,230-->
 
-statements for DNS TTL![[Pasted image 20231001085805.png]]::D
+statements for DNS TTL![[Pasted image 20231001085805.png]]::D <!--SR:!2023-10-22,1,230-->
 
 DHCP discover message![[Pasted image 20231001100032.png]]::C

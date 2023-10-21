@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46fe91544f90de21",
+        "id": "1fd7d3729fcad1e9",
         "type": "tabs",
         "children": [
           {
-            "id": "621bb5a366066a0f",
+            "id": "a570dc72c9de6f89",
             "type": "leaf",
             "state": {
               "type": "weekly",
@@ -16,79 +16,19 @@
             }
           },
           {
-            "id": "2ab7ecd648c4840f",
+            "id": "5671cae35f362c3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ef3dfc9c60d5d91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/MixQue/DLD/Sequential Circule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68a5a2d47c7e8877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "273a6e7d71c880d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/PYQ/COA/Interrupt - pyq.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "635454b9aeaf3023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41954f244e1125b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-21.md",
+                "file": "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,12 +89,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d2199322b4d00c75",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "MicroNoteArrage.md"
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "7ec0733dda91710c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-21.md",
+                "file": "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-21.md",
+                "file": "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-21.md"
+                "file": "Revision/MicroNotes/DM/Micro-DM-combinatorics.md"
               }
             }
           },
@@ -240,13 +192,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 443.5,
-    "collapsed": true
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,13 +217,29 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "41954f244e1125b7",
+  "active": "5671cae35f362c3a",
   "lastOpenFiles": [
-    "Revision/ShortNotes/DS/Sorting.md",
+    "Revision/MicroNotes/DM/media/Pasted image 20231021100421.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231021100005.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231021095919.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231021095909.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231021095828.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231021095816.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231021095747.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231021095711.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231021094748.png",
+    "Revision/MicroNotes/DM/media",
+    "DialyStuff/2023-10-21.md",
+    "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
+    "Revision/MicroNotes/DM",
+    "DialyStuff/media/Pasted image 20231021094402.png",
     "MicroNoteArrage.md",
+    "DialyStuff/2023-10-20.md",
+    "Revision/PYQ/COA/Interrupt - pyq.md",
+    "Revision/MixQue/DLD/Sequential Circule.md",
+    "Revision/ShortNotes/DS/Sorting.md",
     "Revision/zealWorkBook/DM/Basic Vertex and Edge Calculation.md",
     "Revision/relation algbera.md",
-    "Revision/PYQ/COA/Interrupt - pyq.md",
     "Revision/zealWorkBook/OS/InterProcess Communication.md",
     "Revision/MicroNotes/MicroNotesDB.md",
     "DialyStuff/2023-10-17.md",
@@ -282,21 +248,10 @@
     "Revision/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
     "Revision/PYQ/MATH/Probability.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
-    "DialyStuff/2023-10-21.md",
-    "DialyStuff/2023-10-20.md",
     "DialyStuff/2023-10-22.md",
     "Revision/PYQ/COA/media/Pasted image 20231020184222.png",
-    "Revision/PYQ/COA/media/Pasted image 20231020184209.png",
-    "Revision/PYQ/COA/media/Pasted image 20231020184120.png",
     "Revision/PYQ/COA/media",
-    "Revision/MixQue/DLD/Sequential Circule.md",
-    "Revision/MixQue/DLD/media/Pasted image 20231020164105.png",
-    "Revision/MixQue/DLD/media/Pasted image 20231020164042.png",
     "DialyStuff/2023-10-19.md",
-    "Revision/MixQue/DLD/media/Pasted image 20231020161341.png",
-    "Revision/MixQue/DLD/media/Pasted image 20231020161325.png",
-    "Revision/MixQue/DLD/media/Pasted image 20231020160343.png",
-    "Revision/MixQue/DLD/media/Pasted image 20231020160310.png",
     "Revision/MixQue/DLD/media",
     "Revision/MixQue/DLD",
     "index.md",
@@ -307,15 +262,10 @@
     "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/ZealTS/COA/media/Recording 20231020152304.webm",
     "Revision/ZealTS/COA/media/Recording 20231020152126.webm",
-    "Revision/ZealTS/COA/media/Pasted image 20231020152012.png",
     "Revision/ZealTS/COA/media",
-    "Revision/ZealTS/ZealTSDB.md",
-    "Revision/RevisionDB.md",
     "Untitled.canvas",
     "Revision/ZealTS/DSA/context.mdb",
     "Context/spacesLastSync.log",
-    "Context",
-    "Excalidraw",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

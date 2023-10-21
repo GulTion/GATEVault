@@ -5,5 +5,8 @@
   "baseFontSize": 20,
   "nativeMenus": false,
   "translucency": false,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "imageCenter"
+  ]
 }
