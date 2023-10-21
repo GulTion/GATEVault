@@ -10,5 +10,7 @@ subType: topicWise
 ---
 #card/OS/CPU_scheduling
 
+
 ![[Pasted image 20231021173523.png]]::D![[Pasted image 20231021173545.png]]
 
+missing z![[Pasted image 20231021194139.png]]::![[Pasted image 20231021194202.png]] ^f1eb22
