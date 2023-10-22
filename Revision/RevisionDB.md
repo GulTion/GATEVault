@@ -301,6 +301,8 @@ columns:
     options:
       - { label: "card", value: "card", color: "hsl(340, 95%, 90%)"}
       - { label: "review", value: "review", color: "hsl(31, 95%, 90%)"}
+      - { label: "#today", value: "#today", color: "hsl(208, 95%, 90%)"}
+      - { label: "today", value: "today", color: "hsl(169, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

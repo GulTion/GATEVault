@@ -4,40 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "369c31025b5bfc34",
-        "type": "tabs",
-        "dimension": 30.710466004583655,
-        "children": [
-          {
-            "id": "6c2259053164457f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33147ca4f8a9a53d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/ZealTS/OS/Test ID - 19 OS Test - 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "7dd5d1477bc980f3",
         "type": "tabs",
-        "dimension": 69.28953399541635,
+        "dimension": 64.02966625463536,
         "children": [
           {
             "id": "8ba19947aa63af5d",
@@ -46,6 +15,30 @@
               "type": "markdown",
               "state": {
                 "file": "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "762b88ef1e0d38f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/MicroNotes/APTI/Voca.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e1610e0b0a4abea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/MixQue/DLD/Sequential Circule.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,6 +75,23 @@
               "type": "image",
               "state": {
                 "file": "Revision/media/CN/media/Pasted image 20231013165014.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "37b611de3a40106a",
+        "type": "tabs",
+        "dimension": 35.97033374536465,
+        "children": [
+          {
+            "id": "d40f8da4a14b4a62",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Revision/RevisionDB.md"
               }
             }
           }
@@ -164,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
+                "file": "DialyStuff/2023-10-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
+                "file": "DialyStuff/2023-10-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md"
+                "file": "DialyStuff/2023-10-22.md"
               }
             }
           },
@@ -255,7 +265,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,12 +288,53 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8ba19947aa63af5d",
+  "floating": {
+    "id": "738f5a5a3fba053d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8edf0e63a54bc8dd",
+        "type": "window",
+        "children": [
+          {
+            "id": "f7e0114f0fe59dac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0ffffb02d9a06cea",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DialyStuff/2023-10-22.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 269,
+        "y": 40,
+        "width": 1041,
+        "height": 869,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0ffffb02d9a06cea",
   "lastOpenFiles": [
+    "Revision/MicroNotes/APTI/Voca.md",
+    "Revision/RevisionDB.md",
+    "Revision/relation algbera.md",
+    "Revision/MixQue/DLD/Sequential Circule.md",
+    "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
     "DialyStuff/2023-10-22.md",
     "Revision/ZealTS/OS/Test ID - 19 OS Test - 1.md",
     "Revision/zealWorkBook/CN/2 Data Link Layer Error Control.md",
-    "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
     "Revision/zealWorkBook/CN/3 Data Link Layer Flow Control.md",
     "Revision/PYQ/CN",
     "Revision/zealWorkBook/CN/media/Pasted image 20231022131235.png",
@@ -319,12 +371,8 @@
     "Revision/zealWorkBook/DM/media",
     "DialyStuff/2023-10-20.md",
     "Revision/PYQ/COA/Interrupt - pyq.md",
-    "Revision/MixQue/DLD/Sequential Circule.md",
     "Revision/ShortNotes/DS/Sorting.md",
     "Revision/zealWorkBook/DM/Basic Vertex and Edge Calculation.md",
-    "Revision/relation algbera.md",
-    "Revision/zealWorkBook/OS/InterProcess Communication.md",
-    "Revision/MicroNotes/MicroNotesDB.md",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
