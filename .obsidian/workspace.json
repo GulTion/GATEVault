@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
+                "file": "DialyStuff/2023-10-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 482.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
+                "file": "DialyStuff/2023-10-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
+                "file": "DialyStuff/2023-10-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md"
+                "file": "DialyStuff/2023-10-22.md"
               }
             }
           },
@@ -220,9 +221,9 @@
   },
   "active": "a4bf2a949bcbfece",
   "lastOpenFiles": [
+    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
     "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
-    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
     "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
     "DialyStuff/2023-10-22.md",
     "DialyStuff/2023-10-23.md",
