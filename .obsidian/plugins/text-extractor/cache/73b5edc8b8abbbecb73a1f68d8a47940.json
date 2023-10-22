@@ -1,0 +1,1 @@
+{"path":"Revision/zealWorkBook/CN/media/Pasted image 20231022124248.png","text":"Solution: Window size=5 Total packets =19 Every 4t packet is lost. x x 1, 2, 3, 4, 5, 6, 7, 8 x x 4, 9, 10, 11, 8, 12, 13, 14 11 15 14 Answer is 19 Total 19 packets a will transmit for sending message to b .","libVersion":"0.2.3","langs":"eng"}
