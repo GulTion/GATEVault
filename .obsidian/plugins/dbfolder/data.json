@@ -34,7 +34,7 @@
     "row_templates_folder": "/templates",
     "current_row_template": "",
     "pagination_size": 10,
-    "font_size": 16,
+    "font_size": 20,
     "enable_js_formulas": false,
     "formula_folder_path": "/",
     "inline_default": false,

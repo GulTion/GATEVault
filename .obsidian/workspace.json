@@ -4,94 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7dd5d1477bc980f3",
+        "id": "dcd059c10bdaaa1f",
         "type": "tabs",
-        "dimension": 64.02966625463536,
         "children": [
           {
-            "id": "8ba19947aa63af5d",
+            "id": "a4bf2a949bcbfece",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-22.md",
+                "file": "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "762b88ef1e0d38f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/MicroNotes/APTI/Voca.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e1610e0b0a4abea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/MixQue/DLD/Sequential Circule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4dcd7efbe2e813f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/zealWorkBook/CN/2 Data Link Layer Error Control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b2b0d20c9c149cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/zealWorkBook/CN/3 Data Link Layer Flow Control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa0c7c733e402858",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Revision/media/CN/media/Pasted image 20231013165014.png"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "37b611de3a40106a",
-        "type": "tabs",
-        "dimension": 35.97033374536465,
-        "children": [
-          {
-            "id": "d40f8da4a14b4a62",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Revision/RevisionDB.md"
               }
             }
           }
@@ -145,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 482.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -174,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-22.md",
+                "file": "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-22.md",
+                "file": "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-22.md"
+                "file": "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md"
               }
             }
           },
@@ -259,14 +182,21 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "2316cf40f4cf6c3c",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,17 +218,40 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8ba19947aa63af5d",
+  "active": "a4bf2a949bcbfece",
   "lastOpenFiles": [
+    "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
+    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
+    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
+    "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
     "DialyStuff/2023-10-22.md",
-    "Revision/MicroNotes/APTI/Voca.md",
-    "Revision/RevisionDB.md",
-    "Revision/relation algbera.md",
-    "Revision/MixQue/DLD/Sequential Circule.md",
-    "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
-    "Revision/ZealTS/OS/Test ID - 19 OS Test - 1.md",
-    "Revision/zealWorkBook/CN/2 Data Link Layer Error Control.md",
-    "Revision/zealWorkBook/CN/3 Data Link Layer Flow Control.md",
+    "DialyStuff/2023-10-23.md",
+    "DialyStuff/2023-10-21.md",
+    "DialyStuff/2023-10-20.md",
+    "DialyStuff/2023-10-19.md",
+    "DialyStuff/2023-10-18.md",
+    "DialyStuff/2023-10-17.md",
+    "DialyStuff/2023-10-16.md",
+    "DialyStuff/2023-10-15.md",
+    "DialyStuff/2023-10-14.md",
+    "DialyStuff/2023-10-13.md",
+    "DialyStuff/2023-10-12.md",
+    "DialyStuff/2023-10-11.md",
+    "DialyStuff/2023-10-10.md",
+    "DialyStuff/2023-10-09.md",
+    "MicroNoteArrage.md",
+    "Revision/MixQue/DM/Combintories.md",
+    "TEST PROGRESS.md",
+    "Revision/folder/OS/OS-zeal.md",
+    "Revision/folder/FULL/RevisionDONE.md",
+    "Revision/folder/FULL/PYQ.md",
+    "Revision/folder/FULL/Notes Revision.md",
+    "Revision/ShortNotes/DBMS/media/Screenshot_2023_1022_161933.png",
+    "Revision/ShortNotes/DBMS/media/Screenshot_2023_1022_162658.jpg",
+    "Revision/ShortNotes/DBMS/media/Screenshot_2023_1022_163355.jpg",
+    "Revision/ShortNotes/DBMS/media",
+    "Revision/ShortNotes/DBMS",
+    "Revision/media/CN/media/Pasted image 20231013165014.png",
     "Revision/PYQ/CN",
     "Revision/zealWorkBook/CN/media/Pasted image 20231022131235.png",
     "Revision/zealWorkBook/CN/media/Pasted image 20231022131222.png",
@@ -306,36 +259,13 @@
     "Revision/zealWorkBook/CN/media/Pasted image 20231022124741.png",
     "Revision/zealWorkBook/CN/media/Pasted image 20231022124717.png",
     "Revision/zealWorkBook/CN/media/Pasted image 20231022124658.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231022124503.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231022124450.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231022124442.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231022124248.png",
     "Revision/zealWorkBook/CN/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "MicroNoteArrage.md",
-    "DialyStuff/2023-10-21.md",
     "Revision/ZealTS/OS/media",
-    "Revision/PYQ/OS/CPU Scheduling - pyq.md",
-    "Revision/PYQ/OS/CPU Scheduling.md",
-    "Revision/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md",
     "Revision/ShortNotes/OS/media",
-    "Revision/ShortNotes/OS/Process Syncronization.md",
-    "Revision/PYQ/OS/Process - pyq.md",
     "Revision/PYQ/OS/media",
-    "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
-    "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
     "Revision/ShortNotes/CN/media",
-    "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
-    "Revision/PYQ/C/Full C.md",
     "Revision/PYQ/C/media",
-    "Revision/PYQ/Untitled.md",
-    "Revision/PYQ/C",
-    "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md",
-    "Revision/zealWorkBook/DM/media",
-    "DialyStuff/2023-10-20.md",
-    "Revision/PYQ/COA/Interrupt - pyq.md",
-    "Revision/ShortNotes/DS/Sorting.md",
-    "Revision/zealWorkBook/DM/Basic Vertex and Edge Calculation.md",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",

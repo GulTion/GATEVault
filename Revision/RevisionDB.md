@@ -23,7 +23,7 @@ columns:
     sortIndex: -1
     isSorted: false
     isSortedDesc: false
-    width: 248
+    width: 43.18882751464844
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -314,7 +314,7 @@ columns:
       persist_changes: false
 config:
   remove_field_when_delete_column: false
-  cell_size: normal
+  cell_size: compact
   sticky_first_column: false
   group_folder_column: 
   remove_empty_folders: false
@@ -331,8 +331,8 @@ config:
   source_destination_path: /
   row_templates_folder: /templates
   current_row_template: 
-  pagination_size: 200
-  font_size: 16
+  pagination_size: 20
+  font_size: 17
   enable_js_formulas: false
   formula_folder_path: /
   inline_default: false

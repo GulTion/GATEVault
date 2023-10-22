@@ -29,7 +29,7 @@
       "icon": "lucide-trash-2",
       "name": "Delete current file",
       "mode": "any",
-      "color": "#808080"
+      "color": "#e6e6e6"
     }
   ],
   "macros": [],

@@ -7,5 +7,9 @@ atQ: 8
 repeation: 1
 last_time: 2023-10-17T00:00:00.000+05:30
 ---
-![[Pasted image 20231017132207.png]]![[Pasted image 20231017132218.png]]
-![[Pasted image 20231017132637.png]]![[Pasted image 20231017132657.png]]
+#card/EM/probability 
+
+![[Pasted image 20231017132207.png]]::![[Pasted image 20231017132218.png]]
+
+
+![[Pasted image 20231017132637.png]]::![[Pasted image 20231017132657.png]]
