@@ -10,3 +10,20 @@ endQ: 25
 ---
 #card/OS/process 
 
+stored in PCB![[Pasted image 20231022104409.png]]::A,B,C![[Pasted image 20231022104419.png]] ^0034aa
+
+play of short term![[Pasted image 20231022104810.png]]::![[Pasted image 20231022104827.png]]
+
+![[Pasted image 20231022105233.png]]::![[Pasted image 20231022105242.png]]
+
+![[Pasted image 20231022105942.png]]::![[Pasted image 20231022105949.png]]
+
+
+![[Pasted image 20231022110101.png]]::![[Pasted image 20231022110109.png]]
+
+
+![[Pasted image 20231022110224.png]]::![[Pasted image 20231022110231.png]]
+
+
+![[Pasted image 20231022113219.png]]::![[Pasted image 20231022113230.png]]
+

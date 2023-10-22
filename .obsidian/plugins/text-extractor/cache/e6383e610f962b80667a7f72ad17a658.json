@@ -1,0 +1,1 @@
+{"path":"Revision/ZealTS/OS/media/Pasted image 20231022113219.png","text":"Which of the following need to be saved and restored on a context switch between two threads in the same process? (a) Computational registers (integer and floating point) (b) Page-table root pointer (c) Contents of the file descriptor table (d) Stack pointer register","libVersion":"0.2.3","langs":"eng"}
