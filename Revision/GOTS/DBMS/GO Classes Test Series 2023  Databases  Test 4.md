@@ -14,7 +14,7 @@ endQ: 15
 - Indexing Keys![[Pasted image 20231006145422.png]]:: #notes/DBMS/indexing/keys ![[Pasted image 20231006145502.png]]
 - ![[Pasted image 20231017181625.png]]::C
 - ![[Pasted image 20231017181651.png]]::![[Pasted image 20231017181707.png]]
-- height of btree![[Pasted image 20231017183846.png]]::![[Pasted image 20231017183936.png]]
-- ![[Pasted image 20231017195326.png]]::![[Pasted image 20231017195352.png]]
+- height of btree![[Pasted image 20231017183846.png]]::![[Pasted image 20231017183936.png]] <!--SR:!2023-10-27,4,270-->
+
 - ![[Pasted image 20231017200225.png]]::
 ![[Pasted image 20231017200242.png]]
