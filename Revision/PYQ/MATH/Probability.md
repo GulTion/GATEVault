@@ -10,5 +10,5 @@ tags:
   - "#today"
 ---
 #card/EM/probability
-- 1. Independent Event![[Pasted image 20231017122219.png]]::[Solution](https://gateoverflow.in/399268/gate-cse-2023-question-43?show=412567#a412567)
-![[Pasted image 20231017125559.png]]::![[Pasted image 20231017125609.png]]
+- 1. Independent Event![[Pasted image 20231017122219.png]]::C & D[Solution](https://gateoverflow.in/399268/gate-cse-2023-question-43?show=412567#a412567) <!--SR:!2023-10-27,4,270-->
+![[Pasted image 20231017125559.png]]::![[Pasted image 20231017125609.png]] <!--SR:!2023-10-27,4,270-->

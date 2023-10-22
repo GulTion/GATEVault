@@ -11,7 +11,7 @@ subType: topicWise
 #card/OS/CPU_scheduling
 
 
-![[Pasted image 20231021173523.png]]::D![[Pasted image 20231021173545.png]]
+![[Pasted image 20231021173523.png]]::D![[Pasted image 20231021173545.png]] <!--SR:!2023-10-27,4,270-->
 
 missing z![[Pasted image 20231021194139.png]]::2![[Pasted image 20231021194202.png]] ^f1eb22
 
@@ -23,6 +23,6 @@ taking time![[Pasted image 20231021211326.png]]::B![[Pasted image 20231021211351
 
 least utilization![[Pasted image 20231021213154.png]]::D![[Pasted image 20231021213224.png]]
 
-multiprogramming and tasking![[Pasted image 20231021213529.png]]::B![[Pasted image 20231021213542.png]] ^b40ae5
+multiprogramming and tasking![[Pasted image 20231021213529.png]]::B![[Pasted image 20231021213542.png]] ^b40ae5 <!--SR:!2023-10-26,3,250-->
 
 hard![[Pasted image 20231021214638.png]]::![[Pasted image 20231021214652.png]] ^e18105
