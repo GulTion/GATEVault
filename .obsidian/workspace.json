@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ed5c7b0369bbfc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-22.md",
+                "file": "MicroNoteArrage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-22.md",
+                "file": "MicroNoteArrage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-22.md"
+                "file": "MicroNoteArrage.md"
               }
             }
           },
@@ -192,8 +205,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,13 +231,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a4bf2a949bcbfece",
+  "active": "d2199322b4d00c75",
   "lastOpenFiles": [
+    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
+    "DialyStuff/2023-10-22.md",
     "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
     "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
-    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
-    "DialyStuff/2023-10-22.md",
     "DialyStuff/2023-10-23.md",
     "DialyStuff/2023-10-21.md",
     "DialyStuff/2023-10-20.md",
