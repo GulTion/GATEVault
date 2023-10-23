@@ -3,7 +3,7 @@ type: MadeEasyTS
 subject: FULL
 subType: mock
 last_time: 2023-10-14T00:00:00.000+05:30
-atQ: 25
+atQ: 38
 syllabus: all
 startQ: 1
 endQ: 65
@@ -24,3 +24,5 @@ endQ: 65
 ![[Pasted image 20231023132501.png]]::![[Pasted image 20231023132515.png]]
 
 ![[Pasted image 20231023162455.png]]::![[Pasted image 20231023162519.png]]
+
+

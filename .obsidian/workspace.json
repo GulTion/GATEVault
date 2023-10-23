@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
+                "file": "DialyStuff/2023-10-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
+                "file": "DialyStuff/2023-10-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
+                "file": "DialyStuff/2023-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md"
+                "file": "DialyStuff/2023-10-23.md"
               }
             }
           },
@@ -233,12 +233,13 @@
   },
   "active": "fa0ba3a6018a8672",
   "lastOpenFiles": [
+    "Revision/RevisionDB.md",
+    "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231023162519.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231023162455.png",
     "DialyStuff/2023-10-23.md",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231023132515.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231023132501.png",
-    "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231023131815.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231023131757.png",
     "Gk.md",
@@ -271,7 +272,6 @@
     "Revision/ShortNotes/DBMS",
     "Revision/media/CN/media/Pasted image 20231013165014.png",
     "Revision/PYQ/CN",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231022131235.png",
     "Revision/zealWorkBook/CN/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/OS/media",
