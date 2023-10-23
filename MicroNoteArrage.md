@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## ShortNotes Arrange
 
+- [ ] DBMS
 - [ ] COA
 - [ ] DM
 - [ ] CN
@@ -17,7 +18,6 @@ kanban-plugin: basic
 - [ ] EM-linear
 - [ ] TOC
 - [ ] APTI
-- [ ] DBMS
 - [ ] EM-calculs
 - [ ] EM-Pro
 

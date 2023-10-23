@@ -204,12 +204,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,18 +233,18 @@
   },
   "active": "fa0ba3a6018a8672",
   "lastOpenFiles": [
+    "MicroNoteArrage.md",
+    "DialyStuff/2023-10-23.md",
     "Revision/RevisionDB.md",
     "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231023162519.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231023162455.png",
-    "DialyStuff/2023-10-23.md",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231023132515.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231023132501.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231023131815.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231023131757.png",
     "Gk.md",
     "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
-    "MicroNoteArrage.md",
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "DialyStuff/2023-10-22.md",
     "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
