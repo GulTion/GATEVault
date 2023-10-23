@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-22.md",
+                "file": "DialyStuff/2023-10-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa0ba3a6018a8672",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,13 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 482.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-22.md",
+                "file": "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-22.md",
+                "file": "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-22.md"
+                "file": "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md"
               }
             }
           },
@@ -220,15 +231,21 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a4bf2a949bcbfece",
+  "active": "fa0ba3a6018a8672",
   "lastOpenFiles": [
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231023132515.png",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231023132501.png",
+    "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231023131815.png",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231023131757.png",
+    "DialyStuff/2023-10-23.md",
+    "Gk.md",
     "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "MicroNoteArrage.md",
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "DialyStuff/2023-10-22.md",
     "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
     "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
-    "DialyStuff/2023-10-23.md",
     "DialyStuff/2023-10-21.md",
     "DialyStuff/2023-10-20.md",
     "DialyStuff/2023-10-19.md",
@@ -245,9 +262,6 @@
     "Revision/MixQue/DM/Combintories.md",
     "TEST PROGRESS.md",
     "Revision/folder/OS/OS-zeal.md",
-    "Revision/folder/FULL/RevisionDONE.md",
-    "Revision/folder/FULL/PYQ.md",
-    "Revision/folder/FULL/Notes Revision.md",
     "Revision/ShortNotes/DBMS/media/Screenshot_2023_1022_161933.png",
     "Revision/ShortNotes/DBMS/media/Screenshot_2023_1022_162658.jpg",
     "Revision/ShortNotes/DBMS/media/Screenshot_2023_1022_163355.jpg",
@@ -258,9 +272,6 @@
     "Revision/zealWorkBook/CN/media/Pasted image 20231022131235.png",
     "Revision/zealWorkBook/CN/media/Pasted image 20231022131222.png",
     "Revision/zealWorkBook/CN/media/Pasted image 20231022124752.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231022124741.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231022124717.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231022124658.png",
     "Revision/zealWorkBook/CN/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/OS/media",
