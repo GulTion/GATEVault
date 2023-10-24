@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-24.md",
+                "file": "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-24.md",
+                "file": "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-24.md",
+                "file": "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-24.md"
+                "file": "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md"
               }
             }
           },
@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,22 +221,23 @@
   },
   "active": "0642d5f4bf369dce",
   "lastOpenFiles": [
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231024172855.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231024172844.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231024171213.png",
+    "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231024171227.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231024171156.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231024170626.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231024170603.png",
+    "Revision/zealWorkBook/DSA/media",
+    "Revision/MicroNotes/DSA/Tree MicroNotes.md",
+    "DialyStuff/2023-10-24.md",
     "Revision/MicroNotes/DSA/media/Pasted image 20231024114019.png",
     "Revision/MicroNotes/DSA/media/Pasted image 20231024114008.png",
     "Revision/MicroNotes/DSA/media/Pasted image 20231024113954.png",
     "Revision/MicroNotes/DSA/media/Pasted image 20231024113944.png",
-    "Revision/MicroNotes/DSA/media/Pasted image 20231024113806.png",
-    "Revision/MicroNotes/DSA/media/Pasted image 20231024113619.png",
-    "Revision/MicroNotes/DSA/media/Pasted image 20231024113444.png",
     "DialyStuff/2023-10-23.md",
-    "Revision/MicroNotes/DSA/Tree MicroNotes.md",
-    "DialyStuff/2023-10-24.md",
-    "Revision/MicroNotes/DSA/media/Pasted image 20231024112103.png",
-    "Revision/MicroNotes/DSA/media/Pasted image 20231024112023.png",
-    "Revision/MicroNotes/DSA/media/Pasted image 20231024111952.png",
-    "Revision/MicroNotes/DSA/media/Pasted image 20231024111325.png",
     "Revision/MicroNotes/DSA/media",
-    "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
     "Revision/MicroNotes/DSA",
     "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
     "Revision/zealWorkBook/DSA",
@@ -265,7 +267,6 @@
     "Revision/zealWorkBook/CN/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/OS/media",
-    "Revision/ShortNotes/OS/media",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
