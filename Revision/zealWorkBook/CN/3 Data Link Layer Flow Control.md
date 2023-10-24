@@ -11,7 +11,7 @@ repeation: 1
 last_time: 2023-10-13T12:30:00.000+05:30
 ---
 #card/CN/DataLinkLayer/FlowControl
-send N frames with W window size using sliding window protocl , find the total time![[Pasted image 20231012163232.png]]::![[Pasted image 20231012163249.png]] <!--SR:!2023-10-25,1,212-->
+send N frames with W window size using sliding window protocl , find the total time![[Pasted image 20231012163232.png]]::![[Pasted image 20231012163249.png]] <!--SR:!2023-10-28,3,232-->
 K-TH packet lost in GOBackN![[Pasted image 20231022124135.png]]::![[Pasted image 20231022124159.png]] <!--SR:!2023-10-26,3,252-->
 
 Kth Packet lost in Selective Repeat![[Pasted image 20231022124236.png]]::![[Pasted image 20231022124248.png]] <!--SR:!2023-10-26,3,250-->
