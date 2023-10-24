@@ -15,8 +15,8 @@ CRC property![[Pasted image 20231010125524.png]]
 - (B) Cyclic Redundancy Check may detect single bit errors in a stream of bits with unknown length. True
 - (C) false :It may possible two files containing different bit patterns have sameCyclic Redundancy Check value.
 - (D) false Cyclic Redundancy Check can't encrypts file contents.
-- **Answer is (A)&(B)** <!--SR:!2023-10-24,1,230-->
+- **Answer is (A)&(B)** <!--SR:!2023-10-26,2,230-->
 
 
-![[Pasted image 20231010131314.png]]::![[Pasted image 20231010131341.png]] <!--SR:!2023-10-24,1,230-->
+![[Pasted image 20231010131314.png]]::![[Pasted image 20231010131341.png]] <!--SR:!2023-10-27,3,250-->
 
