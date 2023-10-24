@@ -18,11 +18,11 @@ endQ: 65
 - unambigus grammer![[Pasted image 20231015092525.png]]
 - c program use of static ![[Pasted image 20231015093307.png]]
 
-![[Pasted image 20231023131757.png]]::![[Pasted image 20231023131815.png]]
+![[Pasted image 20231023131757.png]]::![[Pasted image 20231023131815.png]] <!--SR:!2023-10-29,4,270-->
 
 
-![[Pasted image 20231023132501.png]]::![[Pasted image 20231023132515.png]]
+![[Pasted image 20231023132501.png]]::![[Pasted image 20231023132515.png]] <!--SR:!2023-10-29,4,270-->
 
-![[Pasted image 20231023162455.png]]::![[Pasted image 20231023162519.png]]
+![[Pasted image 20231023162455.png]]::![[Pasted image 20231023162519.png]] <!--SR:!2023-10-29,4,270-->
 
 

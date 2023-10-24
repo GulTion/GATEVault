@@ -16,5 +16,5 @@ endQ: 15
 - ![[Pasted image 20231017181651.png]]::![[Pasted image 20231017181707.png]] <!--SR:!2023-10-26,3,252-->
 - height of btree![[Pasted image 20231017183846.png]]::![[Pasted image 20231017183936.png]] <!--SR:!2023-10-27,4,270-->
 
-- ![[Pasted image 20231017200225.png]]:: <!--SR:!2023-10-24,1,232-->
+- ![[Pasted image 20231017200225.png]]:: <!--SR:!2023-10-28,3,252-->
 ![[Pasted image 20231017200242.png]]

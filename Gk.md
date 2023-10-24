@@ -1,3 +1,2 @@
 #card/GK
 
-chasisgrandnafovet:::djtkskfkd

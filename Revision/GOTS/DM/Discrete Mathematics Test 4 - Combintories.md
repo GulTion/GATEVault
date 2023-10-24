@@ -15,7 +15,7 @@ endQ: 25
 ![[Pasted image 20231014085619.png]]::![[Pasted image 20231014085701.png]]other method![[Pasted image 20231014093432.png]] <!--SR:!2023-10-27,4,270-->
 ![[Pasted image 20231018223000.png]]::![[Pasted image 20231018223016.png]] <!--SR:!2023-10-27,4,270-->
 
- ![[Pasted image 20231018223257.png]]::![[Pasted image 20231018223308.png]]
+![[Pasted image 20231018223257.png]]::![[Pasted image 20231018223308.png]] <!--SR:!2023-10-29,4,278-->
 
 ![[Pasted image 20231018223909.png]]::![[Pasted image 20231018223930.png]] <!--SR:!2023-10-27,4,270-->
 

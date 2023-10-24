@@ -12,5 +12,5 @@ src: /host/COLLECTION/GATE2023/WorkBooks/zealWorkBook/basic/Discrete Mathematics
 ---
 #card/DM/graph_theory
 
-![[Pasted image 20231021112517.png]]::![[Pasted image 20231021112502.png|center|500]] <!--SR:!2023-10-24,3,250-->
+![[Pasted image 20231021112517.png]]::![[Pasted image 20231021112502.png|center|500]] <!--SR:!2023-11-04,10,270-->
 
