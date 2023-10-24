@@ -6,14 +6,13 @@ kanban-plugin: basic
 
 ## ShortNotes Arrange
 
+- [ ] DSA
 - [ ] DBMS
 - [ ] COA
 - [ ] DM
 - [ ] CN
 - [ ] OS
 - [ ] DLD
-- [ ] DS
-- [ ] DSA
 - [ ] CD
 - [ ] EM-linear
 - [ ] TOC
