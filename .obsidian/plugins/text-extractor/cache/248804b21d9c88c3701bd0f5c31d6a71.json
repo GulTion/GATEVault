@@ -1,0 +1,1 @@
+{"path":"Revision/MicroNotes/DSA/media/Pasted image 20231024113806.png","text":"¢ “Deletion of a node” in BST: () If node has no child, simply delete that node. (ii) If node has 1 child, delete that node and replace it with child. r (iii) If node has 2 children, delete that node and replace it with inord® successor or predecessor of that node.","libVersion":"0.2.3","langs":"eng"}

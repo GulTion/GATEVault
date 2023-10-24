@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dcd059c10bdaaa1f",
+        "id": "11909c61de6539d0",
         "type": "tabs",
         "children": [
           {
-            "id": "a4bf2a949bcbfece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa0ba3a6018a8672",
+            "id": "0642d5f4bf369dce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +191,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -230,12 +218,24 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "fa0ba3a6018a8672",
+  "active": "0642d5f4bf369dce",
   "lastOpenFiles": [
-    "Revision/MicroNotes/DSA/media/Pasted image 20231024110727.png",
+    "Revision/MicroNotes/DSA/media/Pasted image 20231024114019.png",
+    "Revision/MicroNotes/DSA/media/Pasted image 20231024114008.png",
+    "Revision/MicroNotes/DSA/media/Pasted image 20231024113954.png",
+    "Revision/MicroNotes/DSA/media/Pasted image 20231024113944.png",
+    "Revision/MicroNotes/DSA/media/Pasted image 20231024113806.png",
+    "Revision/MicroNotes/DSA/media/Pasted image 20231024113619.png",
+    "Revision/MicroNotes/DSA/media/Pasted image 20231024113444.png",
+    "DialyStuff/2023-10-23.md",
+    "Revision/MicroNotes/DSA/Tree MicroNotes.md",
+    "DialyStuff/2023-10-24.md",
+    "Revision/MicroNotes/DSA/media/Pasted image 20231024112103.png",
+    "Revision/MicroNotes/DSA/media/Pasted image 20231024112023.png",
+    "Revision/MicroNotes/DSA/media/Pasted image 20231024111952.png",
+    "Revision/MicroNotes/DSA/media/Pasted image 20231024111325.png",
     "Revision/MicroNotes/DSA/media",
     "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
-    "Revision/MicroNotes/DSA/Tree MicroNotes.md",
     "Revision/MicroNotes/DSA",
     "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
     "Revision/zealWorkBook/DSA",
@@ -243,16 +243,9 @@
     "Revision/zealWorkBook/CN/3 Data Link Layer Flow Control.md",
     "Revision/zealWorkBook/CN/2 Data Link Layer Error Control.md",
     "Revision/zealWorkBook/C/C.md",
-    "DialyStuff/2023-10-23.md",
     "MicroNoteArrage.md",
     "Revision/RevisionDB.md",
     "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231023162519.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231023162455.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231023132515.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231023132501.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231023131815.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231023131757.png",
     "Gk.md",
     "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
@@ -266,13 +259,8 @@
     "DialyStuff/2023-10-17.md",
     "DialyStuff/2023-10-16.md",
     "DialyStuff/2023-10-15.md",
-    "DialyStuff/2023-10-14.md",
-    "Revision/ShortNotes/DBMS/media/Screenshot_2023_1022_161933.png",
-    "Revision/ShortNotes/DBMS/media/Screenshot_2023_1022_162658.jpg",
-    "Revision/ShortNotes/DBMS/media/Screenshot_2023_1022_163355.jpg",
     "Revision/ShortNotes/DBMS/media",
     "Revision/ShortNotes/DBMS",
-    "Revision/media/CN/media/Pasted image 20231013165014.png",
     "Revision/PYQ/CN",
     "Revision/zealWorkBook/CN/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
