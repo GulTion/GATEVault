@@ -1,0 +1,1 @@
+{"path":"Revision/ZealTS/CN/media/Pasted image 20231024191751.png","text":"Answer: (d) Solution: There may be an error in the last few bits of the message because there is a sequence of 6 1’s, or it may just be an end of frame marker. The receiver will treat it as an end of frame marker either way.","libVersion":"0.2.3","langs":"eng"}

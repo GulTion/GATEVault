@@ -6,11 +6,11 @@ kanban-plugin: basic
 
 ## ShortNotes Arrange
 
+- [ ] CN
 - [ ] DSA
 - [ ] DBMS
 - [ ] COA
 - [ ] DM
-- [ ] CN
 - [ ] OS
 - [ ] DLD
 - [ ] CD

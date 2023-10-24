@@ -6,3 +6,12 @@ syllabus: "Layered Model: OSI And TCP/IP, Data Link Layer(Framing, Error Control
 subType: topicWise
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=626a31e2f1b00b4d80154b06&test_id=27
 ---
+#card/CN/DataLinkLayer/FlowControl 
+
+![[Pasted image 20231024190110.png]]::2![[Pasted image 20231024190117.png]]
+
+
+![[Pasted image 20231024191739.png]]::![[Pasted image 20231024191751.png]]
+
+
+![[Pasted image 20231024192928.png]]::![[Pasted image 20231024192933.png]]
