@@ -17,4 +17,13 @@ type: PYQ
 
 ![[Pasted image 20231026012121.png]]::C
 
+![[Pasted image 20231026020716.png]]::![[Pasted image 20231026020740.png]]
 
+
+![[Pasted image 20231026021503.png]]::![[Pasted image 20231026021537.png]]
+
+
+![[Pasted image 20231026022625.png]]::![[Pasted image 20231026022649.png]]
+
+
+![[Pasted image 20231026023057.png]]::https://gateoverflow.in/357487/gate-cse-2021-set-2-question-50#a_list_title

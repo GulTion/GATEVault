@@ -25,3 +25,6 @@ Calculus PYQ from Shreanik Jain
 
 # DLD
  [dld sequential ](https://www.youtube.com/watch?v=ziCkP4x7dAE)
+
+# CD
+- live variable analysis formula add in micronotes
