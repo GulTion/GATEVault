@@ -4,22 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "6da3c4eb8896facd",
+        "id": "d2b17b1c00b046a3",
         "type": "tabs",
         "children": [
           {
-            "id": "eee69bf8939305b6",
+            "id": "eb8cab5d0a5ccf1a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "27ed0486c94aff1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-25.md",
+                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab7d4f1fecddf65b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-25.md",
+                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-25.md",
+                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-25.md"
+                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md"
               }
             }
           },
@@ -196,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 384.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,10 +237,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "eee69bf8939305b6",
+  "active": "27ed0486c94aff1d",
   "lastOpenFiles": [
-    "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
+    "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
+    "Revision/zealWorkBook/COA/media/Pasted image 20231025105353.png",
+    "Revision/zealWorkBook/COA/media/Pasted image 20231025105326.png",
+    "Revision/zealWorkBook/COA/media",
+    "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "DialyStuff/2023-10-25.md",
+    "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
     "Revision/MicroNotes/MicroNotesDB.md",
     "DialyStuff/2023-10-24.md",
     "Revision/ZealTS/CN/media/Pasted image 20231024194402.png",
@@ -234,8 +259,6 @@
     "Revision/ZealTS/CN/media/Pasted image 20231024191739.png",
     "MicroNoteArrage.md",
     "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
-    "Revision/ZealTS/CN/media/Pasted image 20231024190117.png",
-    "Revision/ZealTS/CN/media/Pasted image 20231024190110.png",
     "Revision/ZealTS/CN/media",
     "Revision/PYQ/COA/Number System.md",
     "PYQ.md",
@@ -258,14 +281,9 @@
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "DialyStuff/2023-10-22.md",
     "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
-    "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
-    "DialyStuff/2023-10-21.md",
-    "DialyStuff/2023-10-20.md",
     "Revision/ShortNotes/DBMS/media",
     "Revision/ShortNotes/DBMS",
     "Revision/PYQ/CN",
-    "Revision/zealWorkBook/CN/media",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",

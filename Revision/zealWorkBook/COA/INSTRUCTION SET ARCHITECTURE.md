@@ -1,0 +1,4 @@
+#card/COA/INSTRUCTION_SET_ARCHITECTURE
+
+![[Pasted image 20231025105326.png]]::12![[Pasted image 20231025105353.png]]
+
