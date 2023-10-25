@@ -1,7 +1,27 @@
 # DM
 
+[[Discrete Mathematics Test 4 - Combintories]] add extra questions
+
 # EM
+[[GO Classes Test Series 2023  Probability  Test]] add extra questions
+Calculus PYQ from Shreanik Jain
 
 # Apti
 
 # English
+
+# COA
+- [Machine Instruction](https://www.practicepaper.in/gate-cse/machine-instruction)
+- [Addressing Modes](https://www.practicepaper.in/gate-cse/addressing-modes)
+- [ALU Data Path and Control Unit](https://www.practicepaper.in/gate-cse/alu-data-path-and-control-unit)
+- [Pipeline Processor](https://www.practicepaper.in/gate-cse/pipeline-processor)
+- [Memory Chip Design](https://www.practicepaper.in/gate-cse/memory-chip-design)
+- Input Output in COA from zeal and PYQ specially, DMA cycling
+^3d9e79
+# CN 
+- mac later zeal
+- Network Layer in CN from Zeal Sepcial, IP packet MF and DF
+- 
+
+# DLD
+ [dld sequential ](https://www.youtube.com/watch?v=ziCkP4x7dAE)
