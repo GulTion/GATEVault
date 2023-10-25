@@ -4,41 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "d2b17b1c00b046a3",
+        "id": "7e1d326131ae46dc",
         "type": "tabs",
         "children": [
           {
-            "id": "eb8cab5d0a5ccf1a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "27ed0486c94aff1d",
+            "id": "92411da717b7c2e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+                "file": "DialyStuff/2023-10-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ab7d4f1fecddf65b",
+            "id": "35e0733f5305712a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "bcb06ed68e021d1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d4d4834b0808a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md"
+                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md"
               }
             }
           },
@@ -215,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,10 +250,20 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "27ed0486c94aff1d",
+  "active": "35e0733f5305712a",
   "lastOpenFiles": [
-    "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
+    "DialyStuff/2023-10-25.md",
+    "DialyStuff/2023-10-18.md",
+    "DialyStuff/2023-10-19.md",
+    "DialyStuff/2023-10-20.md",
+    "DialyStuff/2023-10-21.md",
+    "DialyStuff/2023-10-22.md",
+    "DialyStuff/2023-10-06.md",
+    "DialyStuff/2023-10-23.md",
+    "DialyStuff/2023-10-24.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+    "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
     "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
     "Revision/PYQ/COA/Machine Instruction.md",
     "Revision/PYQ/COA/media/Pasted image 20231025114427.png",
@@ -249,11 +272,8 @@
     "Revision/zealWorkBook/COA/media/Pasted image 20231025105353.png",
     "Revision/zealWorkBook/COA/media/Pasted image 20231025105326.png",
     "Revision/zealWorkBook/COA/media",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "DialyStuff/2023-10-25.md",
     "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
     "Revision/MicroNotes/MicroNotesDB.md",
-    "DialyStuff/2023-10-24.md",
     "Revision/ZealTS/CN/media/Pasted image 20231024194402.png",
     "Revision/ZealTS/CN/media/Pasted image 20231024194357.png",
     "Revision/ZealTS/CN/media/Pasted image 20231024193824.png",
@@ -268,7 +288,6 @@
     "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
     "Revision/zealWorkBook/DSA/media",
     "Revision/MicroNotes/DSA/Tree MicroNotes.md",
-    "DialyStuff/2023-10-23.md",
     "Revision/MicroNotes/DSA/media",
     "Revision/MicroNotes/DSA",
     "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
@@ -276,12 +295,6 @@
     "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
     "Revision/zealWorkBook/CN/3 Data Link Layer Flow Control.md",
     "Revision/zealWorkBook/CN/2 Data Link Layer Error Control.md",
-    "Revision/zealWorkBook/C/C.md",
-    "Revision/RevisionDB.md",
-    "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
-    "Gk.md",
-    "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
-    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "Revision/ShortNotes/DBMS/media",
     "Revision/ShortNotes/DBMS",
     "Revision/PYQ/CN",
