@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
+                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
+                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
+                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md"
+                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md"
               }
             }
           },
@@ -251,6 +251,9 @@
   },
   "active": "35e0733f5305712a",
   "lastOpenFiles": [
+    "Revision/PYQ/FULL/media/Pasted image 20231026012121.png",
+    "DialyStuff/2023-10-26.md",
+    "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
     "Revision/ZealTS/COA/media/Pasted image 20231025230320.png",
     "Revision/ZealTS/COA/media/Pasted image 20231025230315.png",
     "Revision/ZealTS/COA/media/Pasted image 20231025224713.png",
@@ -272,11 +275,9 @@
     "DialyStuff/2023-10-19.md",
     "DialyStuff/2023-10-18.md",
     "Revision/PYQ/FULL/media/Pasted image 20231025155333.png",
-    "Revision/PYQ/FULL/media/Pasted image 20231025155011.png",
     "DialyStuff/2023-10-06.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
-    "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
     "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
     "Revision/PYQ/COA/Machine Instruction.md",
     "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
@@ -292,7 +293,6 @@
     "Revision/MicroNotes/DSA/Tree MicroNotes.md",
     "Revision/MicroNotes/DSA/media",
     "Revision/MicroNotes/DSA",
-    "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
     "Revision/zealWorkBook/DSA",
     "Revision/ShortNotes/DBMS/media",
     "Revision/ShortNotes/DBMS",

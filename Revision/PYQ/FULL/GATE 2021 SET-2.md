@@ -15,3 +15,6 @@ type: PYQ
 
 ![[Pasted image 20231025160849.png]]::https://gateoverflow.in/357512/gate-cse-2021-set-2-question-28#a_list_title
 
+![[Pasted image 20231026012121.png]]::C
+
+
