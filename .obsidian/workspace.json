@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md",
+                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-25.md",
+                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-25.md",
+                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-25.md"
+                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md"
               }
             }
           },
@@ -250,8 +249,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0d4d4834b0808a6b",
+  "active": "35e0733f5305712a",
   "lastOpenFiles": [
+    "Revision/ZealTS/COA/media/Pasted image 20231025230320.png",
+    "Revision/ZealTS/COA/media/Pasted image 20231025230315.png",
+    "Revision/ZealTS/COA/media/Pasted image 20231025224713.png",
+    "Revision/ZealTS/COA/media/Pasted image 20231025224706.png",
+    "Revision/ZealTS/COA/media/Pasted image 20231025224208.png",
+    "Revision/ZealTS/COA/media/Pasted image 20231025224149.png",
+    "Revision/ZealTS/COA/media/Pasted image 20231025223601.png",
+    "Revision/ZealTS/COA/media/Pasted image 20231025223548.png",
     "Revision/PYQ/FULL/GATE 2021 SET-2.md",
     "DialyStuff/2023-10-25.md",
     "templates/Normal Task Template.md",
@@ -266,23 +273,16 @@
     "DialyStuff/2023-10-18.md",
     "Revision/PYQ/FULL/media/Pasted image 20231025155333.png",
     "Revision/PYQ/FULL/media/Pasted image 20231025155011.png",
-    "Revision/PYQ/FULL/media/Pasted image 20231025154346.png",
     "DialyStuff/2023-10-06.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
     "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
     "Revision/PYQ/COA/Machine Instruction.md",
-    "Revision/PYQ/COA/media/Pasted image 20231025114427.png",
-    "Revision/PYQ/COA/media/Pasted image 20231025114404.png",
     "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
-    "Revision/zealWorkBook/COA/media/Pasted image 20231025105353.png",
-    "Revision/zealWorkBook/COA/media/Pasted image 20231025105326.png",
     "Revision/zealWorkBook/COA/media",
     "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
     "Revision/MicroNotes/MicroNotesDB.md",
-    "Revision/ZealTS/CN/media/Pasted image 20231024194402.png",
-    "Revision/ZealTS/CN/media/Pasted image 20231024194357.png",
     "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
     "Revision/ZealTS/CN/media",
     "Revision/PYQ/COA/Number System.md",

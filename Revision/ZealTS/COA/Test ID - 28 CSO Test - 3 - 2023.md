@@ -8,3 +8,13 @@ src:
 ---
 #card/COA
 
+![[Pasted image 20231025223548.png]]::![[Pasted image 20231025223601.png]]
+
+![[Pasted image 20231025224149.png]]::![[Pasted image 20231025224208.png]]
+
+
+![[Pasted image 20231025224706.png]]::![[Pasted image 20231025224713.png]]
+
+
+
+![[Pasted image 20231025230315.png]]::![[Pasted image 20231025230320.png]]
