@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
+                "file": "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
+                "file": "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
+                "file": "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md"
+                "file": "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md"
               }
             }
           },
@@ -239,11 +239,16 @@
   },
   "active": "27ed0486c94aff1d",
   "lastOpenFiles": [
+    "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
+    "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+    "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
+    "Revision/PYQ/COA/Machine Instruction.md",
+    "Revision/PYQ/COA/media/Pasted image 20231025114427.png",
+    "Revision/PYQ/COA/media/Pasted image 20231025114404.png",
     "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
     "Revision/zealWorkBook/COA/media/Pasted image 20231025105353.png",
     "Revision/zealWorkBook/COA/media/Pasted image 20231025105326.png",
     "Revision/zealWorkBook/COA/media",
-    "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "DialyStuff/2023-10-25.md",
     "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
@@ -255,8 +260,6 @@
     "Revision/ZealTS/CN/media/Pasted image 20231024193817.png",
     "Revision/ZealTS/CN/media/Pasted image 20231024192933.png",
     "Revision/ZealTS/CN/media/Pasted image 20231024192928.png",
-    "Revision/ZealTS/CN/media/Pasted image 20231024191751.png",
-    "Revision/ZealTS/CN/media/Pasted image 20231024191739.png",
     "MicroNoteArrage.md",
     "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
     "Revision/ZealTS/CN/media",
@@ -279,8 +282,6 @@
     "Gk.md",
     "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
-    "DialyStuff/2023-10-22.md",
-    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
     "Revision/ShortNotes/DBMS/media",
     "Revision/ShortNotes/DBMS",
     "Revision/PYQ/CN",
