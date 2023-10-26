@@ -25,26 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "bcb06ed68e021d1b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0d4d4834b0808a6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-25.md",
+                "file": "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-26.md",
+                "file": "templates/Normal Task Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-26.md",
+                "file": "templates/Normal Task Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-26.md"
+                "file": "templates/Normal Task Template.md"
               }
             }
           },
@@ -249,8 +230,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "35e0733f5305712a",
+  "active": "92411da717b7c2e2",
   "lastOpenFiles": [
+    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
+    "templates/Normal Task Template.md",
+    "DialyStuff/2023-10-26.md",
     "DialyStuff/2023-10-25.md",
     "Revision/PYQ/FULL/GATE 2021 SET-2.md",
     "Revision/PYQ/FULL/media/Pasted image 20231026023057.png",
@@ -258,11 +242,9 @@
     "Revision/PYQ/FULL/media/Pasted image 20231026022625.png",
     "Revision/PYQ/FULL/media/Pasted image 20231026021537.png",
     "Revision/PYQ/FULL/media/Pasted image 20231026021503.png",
-    "templates/Normal Task Template.md",
     "Revision/PYQ/FULL/media/Pasted image 20231026020740.png",
     "Revision/PYQ/FULL/media/Pasted image 20231026020716.png",
     "Revision/PYQ/FULL/media/Pasted image 20231026012121.png",
-    "DialyStuff/2023-10-26.md",
     "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
     "Revision/ZealTS/COA/media/Pasted image 20231025230320.png",
     "Revision/ZealTS/COA/media/Pasted image 20231025230315.png",

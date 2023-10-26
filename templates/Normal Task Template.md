@@ -1,10 +1,10 @@
 # DM
-
-[[Discrete Mathematics Test 4 - Combintories]] add extra questions
+- One Test Series in a Day of any topic for DM
+- [[Discrete Mathematics Test 4 - Combintories]] add extra questions
 
 # EM
-[[GO Classes Test Series 2023  Probability  Test]] add extra questions
-Calculus PYQ from Shreanik Jain
+- [[GO Classes Test Series 2023  Probability  Test]] add extra questions
+- Calculus PYQ from Shreanik Jain
 
 # Apti
 
