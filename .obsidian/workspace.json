@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md",
+                "file": "DialyStuff/2023-10-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-25.md",
+                "file": "DialyStuff/2023-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-25.md",
+                "file": "DialyStuff/2023-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-25.md"
+                "file": "DialyStuff/2023-10-26.md"
               }
             }
           },
@@ -249,13 +249,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0d4d4834b0808a6b",
+  "active": "35e0733f5305712a",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-25.md",
     "Revision/PYQ/FULL/GATE 2021 SET-2.md",
     "Revision/PYQ/FULL/media/Pasted image 20231026023057.png",
     "Revision/PYQ/FULL/media/Pasted image 20231026022649.png",
     "Revision/PYQ/FULL/media/Pasted image 20231026022625.png",
-    "DialyStuff/2023-10-25.md",
     "Revision/PYQ/FULL/media/Pasted image 20231026021537.png",
     "Revision/PYQ/FULL/media/Pasted image 20231026021503.png",
     "templates/Normal Task Template.md",
