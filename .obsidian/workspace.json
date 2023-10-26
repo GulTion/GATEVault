@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-26.md",
+                "file": "Revision/zealWorkBook/DS/Searching sorting Basic Solution final.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f19d9527dcada26c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-26.md",
+                "file": "Revision/zealWorkBook/DS/Searching sorting Basic Solution final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-26.md",
+                "file": "Revision/zealWorkBook/DS/Searching sorting Basic Solution final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-26.md"
+                "file": "Revision/zealWorkBook/DS/Searching sorting Basic Solution final.md"
               }
             }
           },
@@ -200,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,7 +241,9 @@
   },
   "active": "0bab940f216d89ad",
   "lastOpenFiles": [
+    "Revision/ShortNotes/DS/Sorting.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
+    "DialyStuff/2023-10-26.md",
     "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
     "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
@@ -252,9 +267,7 @@
     "Revision/zealWorkBook/COA/Number System.md",
     "Revision/ShortNotes/CN/TCP Notes.md",
     "Revision/ShortNotes/CN/Application Layer.md",
-    "Revision/zealWorkBook/CN/TCP.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "DialyStuff/2023-10-26.md",
     "Revision/PYQ/FULL/media/Pasted image 20231026175529.png",
     "Revision/PYQ/FULL/media/Pasted image 20231026175410.png",
     "Revision/PYQ/FULL/media/Pasted image 20231026174758.png",
