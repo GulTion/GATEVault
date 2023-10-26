@@ -1,0 +1,1 @@
+{"path":"Revision/PYQ/FULL/media/Pasted image 20231026173041.png","text":"For a*n FIRST OF a*n contains \"a\" and for a*n b*n its FIRST OF also contains \"a\" hence multiple entry in single column so it is not LL(1) and for a*k and a*k b*k so here for same reason, it is not LL(K). LL(K) Parser can not distinguish both grammar.","libVersion":"0.2.3","langs":"eng"}
