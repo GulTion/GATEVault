@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8791788572a2d590",
+        "id": "086a213e36e9cb4e",
         "type": "tabs",
         "children": [
           {
-            "id": "31a4753b92399a01",
+            "id": "0bab940f216d89ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/PYQ/FULL/GATE 2020.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card/DBMS/indexing",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -62,6 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "31703f25d730dfd8",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
               "state": {}
             }
           }
@@ -113,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/FULL/GATE 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/FULL/GATE 2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Revision/PYQ/FULL/GATE 2020.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -215,11 +215,39 @@
       "omnisearch:Omnisearch": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "31a4753b92399a01",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
+    "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
+    "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
+    "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+    "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
+    "Revision/ZealTS/ZealTSDB.md",
+    "Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md",
+    "Revision/ZealTS/OS/Test ID - 19 OS Test - 1.md",
+    "Revision/ZealTS/DBMS/Test 4 DBMS TEST ID 34.md",
+    "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
+    "Revision/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
+    "Revision/zealWorkBook/OS/InterProcess Communication.md",
+    "Revision/ZealTS/DBMS/TEST ID-2 DM-2.md",
+    "Revision/ZealTS/COA/Test ID - 26 CSO Test - 1.md",
+    "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
+    "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
+    "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
+    "Revision/PYQ/COA/Interrupt - pyq.md",
+    "Revision/PYQ/COA/Machine Instruction.md",
+    "Revision/PYQ/COA/Number System.md",
+    "Revision/PYQ/COA/pipline.md",
+    "Revision/ShortNotes/COA/Floating Point Tricks.md",
+    "Revision/zealWorkBook/COA/Number System.md",
+    "Revision/ShortNotes/CN/TCP Notes.md",
+    "Revision/ShortNotes/CN/Application Layer.md",
+    "Revision/zealWorkBook/CN/TCP.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "DialyStuff/2023-10-26.md",
     "Revision/PYQ/FULL/media/Pasted image 20231026175529.png",
     "Revision/PYQ/FULL/media/Pasted image 20231026175410.png",
     "Revision/PYQ/FULL/media/Pasted image 20231026174758.png",
@@ -230,35 +258,8 @@
     "Revision/PYQ/FULL/media/Pasted image 20231026172935.png",
     "Revision/PYQ/FULL/media/Pasted image 20231026172419.png",
     "Revision/PYQ/FULL/media/Pasted image 20231026172405.png",
-    "Revision/PYQ/FULL/media/Pasted image 20231026171920.png",
-    "Revision/PYQ/FULL/GATE 2020.md",
-    "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
-    "fromWhereSubject.md",
-    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
-    "Revision/GOTS/CN/GO Classes Test Series 2023 Computer Networks Test 1.md",
-    "DialyStuff/2023-10-26.md",
     "Revision/GOTS/CN/media",
     "Revision/GOTS/CN",
-    "MicroNoteArrage.md",
-    "templates/Normal Task Template.md",
-    "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
-    "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
-    "WeakSubtopic.md",
-    "DialyStuff/2023-10-25.md",
-    "Revision/PYQ/FULL/GATE 2021 SET-2.md",
-    "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
-    "DialyStuff/2023-10-24.md",
-    "DialyStuff/2023-10-23.md",
-    "DialyStuff/2023-10-22.md",
-    "DialyStuff/2023-10-21.md",
-    "DialyStuff/2023-10-20.md",
-    "DialyStuff/2023-10-19.md",
-    "DialyStuff/2023-10-18.md",
-    "DialyStuff/2023-10-06.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
-    "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
-    "Revision/PYQ/COA/Machine Instruction.md",
     "Revision/zealWorkBook/COA/media",
     "Revision/ZealTS/CN/media",
     "Revision/zealWorkBook/DSA/media",

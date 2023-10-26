@@ -8,11 +8,15 @@ endQ: 92
 repeation: 4
 last_time: 2023-10-12T00:00:00.000+05:30
 ---
-- Finding n's complement of Number![[Pasted image 20230928212737.png]] ^c5d009
+#card/COA/Number_System
 
-1. Find the Base of Numbers for Quardic Equation ![[Pasted image 20230928112103.png]]
-2. Find the Base of Numbers for Cubic Equation Equation ![[Pasted image 20230928112320.png]]![[Pasted image 20230928112338.png]]
+- Finding n's complement of Number![[Pasted image 20230928212737.png]]::a
+ ^c5d009
 
-- Coding Scheme #edgeCase![[Pasted image 20230929082229.png]] ^7e1529
-- Statements about conversion of integer and Gray code property #statement![[Pasted image 20230929083303.png]] 
-- Self complementing for code scheme and Excess-3 #statement ![[Pasted image 20230929083743.png]]
+1. Find the Base of Numbers for Quardic Equation ![[Pasted image 20230928112103.png]]::8
+2. Find the Base of Numbers for Cubic Equation Equation ![[Pasted image 20230928112320.png]]![[Pasted image 20230928112338.png]]::5
+
+- Coding Scheme #edgeCase![[Pasted image 20230929082229.png]]::C ^7e1529
+- Statements about conversion of integer and Gray code property #statement![[Pasted image 20230929083303.png]]::B
+ 
+- Self complementing for code scheme and Excess-3 #statement ![[Pasted image 20230929083743.png]]::ALL

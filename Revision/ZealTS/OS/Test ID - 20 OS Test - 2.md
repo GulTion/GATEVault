@@ -6,7 +6,9 @@ completed:
 syllabus: Inter-Process Communication, Concurrency And SynchronizationAnd Deadlock.
 subject: OS
 type: ZealTS
+status: Analysis
 ---
+#card/OS/IPC_deadlock
 # Stack
 - All Solution By Heart
 - Must Practice on the All IPC problem of ZealWorkbook and Test Series
