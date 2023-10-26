@@ -11,8 +11,12 @@
             "id": "0bab940f216d89ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-26.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -117,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DialyStuff/2023-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DialyStuff/2023-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2023-10-26.md"
+              }
             }
           },
           {
@@ -215,11 +223,10 @@
       "omnisearch:Omnisearch": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "remotely-save:Remotely Save": false,
-      "smart-random-note:Open Random Note from Search": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "5b301f141e47d7da",
+  "active": "0bab940f216d89ad",
   "lastOpenFiles": [
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
