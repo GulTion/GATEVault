@@ -1,4 +1,8 @@
 # DM
+## DM Daily Stuff
+- MicroNotes Revision
+- 5 questions from each topic from Test Series
+## DM task Stuff
 - One Test Series in a Day of any topic for DM
 - [[Discrete Mathematics Test 4 - Combintories]] add extra questions
 

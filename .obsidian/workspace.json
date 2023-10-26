@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Normal Task Template.md",
+                "file": "DialyStuff/2023-10-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e807ca6f501da19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fromWhereSubject.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Normal Task Template.md",
+                "file": "DialyStuff/2023-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Normal Task Template.md",
+                "file": "DialyStuff/2023-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Normal Task Template.md"
+                "file": "DialyStuff/2023-10-26.md"
               }
             }
           },
@@ -203,12 +215,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 384.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,23 +244,27 @@
   },
   "active": "92411da717b7c2e2",
   "lastOpenFiles": [
-    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "templates/Normal Task Template.md",
+    "MicroNoteArrage.md",
+    "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
+    "Revision/MicroNotes/DM/media/Pasted image 20231026132455.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231026131944.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231026131713.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231026131703.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231026131548.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231026131359.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231026131226.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231026131050.png",
+    "Revision/MicroNotes/DM/media/Pasted image 20231026130726.png",
+    "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
+    "fromWhereSubject.md",
+    "WeakSubtopic.md",
+    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "DialyStuff/2023-10-26.md",
     "DialyStuff/2023-10-25.md",
     "Revision/PYQ/FULL/GATE 2021 SET-2.md",
     "Revision/PYQ/FULL/media/Pasted image 20231026023057.png",
-    "Revision/PYQ/FULL/media/Pasted image 20231026022649.png",
-    "Revision/PYQ/FULL/media/Pasted image 20231026022625.png",
-    "Revision/PYQ/FULL/media/Pasted image 20231026021537.png",
-    "Revision/PYQ/FULL/media/Pasted image 20231026021503.png",
-    "Revision/PYQ/FULL/media/Pasted image 20231026020740.png",
-    "Revision/PYQ/FULL/media/Pasted image 20231026020716.png",
-    "Revision/PYQ/FULL/media/Pasted image 20231026012121.png",
     "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
-    "Revision/ZealTS/COA/media/Pasted image 20231025230320.png",
-    "Revision/ZealTS/COA/media/Pasted image 20231025230315.png",
-    "MicroNoteArrage.md",
     "DialyStuff/2023-10-24.md",
     "DialyStuff/2023-10-23.md",
     "DialyStuff/2023-10-22.md",
@@ -265,13 +281,8 @@
     "Revision/zealWorkBook/COA/media",
     "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
     "Revision/MicroNotes/MicroNotesDB.md",
-    "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
     "Revision/ZealTS/CN/media",
-    "Revision/PYQ/COA/Number System.md",
-    "PYQ.md",
-    "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
     "Revision/zealWorkBook/DSA/media",
-    "Revision/MicroNotes/DSA/Tree MicroNotes.md",
     "Revision/MicroNotes/DSA/media",
     "Revision/MicroNotes/DSA",
     "Revision/zealWorkBook/DSA",
