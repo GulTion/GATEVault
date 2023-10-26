@@ -116,6 +116,22 @@
             }
           },
           {
+            "id": "2316cf40f4cf6c3c",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca7bc4254449ab06",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "7ec0733dda91710c",
             "type": "leaf",
             "state": {
@@ -166,14 +182,6 @@
             }
           },
           {
-            "id": "ca7bc4254449ab06",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "14ca28b6893474ae",
             "type": "leaf",
             "state": {
@@ -206,17 +214,9 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "2316cf40f4cf6c3c",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -244,8 +244,11 @@
   },
   "active": "92411da717b7c2e2",
   "lastOpenFiles": [
-    "templates/Normal Task Template.md",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231026143016.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231026142944.png",
     "MicroNoteArrage.md",
+    "DialyStuff/2023-10-26.md",
+    "templates/Normal Task Template.md",
     "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
     "Revision/MicroNotes/DM/media/Pasted image 20231026132455.png",
     "Revision/MicroNotes/DM/media/Pasted image 20231026131944.png",
@@ -260,10 +263,8 @@
     "fromWhereSubject.md",
     "WeakSubtopic.md",
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
-    "DialyStuff/2023-10-26.md",
     "DialyStuff/2023-10-25.md",
     "Revision/PYQ/FULL/GATE 2021 SET-2.md",
-    "Revision/PYQ/FULL/media/Pasted image 20231026023057.png",
     "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
     "DialyStuff/2023-10-24.md",
     "DialyStuff/2023-10-23.md",
