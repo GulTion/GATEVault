@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## ShortNotes Arrange
 
-- [ ] DSA
 - [ ] CN
+- [ ] DSA
 - [ ] DM
 - [ ] TOC
 - [ ] DBMS

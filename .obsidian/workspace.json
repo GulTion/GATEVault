@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "de9b36130ffd9d14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f0f2104a8a500e93",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -144,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
+                "file": "DialyStuff/2023-10-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
+                "file": "DialyStuff/2023-10-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md"
+                "file": "DialyStuff/2023-10-27.md"
               }
             }
           },
@@ -222,7 +210,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -248,27 +237,29 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "de9b36130ffd9d14",
+  "active": "0bab940f216d89ad",
   "lastOpenFiles": [
     "DialyStuff/2023-10-27.md",
+    "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231027155214.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231027155049.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231027155022.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231027154945.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231027154935.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231027154608.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231027154551.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231027154001.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231027153956.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231027153938.png",
+    "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
+    "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "Revision/zealWorkBook/DM/Cartesian products of sets.md",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231027123236.png",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231027122818.png",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231027122747.png",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231027122605.png",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231027122552.png",
     "MicroNoteArrage.md",
     "templates/Normal Task Template.md",
     "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
     "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
     "Revision/MicroNotes/DSA/Tree MicroNotes.md",
-    "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231026232512.png",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231026232457.png",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231026232240.png",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231026232226.png",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231026231912.png",
     "Revision/ShortNotes/DS/Sorting.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "DialyStuff/2023-10-26.md",
@@ -284,7 +275,6 @@
     "Revision/zealWorkBook/OS/InterProcess Communication.md",
     "Revision/ZealTS/DBMS/TEST ID-2 DM-2.md",
     "Revision/ZealTS/COA/Test ID - 26 CSO Test - 1.md",
-    "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/GOTS/CN/media",
     "Revision/GOTS/CN",
