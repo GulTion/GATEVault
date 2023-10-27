@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "086a213e36e9cb4e",
+        "id": "1e54196fe624ed27",
         "type": "tabs",
         "children": [
           {
-            "id": "0bab940f216d89ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-10-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0f2104a8a500e93",
+            "id": "e3346075d6daffbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -237,8 +225,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0bab940f216d89ad",
+  "active": "e3346075d6daffbb",
   "lastOpenFiles": [
+    "Cd.md",
     "DialyStuff/2023-10-27.md",
     "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
     "Revision/zealWorkBook/CN/media/Pasted image 20231027155214.png",
@@ -274,7 +263,6 @@
     "Revision/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
     "Revision/zealWorkBook/OS/InterProcess Communication.md",
     "Revision/ZealTS/DBMS/TEST ID-2 DM-2.md",
-    "Revision/ZealTS/COA/Test ID - 26 CSO Test - 1.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/GOTS/CN/media",
     "Revision/GOTS/CN",
