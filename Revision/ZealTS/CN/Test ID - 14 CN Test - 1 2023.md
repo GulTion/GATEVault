@@ -17,7 +17,7 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ![[Pasted image 20231024192928.png]]::![[Pasted image 20231024192933.png]] <!--SR:!2023-10-28,4,270-->
 
 
-![[Pasted image 20231024193817.png]]::![[Pasted image 20231024193824.png]]
+![[Pasted image 20231024193817.png]]::![[Pasted image 20231024193824.png]] <!--SR:!2023-10-30,3,256-->
 
 
-![[Pasted image 20231024194357.png]]::![[Pasted image 20231024194402.png]]
+![[Pasted image 20231024194357.png]]::![[Pasted image 20231024194402.png]] <!--SR:!2023-10-31,4,276-->
