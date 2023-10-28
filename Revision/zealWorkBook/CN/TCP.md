@@ -7,6 +7,7 @@ startQ: 1
 endQ: 64
 repeation: 4
 last_time: 2023-10-12T00:00:00.000+05:30
+status: Revision
 ---
 #card/CN/Transport_Layer
 

@@ -9,6 +9,7 @@ type: zealWorkBook
 subType: topicWise
 repeation: 1
 last_time: 2023-10-13T12:30:00.000+05:30
+status: Revision
 ---
 #card/CN/DataLinkLayer/FlowControl
 send N frames with W window size using sliding window protocl , find the total time![[Pasted image 20231012163232.png]]::![[Pasted image 20231012163249.png]] <!--SR:!2023-10-30,2,212-->

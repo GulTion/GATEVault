@@ -11,15 +11,50 @@
             "id": "da708d0de347c16e",
             "type": "leaf",
             "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Revision/zealWorkBook/zealWorkBookDB.md"
+              }
+            }
+          },
+          {
+            "id": "71f95ecc4b804e66",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-28.md",
+                "file": "Revision/zealWorkBook/COA/IO device.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45b33d5b06b47a82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38dbaa1f312c4e95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-28.md",
+                "file": "Revision/zealWorkBook/COA/IO device.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-28.md",
+                "file": "Revision/zealWorkBook/COA/IO device.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-28.md"
+                "file": "Revision/zealWorkBook/COA/IO device.md"
               }
             }
           },
@@ -224,28 +259,33 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "da708d0de347c16e",
+  "active": "71f95ecc4b804e66",
   "lastOpenFiles": [
+    "Revision/zealWorkBook/zealWorkBookDB.md",
+    "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
+    "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
+    "Revision/zealWorkBook/CN/2 Data Link Layer Error Control.md",
+    "Revision/zealWorkBook/C/C-workbook.md",
+    "Revision/RevisionDB.md",
     "Revision/zealWorkBook/DM/Number of subsets and Cardinality of set.md",
-    "Revision/zealWorkBook/DM/Cartesian products of sets.md",
+    "Revision/zealWorkBook/DM/media/Pasted image 20231028154340.png",
+    "Revision/zealWorkBook/DM/media/Pasted image 20231028154331.png",
+    "Revision/zealWorkBook/DM/media/Pasted image 20231028153412.png",
+    "Revision/zealWorkBook/DM/media/Pasted image 20231028153400.png",
+    "Revision/zealWorkBook/DM/media/Pasted image 20231028152826.png",
+    "Revision/zealWorkBook/DM/media/Pasted image 20231028152819.png",
+    "Revision/zealWorkBook/DM/media/Pasted image 20231028152238.png",
+    "Revision/zealWorkBook/DM/media/Pasted image 20231028152222.png",
+    "Revision/zealWorkBook/DM/media/Pasted image 20231028152213.png",
+    "Revision/zealWorkBook/DM/media/Pasted image 20231028150906.png",
     "DialyStuff/2023-10-28.md",
+    "Revision/zealWorkBook/DM/Cartesian products of sets.md",
     "try.md",
     "MicroNoteArrage.md",
     "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
     "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
     "DialyStuff/2023-10-27.md",
     "Cd.md",
-    "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231027155214.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231027155049.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231027155022.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231027154945.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231027154935.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231027154608.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231027154551.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231027154001.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231027153956.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231027153938.png",
     "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "templates/Normal Task Template.md",
@@ -257,11 +297,6 @@
     "DialyStuff/2023-10-26.md",
     "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
     "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
-    "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
-    "Revision/ZealTS/ZealTSDB.md",
-    "Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md",
-    "Revision/ZealTS/OS/Test ID - 19 OS Test - 1.md",
-    "Revision/ZealTS/DBMS/Test 4 DBMS TEST ID 34.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/GOTS/CN/media",
     "Revision/GOTS/CN",
