@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-28.md",
+                "file": "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#today",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-28.md",
+                "file": "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-28.md",
+                "file": "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-28.md"
+                "file": "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -227,8 +227,8 @@
   },
   "active": "e3346075d6daffbb",
   "lastOpenFiles": [
-    "DialyStuff/2023-10-27.md",
     "DialyStuff/2023-10-28.md",
+    "DialyStuff/2023-10-27.md",
     "Cd.md",
     "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
     "Revision/zealWorkBook/CN/media/Pasted image 20231027155214.png",
