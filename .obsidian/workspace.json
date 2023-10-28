@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "56fef1ba75033d46",
+        "id": "39e246d654784110",
         "type": "tabs",
         "children": [
           {
-            "id": "da708d0de347c16e",
+            "id": "45f5c3069ed818b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6c4f4fb4837d4f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/zealWorkBook/OS/InterProcess Communication.md",
+                "file": "DialyStuff/2023-10-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -131,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gk.md",
+                "file": "DialyStuff/2023-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gk.md",
+                "file": "DialyStuff/2023-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gk.md"
+                "file": "DialyStuff/2023-10-28.md"
               }
             }
           },
@@ -210,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,8 +225,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "da708d0de347c16e",
+  "active": "45f5c3069ed818b6",
   "lastOpenFiles": [
+    "Revision/media/PYQRevision/COA/media/Pasted image 20230929183631.png",
+    "Revision/zealWorkBook/OS/InterProcess Communication.md",
+    "Gk.md",
     "media/Pasted image 20231028171547.png",
     "Revision/zealWorkBook/DBMS/media/Pasted image 20231028163539.png",
     "Revision/zealWorkBook/zealWorkBookDB.md",
@@ -256,7 +248,6 @@
     "Revision/zealWorkBook/MATH/4 Binomial distribution.md",
     "Revision/zealWorkBook/MATH/3 RANDOM VARIABLES, EXPECTATION AND VARIANCE.md",
     "Revision/zealWorkBook/OS/8. TLB HIT MISS.md",
-    "Revision/zealWorkBook/OS/InterProcess Communication.md",
     "Revision/zealWorkBook/TOC/12 epi-NFA closure.md",
     "Revision/zealWorkBook/TOC/14 FA to Language and Vice Versa.md",
     "Revision/zealWorkBook/MATH/2 CONDITIONAL PROBABILITY.md",
@@ -264,7 +255,6 @@
     "Revision/zealWorkBook/DM/Partial Order Relation-zeal.md",
     "Revision/zealWorkBook/DM/Planner and its Properties.md",
     "Revision/zealWorkBook/DM/Chromatic Number.md",
-    "Revision/zealWorkBook/DM/Bridge and Spanning Tree.md",
     "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164422.png",
     "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164341.png",
     "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164218.png",
@@ -273,7 +263,6 @@
     "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164135.png",
     "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164006.png",
     "Revision/zealWorkBook/DBMS/media/Pasted image 20231028163956.png",
-    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028163906.png",
     "Revision/zealWorkBook/DBMS/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/GOTS/CN/media",
