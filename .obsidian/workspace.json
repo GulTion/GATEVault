@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
+                "file": "DialyStuff/2023-10-28.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1312dde62ba2c8e2",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "DialyStuff/2023-10-28.md",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -225,9 +232,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e3346075d6daffbb",
+  "active": "1312dde62ba2c8e2",
   "lastOpenFiles": [
+    "MicroNoteArrage.md",
+    "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
     "DialyStuff/2023-10-28.md",
+    "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
     "DialyStuff/2023-10-27.md",
     "Cd.md",
     "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
@@ -244,9 +254,7 @@
     "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "Revision/zealWorkBook/DM/Cartesian products of sets.md",
-    "MicroNoteArrage.md",
     "templates/Normal Task Template.md",
-    "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
     "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
     "Revision/MicroNotes/DSA/Tree MicroNotes.md",
     "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
@@ -262,7 +270,6 @@
     "Revision/ZealTS/DBMS/Test 4 DBMS TEST ID 34.md",
     "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
-    "Revision/zealWorkBook/OS/InterProcess Communication.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/GOTS/CN/media",
     "Revision/GOTS/CN",
