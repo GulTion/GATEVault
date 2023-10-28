@@ -11,50 +11,27 @@
             "id": "da708d0de347c16e",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Revision/zealWorkBook/zealWorkBookDB.md"
-              }
-            }
-          },
-          {
-            "id": "71f95ecc4b804e66",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/COA/IO device.md",
+                "file": "Gk.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "45b33d5b06b47a82",
+            "id": "a6c4f4fb4837d4f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38dbaa1f312c4e95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
+                "file": "Revision/zealWorkBook/OS/InterProcess Communication.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#today",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/zealWorkBook/COA/IO device.md",
+                "file": "Gk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/zealWorkBook/COA/IO device.md",
+                "file": "Gk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/zealWorkBook/COA/IO device.md"
+                "file": "Gk.md"
               }
             }
           },
@@ -233,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -259,44 +236,45 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "71f95ecc4b804e66",
+  "active": "da708d0de347c16e",
   "lastOpenFiles": [
+    "media/Pasted image 20231028171547.png",
+    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028163539.png",
     "Revision/zealWorkBook/zealWorkBookDB.md",
-    "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
-    "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
-    "Revision/zealWorkBook/CN/2 Data Link Layer Error Control.md",
-    "Revision/zealWorkBook/C/C-workbook.md",
-    "Revision/RevisionDB.md",
-    "Revision/zealWorkBook/DM/Number of subsets and Cardinality of set.md",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231028154340.png",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231028154331.png",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231028153412.png",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231028153400.png",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231028152826.png",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231028152819.png",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231028152238.png",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231028152222.png",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231028152213.png",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231028150906.png",
     "DialyStuff/2023-10-28.md",
-    "Revision/zealWorkBook/DM/Cartesian products of sets.md",
-    "try.md",
-    "MicroNoteArrage.md",
-    "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
     "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
-    "DialyStuff/2023-10-27.md",
-    "Cd.md",
-    "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
-    "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
-    "templates/Normal Task Template.md",
-    "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
-    "Revision/MicroNotes/DSA/Tree MicroNotes.md",
-    "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
-    "Revision/ShortNotes/DS/Sorting.md",
-    "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
-    "DialyStuff/2023-10-26.md",
-    "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
-    "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+    "TEST PROGRESS.md",
+    "Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md",
+    "Revision/zealWorkBook/CN/TCP.md",
+    "Revision/PYQ/MATH/Probability.md",
+    "Revision/PYQ/FULL/GATE 2020.md",
+    "Revision/zealWorkBook/CN/Application Layer 1.md",
+    "Revision/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
+    "Revision/zealWorkBook/OS/7. SEGMENT PAGE TABLE AND INVERT PAGE.md",
+    "Revision/zealWorkBook/OS/6. PAGE REPLACEMENT.pdf.md",
+    "Revision/zealWorkBook/OS/10. FILE SYSTEM AND DISK SCHEDULING.pdf.md",
+    "Revision/zealWorkBook/MATH/4 Binomial distribution.md",
+    "Revision/zealWorkBook/MATH/3 RANDOM VARIABLES, EXPECTATION AND VARIANCE.md",
+    "Revision/zealWorkBook/OS/8. TLB HIT MISS.md",
+    "Revision/zealWorkBook/OS/InterProcess Communication.md",
+    "Revision/zealWorkBook/TOC/12 epi-NFA closure.md",
+    "Revision/zealWorkBook/TOC/14 FA to Language and Vice Versa.md",
+    "Revision/zealWorkBook/MATH/2 CONDITIONAL PROBABILITY.md",
+    "Revision/zealWorkBook/MATH/1 Basic concept of probability.md",
+    "Revision/zealWorkBook/DM/Partial Order Relation-zeal.md",
+    "Revision/zealWorkBook/DM/Planner and its Properties.md",
+    "Revision/zealWorkBook/DM/Chromatic Number.md",
+    "Revision/zealWorkBook/DM/Bridge and Spanning Tree.md",
+    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164422.png",
+    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164341.png",
+    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164218.png",
+    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164209.png",
+    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164145.png",
+    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164135.png",
+    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164006.png",
+    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028163956.png",
+    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028163906.png",
+    "Revision/zealWorkBook/DBMS/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/GOTS/CN/media",
     "Revision/GOTS/CN",
@@ -306,7 +284,6 @@
     "Revision/MicroNotes/DSA/media",
     "Revision/MicroNotes/DSA",
     "Revision/zealWorkBook/DSA",
-    "Revision/ShortNotes/DBMS/media",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",

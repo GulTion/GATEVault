@@ -6,8 +6,7 @@ endQ: 59
 startQ: 1
 last_time: 2023-10-12T00:00:00.000+05:30
 repeation: 4
-tags:
-  - "#today"
+tags: []
 ---
 #card/CN/ApplicationLayer
 statements about the HTTP for the persistence and non-persistence connection	![[Pasted image 20231001083255.png]]::B <!--SR:!2023-10-29,2,226-->

@@ -6,8 +6,8 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 status: Revision
 ---
 #card/COA/Cache_Memory
-# Test 2022 [link]()
-- 8. #r1 #hard Calculate the size of single Set with overhead![[Pasted image 20231009195437.png]]::![[Pasted image 20231009200530.png]]
+# Test 2022
+#hard Calculate the size of single Set with overhead![[Pasted image 20231009195437.png]]::![[Pasted image 20231009200530.png]]
 - 13 ![[Pasted image 20231009202004.png]]::![[Pasted image 20231009202103.png]]
 - 19. cache hit miss by mapping address![[Pasted image 20231009215908.png]]::(C) <!--SR:!2023-11-01,4,270-->
 - 20. local miss & Global miss calculation![[Pasted image 20231009220115.png]]::![[Pasted image 20231009220159.png]]

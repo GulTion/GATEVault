@@ -19,10 +19,10 @@ status: Revision
 
 ![[Pasted image 20231001151238.png]]::![[Pasted image 20231001151248.png]] <!--SR:!2023-10-30,2,248-->
 
-#today![[Pasted image 20231001163534.png]]::![[Pasted image 20231001163542.png]]
+#today ![[Pasted image 20231001163534.png]]::![[Pasted image 20231001163542.png]]
 
 
-#today![[Pasted image 20231001164339.png]]::![[Pasted image 20231001164345.png]]
+#today ![[Pasted image 20231001164339.png]]::![[Pasted image 20231001164345.png]]
 
 ![[Pasted image 20231001165040.png]]::![[Pasted image 20231001165045.png]] <!--SR:!2023-10-30,3,250-->
 

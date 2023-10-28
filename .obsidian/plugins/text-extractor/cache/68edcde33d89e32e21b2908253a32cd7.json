@@ -1,0 +1,1 @@
+{"path":"Revision/zealWorkBook/DBMS/media/Pasted image 20231028163622.png","text":"Q21.| Consider a relation R (A, B, C, D, E) with the set of functional dependencies {AB—C, CD—E, C—A, C—»D and D—B}. How many candidate keys are possible in R?_","libVersion":"0.2.3","langs":"eng"}

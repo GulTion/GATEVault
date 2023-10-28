@@ -10,7 +10,7 @@ last_time: 2023-10-12T00:00:00.000+05:30
 ---
 #card/COA/Number_System
 
-- Finding n's complement of Number![[Pasted image 20230928212737.png]]::a
+Finding n's complement of Number![[Pasted image 20230928212737.png]]::a
  ^c5d009
 
 1. Find the Base of Numbers for Quardic Equation ![[Pasted image 20230928112103.png]]::8

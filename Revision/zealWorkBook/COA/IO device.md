@@ -7,6 +7,7 @@ startQ: 10
 endQ: 31
 atQ: 31
 last_time: 2023-10-13T00:00:00.000+05:30
+status: Revision
 ---
 #card/COA/io_device ![[Pasted image 20231012170717.png]]::512
 
