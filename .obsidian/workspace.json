@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e54196fe624ed27",
+        "id": "56fef1ba75033d46",
         "type": "tabs",
         "children": [
           {
-            "id": "e3346075d6daffbb",
+            "id": "da708d0de347c16e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,20 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1312dde62ba2c8e2",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "DialyStuff/2023-10-28.md",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DialyStuff/2023-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DialyStuff/2023-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2023-10-28.md"
+              }
             }
           },
           {
@@ -206,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,11 +224,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "1312dde62ba2c8e2",
+  "active": "da708d0de347c16e",
   "lastOpenFiles": [
+    "Revision/zealWorkBook/DM/Number of subsets and Cardinality of set.md",
+    "Revision/zealWorkBook/DM/Cartesian products of sets.md",
+    "DialyStuff/2023-10-28.md",
+    "try.md",
     "MicroNoteArrage.md",
     "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
-    "DialyStuff/2023-10-28.md",
     "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
     "DialyStuff/2023-10-27.md",
     "Cd.md",
@@ -253,7 +248,6 @@
     "Revision/zealWorkBook/CN/media/Pasted image 20231027153938.png",
     "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
-    "Revision/zealWorkBook/DM/Cartesian products of sets.md",
     "templates/Normal Task Template.md",
     "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
     "Revision/MicroNotes/DSA/Tree MicroNotes.md",
@@ -268,8 +262,6 @@
     "Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md",
     "Revision/ZealTS/OS/Test ID - 19 OS Test - 1.md",
     "Revision/ZealTS/DBMS/Test 4 DBMS TEST ID 34.md",
-    "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
-    "Revision/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/GOTS/CN/media",
     "Revision/GOTS/CN",
