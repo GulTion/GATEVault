@@ -3,13 +3,13 @@ type: PYQ
 subject: COA
 ---
 #card/COA/Number_System 
-Big endian - little endian (A,D) ![[Pasted image 20230929155216.png]]::A,D
+Big endian - little endian (A,D) ![[Pasted image 20230929155216.png]]::A,D <!--SR:!2023-10-31,3,250-->
 
  
-Maximum Value of Fractional Part (D) ![[Pasted image 20230929174614.png]]::D![[Pasted image 20230929174738.png]]
+Maximum Value of Fractional Part (D) ![[Pasted image 20230929174614.png]]::D![[Pasted image 20230929174738.png]] <!--SR:!2023-11-01,4,270-->
 
 
-Find Radix of Numbers![[Pasted image 20230929180646.png]]::![[Pasted image 20230929180708.png]]
+Find Radix of Numbers![[Pasted image 20230929180646.png]]::![[Pasted image 20230929180708.png]] <!--SR:!2023-11-01,4,270-->
 
 
  #r2 Booth Algorithm for Addition and Substraction![[Pasted image 20230929183631.png]]:: #notes/COA/Number_System/booth_Algo ![[Pasted image 20230929183649.png]]

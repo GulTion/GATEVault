@@ -11,6 +11,16 @@
             "id": "45f5c3069ed818b6",
             "type": "leaf",
             "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Revision/MicroNotes/MicroNotesDB.md"
+              }
+            }
+          },
+          {
+            "id": "bcbac57ad5ccc6a1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "DialyStuff/2023-10-28.md",
@@ -19,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -225,15 +236,24 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "45f5c3069ed818b6",
+  "active": "bcbac57ad5ccc6a1",
   "lastOpenFiles": [
+    "Revision/MicroNotes/C- MicroNotes.md",
+    "Revision/MicroNotes/media/Pasted image 20231028175630.png",
+    "Revision/MicroNotes/media/Pasted image 20231028175620.png",
+    "Revision/MicroNotes/media/Pasted image 20231028175501.png",
+    "Revision/MicroNotes/media/Pasted image 20231028175441.png",
+    "Revision/MicroNotes/media/Pasted image 20231028175237.png",
+    "Revision/MicroNotes/media/Pasted image 20231028175219.png",
+    "Revision/MicroNotes/media",
+    "Revision/MicroNotes/MicroNotesDB.md",
+    "DialyStuff/2023-10-28.md",
     "Revision/media/PYQRevision/COA/media/Pasted image 20230929183631.png",
     "Revision/zealWorkBook/OS/InterProcess Communication.md",
     "Gk.md",
     "media/Pasted image 20231028171547.png",
     "Revision/zealWorkBook/DBMS/media/Pasted image 20231028163539.png",
     "Revision/zealWorkBook/zealWorkBookDB.md",
-    "DialyStuff/2023-10-28.md",
     "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
     "TEST PROGRESS.md",
     "Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md",
@@ -253,16 +273,7 @@
     "Revision/zealWorkBook/MATH/2 CONDITIONAL PROBABILITY.md",
     "Revision/zealWorkBook/MATH/1 Basic concept of probability.md",
     "Revision/zealWorkBook/DM/Partial Order Relation-zeal.md",
-    "Revision/zealWorkBook/DM/Planner and its Properties.md",
-    "Revision/zealWorkBook/DM/Chromatic Number.md",
     "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164422.png",
-    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164341.png",
-    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164218.png",
-    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164209.png",
-    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164145.png",
-    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164135.png",
-    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164006.png",
-    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028163956.png",
     "Revision/zealWorkBook/DBMS/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/GOTS/CN/media",
@@ -272,7 +283,6 @@
     "Revision/zealWorkBook/DSA/media",
     "Revision/MicroNotes/DSA/media",
     "Revision/MicroNotes/DSA",
-    "Revision/zealWorkBook/DSA",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
