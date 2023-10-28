@@ -12,7 +12,7 @@ tags:
 #card/CN/ApplicationLayer
 statements about the HTTP for the persistence and non-persistence connection	![[Pasted image 20231001083255.png]]::B <!--SR:!2023-10-29,2,226-->
 
-local DNS server function statement![[Pasted image 20231001084809.png]]::D <!--SR:!2023-10-28,4,230-->
+local DNS server function statement![[Pasted image 20231001084809.png]]::D <!--SR:!2023-11-05,8,230-->
 
 statements for DNS TTL![[Pasted image 20231001085805.png]]::D <!--SR:!2023-11-04,10,270-->
 
