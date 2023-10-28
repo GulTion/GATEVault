@@ -37,8 +37,8 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 |          |                                                               |
 
 
-8. maximum and minimum positive number in custom IEEE![[Pasted image 20231007100240.png]]::![[Pasted image 20231007100253.png]]
-- 16. find Number Around N![[Pasted image 20231007100914.png]]::![[Pasted image 20231007100920.png]]
+8. maximum and minimum positive number in custom IEEE![[Pasted image 20231007100240.png]]::![[Pasted image 20231007100253.png]] <!--SR:!2023-10-31,3,250-->
+- 16. find Number Around N![[Pasted image 20231007100914.png]]::![[Pasted image 20231007100920.png]] <!--SR:!2023-11-01,4,270-->
 - 25. how many normalazed number in IEEE![[Pasted image 20231007104039.png]]::![[Pasted image 20231007104045.png]]
 
 
