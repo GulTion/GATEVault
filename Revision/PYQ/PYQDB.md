@@ -39,7 +39,7 @@ columns:
     key: startQ
     id: startQ
     label: startQ
-    position: 9
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -59,7 +59,7 @@ columns:
     key: endQ
     id: endQ
     label: endQ
-    position: 10
+    position: 11
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -79,7 +79,7 @@ columns:
     key: totalQ
     id: totalQ
     label: totalQ
-    position: 11
+    position: 12
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -99,7 +99,7 @@ columns:
     key: atQ
     id: atQ
     label: atQ
-    position: 7
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -154,7 +154,7 @@ columns:
     label: last_time
     position: 5
     skipPersist: false
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     config:
       enable_media_view: true
@@ -173,7 +173,7 @@ columns:
     label: repeation
     position: 4
     skipPersist: false
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     width: 62
     config:
@@ -191,7 +191,7 @@ columns:
     key: complete_till
     id: complete_till
     label: complete_till
-    position: 8
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -213,7 +213,7 @@ columns:
     label: next_time
     position: 6
     skipPersist: false
-    isHidden: false
+    isHidden: true
     sortIndex: 0
     isSorted: true
     isSortedDesc: false
@@ -262,6 +262,29 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+  status:
+    input: select
+    accessorKey: status
+    key: status
+    id: status
+    label: status
+    position: 7
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "acquiring", value: "acquiring", color: "hsl(302, 95%, 90%)"}
+      - { label: "Analysis", value: "Analysis", color: "hsl(78, 95%, 90%)"}
+      - { label: "Revision", value: "Revision", color: "hsl(255, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal

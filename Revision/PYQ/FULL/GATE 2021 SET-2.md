@@ -1,6 +1,7 @@
 ---
 subject: FULL
 type: PYQ
+status: Revision
 ---
 #card/Full
 # DM

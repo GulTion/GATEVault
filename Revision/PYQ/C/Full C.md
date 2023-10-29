@@ -1,3 +1,8 @@
+---
+type: PYQ
+subject: C
+status: acquiring
+---
 #card/C
 
 ![[Pasted image 20231021132408.png]]

@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "39e246d654784110",
+        "id": "5650a3b15d592e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "45f5c3069ed818b6",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Revision/MicroNotes/MicroNotesDB.md"
-              }
-            }
-          },
-          {
-            "id": "bcbac57ad5ccc6a1",
+            "id": "414b7bdc4b47e773",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-28.md",
+                "file": "DialyStuff/2023-10-29.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-28.md",
+                "file": "DialyStuff/2023-10-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-28.md",
+                "file": "DialyStuff/2023-10-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-28.md"
+                "file": "DialyStuff/2023-10-29.md"
               }
             }
           },
@@ -210,11 +198,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,8 +225,29 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "bcbac57ad5ccc6a1",
+  "active": "414b7bdc4b47e773",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-28.md",
+    "DialyStuff/2023-10-29.md",
+    "Revision/PYQ/PYQDB.md",
+    "Revision/PYQ/DS/Hashing.md",
+    "Revision/PYQ/MATH/Linear_Algebra_PYQ.md",
+    "Revision/PYQ/MATH/Probability.md",
+    "Revision/PYQ/OS/Memory.md",
+    "Revision/PYQ/OS/media/Pasted image 20231028232141.png",
+    "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
+    "Revision/PYQ/COA/Machine Instruction.md",
+    "Revision/PYQ/DBMS/Normal Forms-pyq.md",
+    "Revision/PYQ/DBMS/media/Pasted image 20231028231459.png",
+    "Revision/PYQ/DBMS/media/Pasted image 20231028231215.png",
+    "Revision/PYQ/DBMS/media/Pasted image 20231028231017.png",
+    "Revision/PYQ/DBMS/media",
+    "Revision/PYQ/COA/pipline.md",
+    "Revision/PYQ/COA/Number System.md",
+    "Revision/PYQ/Untitled.md",
+    "Revision/PYQ/C/Full C.md",
+    "Revision/ZealTS/ZealTSDB.md",
+    "Revision/MicroNotes/MicroNotesDB.md",
     "Revision/MicroNotes/C- MicroNotes.md",
     "Revision/MicroNotes/media/Pasted image 20231028175630.png",
     "Revision/MicroNotes/media/Pasted image 20231028175620.png",
@@ -246,34 +256,15 @@
     "Revision/MicroNotes/media/Pasted image 20231028175237.png",
     "Revision/MicroNotes/media/Pasted image 20231028175219.png",
     "Revision/MicroNotes/media",
-    "Revision/MicroNotes/MicroNotesDB.md",
-    "DialyStuff/2023-10-28.md",
-    "Revision/media/PYQRevision/COA/media/Pasted image 20230929183631.png",
     "Revision/zealWorkBook/OS/InterProcess Communication.md",
     "Gk.md",
-    "media/Pasted image 20231028171547.png",
-    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028163539.png",
     "Revision/zealWorkBook/zealWorkBookDB.md",
     "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
     "TEST PROGRESS.md",
     "Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md",
     "Revision/zealWorkBook/CN/TCP.md",
-    "Revision/PYQ/MATH/Probability.md",
     "Revision/PYQ/FULL/GATE 2020.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
-    "Revision/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
-    "Revision/zealWorkBook/OS/7. SEGMENT PAGE TABLE AND INVERT PAGE.md",
-    "Revision/zealWorkBook/OS/6. PAGE REPLACEMENT.pdf.md",
-    "Revision/zealWorkBook/OS/10. FILE SYSTEM AND DISK SCHEDULING.pdf.md",
-    "Revision/zealWorkBook/MATH/4 Binomial distribution.md",
-    "Revision/zealWorkBook/MATH/3 RANDOM VARIABLES, EXPECTATION AND VARIANCE.md",
-    "Revision/zealWorkBook/OS/8. TLB HIT MISS.md",
-    "Revision/zealWorkBook/TOC/12 epi-NFA closure.md",
-    "Revision/zealWorkBook/TOC/14 FA to Language and Vice Versa.md",
-    "Revision/zealWorkBook/MATH/2 CONDITIONAL PROBABILITY.md",
-    "Revision/zealWorkBook/MATH/1 Basic concept of probability.md",
-    "Revision/zealWorkBook/DM/Partial Order Relation-zeal.md",
-    "Revision/zealWorkBook/DBMS/media/Pasted image 20231028164422.png",
     "Revision/zealWorkBook/DBMS/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/GOTS/CN/media",
@@ -282,7 +273,6 @@
     "Revision/ZealTS/CN/media",
     "Revision/zealWorkBook/DSA/media",
     "Revision/MicroNotes/DSA/media",
-    "Revision/MicroNotes/DSA",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
