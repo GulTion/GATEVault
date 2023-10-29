@@ -23,7 +23,7 @@ type: zealWorkBook
 #notes/DBMS/normalisation/CK![[Pasted image 20231028163808.png]]::![[Pasted image 20231028163820.png]]
 
 #notes/DBMS/normalisation/CK  Part of Key is only key if closure contains all attribute![[Pasted image 20231028163857.png]]::![[Pasted image 20231028163906.png]] 
-![[Pasted image 20231028163956.png]]::![[Pasted image 20231028164006.png]]
+![[Pasted image 20231028163956.png]]::![[Pasted image 20231028164006.png]] <!--SR:!2023-11-01,3,268-->
 
 ![[Pasted image 20231007014322.png]]::![[Pasted image 20231007014334.png]] <!--SR:!2023-11-01,3,250-->
 

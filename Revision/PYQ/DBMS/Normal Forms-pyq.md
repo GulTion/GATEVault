@@ -13,13 +13,13 @@ statment about the prime attribute![[Pasted image 20231007214323.png]]::![[Paste
 Check BCNF from the statement condition![[Pasted image 20231008095838.png]]::![[Pasted image 20231008095924.png]] <!--SR:!2023-10-30,1,230-->
 
 
-lossless join and dependecny preserving![[Pasted image 20231028231215.png]]::![[Pasted image 20231008101353.png]]
+lossless join and dependecny preserving![[Pasted image 20231028231215.png]]::![[Pasted image 20231008101353.png]] <!--SR:!2023-11-02,4,270-->
 
 
 FD and MVD ![[Pasted image 20231008102802.png]]::![[Pasted image 20231008102813.png]]
 
 
-FD and MVD![[Pasted image 20231008113134.png]]::![[Pasted image 20231008113156.png]]
+#today FD and MVD![[Pasted image 20231008113134.png]]::B![[Pasted image 20231008113156.png]]
 
 
 BCNF defination![[Pasted image 20231008113937.png]]::![[Pasted image 20231008114000.png]]
