@@ -9,7 +9,7 @@ repeation: 4
 tags: []
 ---
 #card/CN/ApplicationLayer
-statements about the HTTP for the persistence and non-persistence connection	![[Pasted image 20231001083255.png]]::B <!--SR:!2023-10-29,2,226-->
+statements about the HTTP for the persistence and non-persistence connection	![[Pasted image 20231001083255.png]]::B <!--SR:!2023-11-05,7,246-->
 
 local DNS server function statement![[Pasted image 20231001084809.png]]::D <!--SR:!2023-11-05,8,230-->
 

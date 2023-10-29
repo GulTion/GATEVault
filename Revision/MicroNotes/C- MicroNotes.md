@@ -1,6 +1,6 @@
 #card/C 
 
-![[Pasted image 20231028175219.png]]::![[Pasted image 20231028175237.png]] <!--SR:!2023-10-29,1,230-->
+![[Pasted image 20231028175219.png]]::![[Pasted image 20231028175237.png]] <!--SR:!2023-10-30,1,210-->
 
 ![[Pasted image 20231028175441.png]]::![[Pasted image 20231028175501.png]] <!--SR:!2023-10-31,3,250-->
 
