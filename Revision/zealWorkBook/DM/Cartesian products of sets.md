@@ -9,9 +9,9 @@ subType: topicWise
 ---
 #card/DM/set_Theory/Cartesin_Product 
 
-![[Pasted image 20231027122552.png]]::212![[Pasted image 20231027122605.png]]
+![[Pasted image 20231027122552.png]]::212![[Pasted image 20231027122605.png]] <!--SR:!2023-11-02,4,270-->
 
-![[Pasted image 20231027122747.png]]::![[Pasted image 20231027122818.png]]
+![[Pasted image 20231027122747.png]]::![[Pasted image 20231027122818.png]] <!--SR:!2023-11-02,4,270-->
 
-![[Pasted image 20231027123236.png]]::A
+![[Pasted image 20231027123236.png]]::A <!--SR:!2023-11-02,4,270-->
 

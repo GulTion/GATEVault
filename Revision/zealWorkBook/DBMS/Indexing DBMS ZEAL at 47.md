@@ -15,4 +15,4 @@ Calculate the Order of the B+Tree for Leaf Block![[Pasted image 20231028162922.p
 Leaf Blocks needed if fill with 70%![[Pasted image 20231028162942.png]]![[Pasted image 20231028163128.png]]::![[Pasted image 20231028163136.png]] <!--SR:!2023-11-02,4,270-->
 
 
-Number of level needed if Non-leaf is full with 70%![[Pasted image 20231028162949.png]]![[Pasted image 20231028163225.png]]::![[Pasted image 20231028163302.png]]
+Number of level needed if Non-leaf is full with 70%![[Pasted image 20231028162949.png]]![[Pasted image 20231028163225.png]]::![[Pasted image 20231028163302.png]] <!--SR:!2023-11-02,4,270-->
