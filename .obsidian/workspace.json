@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-29.md",
+                "file": "Revision/zealWorkBook/C/C-advanced-zeal.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-29.md",
+                "file": "Revision/zealWorkBook/C/C-advanced-zeal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-29.md",
+                "file": "Revision/zealWorkBook/C/C-advanced-zeal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-29.md"
+                "file": "Revision/zealWorkBook/C/C-advanced-zeal.md"
               }
             }
           },
@@ -202,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 384.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,8 +226,9 @@
   },
   "active": "414b7bdc4b47e773",
   "lastOpenFiles": [
-    "DialyStuff/2023-10-28.md",
     "DialyStuff/2023-10-29.md",
+    "Revision/zealWorkBook/C/C-advanced-zeal.md",
+    "DialyStuff/2023-10-28.md",
     "Revision/PYQ/PYQDB.md",
     "Revision/PYQ/DS/Hashing.md",
     "Revision/PYQ/MATH/Linear_Algebra_PYQ.md",
@@ -264,7 +264,6 @@
     "Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md",
     "Revision/zealWorkBook/CN/TCP.md",
     "Revision/PYQ/FULL/GATE 2020.md",
-    "Revision/zealWorkBook/CN/Application Layer 1.md",
     "Revision/zealWorkBook/DBMS/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/GOTS/CN/media",
