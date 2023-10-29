@@ -4,13 +4,13 @@ subject: DBMS
 status: Revision
 ---
 #card/DBMS/Normalization 
-![[Pasted image 20231028231017.png]]::![[Pasted image 20231007214022.png]]
+![[Pasted image 20231028231017.png]]::![[Pasted image 20231007214022.png]] <!--SR:!2023-11-01,3,250-->
 
 
 statment about the prime attribute![[Pasted image 20231007214323.png]]::![[Pasted image 20231007214348.png]]
 
 
-Check BCNF from the statement condition![[Pasted image 20231008095838.png]]::![[Pasted image 20231008095924.png]]
+Check BCNF from the statement condition![[Pasted image 20231008095838.png]]::![[Pasted image 20231008095924.png]] <!--SR:!2023-10-30,1,230-->
 
 
 lossless join and dependecny preserving![[Pasted image 20231028231215.png]]::![[Pasted image 20231008101353.png]]

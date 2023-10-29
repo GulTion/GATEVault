@@ -9,14 +9,14 @@ type: zealWorkBook
 ?
   | A   | B   | we can't conclude that A->B
   | --- | --- | we can only tell about violation
-  | 1  | 2   |
+  | 1  | 2   | <!--SR:!2023-11-01,3,268-->
 
 
 #notes/DBMS/normalisation/CK  Find Key![[Pasted image 20231028163523.png]]::![[Pasted image 20231028163539.png]]
 
 #notes/DBMS/normalisation/CK  Number of Keys![[Pasted image 20231028163622.png]]::![[Pasted image 20231028163630.png]]
 
-- #notes/DBMS/normalisation/SK  number of superkeys![[Pasted image 20231028163705.png]]::![[Pasted image 20231028163713.png]]
+- #notes/DBMS/normalisation/SK  number of superkeys![[Pasted image 20231028163705.png]]::![[Pasted image 20231028163713.png]] <!--SR:!2023-11-01,3,268-->
 
 
 #notes/DBMS/normalisation/SK ![[Pasted image 20231006213054.png]]::![[Pasted image 20231006213111.png]] 
@@ -25,7 +25,7 @@ type: zealWorkBook
 #notes/DBMS/normalisation/CK  Part of Key is only key if closure contains all attribute![[Pasted image 20231028163857.png]]::![[Pasted image 20231028163906.png]] 
 ![[Pasted image 20231028163956.png]]::![[Pasted image 20231028164006.png]]
 
-![[Pasted image 20231007014322.png]]::![[Pasted image 20231007014334.png]] <!--SR:!2023-10-29,1,230-->
+![[Pasted image 20231007014322.png]]::![[Pasted image 20231007014334.png]] <!--SR:!2023-11-01,3,250-->
 
 ![[Pasted image 20231007014414.png]]::![[Pasted image 20231007014431.png]]
 
@@ -33,7 +33,7 @@ type: zealWorkBook
 
 ![[Pasted image 20231007014605.png]]::![[Pasted image 20231007014619.png]]
 
-![[Pasted image 20231028164135.png]]::![[Pasted image 20231028164145.png]]
+![[Pasted image 20231028164135.png]]::![[Pasted image 20231028164145.png]] <!--SR:!2023-10-31,2,248-->
 
-MVD![[Pasted image 20231028164209.png]]::![[Pasted image 20231028164218.png]]
+MVD![[Pasted image 20231028164209.png]]::![[Pasted image 20231028164218.png]] <!--SR:!2023-10-31,2,248-->
 

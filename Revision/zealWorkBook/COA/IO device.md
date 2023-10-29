@@ -13,5 +13,5 @@ status: Revision
 
 #today ![[Pasted image 20231012171820.png]]::0.24
 
-![[Pasted image 20231013222450.png]]::![[Pasted image 20231013222502.png]]
+#today ![[Pasted image 20231013222450.png]]::![[Pasted image 20231013222502.png]]
 
