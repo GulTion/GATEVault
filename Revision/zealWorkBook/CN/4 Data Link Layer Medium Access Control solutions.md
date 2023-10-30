@@ -22,10 +22,10 @@ subType: topicWise
 ![[Pasted image 20231027154001.png]]![[Pasted image 20231027153923.png]]::D![[Pasted image 20231027153938.png]] <!--SR:!2023-10-31,3,250-->
 
 
-![[Pasted image 20231027154551.png]]::A, sent by anyone, in which only one sucess and other get fail so![[Pasted image 20231027154608.png]] <!--SR:!2023-10-30,3,250-->
+![[Pasted image 20231027154551.png]]::A, sent by anyone, in which only one sucess and other get fail so![[Pasted image 20231027154608.png]] <!--SR:!2023-11-08,9,270-->
 
 
-![[Pasted image 20231027154935.png]]::D![[Pasted image 20231027154945.png]]
+![[Pasted image 20231027154935.png]]::D![[Pasted image 20231027154945.png]] <!--SR:!2023-11-03,4,275-->
 
 # CSMA/CD and CSMA/CA
 ![[Pasted image 20231027155022.png]]::B <!--SR:!2023-10-31,4,270-->

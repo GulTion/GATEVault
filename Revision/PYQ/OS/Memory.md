@@ -7,5 +7,5 @@ status: acquiring
 
 ![[Pasted image 20231002125807.png]]::![[Pasted image 20231002125817.png]]
 
-![[Pasted image 20231028232141.png]]::![[Pasted image 20231002131308.png]]
+![[Pasted image 20231028232141.png]]::![[Pasted image 20231002131308.png]] <!--SR:!2023-11-03,4,270-->
 

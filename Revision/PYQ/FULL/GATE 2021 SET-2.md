@@ -7,7 +7,7 @@ status: Revision
 # DM
 ## LOGIC
 #notes/dm/logic/implication![[Pasted image 20230923160222.png]] 
-- 1. nice trick for closure properties ![[Pasted image 20231017215142.png]]::![[Pasted image 20231017215227.png]] <!--SR:!2023-10-27,4,270-->
+- 1. nice trick for closure properties ![[Pasted image 20231017215142.png]]::![[Pasted image 20231017215227.png]] <!--SR:!2023-11-14,15,290-->
 - 19 ![[Pasted image 20231018160155.png]]::![[Pasted image 20231018160211.png]] <!--SR:!2023-10-27,4,270-->
 
 ![[Pasted image 20231025154346.png]]::https://gateoverflow.in/357515/gate-cse-2021-set-2-question-25#a_list_title
@@ -16,15 +16,15 @@ status: Revision
 
 ![[Pasted image 20231025160849.png]]::https://gateoverflow.in/357512/gate-cse-2021-set-2-question-28#a_list_title
 
-![[Pasted image 20231026012121.png]]::C
+![[Pasted image 20231026012121.png]]::C <!--SR:!2023-11-03,4,274-->
 
-![[Pasted image 20231026020716.png]]::![[Pasted image 20231026020740.png]]
+![[Pasted image 20231026020716.png]]::![[Pasted image 20231026020740.png]] <!--SR:!2023-11-03,4,274-->
 
 
-![[Pasted image 20231026021503.png]]::![[Pasted image 20231026021537.png]]
+![[Pasted image 20231026021503.png]]::![[Pasted image 20231026021537.png]] <!--SR:!2023-11-03,4,274-->
 
 
 ![[Pasted image 20231026022625.png]]::![[Pasted image 20231026022649.png]]
 
 
-![[Pasted image 20231026023057.png]]::https://gateoverflow.in/357487/gate-cse-2021-set-2-question-50#a_list_title
+![[Pasted image 20231026023057.png]]::https://gateoverflow.in/357487/gate-cse-2021-set-2-question-50#a_list_title <!--SR:!2023-11-03,4,274-->

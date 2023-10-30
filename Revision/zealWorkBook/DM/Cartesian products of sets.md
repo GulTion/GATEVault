@@ -4,7 +4,7 @@ startQ: 75
 endQ: 81
 subject: DM
 type: zealWorkBook
-status: acquiring
+status: Revision
 subType: topicWise
 ---
 #card/DM/set_Theory/Cartesin_Product 

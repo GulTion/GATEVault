@@ -10,7 +10,7 @@ status: Revision
 statment about the prime attribute![[Pasted image 20231007214323.png]]::![[Pasted image 20231007214348.png]] <!--SR:!2023-11-02,4,270-->
 
 
-Check BCNF from the statement condition![[Pasted image 20231008095838.png]]::![[Pasted image 20231008095924.png]] <!--SR:!2023-10-30,1,230-->
+Check BCNF from the statement condition![[Pasted image 20231008095838.png]]::![[Pasted image 20231008095924.png]] <!--SR:!2023-11-02,3,250-->
 
 
 lossless join and dependecny preserving![[Pasted image 20231028231215.png]]::![[Pasted image 20231008101353.png]] <!--SR:!2023-11-02,4,270-->
@@ -28,7 +28,7 @@ BCNF defination![[Pasted image 20231008113937.png]]::![[Pasted image 20231008114
 ![[Pasted image 20231008114221.png]]::![[Pasted image 20231008114242.png]] <!--SR:!2023-11-02,4,270-->
 
 
-- adequte=not more, not less![[Pasted image 20231028231459.png]]::D![[Pasted image 20231008120159.png]]::![[Pasted image 20231008120216.png]]
+- adequte=not more, not less![[Pasted image 20231028231459.png]]::D![[Pasted image 20231008120159.png]]::![[Pasted image 20231008120216.png]] <!--SR:!2023-11-03,4,271-->
 
-![[Pasted image 20231008120255.png]]::![[Pasted image 20231008120311.png]] <!--SR:!2023-10-30,1,230-->
+![[Pasted image 20231008120255.png]]::![[Pasted image 20231008120311.png]] <!--SR:!2023-11-02,3,250-->
 

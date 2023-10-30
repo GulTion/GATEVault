@@ -10,4 +10,4 @@ atQ: 4
 ---
 #card/MATH/linear_algebra/eigen_vector
 
-![[Pasted image 20231019101555.png]]:: A,C,D![[Pasted image 20231019101726.png]]
+![[Pasted image 20231019101555.png]]:: A,C,D![[Pasted image 20231019101726.png]] <!--SR:!2023-11-03,4,270-->

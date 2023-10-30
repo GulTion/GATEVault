@@ -8,5 +8,5 @@ type: zealWorkBook
 ---
 #card/DBMS/Transaction
 # ACID properties
-- Responsibilites of Transaction management![[Pasted image 20231028164341.png]]::A,B,C,D![[Pasted image 20231028164422.png]] <!--SR:!2023-10-30,1,230-->
+- Responsibilites of Transaction management![[Pasted image 20231028164341.png]]::A,B,C,D![[Pasted image 20231028164422.png]] <!--SR:!2023-11-02,3,250-->
 

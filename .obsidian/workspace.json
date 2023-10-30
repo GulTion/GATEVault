@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-10-30.md",
+                "file": "Revision/zealWorkBook/DM/Cartesian products of sets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb17bf7151befed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ZealTS/DBMS/TEST ID-2 DM-2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-30.md",
+                "file": "Revision/ZealTS/DBMS/TEST ID-2 DM-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-30.md",
+                "file": "Revision/ZealTS/DBMS/TEST ID-2 DM-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-30.md"
+                "file": "Revision/ZealTS/DBMS/TEST ID-2 DM-2.md"
               }
             }
           },
@@ -197,12 +210,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,10 +237,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "414b7bdc4b47e773",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
-    "DialyStuff/2023-10-29.md",
+    "Revision/ZealTS/Untitled",
+    "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2 2022.md",
+    "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
+    "Revision/ZealTS/COA/Test ID - 26 CSO Test - 1.md",
+    "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
+    "MicroNoteArrage.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/zealWorkBook/DM/Cartesian products of sets.md",
     "DialyStuff/2023-10-30.md",
+    "DialyStuff/2023-10-29.md",
     "Revision/zealWorkBook/C/C-advanced-zeal.md",
     "DialyStuff/2023-10-28.md",
     "Revision/PYQ/PYQDB.md",
@@ -257,15 +278,7 @@
     "Revision/MicroNotes/media/Pasted image 20231028175237.png",
     "Revision/MicroNotes/media/Pasted image 20231028175219.png",
     "Revision/MicroNotes/media",
-    "Revision/zealWorkBook/OS/InterProcess Communication.md",
-    "Gk.md",
-    "Revision/zealWorkBook/zealWorkBookDB.md",
-    "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md",
-    "TEST PROGRESS.md",
-    "Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md",
-    "Revision/zealWorkBook/CN/TCP.md",
     "Revision/zealWorkBook/DBMS/media",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/GOTS/CN/media",
     "Revision/GOTS/CN",
     "Revision/zealWorkBook/COA/media",
