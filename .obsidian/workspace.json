@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
+                "file": "DialyStuff/2023-10-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
+                "file": "DialyStuff/2023-10-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
+                "file": "DialyStuff/2023-10-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md"
+                "file": "DialyStuff/2023-10-30.md"
               }
             }
           },
@@ -249,20 +250,21 @@
   },
   "active": "cb17bf7151befed8",
   "lastOpenFiles": [
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
     "DialyStuff/2023-10-30.md",
+    "Revision/ZealTS/DM/media/Pasted image 20231030193909.png",
+    "Revision/ZealTS/DM/media/Pasted image 20231030193857.png",
+    "Revision/ZealTS/DM/media/Pasted image 20231030191315.png",
+    "Revision/ZealTS/DM/media/Pasted image 20231030191303.png",
+    "Revision/ZealTS/DM/media/Pasted image 20231030190417.png",
+    "Revision/ZealTS/DM/media/Pasted image 20231030190408.png",
+    "Revision/ZealTS/DM/media/Pasted image 20231030185840.png",
+    "Revision/ZealTS/DM/media/Pasted image 20231030185831.png",
+    "Revision/ZealTS/DM/media",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/PYQ/CN/media/Pasted image 20231030163909.png",
     "Revision/PYQ/CN/media/Pasted image 20231030163555.png",
-    "Revision/PYQ/CN/media/Pasted image 20231030163542.png",
-    "Revision/PYQ/CN/media/Pasted image 20231030162832.png",
-    "Revision/PYQ/CN/media/Pasted image 20231030162817.png",
-    "Revision/PYQ/CN/media/Pasted image 20231030160748.png",
-    "Revision/PYQ/CN/media/Pasted image 20231030160705.png",
-    "Revision/PYQ/CN/media/Pasted image 20231030150423.png",
-    "Revision/PYQ/CN/media/Pasted image 20231030150411.png",
-    "Revision/PYQ/CN/media/Pasted image 20231030144359.png",
     "Revision/PYQ/CN/media",
     "Revision/ShortNotes/CN/ROUTING ALGORITHMS,SWITCHING & IP SUPPORTPROTOCOL.md",
     "Revision/zealWorkBook/DM/Group Theory Basic Solution final.md",
@@ -293,7 +295,6 @@
     "Revision/GOTS/CN/media",
     "Revision/GOTS/CN",
     "Revision/zealWorkBook/COA/media",
-    "Revision/ZealTS/CN/media",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
