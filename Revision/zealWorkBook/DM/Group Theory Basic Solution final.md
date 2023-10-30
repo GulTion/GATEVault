@@ -2,7 +2,7 @@
 subject: DM
 type: zealWorkBook
 status: acquiring
-atQ: 152
+atQ: 66
 startQ: 1
 last_time: 
 endQ: 77
@@ -30,3 +30,4 @@ subType: topicWise
 
 ![[Pasted image 20231030115451.png]]::A,C![[Pasted image 20231030115512.png]]
 
+![[Pasted image 20231030121122.png]]::![[Pasted image 20231030121142.png]]
