@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/DM/Group Theory Basic Solution final.md",
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/zealWorkBook/DM/Group Theory Basic Solution final.md",
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/zealWorkBook/DM/Group Theory Basic Solution final.md",
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/zealWorkBook/DM/Group Theory Basic Solution final.md"
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md"
               }
             }
           },
@@ -249,6 +249,10 @@
   },
   "active": "cb17bf7151befed8",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-30.md",
+    "Revision/PYQ/CN/Network Layer Protocol.md",
+    "Revision/ShortNotes/CN/ROUTING ALGORITHMS,SWITCHING & IP SUPPORTPROTOCOL.md",
+    "Revision/zealWorkBook/DM/Group Theory Basic Solution final.md",
     "Revision/zealWorkBook/DM/media/Pasted image 20231030121142.png",
     "Revision/zealWorkBook/DM/media/Pasted image 20231030121122.png",
     "Revision/zealWorkBook/DM/media/Pasted image 20231030115512.png",
@@ -259,9 +263,6 @@
     "Revision/zealWorkBook/DM/media/Pasted image 20231030112751.png",
     "Revision/zealWorkBook/DM/media/Pasted image 20231030112621.png",
     "Revision/zealWorkBook/DM/media/Pasted image 20231030112604.png",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231030112436.png",
-    "DialyStuff/2023-10-30.md",
-    "Revision/zealWorkBook/DM/Group Theory Basic Solution final.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
     "Revision/ZealTS/OS/Test ID - 19 OS Test - 1.md",
@@ -287,7 +288,6 @@
     "Revision/PYQ/DBMS/Normal Forms-pyq.md",
     "Revision/PYQ/DBMS/media",
     "Revision/PYQ/COA/pipline.md",
-    "Revision/PYQ/COA/Number System.md",
     "Revision/MicroNotes/media",
     "Revision/zealWorkBook/DBMS/media",
     "Revision/GOTS/CN/media",
