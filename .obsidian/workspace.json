@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealTS/DBMS/TEST ID-2 DM-2.md",
+                "file": "Revision/zealWorkBook/DM/Group Theory Basic Solution final.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "74547494a33405be",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
               }
             }
           }
@@ -132,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/DBMS/TEST ID-2 DM-2.md",
+                "file": "Revision/zealWorkBook/DM/Group Theory Basic Solution final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/DBMS/TEST ID-2 DM-2.md",
+                "file": "Revision/zealWorkBook/DM/Group Theory Basic Solution final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/DBMS/TEST ID-2 DM-2.md"
+                "file": "Revision/zealWorkBook/DM/Group Theory Basic Solution final.md"
               }
             }
           },
@@ -210,12 +220,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,17 +247,26 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5b301f141e47d7da",
+  "active": "cb17bf7151befed8",
   "lastOpenFiles": [
-    "Revision/ZealTS/Untitled",
+    "Revision/zealWorkBook/DM/media/Pasted image 20231030105543.png",
+    "Revision/zealWorkBook/DM/media/Pasted image 20231030105434.png",
+    "Revision/zealWorkBook/DM/media/Pasted image 20231030104650.png",
+    "Revision/zealWorkBook/DM/media/Pasted image 20231030104639.png",
+    "DialyStuff/2023-10-30.md",
+    "Revision/zealWorkBook/DM/Group Theory Basic Solution final.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
+    "Revision/ZealTS/OS/Test ID - 19 OS Test - 1.md",
+    "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
+    "Revision/ZealTS/DM/TEST ID-2 DM-2.md",
+    "Revision/ZealTS/DM",
     "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2 2022.md",
     "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
     "Revision/ZealTS/COA/Test ID - 26 CSO Test - 1.md",
     "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
     "MicroNoteArrage.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/zealWorkBook/DM/Cartesian products of sets.md",
-    "DialyStuff/2023-10-30.md",
     "DialyStuff/2023-10-29.md",
     "Revision/zealWorkBook/C/C-advanced-zeal.md",
     "DialyStuff/2023-10-28.md",
@@ -266,17 +285,9 @@
     "Revision/PYQ/DBMS/media",
     "Revision/PYQ/COA/pipline.md",
     "Revision/PYQ/COA/Number System.md",
-    "Revision/PYQ/Untitled.md",
-    "Revision/PYQ/C/Full C.md",
-    "Revision/ZealTS/ZealTSDB.md",
-    "Revision/MicroNotes/MicroNotesDB.md",
-    "Revision/MicroNotes/C- MicroNotes.md",
     "Revision/MicroNotes/media/Pasted image 20231028175630.png",
     "Revision/MicroNotes/media/Pasted image 20231028175620.png",
     "Revision/MicroNotes/media/Pasted image 20231028175501.png",
-    "Revision/MicroNotes/media/Pasted image 20231028175441.png",
-    "Revision/MicroNotes/media/Pasted image 20231028175237.png",
-    "Revision/MicroNotes/media/Pasted image 20231028175219.png",
     "Revision/MicroNotes/media",
     "Revision/zealWorkBook/DBMS/media",
     "Revision/GOTS/CN/media",
@@ -284,7 +295,6 @@
     "Revision/zealWorkBook/COA/media",
     "Revision/ZealTS/CN/media",
     "Revision/zealWorkBook/DSA/media",
-    "Revision/MicroNotes/DSA/media",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
