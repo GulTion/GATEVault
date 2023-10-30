@@ -13,3 +13,11 @@ status: acquiring
 ![[Pasted image 20231030144316.png]]::A,C ![[Pasted image 20231030144359.png]]
 
 ![[Pasted image 20231030150411.png]]::![[Pasted image 20231030150423.png]]
+
+![[Pasted image 20231030160705.png]]::C![[Pasted image 20231030160748.png]]
+
+![[Pasted image 20231030162817.png]]::A![[Pasted image 20231030162832.png]]
+
+![[Pasted image 20231030163542.png]]::256![[Pasted image 20231030163555.png]]
+
+![[Pasted image 20231030163909.png]]::
