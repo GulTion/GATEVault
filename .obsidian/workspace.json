@@ -44,17 +44,19 @@
             }
           },
           {
-            "id": "74547494a33405be",
+            "id": "b621324c5525d468",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+                "file": "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -154,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-10-31.md",
+                "file": "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-10-31.md",
+                "file": "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-10-31.md"
+                "file": "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md"
               }
             }
           },
@@ -232,7 +235,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,27 +262,31 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8755661a90ed0cc4",
+  "active": "b621324c5525d468",
   "lastOpenFiles": [
-    "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
+    "Revision/ZealTS/DM/media/Pasted image 20231031123116.png",
+    "Revision/ZealTS/DM/media/Pasted image 20231031123053.png",
+    "Revision/ZealTS/DM/media/Pasted image 20231031121215.png",
+    "Revision/ZealTS/DM/media/Pasted image 20231031121206.png",
+    "Revision/ZealTS/DM/media/Pasted image 20231031121158.png",
+    "Revision/ZealTS/DM/media/Pasted image 20231031121144.png",
+    "MicroNoteArrage.md",
+    "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
     "DialyStuff/2023-10-31.md",
+    "Revision/PYQ/OS/Memory.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "StackForSubjects.md",
+    "templates/Normal Task Template.md",
+    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
+    "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231030224221.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231030224133.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231030224121.png",
-    "StackForSubjects.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "fromWhereSubject.md",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "DialyStuff/2023-10-30.md",
-    "MicroNoteArrage.md",
-    "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
     "Revision/ZealTS/DM/media/Pasted image 20231030193909.png",
     "Revision/ZealTS/DM/media/Pasted image 20231030193857.png",
-    "Revision/ZealTS/DM/media/Pasted image 20231030191315.png",
-    "Revision/ZealTS/DM/media/Pasted image 20231030191303.png",
-    "Revision/ZealTS/DM/media/Pasted image 20231030190417.png",
-    "Revision/ZealTS/DM/media/Pasted image 20231030190408.png",
-    "Revision/ZealTS/DM/media/Pasted image 20231030185840.png",
     "Revision/ZealTS/DM/media",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/PYQ/CN/media",
@@ -296,10 +304,6 @@
     "Revision/zealWorkBook/DM/Cartesian products of sets.md",
     "DialyStuff/2023-10-29.md",
     "Revision/zealWorkBook/C/C-advanced-zeal.md",
-    "DialyStuff/2023-10-28.md",
-    "Revision/PYQ/PYQDB.md",
-    "Revision/PYQ/DS/Hashing.md",
-    "Revision/PYQ/MATH/Linear_Algebra_PYQ.md",
     "Revision/PYQ/DBMS/media",
     "Revision/MicroNotes/media",
     "Revision/zealWorkBook/DBMS/media",
