@@ -119,9 +119,45 @@
             "id": "88d1bbc5333a8f3a",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2db16dbf72a01934",
+            "type": "leaf",
+            "state": {
               "type": "database-plugin",
               "state": {
-                "file": "Revision/ZealTS/ZealTSDB.md"
+                "file": "Revision/PYQ/PYQDB.md"
+              }
+            }
+          },
+          {
+            "id": "ab0203eb015a2659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/PYQ/OS/Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bda02d6da8768659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Question for Trick.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -138,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -238,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/ZealTSDB.md",
+                "file": "Revision/PYQ/OS/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/ZealTSDB.md",
+                "file": "Revision/PYQ/OS/Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/ZealTSDB.md"
+                "file": "Revision/PYQ/OS/Memory.md"
               }
             }
           },
@@ -343,33 +379,36 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "88d1bbc5333a8f3a",
+  "active": "ab0203eb015a2659",
   "lastOpenFiles": [
-    "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
-    "Revision/ZealTS/ZealTSDB.md",
+    "Revision/PYQ/OS/media/Pasted image 20231031190230.png",
+    "Revision/PYQ/OS/media/Pasted image 20231031185836.png",
+    "Revision/PYQ/OS/media/Pasted image 20231031185603.png",
+    "Revision/PYQ/OS/media/Pasted image 20231031185420.png",
+    "Question for Trick.md",
+    "media/Pasted image 20231031185359.png",
+    "Revision/PYQ/OS/Memory.md",
+    "Revision/PYQ/OS/media/Pasted image 20231031185040.png",
+    "Revision/PYQ/OS/media/Pasted image 20231031185011.png",
+    "Revision/PYQ/OS/media/Pasted image 20231031184832.png",
+    "Revision/PYQ/OS/media/Pasted image 20231031184718.png",
+    "media/Pasted image 20231031182548.png",
+    "Revision/PYQ/PYQDB.md",
     "DialyStuff/2023-10-31.md",
+    "Revision/ZealTS/ZealTSDB.md",
+    "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/PYQ/CN/media/Pasted image 20231031170132.png",
-    "Revision/PYQ/CN/media/Pasted image 20231031170044.png",
-    "Revision/PYQ/CN/media/Pasted image 20231031170020.png",
-    "Revision/PYQ/CN/media/Pasted image 20231031163659.png",
-    "Revision/PYQ/CN/media/Pasted image 20231031163646.png",
-    "Revision/PYQ/CN/media/Pasted image 20231031163449.png",
     "MicroNoteArrage.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/ZealTS/DSA/Untitled.md",
     "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231031152902.png",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231031152851.png",
     "StackForSubjects.md",
     "templates/dailyNote Template.md",
     "templates/Normal Task Template.md",
     "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231031140650.png",
-    "Revision/zealWorkBook/DM/media/Pasted image 20231031140454.png",
     "Revision/zealWorkBook/DM/Random about Numbers and Path.md",
     "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
-    "Revision/PYQ/OS/Memory.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
     "fromWhereSubject.md",
@@ -381,10 +420,7 @@
     "Revision/zealWorkBook/DM/Group Theory Basic Solution final.md",
     "Revision/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
     "Revision/ZealTS/OS/Test ID - 19 OS Test - 1.md",
-    "Revision/ZealTS/DM/TEST ID-2 DM-2.md",
     "Revision/ZealTS/DM",
-    "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2 2022.md",
-    "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
     "Revision/PYQ/DBMS/media",
     "Revision/MicroNotes/media",
     "Revision/zealWorkBook/DBMS/media",
