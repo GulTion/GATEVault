@@ -20,7 +20,7 @@ RTT BandWidht Relation
 > ![[TCP Notes#^3862a9]] <!--SR:!2023-11-09,9,270-->
 
 
-- Window Size Calculation #today ![[Pasted image 20230930132716.png]]![[Pasted image 20230930132738.png]]::DO ALL <!--SR:!2023-11-01,3,250-->
+- Window Size Calculation #today ![[Pasted image 20230930132716.png]]![[Pasted image 20230930132738.png]]::DO ALL <!--SR:!2023-11-07,6,250-->
 
-congested slow start![[Pasted image 20231013234533.png]]::![[Pasted image 20231013234540.png]] <!--SR:!2023-11-01,3,250-->
+congested slow start![[Pasted image 20231013234533.png]]::![[Pasted image 20231013234540.png]] <!--SR:!2023-11-13,12,270-->
 

@@ -38,7 +38,7 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 
 
 8. maximum and minimum positive number in custom IEEE![[Pasted image 20231007100240.png]]::![[Pasted image 20231007100253.png]] <!--SR:!2023-11-13,13,270-->
-- 16. find Number Around N![[Pasted image 20231007100914.png]]::![[Pasted image 20231007100920.png]] <!--SR:!2023-11-01,4,270-->
+- 16. find Number Around N![[Pasted image 20231007100914.png]]::![[Pasted image 20231007100920.png]] <!--SR:!2023-11-15,14,290-->
 undefined
 
 

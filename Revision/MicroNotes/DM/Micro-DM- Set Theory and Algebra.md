@@ -1,12 +1,12 @@
 #card/micro/DM/Set_Theory
 
-what is **equivalent set**::![[Pasted image 20231026130726.png]]
+what is **equivalent set**::![[Pasted image 20231026130726.png]] <!--SR:!2023-11-05,4,270-->
 
 when will u say two set are **compareable**::![[Pasted image 20231026131050.png]]
 
 what is **absorption law**::![[Pasted image 20231026131226.png]]
 
-what is **Domain and Codomain of function**::![[Pasted image 20231026131359.png]] <!--SR:!2023-10-30,3,250-->
+what is **Domain and Codomain of function**::![[Pasted image 20231026131359.png]] <!--SR:!2023-11-13,12,270-->
 
 how many **numbers of function are in |A|=m and |B|=n**?::![[Pasted image 20231026131548.png]]
 

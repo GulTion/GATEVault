@@ -4,7 +4,7 @@ subject: DBMS
 status: Revision
 ---
 #card/DBMS/Normalization 
-![[Pasted image 20231028231017.png]]::![[Pasted image 20231007214022.png]] <!--SR:!2023-11-01,3,250-->
+![[Pasted image 20231028231017.png]]::![[Pasted image 20231007214022.png]] <!--SR:!2023-11-11,10,270-->
 
 
 statment about the prime attribute![[Pasted image 20231007214323.png]]::![[Pasted image 20231007214348.png]] <!--SR:!2023-11-02,4,270-->
@@ -22,7 +22,7 @@ lossless join and dependecny preserving![[Pasted image 20231028231215.png]]::![[
 #today FD and MVD![[Pasted image 20231008113134.png]]::B![[Pasted image 20231008113156.png]]
 
 
-BCNF defination![[Pasted image 20231008113937.png]]::![[Pasted image 20231008114000.png]] <!--SR:!2023-11-01,3,250-->
+BCNF defination![[Pasted image 20231008113937.png]]::![[Pasted image 20231008114000.png]] <!--SR:!2023-11-10,9,270-->
 
 
 ![[Pasted image 20231008114221.png]]::![[Pasted image 20231008114242.png]] <!--SR:!2023-11-02,4,270-->

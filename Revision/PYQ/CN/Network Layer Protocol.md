@@ -28,8 +28,8 @@ src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 ![[Pasted image 20231031163646.png]]![[Pasted image 20231031163659.png]]::https://gateoverflow.in/2160/gate-cse-2011-question-52#a_list
 
 
-![[Pasted image 20231031170020.png]]::C![[Pasted image 20231031170044.png]]
+![[Pasted image 20231031170020.png]]::C![[Pasted image 20231031170044.png]] <!--SR:!2023-11-05,4,274-->
 
 
-![[Pasted image 20231031170132.png]]::D
+![[Pasted image 20231031170132.png]]::D <!--SR:!2023-11-05,4,274-->
 
