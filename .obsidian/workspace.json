@@ -11,8 +11,12 @@
             "id": "2272b8d388103a46",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-31.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -115,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DialyStuff/2023-10-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DialyStuff/2023-10-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2023-10-31.md"
+              }
             }
           },
           {
