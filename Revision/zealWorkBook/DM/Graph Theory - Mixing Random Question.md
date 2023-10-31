@@ -14,3 +14,8 @@ src: /host/COLLECTION/GATE2023/WorkBooks/zealWorkBook/basic/Discrete Mathematics
 
 ![[Pasted image 20231021112517.png]]::![[Pasted image 20231021112502.png|center|500]] <!--SR:!2023-11-04,10,270-->
 
+![[Pasted image 20231031135818.png]]::D (use formula from shortNotes for Eculerian circuit, traversal the graph from Hamiltonian Graph)
+
+![[Pasted image 20231031140440.png]]::C![[Pasted image 20231031140454.png]]
+
+![[Pasted image 20231031140650.png]]::A

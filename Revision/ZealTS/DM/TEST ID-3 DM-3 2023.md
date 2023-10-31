@@ -2,7 +2,7 @@
 subject: DM
 type: ZealTS
 status: acquiring
-atQ: 11
+atQ: 17
 startQ: 1
 endQ: 25
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=622c73577342fb74544c4c68&test_id=30
@@ -24,4 +24,6 @@ syllabus: Algebraic System (Group Theory)
 
 
 ![[Pasted image 20231031123053.png]]13::A, D![[Pasted image 20231031123116.png]]
+
+![[Pasted image 20231031125110.png]]16::A![[Pasted image 20231031125118.png]]
 
