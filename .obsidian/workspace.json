@@ -56,6 +56,54 @@
             }
           },
           {
+            "id": "74ca27c397e48fcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Normal Task Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8036a9d7f06ee3f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/dailyNote Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37b2f3a9ebc9f195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-10-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f818aff38b6c3ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5e4ca9eaf235e488",
             "type": "leaf",
             "state": {
@@ -68,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -168,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md",
+                "file": "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md",
+                "file": "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md"
+                "file": "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md"
               }
             }
           },
@@ -273,14 +321,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b621324c5525d468",
+  "active": "6f818aff38b6c3ac",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-31.md",
+    "StackForSubjects.md",
+    "templates/dailyNote Template.md",
+    "templates/Normal Task Template.md",
+    "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md",
     "Revision/zealWorkBook/DM/media/Pasted image 20231031140650.png",
     "Revision/zealWorkBook/DM/media/Pasted image 20231031140454.png",
     "Revision/zealWorkBook/DM/media/Pasted image 20231031140440.png",
     "Revision/zealWorkBook/DM/media/Pasted image 20231031135818.png",
-    "DialyStuff/2023-10-31.md",
-    "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md",
     "Revision/zealWorkBook/DM/Random about Numbers and Path.md",
     "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
     "Revision/ZealTS/DM/media/Pasted image 20231031125118.png",
@@ -289,12 +340,9 @@
     "Revision/ZealTS/DM/media/Pasted image 20231031123053.png",
     "Revision/ZealTS/DM/media/Pasted image 20231031121215.png",
     "Revision/ZealTS/DM/media/Pasted image 20231031121206.png",
-    "Revision/ZealTS/DM/media/Pasted image 20231031121158.png",
     "MicroNoteArrage.md",
     "Revision/PYQ/OS/Memory.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "StackForSubjects.md",
-    "templates/Normal Task Template.md",
     "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
     "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
     "fromWhereSubject.md",

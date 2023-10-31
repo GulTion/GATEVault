@@ -2,7 +2,7 @@
 subject: DM
 type: zealWorkBook
 status: acquiring
-atQ: 67
+atQ: 76
 endQ: 107
 startQ: 67
 repeation: 3
