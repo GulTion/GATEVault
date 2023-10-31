@@ -16,7 +16,7 @@ Basic Concept Of Asymptotic Notations, Time Complexity
 # EM
 - [[GO Classes Test Series 2023  Probability  Test]] add extra questions
 - Calculus PYQ from Shreanik Jain
-
+- Bais theorm questions from shrenik jain
 # Apti
 
 # English

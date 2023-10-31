@@ -6,5 +6,3 @@
 ## Indexing
 - B+Tree ready krna jab key de rkhi ho fill krne ke liye [[Test 4 DBMS TEST ID 34#^1d018a]]
 
-
-
