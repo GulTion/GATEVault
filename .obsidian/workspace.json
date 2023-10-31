@@ -97,7 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
+                "file": "DialyStuff/2023-10-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cef2a8fe0c47636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -216,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md"
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md"
               }
             }
           },
@@ -321,9 +333,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6f818aff38b6c3ac",
+  "active": "7cef2a8fe0c47636",
   "lastOpenFiles": [
     "DialyStuff/2023-10-31.md",
+    "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
+    "Revision/ZealTS/DSA/Untitled.md",
+    "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231031152902.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231031152851.png",
     "StackForSubjects.md",
     "templates/dailyNote Template.md",
     "templates/Normal Task Template.md",
@@ -338,13 +355,10 @@
     "Revision/ZealTS/DM/media/Pasted image 20231031125110.png",
     "Revision/ZealTS/DM/media/Pasted image 20231031123116.png",
     "Revision/ZealTS/DM/media/Pasted image 20231031123053.png",
-    "Revision/ZealTS/DM/media/Pasted image 20231031121215.png",
-    "Revision/ZealTS/DM/media/Pasted image 20231031121206.png",
     "MicroNoteArrage.md",
     "Revision/PYQ/OS/Memory.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
-    "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
     "fromWhereSubject.md",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "DialyStuff/2023-10-30.md",
@@ -355,14 +369,12 @@
     "Revision/zealWorkBook/DM/Group Theory Basic Solution final.md",
     "Revision/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
     "Revision/ZealTS/OS/Test ID - 19 OS Test - 1.md",
-    "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/ZealTS/DM/TEST ID-2 DM-2.md",
     "Revision/ZealTS/DM",
     "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2 2022.md",
     "Revision/ZealTS/COA/Test ID - 28 CSO Test - 3 - 2023.md",
     "Revision/ZealTS/COA/Test ID - 26 CSO Test - 1.md",
     "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
-    "Revision/zealWorkBook/DM/Cartesian products of sets.md",
     "Revision/PYQ/DBMS/media",
     "Revision/MicroNotes/media",
     "Revision/zealWorkBook/DBMS/media",
