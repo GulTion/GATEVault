@@ -17,7 +17,7 @@ status: Revision
 RTT BandWidht Relation
 ?
 > [!NOTE]
-> ![[TCP Notes#^3862a9]] <!--SR:!2023-10-31,3,250-->
+> ![[TCP Notes#^3862a9]] <!--SR:!2023-11-09,9,270-->
 
 
 - Window Size Calculation #today ![[Pasted image 20230930132716.png]]![[Pasted image 20230930132738.png]]::DO ALL <!--SR:!2023-11-01,3,250-->

@@ -28,6 +28,6 @@ Kth Packet lost in Selective Repeat![[Pasted image 20231022124236.png]]::![[Past
 ![[Pasted image 20231022124658.png]]::![[Pasted image 20231022124717.png]] <!--SR:!2023-11-07,10,272-->
 
 
-![[Pasted image 20231022124741.png]]::![[Pasted image 20231022124752.png]]^packet-flow-sender-window-to-reciver-window-in-go-back-N <!--SR:!2023-10-27,4,276-->
+ <!--SR:!2023-10-27,4,276-->
 
 ![[Pasted image 20231022131222.png]]::![[Pasted image 20231022131235.png]] <!--SR:!2023-11-13,17,290-->

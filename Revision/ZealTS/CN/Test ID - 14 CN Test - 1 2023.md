@@ -20,4 +20,4 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ![[Pasted image 20231024193817.png]]::![[Pasted image 20231024193824.png]] <!--SR:!2023-11-10,11,276-->
 
 
-![[Pasted image 20231024194357.png]]::![[Pasted image 20231024194402.png]] <!--SR:!2023-10-31,4,276-->
+#today ![[Pasted image 20231024194357.png]]::![[Pasted image 20231024194402.png]] <!--SR:!2023-10-31,4,276-->

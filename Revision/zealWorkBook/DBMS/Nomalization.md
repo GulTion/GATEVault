@@ -33,7 +33,7 @@ type: zealWorkBook
 
 ![[Pasted image 20231007014605.png]]::C![[Pasted image 20231007014619.png]] <!--SR:!2023-11-02,4,274-->
 
-![[Pasted image 20231028164135.png]]::![[Pasted image 20231028164145.png]] <!--SR:!2023-10-31,2,248-->
+![[Pasted image 20231028164135.png]]::![[Pasted image 20231028164145.png]] <!--SR:!2023-11-05,5,268-->
 
-MVD![[Pasted image 20231028164209.png]]::![[Pasted image 20231028164218.png]] <!--SR:!2023-10-31,2,248-->
+#today MVD![[Pasted image 20231028164209.png]]::![[Pasted image 20231028164218.png]] <!--SR:!2023-10-31,2,248-->
 
