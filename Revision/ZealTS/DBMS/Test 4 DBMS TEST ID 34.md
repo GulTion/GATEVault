@@ -15,7 +15,7 @@ status: Revision
 - 9. lack of practice ![[Pasted image 20231014141700.png]]::![[Pasted image 20231014141707.png]] ^1d018a <!--SR:!2023-11-10,10,270-->
 - 10. lack of concept ![[Pasted image 20231014142520.png]]::![[Pasted image 20231014142526.png]] <!--SR:!2023-11-09,9,270-->
 - 11. ![[Pasted image 20231015155434.png]]::![[Pasted image 20231015155441.png]] <!--SR:!2023-11-13,13,270-->
-- 13. ![[Pasted image 20231015160221.png]]::![[Pasted image 20231015160227.png]] <!--SR:!2023-11-01,4,270-->
+#today - 13. ![[Pasted image 20231015160221.png]]::![[Pasted image 20231015160227.png]] <!--SR:!2023-11-01,4,270-->
 - #today 14. lack of concept #r2![[Pasted image 20231015160348.png]]::![[Pasted image 20231015160407.png]] <!--SR:!2023-11-05,4,278-->
 - #today 21 statemwnts ![[Pasted image 20231015164115.png]]:: ![[Pasted image 20231015164119.png]]
 - #today 23 new concept![[Pasted image 20231015164404.png]]::![[Pasted image 20231015164411.png]]

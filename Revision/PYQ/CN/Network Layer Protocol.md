@@ -23,9 +23,9 @@ src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 
 ![[Pasted image 20231030163909.png]]:: <!--SR:!2023-11-04,4,270-->
 
-![[Pasted image 20231031163449.png]]50::https://gateoverflow.in/43317/gate-cse-2011-question-53#a_list
+#today ![[Pasted image 20231031163449.png]]50::https://gateoverflow.in/43317/gate-cse-2011-question-53#a_list
 
-![[Pasted image 20231031163646.png]]![[Pasted image 20231031163659.png]]::https://gateoverflow.in/2160/gate-cse-2011-question-52#a_list
+#today ![[Pasted image 20231031163646.png]]![[Pasted image 20231031163659.png]]::https://gateoverflow.in/2160/gate-cse-2011-question-52#a_list
 
 
 ![[Pasted image 20231031170020.png]]::C![[Pasted image 20231031170044.png]] <!--SR:!2023-11-05,4,274-->
@@ -33,5 +33,5 @@ src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 
 ![[Pasted image 20231031170132.png]]::D <!--SR:!2023-11-05,4,274-->
 
-![[Pasted image 20231101220450.png]]![[Pasted image 20231101220504.png]]::A![[Pasted image 20231101220527.png]]
+![[Pasted image 20231101220450.png]]![[Pasted image 20231101220504.png]]![[Pasted image 20231101220527.png]]::A <!--SR:!2023-11-06,4,276-->
 

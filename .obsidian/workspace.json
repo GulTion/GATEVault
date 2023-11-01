@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
+                "file": "DialyStuff/2023-11-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
+                "file": "DialyStuff/2023-11-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
+                "file": "DialyStuff/2023-11-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/CN/Network Layer Protocol.md"
+                "file": "DialyStuff/2023-11-01.md"
               }
             }
           },
@@ -247,6 +247,8 @@
   },
   "active": "26517dfb64a7d8f6",
   "lastOpenFiles": [
+    "DialyStuff/2023-11-02.md",
+    "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/PYQ/CN/media/Pasted image 20231101220527.png",
     "Revision/PYQ/CN/media/Pasted image 20231101220504.png",
     "Revision/PYQ/CN/media/Pasted image 20231101220450.png",
@@ -268,7 +270,6 @@
     "Untitled.canvas",
     "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
     "Revision/ZealTS/DM/TEST ID-2 DM-2.md",
-    "Revision/ZealTS/DM/media/Pasted image 20231101145634.png",
     "MicroNoteArrage.md",
     "DialyStuff/2023-10-31.md",
     "StackForSubjects.md",
@@ -284,7 +285,6 @@
     "templates/dailyNote Template.md",
     "Revision/PYQ/PYQDB.md",
     "Revision/PYQ/OS/Memory.md",
-    "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/DM/media",
     "Revision/PYQ/CN/media",
