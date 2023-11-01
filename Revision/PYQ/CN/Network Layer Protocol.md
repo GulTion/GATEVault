@@ -33,3 +33,5 @@ src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 
 ![[Pasted image 20231031170132.png]]::D <!--SR:!2023-11-05,4,274-->
 
+![[Pasted image 20231101220450.png]]![[Pasted image 20231101220504.png]]::A![[Pasted image 20231101220527.png]]
+
