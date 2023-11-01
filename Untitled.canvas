@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"c4b19c5226f8ba47","x":-240,"y":-340,"width":800,"height":400,"type":"group","label":"mini"},
+		{"id":"a2dff9b93172a794","x":-200,"y":-320,"width":360,"height":320,"type":"file","file":"DialyStuff/2023-11-01.md"}
+	],
+	"edges":[]
+}

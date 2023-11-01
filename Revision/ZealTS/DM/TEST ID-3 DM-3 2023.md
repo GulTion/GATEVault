@@ -1,7 +1,7 @@
 ---
 subject: DM
 type: ZealTS
-status: acquiring
+status: Revision
 atQ: 17
 startQ: 1
 endQ: 25
