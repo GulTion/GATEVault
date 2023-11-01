@@ -35,6 +35,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "DialyStuff/2023-11-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86a2c9521cde20d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
                 "mode": "source",
                 "source": false
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -247,10 +259,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "648d7bd9778040d8",
+  "active": "86a2c9521cde20d5",
   "lastOpenFiles": [
-    "Revision/ZealTS/ZealTSDB.md",
     "DialyStuff/2023-11-01.md",
+    "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+    "Revision/ZealTS/ZealTSDB.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/ZealTS/DSA/media/Pasted image 20231101164138.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231101164129.png",
