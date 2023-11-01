@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-01.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-01.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-01.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-01.md"
+                "file": "index.md"
               }
             }
           },
@@ -238,8 +238,9 @@
   },
   "active": "2272b8d388103a46",
   "lastOpenFiles": [
-    "MicroNoteArrage.md",
+    "media/Pasted image 20231101104143.png",
     "DialyStuff/2023-11-01.md",
+    "MicroNoteArrage.md",
     "DialyStuff/2023-10-31.md",
     "StackForSubjects.md",
     "WeakSubtopic.md",
@@ -274,7 +275,6 @@
     "Revision/zealWorkBook/DM/Random about Numbers and Path.md",
     "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
     "Revision/ZealTS/DM/media",
     "Revision/PYQ/CN/media",
     "Revision/ZealTS/DM",
