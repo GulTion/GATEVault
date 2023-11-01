@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
+                "file": "DialyStuff/2023-11-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ddb859b68afba5a",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Revision/ZealTS/ZealTSDB.md"
+              }
+            }
+          },
+          {
+            "id": "648d7bd9778040d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
+                "file": "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
+                "file": "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md"
+                "file": "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md"
               }
             }
           },
@@ -224,24 +247,26 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "eb48b3d4bb552ae1",
+  "active": "648d7bd9778040d8",
   "lastOpenFiles": [
-    "Revision/PYQ/MATH/Probability.md",
-    "DialyStuff/2023-11-01.md",
-    "Untitled.canvas",
     "Revision/ZealTS/ZealTSDB.md",
+    "DialyStuff/2023-11-01.md",
+    "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
+    "Revision/ZealTS/DSA/media/Pasted image 20231101164138.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231101164129.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231101164123.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231101162520.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231101162509.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231101162339.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231101162330.png",
+    "Revision/ZealTS/DSA/media",
+    "Revision/PYQ/MATH/Probability.md",
+    "Untitled.canvas",
     "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
     "Revision/ZealTS/DM/TEST ID-2 DM-2.md",
     "Revision/ZealTS/DM/media/Pasted image 20231101145634.png",
     "Revision/ZealTS/DM/media/Pasted image 20231101145625.png",
     "Revision/ZealTS/DM/media/Pasted image 20231101145623 1.png",
-    "Revision/ZealTS/DM/media/Pasted image 20231101145623.png",
-    "Revision/ZealTS/DM/media/Pasted image 20231101145615.png",
-    "Revision/ZealTS/DM/media/Pasted image 20231101145607.png",
-    "Revision/ZealTS/DM/media/Pasted image 20231101145400.png",
-    "Revision/ZealTS/DM/media/Pasted image 20231101145353.png",
-    "Revision/ZealTS/DM/media/Pasted image 20231101145336.png",
-    "Revision/ZealTS/DM/media/Pasted image 20231101145323.png",
     "MicroNoteArrage.md",
     "DialyStuff/2023-10-31.md",
     "StackForSubjects.md",
@@ -259,7 +284,6 @@
     "Revision/PYQ/OS/Memory.md",
     "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
-    "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/ZealTS/DSA/Untitled.md",
     "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
@@ -271,7 +295,6 @@
     "Revision/zealWorkBook/DBMS/media",
     "Revision/GOTS/CN/media",
     "Revision/GOTS/CN",
-    "Revision/zealWorkBook/COA/media",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
