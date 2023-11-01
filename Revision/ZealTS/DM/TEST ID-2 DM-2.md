@@ -6,5 +6,5 @@ completed:
 subject: DM
 type: ZealTS
 status: Analysis
+src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=622065a845e7e84cb6a60679&test_id=7
 ---
-[LINK](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=622065a845e7e84cb6a60679&test_id=7)
