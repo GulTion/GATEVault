@@ -35,4 +35,4 @@ src: https://practicepaper.in/gate-cse/machine-instruction?page_no=1
 
 ![[Pasted image 20231102142759.png]]::B ![[Pasted image 20231102142820.png]]
 
-
+![[Pasted image 20231102151245.png]] #continue 
