@@ -1,7 +1,7 @@
 ---
 startQ: 1
 endQ: 92
-atQ: 71
+atQ: 92
 subject: CN
 type: PYQ
 status: acquiring
@@ -40,4 +40,10 @@ src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 ![[Pasted image 20231102181605.png]]::![[Pasted image 20231102181615.png]]
 
 ![[Pasted image 20231102190240.png]]::C![[Pasted image 20231102190342.png]]
+
+![[Pasted image 20231102190713.png]]::D![[Pasted image 20231102190724.png]]
+
+![[Pasted image 20231102190925.png]]::B![[Pasted image 20231102190940.png]]
+
+![[Pasted image 20231102204756.png]]::260 ![[Pasted image 20231102204814.png]]
 

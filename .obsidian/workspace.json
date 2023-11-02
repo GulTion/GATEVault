@@ -21,9 +21,19 @@
             "id": "47490d6423d5f444",
             "type": "leaf",
             "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Revision/zealWorkBook/zealWorkBookDB.md"
+              }
+            }
+          },
+          {
+            "id": "ca159b60f42d438f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
+                "file": "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
+                "file": "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
+                "file": "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/CN/Network Layer Protocol.md"
+                "file": "Revision/zealWorkBook/CN/5 Network Layer Solutions.md"
               }
             }
           },
@@ -221,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,23 +255,23 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "47490d6423d5f444",
+  "active": "ca159b60f42d438f",
   "lastOpenFiles": [
+    "Revision/zealWorkBook/zealWorkBookDB.md",
+    "Revision/PYQ/CN/Network Layer Protocol.md",
+    "Revision/PYQ/CN/media/Pasted image 20231102204814.png",
+    "Revision/PYQ/CN/media/Pasted image 20231102204756.png",
+    "Revision/PYQ/CN/media/Pasted image 20231102190940.png",
+    "Revision/PYQ/CN/media/Pasted image 20231102190925.png",
+    "Revision/PYQ/CN/media/Pasted image 20231102190724.png",
+    "Revision/PYQ/CN/media/Pasted image 20231102190713.png",
     "Revision/PYQ/CN/media/Pasted image 20231102190342.png",
     "Revision/PYQ/CN/media/Pasted image 20231102190240.png",
     "MicroNoteArrage.md",
-    "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/PYQ/CN/media/Pasted image 20231102181615.png",
     "Revision/PYQ/CN/media/Pasted image 20231102181605.png",
-    "Revision/PYQ/CN/media/Pasted image 20231102181325.png",
-    "Revision/PYQ/CN/media/Pasted image 20231102181314.png",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
-    "Revision/ZealTS/DSA/media/Pasted image 20231102171250.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231102171242.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231102164356.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231102164343.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231102164127.png",
     "DialyStuff/2023-11-02.md",
     "Revision/PYQ/COA/Machine Instruction.md",
     "Revision/PYQ/COA/media/Recording 20231102141546.webm",

@@ -1,5 +1,5 @@
 ---
-{}
+database-plugin: basic
 ---
 
 ```yaml:dbfolder
@@ -251,6 +251,7 @@ columns:
       - { label: "MadeEasyTS", value: "MadeEasyTS", color: "hsl(210, 95%, 90%)"}
       - { label: "GOTS", value: "GOTS", color: "hsl(327, 95%, 90%)"}
       - { label: "DB", value: "DB", color: "hsl(218, 95%, 90%)"}
+      - { label: "ZealAdvWorkBook", value: "ZealAdvWorkBook", color: "hsl(208, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
