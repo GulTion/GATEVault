@@ -11,10 +11,14 @@ endQ: 25
 startQ: 1
 Date:
 ---
-- [ ] ![[Pasted image 20231101162330.png]]::A,B,C,D![[Pasted image 20231101162339.png]]
+ ![[Pasted image 20231101162330.png]]::A,B,C,D![[Pasted image 20231101162339.png]]
 
 ![[Pasted image 20231101162509.png]]::C![[Pasted image 20231101162520.png]]
 
 ![[Pasted image 20231101164123.png]]::B![[Pasted image 20231101164129.png]]![[Pasted image 20231101164138.png]]
 
+
+![[Pasted image 20231102160216.png]]10::C![[Pasted image 20231102160221.png]]
+
+![[Pasted image 20231102160829.png]]12::B![[Pasted image 20231102160841.png]]
 
