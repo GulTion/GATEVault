@@ -10,4 +10,4 @@ subject: DM
 status: acquiring
 ---
  #notes/DM/recurrence #card/DM/recurrence 
-- solve the recurrence relation when homogenous value is given ![[Pasted image 20230925131334.png]]:: ![[Pasted image 20230925131315.png]] <!--SR:!2023-11-02,10,270-->
+- solve the recurrence relation when homogenous value is given ![[Pasted image 20230925131334.png]]:: ![[Pasted image 20230925131315.png]] <!--SR:!2023-11-28,26,270-->

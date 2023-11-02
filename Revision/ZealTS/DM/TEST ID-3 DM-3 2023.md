@@ -27,9 +27,9 @@ syllabus: Algebraic System (Group Theory)
 
 ![[Pasted image 20231031125110.png]]16::A![[Pasted image 20231031125118.png]] <!--SR:!2023-11-05,4,277-->
 
-![[Pasted image 20231101132849.png]]17::6![[Pasted image 20231101132904.png]]
+![[Pasted image 20231101132849.png]]17::6![[Pasted image 20231101132904.png]] <!--SR:!2023-11-06,4,281-->
 
 ![[Pasted image 20231101133550.png]]18
-::b![[Pasted image 20231101133613.png]]
+#bug ::b![[Pasted image 20231101133613.png]]
 
-![[Pasted image 20231101134001.png]]::![[Pasted image 20231101134007.png]]
+![[Pasted image 20231101134001.png]]::![[Pasted image 20231101134007.png]] <!--SR:!2023-11-06,4,281-->

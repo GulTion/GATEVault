@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-01.md",
+                "file": "DialyStuff/2023-11-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-01.md",
+                "file": "DialyStuff/2023-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-01.md",
+                "file": "DialyStuff/2023-11-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-01.md"
+                "file": "DialyStuff/2023-11-02.md"
               }
             }
           },
@@ -227,7 +227,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-day-planner:Week plan": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": true,
       "switcher:Open quick switcher": true,
@@ -239,10 +238,11 @@
       "dbfolder:Create a new database table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "cmdr:Day Planner: Show the Week Planner": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
+      "obsidian-day-planner:Week plan": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "remotely-save:Remotely Save": false
+      "omnisearch:Omnisearch": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
   "active": "26517dfb64a7d8f6",
