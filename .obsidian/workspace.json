@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StackForSubjects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a937e737b387d7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md",
+                "file": "Revision/PYQ/COA/Instruction Addressing Modes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md",
+                "file": "Revision/PYQ/COA/Instruction Addressing Modes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md",
+                "file": "Revision/PYQ/COA/Instruction Addressing Modes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md"
+                "file": "Revision/PYQ/COA/Instruction Addressing Modes.md"
               }
             }
           },
@@ -238,12 +225,21 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "5a937e737b387d7f",
+  "active": "7f58ea5c5ecf36f9",
   "lastOpenFiles": [
-    "Revision/PYQ/DM/recurrence DM PYQ.md",
-    "DialyStuff/2023-11-02.md",
+    "Revision/PYQ/COA/Machine Instruction.md",
+    "Revision/PYQ/COA/Instruction Addressing Modes.md",
+    "Revision/PYQ/COA/media/Pasted image 20231102140844.png",
+    "Revision/PYQ/COA/media/Pasted image 20231102140711.png",
+    "Revision/PYQ/COA/media/Pasted image 20231102135835.png",
     "StackForSubjects.md",
     "Revision/PYQ/DM/Graph Theory.md",
+    "Revision/PYQ/DM/media/Pasted image 20231102133433.png",
+    "Revision/PYQ/DM/media/Pasted image 20231102132234.png",
+    "Revision/PYQ/DM/media/Pasted image 20231102131346.png",
+    "Revision/PYQ/DM/media",
+    "Revision/PYQ/DM/recurrence DM PYQ.md",
+    "DialyStuff/2023-11-02.md",
     "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/PYQ/MATH/Probability.md",
@@ -251,11 +247,7 @@
     "Revision/PYQ/MATH/media/Pasted image 20231102111010.png",
     "Revision/PYQ/MATH/media/Pasted image 20231102110936.png",
     "Revision/PYQ/MATH/media/Pasted image 20231102110903.png",
-    "Revision/PYQ/MATH/media/Pasted image 20231102110159.png",
-    "Revision/PYQ/MATH/media/Pasted image 20231102110136.png",
-    "Revision/PYQ/MATH/media/Pasted image 20231102110112.png",
     "MicroNoteArrage.md",
-    "Revision/media/Notes Revision/Aptitude/Verbal/media/Pasted image 20231005141816.png",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/PYQ/PYQDB.md",
@@ -266,8 +258,6 @@
     "Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md",
     "Untitled.canvas",
     "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
-    "Revision/PYQ/CN/media/Pasted image 20231101220527.png",
-    "Revision/PYQ/CN/media/Pasted image 20231101220504.png",
     "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
     "DialyStuff/2023-11-01.md",
     "Revision/ZealTS/ZealTSDB.md",
@@ -276,8 +266,6 @@
     "Revision/ZealTS/DM/TEST ID-2 DM-2.md",
     "DialyStuff/2023-10-31.md",
     "WeakSubtopic.md",
-    "Revision/PYQ/COA/Machine Instruction.md",
-    "Revision/PYQ/COA/Number System.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/DM/media",
     "Revision/PYQ/CN/media",
@@ -286,7 +274,6 @@
     "Revision/MicroNotes/media",
     "Revision/zealWorkBook/DBMS/media",
     "Revision/GOTS/CN/media",
-    "Revision/GOTS/CN",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
