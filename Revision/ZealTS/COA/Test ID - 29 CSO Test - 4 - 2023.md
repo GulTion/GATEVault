@@ -1,9 +1,8 @@
 ---
-atQ: 15
+atQ: "15"
 type: ZealTS
 subject: COA
 last_time: 2023-10-20T00:00:00.000+05:30
-syllabus: Advanced Pipeline Concept, I/O Interface(Interrupt And DMA), ALU, Data-Path And Control Unit
 startQ: 1
 endQ: 25
 status: Analysis

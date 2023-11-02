@@ -28,9 +28,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8a2039ded330231",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -236,23 +240,23 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "05a481b3e21dd2cf",
+  "active": "e8a2039ded330231",
   "lastOpenFiles": [
-    "Revision/ZealTS/DSA/media/Pasted image 20231102160841.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231102160829.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231102160221.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231102160216.png",
+    "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
+    "Revision/ZealTS/DSA/media/Pasted image 20231102171250.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231102171242.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231102164356.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231102164343.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231102164127.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231102164119.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231102162826.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231102162814.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231102162456.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231102162441.png",
     "DialyStuff/2023-11-02.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/PYQ/COA/Machine Instruction.md",
-    "Revision/PYQ/COA/media/Pasted image 20231102151245.png",
-    "Revision/PYQ/COA/media/Pasted image 20231102142820.png",
-    "Revision/PYQ/COA/media/Pasted image 20231102142759.png",
-    "Revision/PYQ/COA/media/Pasted image 20231102142226.png",
-    "Revision/PYQ/COA/media/Pasted image 20231102142020.png",
     "Revision/PYQ/COA/media/Recording 20231102141546.webm",
-    "Revision/PYQ/COA/media/Pasted image 20231102141504.png",
-    "Revision/PYQ/COA/media/Pasted image 20231102141203.png",
     "Revision/PYQ/COA/Instruction Addressing Modes.md",
     "StackForSubjects.md",
     "Revision/PYQ/DM/Graph Theory.md",
@@ -263,7 +267,6 @@
     "Revision/PYQ/MATH/Probability.md",
     "MicroNoteArrage.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
-    "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/PYQ/PYQDB.md",
     "ad.md",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",

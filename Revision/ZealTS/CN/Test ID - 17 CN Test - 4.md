@@ -1,5 +1,4 @@
 ---
-syllabus: TCP/UDP, Sockets, Congestion Control, Application LayerProtocols (DNS, SMTP, POP, FTP, HTTP And DHCP).
 subject: CN
 type: ZealTS
 status: Revision

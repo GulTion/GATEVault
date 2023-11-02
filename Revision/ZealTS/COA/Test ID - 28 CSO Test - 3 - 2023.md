@@ -1,5 +1,4 @@
 ---
-syllabus: Instruction Set Architecture And Addressing Mode, And Basics Pipeline Concept
 subject: COA
 type: ZealTS
 status: Revision

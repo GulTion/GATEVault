@@ -99,7 +99,7 @@
               {
                 "field": "subject",
                 "operator": "is",
-                "enabled": true,
+                "enabled": false,
                 "value": "DM"
               }
             ]

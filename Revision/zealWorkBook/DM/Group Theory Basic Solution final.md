@@ -6,7 +6,6 @@ atQ: 66
 startQ: 1
 last_time:
 endQ: 77
-syllabus: Group Theory
 src: zealWorkBook
 ---
 #card/DM/Group_Theory

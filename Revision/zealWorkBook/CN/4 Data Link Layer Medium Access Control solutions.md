@@ -5,7 +5,6 @@ endQ: 54
 subject: CN
 type: zealWorkBook
 status: acquiring
-syllabus: " Medium Access Control"
 ---
 #card/CN/MacLaye4
 

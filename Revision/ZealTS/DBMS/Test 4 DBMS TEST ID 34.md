@@ -1,6 +1,5 @@
 ---
 subject: DBMS
-syllabus: Indexing, B-Tree, B+-Tree, Hashing, Transaction And Concurrency Control
 type: ZealTS
 last_time: 2023-10-15T00:00:00.000+05:30
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=631efedfa733d3d3b8fe44e3&test_id=24

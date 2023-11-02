@@ -1,5 +1,4 @@
 ---
-syllabus: Cache Memory
 subject: COA
 type: ZealTS
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=6120f9dfc3b76d335c7fea45&test_id=21

@@ -7,7 +7,6 @@ atQ: 100
 startQ: 1
 endQ: 100
 status: Revision
-syllabus: Sorting
 src: zealWorkBook
 ---
 #card/DSA/Sorting

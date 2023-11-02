@@ -1,5 +1,4 @@
 ---
-syllabus: Inter-Process Communication, Concurrency And SynchronizationAnd Deadlock.
 subject: OS
 type: ZealTS
 status: Analysis

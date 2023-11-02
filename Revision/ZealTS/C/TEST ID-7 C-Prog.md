@@ -1,9 +1,4 @@
 ---
-syllabus: |-
-  Basic Programming (Operators And Expressions, 
-  Data TypesAnd Input-Output Operators, 
-  Control Statements And DecisionMaking, 
-  Arrays, Strings and Functions
 type: ZealTS
 subject: C
 repeation: 15
