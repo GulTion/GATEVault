@@ -1,6 +1,5 @@
 ---
 type: zealWorkBook
-subType: topicWise
 subject: CN
 atQ: 64
 startQ: 1

@@ -1,7 +1,5 @@
 ---
-title: Revision Stuff using PYQ GATE 2021-1
 type: MicroNotes
-isNoted: "false"
 subject: MATH
 repeation: 5
 last_time: 2023-10-16T00:00:00.000+05:30

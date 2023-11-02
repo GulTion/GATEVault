@@ -1,11 +1,6 @@
 ---
-title: Test ID - 36 Toc Test - 1 - 2023
-allDay: true
-date: 2023-10-03
-completed: 
 subject: TOC
 type: ZealTS
-tags: 
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=62b1b55b45b9ff36f6109f0c&test_id=4
 status: Revision
 ---

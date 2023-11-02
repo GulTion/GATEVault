@@ -1,8 +1,6 @@
 ---
-Last_Time: 2023-09-02T13:30:00.000+05:30
-Repetation: 1
 type: MixQue
-atQ: 
+atQ:
 subject: DM
 repeation: 1
 ---

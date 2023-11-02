@@ -1,3 +1,7 @@
+---
+{}
+---
+
 #card/micro/DM/Set_Theory
 
 what is **equivalent set**::![[Pasted image 20231026130726.png]] <!--SR:!2023-11-05,4,270-->

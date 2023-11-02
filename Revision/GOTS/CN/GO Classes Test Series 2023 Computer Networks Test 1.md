@@ -1,3 +1,7 @@
+---
+{}
+---
+
 #card/CN/DataLinkLayer 
 
 ![[Screenshot_2023_1026_152637.jpg|center|700]]::![[Screenshot_2023_1026_152713.jpg]] <!--SR:!2023-11-09,10,272-->

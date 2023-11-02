@@ -1,7 +1,5 @@
 ---
-
-database-plugin: basic
-
+atQ: "1"
 ---
 
 ```yaml:dbfolder

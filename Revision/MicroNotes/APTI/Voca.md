@@ -1,8 +1,6 @@
 ---
-lang: en-US
 type: MicroNotes
 subject: APTI
-tags: []
 ---
 #card/aptitude/English/vocabulary
 - tranquil #adjective::Free from emotional or mental disturbance. <!--SR:!2023-11-03,2,230-->

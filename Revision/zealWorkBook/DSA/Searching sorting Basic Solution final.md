@@ -8,7 +8,6 @@ startQ: 1
 endQ: 100
 status: Revision
 syllabus: Sorting
-subType: topicWise
 src: zealWorkBook
 ---
 #card/DSA/Sorting

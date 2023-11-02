@@ -1,3 +1,7 @@
+---
+{}
+---
+
 at = 1hr/3hr
 #card/DLD/sequential
 - ![[Pasted image 20231020160310.png]]::C![[Pasted image 20231020160343.png]] <!--SR:!2023-11-08,14,290-->

@@ -5,7 +5,6 @@ endQ: 81
 subject: DM
 type: zealWorkBook
 status: Revision
-subType: topicWise
 ---
 #card/DM/set_Theory/Cartesin_Product 
 

@@ -6,7 +6,6 @@ subject: CN
 type: zealWorkBook
 status: acquiring
 syllabus: " Medium Access Control"
-subType: topicWise
 ---
 #card/CN/MacLaye4
 

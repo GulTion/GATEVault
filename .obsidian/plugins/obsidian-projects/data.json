@@ -1,0 +1,152 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "repeation": {}
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Revision",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "atQ",
+              "startQ",
+              "endQ",
+              "last_time",
+              "repeation",
+              "src",
+              "status",
+              "subject",
+              "subType",
+              "syllabus",
+              "title",
+              "type",
+              "database-plugin"
+            ],
+            "fieldConfig": {
+              "database-plugin": {
+                "hide": true
+              },
+              "name": {
+                "width": 228
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "0f5e5d65-3f78-4b51-99a1-c890416476d1",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "includeFields": [],
+            "groupByField": "status"
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "type",
+                "operator": "is",
+                "enabled": true,
+                "value": "PYQ"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d25766e5-c53c-4d34-b4bc-c5b5920fe860",
+          "name": "PYQ",
+          "type": "board"
+        },
+        {
+          "config": {
+            "groupByField": "status"
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "type",
+                "operator": "contains",
+                "enabled": true,
+                "value": "TS"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "04bb88e8-206a-4978-a5ca-07e1133c1076",
+          "name": "Test Series",
+          "type": "board"
+        },
+        {
+          "config": {
+            "includeFields": [
+              "status"
+            ],
+            "groupByField": "subject"
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "type",
+                "operator": "is",
+                "enabled": true,
+                "value": "zealWorkBook"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6955c2b9-f212-426b-80b8-88955af230bf",
+          "name": "ZealWorkBook",
+          "type": "board"
+        }
+      ],
+      "id": "60751f90-8c02-4f82-b842-9ae03554f418",
+      "name": "Revision"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

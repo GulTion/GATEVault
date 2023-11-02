@@ -1,9 +1,4 @@
 ---
-title: Context Free Grammer and Language
-allDay: true
-date: 2023-09-26
-completed: 
-isNoted: "false"
 type: MicroNotes
 subject: TOC
 repeation: 3

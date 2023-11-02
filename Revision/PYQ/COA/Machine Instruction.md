@@ -4,7 +4,7 @@ subject: COA
 status: acquiring
 startQ: 1
 endQ: 57
-atQ: 1
+atQ: "1"
 src: https://practicepaper.in/gate-cse/machine-instruction?page_no=1
 ---
 #card/Machine_Instruction

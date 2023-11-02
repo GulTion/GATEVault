@@ -1,3 +1,7 @@
+---
+{}
+---
+
 #card/DSA/Tree
 
 what is **Depth of tree**:::no. of edges from root to a particular node <!--SR:!2023-11-07,9,270!2023-11-11,10,270-->

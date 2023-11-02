@@ -1,6 +1,5 @@
 ---
 type: zealWorkBook
-subType: topicWise
 repeation: 1
 subject: COA
 startQ: 10

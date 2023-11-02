@@ -5,7 +5,6 @@ status: Revision
 atQ: 21
 startQ: 1
 endQ: 21
-subType: topicWise
 src: https://practicepaper.in/gate-cse/process
 ---
 #card/OS/process 

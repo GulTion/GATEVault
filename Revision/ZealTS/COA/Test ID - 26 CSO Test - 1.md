@@ -1,11 +1,6 @@
 ---
-title: Test ID - 26 CSO Test - 1
-allDay: true
-date: 2023-09-28
-completed: 
 type: ZealTS
 subject: COA
-subType: topicWise
 status: Revision
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=62ac6451dcb96fb240b88605&test_id=11
 ---

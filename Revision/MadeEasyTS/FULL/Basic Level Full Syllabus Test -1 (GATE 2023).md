@@ -1,7 +1,6 @@
 ---
 type: MadeEasyTS
 subject: FULL
-subType: mock
 last_time: 2023-10-14T00:00:00.000+05:30
 atQ: 38
 syllabus: all

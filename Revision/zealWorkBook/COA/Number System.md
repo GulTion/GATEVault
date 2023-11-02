@@ -1,6 +1,5 @@
 ---
 type: zealWorkBook
-subType: topicWise
 subject: COA
 atQ: 92
 startQ: 1

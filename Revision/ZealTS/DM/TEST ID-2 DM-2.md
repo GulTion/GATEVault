@@ -1,8 +1,4 @@
 ---
-title: TEST ID-2 DM-2
-allDay: true
-date: 2023-10-03
-completed: 
 subject: DM
 type: ZealTS
 status: Revision

@@ -1,11 +1,5 @@
 ---
-title: DS advanced
-allDay: false
-startTime: 10:30
-endTime: 12:00
-date: 2023-09-25
-completed: false
-atQ: 10/9
+atQ: "10"
 type: zealWorkBook
 subject: DM
 ---

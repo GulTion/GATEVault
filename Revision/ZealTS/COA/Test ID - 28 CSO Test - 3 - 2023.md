@@ -3,8 +3,7 @@ syllabus: Instruction Set Architecture And Addressing Mode, And Basics Pipeline 
 subject: COA
 type: ZealTS
 status: Revision
-subType: topicWise
-src: 
+src:
 ---
 #card/COA
 

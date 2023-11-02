@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5164194c7f13741e",
+        "id": "34ae31b89bca7fb7",
         "type": "tabs",
         "children": [
           {
-            "id": "d88f98ec747988e1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "10ae52d7853caaeb",
+            "id": "9f400d75a86394e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26517dfb64a7d8f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-11-02.md",
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"database-plugin\"]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 200
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -140,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-02.md",
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-02.md",
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-02.md"
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md"
               }
             }
           },
@@ -219,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -242,22 +221,31 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
       "remotely-save:Remotely Save": false,
+      "obsidian-projects:Open projects": false,
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "26517dfb64a7d8f6",
+  "active": "9f400d75a86394e6",
   "lastOpenFiles": [
     "DialyStuff/2023-11-02.md",
+    "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
+    "Revision/PYQ/PYQDB.md",
+    "ad.md",
+    "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
+    "Revision/RevisionDB.md",
+    "Revision/relation algbera.md",
+    "Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md",
+    "Untitled.canvas",
+    "Revision/PYQ/DM/recurrence DM PYQ.md",
+    "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/PYQ/CN/media/Pasted image 20231101220527.png",
     "Revision/PYQ/CN/media/Pasted image 20231101220504.png",
     "Revision/PYQ/CN/media/Pasted image 20231101220450.png",
     "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
-    "Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md",
     "DialyStuff/2023-11-01.md",
     "Revision/ZealTS/ZealTSDB.md",
     "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
-    "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/ZealTS/DSA/media/Pasted image 20231101164138.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231101164129.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231101164123.png",
@@ -267,7 +255,6 @@
     "Revision/ZealTS/DSA/media/Pasted image 20231101162330.png",
     "Revision/ZealTS/DSA/media",
     "Revision/PYQ/MATH/Probability.md",
-    "Untitled.canvas",
     "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
     "Revision/ZealTS/DM/TEST ID-2 DM-2.md",
     "MicroNoteArrage.md",
@@ -278,13 +265,6 @@
     "Revision/PYQ/COA/Number System.md",
     "Revision/PYQ/COA/Interrupt - pyq.md",
     "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md",
-    "Question for Trick.md",
-    "Revision/zealWorkBook/DM/Cartesian products of sets.md",
-    "fromWhereSubject.md",
-    "templates/Normal Task Template.md",
-    "templates/dailyNote Template.md",
-    "Revision/PYQ/PYQDB.md",
-    "Revision/PYQ/OS/Memory.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/DM/media",
     "Revision/PYQ/CN/media",

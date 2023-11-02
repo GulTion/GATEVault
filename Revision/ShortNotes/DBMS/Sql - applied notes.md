@@ -1,3 +1,7 @@
+---
+{}
+---
+
 #card/DBMS/sql
 
 what is USE command in SQL::![[Screenshot_2023_1022_161933.png]] <!--SR:!2023-11-12,14,290-->
