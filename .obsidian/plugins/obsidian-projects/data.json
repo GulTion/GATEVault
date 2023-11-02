@@ -62,7 +62,7 @@
         {
           "config": {
             "includeFields": [],
-            "groupByField": "status"
+            "groupByField": "subject"
           },
           "filter": {
             "conditions": [
@@ -95,6 +95,12 @@
                 "operator": "contains",
                 "enabled": true,
                 "value": "TS"
+              },
+              {
+                "field": "subject",
+                "operator": "is",
+                "enabled": true,
+                "value": "DM"
               }
             ]
           },
