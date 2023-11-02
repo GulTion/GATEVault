@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-02.md",
+                "file": "StackForSubjects.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-02.md",
+                "file": "StackForSubjects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-02.md",
+                "file": "StackForSubjects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-02.md"
+                "file": "StackForSubjects.md"
               }
             }
           },
@@ -222,15 +221,24 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
   "active": "7f58ea5c5ecf36f9",
   "lastOpenFiles": [
+    "DialyStuff/2023-11-02.md",
+    "Revision/PYQ/MATH/Probability.md",
+    "Revision/PYQ/MATH/media/Pasted image 20231102111039.png",
+    "Revision/PYQ/MATH/media/Pasted image 20231102111010.png",
+    "Revision/PYQ/MATH/media/Pasted image 20231102110936.png",
+    "Revision/PYQ/MATH/media/Pasted image 20231102110903.png",
+    "Revision/PYQ/MATH/media/Pasted image 20231102110159.png",
+    "Revision/PYQ/MATH/media/Pasted image 20231102110136.png",
+    "Revision/PYQ/MATH/media/Pasted image 20231102110112.png",
     "MicroNoteArrage.md",
     "Revision/media/Notes Revision/Aptitude/Verbal/media/Pasted image 20231005141816.png",
     "Revision/PYQ/CN/Network Layer Protocol.md",
-    "DialyStuff/2023-11-02.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/PYQ/PYQDB.md",
     "ad.md",
@@ -243,19 +251,11 @@
     "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "Revision/PYQ/CN/media/Pasted image 20231101220527.png",
     "Revision/PYQ/CN/media/Pasted image 20231101220504.png",
-    "Revision/PYQ/CN/media/Pasted image 20231101220450.png",
     "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
     "DialyStuff/2023-11-01.md",
     "Revision/ZealTS/ZealTSDB.md",
     "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
-    "Revision/ZealTS/DSA/media/Pasted image 20231101164138.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231101164129.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231101164123.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231101162520.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231101162509.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231101162339.png",
     "Revision/ZealTS/DSA/media",
-    "Revision/PYQ/MATH/Probability.md",
     "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
     "Revision/ZealTS/DM/TEST ID-2 DM-2.md",
     "DialyStuff/2023-10-31.md",
