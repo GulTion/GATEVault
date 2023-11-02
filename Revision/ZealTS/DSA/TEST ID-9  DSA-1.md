@@ -11,22 +11,22 @@ startQ: 1
 ---
  #card/DSA/Asymtotic_Complexity 
  
- ![[Pasted image 20231101162330.png]]::A,B,C,D![[Pasted image 20231101162339.png]]
+![[Pasted image 20231101162330.png]]::A,B,C,D![[Pasted image 20231101162339.png]] <!--SR:!2023-11-03,1,230-->
 
-![[Pasted image 20231101162509.png]]::C![[Pasted image 20231101162520.png]]
+![[Pasted image 20231101162509.png]]::C![[Pasted image 20231101162520.png]] <!--SR:!2023-11-06,4,270-->
 
-![[Pasted image 20231101164123.png]]::B![[Pasted image 20231101164129.png]]![[Pasted image 20231101164138.png]]
+![[Pasted image 20231101164123.png]]::B![[Pasted image 20231101164129.png]]![[Pasted image 20231101164138.png]] <!--SR:!2023-11-06,4,270-->
 
 
-![[Pasted image 20231102160216.png]]10::C![[Pasted image 20231102160221.png]]
+![[Pasted image 20231102160216.png]]10::C![[Pasted image 20231102160221.png]] <!--SR:!2023-11-06,4,270-->
 
-![[Pasted image 20231102160829.png]]12::B![[Pasted image 20231102160841.png]]
+![[Pasted image 20231102160829.png]]12::B![[Pasted image 20231102160841.png]] <!--SR:!2023-11-06,4,270-->
 
-![[Pasted image 20231102162441.png]]13::C![[Pasted image 20231102162456.png]]
+![[Pasted image 20231102162441.png]]13::C![[Pasted image 20231102162456.png]] <!--SR:!2023-11-06,4,270-->
 
 ![[Pasted image 20231102162814.png]]14::20 ![[Pasted image 20231102162826.png]] <!--SR:!2023-11-06,4,270-->
 
-![[Pasted image 20231102164119.png]]21::C![[Pasted image 20231102164127.png]]
+![[Pasted image 20231102164119.png]]21::C![[Pasted image 20231102164127.png]] <!--SR:!2023-11-06,4,270-->
 
 ![[Pasted image 20231102164343.png]]22::B,C,D ![[Pasted image 20231102164356.png]] <!--SR:!2023-11-06,4,270-->
 

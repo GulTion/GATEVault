@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "05a481b3e21dd2cf",
+            "id": "47490d6423d5f444",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 292.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -138,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md"
+              }
             }
           },
           {
@@ -240,21 +244,24 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "e8a2039ded330231",
+  "active": "47490d6423d5f444",
   "lastOpenFiles": [
+    "Revision/PYQ/CN/media/Pasted image 20231102190342.png",
+    "Revision/PYQ/CN/media/Pasted image 20231102190240.png",
+    "MicroNoteArrage.md",
+    "Revision/PYQ/CN/Network Layer Protocol.md",
+    "Revision/PYQ/CN/media/Pasted image 20231102181615.png",
+    "Revision/PYQ/CN/media/Pasted image 20231102181605.png",
+    "Revision/PYQ/CN/media/Pasted image 20231102181325.png",
+    "Revision/PYQ/CN/media/Pasted image 20231102181314.png",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/ZealTS/DSA/media/Pasted image 20231102171250.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231102171242.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231102164356.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231102164343.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231102164127.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231102164119.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231102162826.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231102162814.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231102162456.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231102162441.png",
     "DialyStuff/2023-11-02.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/PYQ/COA/Machine Instruction.md",
     "Revision/PYQ/COA/media/Recording 20231102141546.webm",
     "Revision/PYQ/COA/Instruction Addressing Modes.md",
@@ -265,8 +272,6 @@
     "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/PYQ/MATH/Probability.md",
-    "MicroNoteArrage.md",
-    "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/PYQ/PYQDB.md",
     "ad.md",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",

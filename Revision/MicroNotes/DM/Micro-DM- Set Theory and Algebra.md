@@ -12,7 +12,7 @@ what is **absorption law**::![[Pasted image 20231026131226.png]]
 
 what is **Domain and Codomain of function**::![[Pasted image 20231026131359.png]] <!--SR:!2023-11-13,12,270-->
 
-how many **numbers of function are in |A|=m and |B|=n**?::![[Pasted image 20231026131548.png]]
+how many **numbers of function are in |A|=m and |B|=n**?::![[Pasted image 20231026131548.png]] <!--SR:!2023-11-06,4,274-->
 
 
 what is one-one function? and some properties
@@ -35,6 +35,6 @@ some properties
 
 what is definition of bijection function and number of bijection function when |A|=|B|
 ?
-![[Pasted image 20231026132455.png]]
+![[Pasted image 20231026132455.png]] <!--SR:!2023-11-06,4,274-->
 
 

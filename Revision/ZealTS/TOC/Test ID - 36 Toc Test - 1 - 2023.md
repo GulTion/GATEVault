@@ -17,6 +17,6 @@ Non Regular Closure ![[Pasted image 20231007121844.png]]::![[Pasted image 202310
 - 19 Kleen Star of L is Regular?![[Pasted image 20231007122112.png]]::![[Pasted image 20231007122117.png]] <!--SR:!2023-11-04,3,252-->
 - 21 Operations of Regular is Closure Properties![[Pasted image 20231007122427.png]]::![[Pasted image 20231007122432.png]] <!--SR:!2023-11-15,14,292-->
 - 22 ![[Pasted image 20231007124648.png]]::![[Pasted image 20231007124714.png]]![[Pasted image 20231007124658.png]] <!--SR:!2023-11-04,3,252-->
-- product of two prime number is not composite![[Pasted image 20231007124858.png]]::![[Pasted image 20231007124923.png]]![[Pasted image 20231007124906.png]] <!--SR:!2023-10-26,1,232-->
+- product of two prime number is not composite![[Pasted image 20231007124858.png]]::![[Pasted image 20231007124923.png]]![[Pasted image 20231007124906.png]] <!--SR:!2023-11-05,3,252-->
 - 24 PRODCUT DFA![[Pasted image 20231007125053.png]]::![[Pasted image 20231007125058.png]] <!--SR:!2023-11-15,14,292-->
-- 25 REG property![[Pasted image 20231007125124.png]]::![[Pasted image 20231007125134.png]]
+#today 25 REG property![[Pasted image 20231007125124.png]]::![[Pasted image 20231007125134.png]]
