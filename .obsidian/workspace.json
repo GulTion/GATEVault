@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
+                "file": "DialyStuff/2023-11-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
+                "file": "DialyStuff/2023-11-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
+                "file": "DialyStuff/2023-11-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/zealWorkBook/CN/5 Network Layer Solutions.md"
+                "file": "DialyStuff/2023-11-03.md"
               }
             }
           },
@@ -257,6 +257,8 @@
   },
   "active": "ca159b60f42d438f",
   "lastOpenFiles": [
+    "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
+    "DialyStuff/2023-11-03.md",
     "Revision/zealWorkBook/zealWorkBookDB.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/PYQ/CN/media/Pasted image 20231102204814.png",
@@ -296,8 +298,6 @@
     "Revision/ZealTS/ZealTSDB.md",
     "Revision/ZealTS/DSA/media",
     "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
-    "Revision/ZealTS/DM/TEST ID-2 DM-2.md",
-    "DialyStuff/2023-10-31.md",
     "Revision/ZealTS/DM/media",
     "Revision/PYQ/CN/media",
     "Revision/ZealTS/DM",
