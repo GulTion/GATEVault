@@ -3,7 +3,12 @@
   "projects": [
     {
       "fieldConfig": {
-        "repeation": {}
+        "repeation": {},
+        "note": {
+          "options": [
+            "#note"
+          ]
+        }
       },
       "defaultName": "",
       "templates": [],

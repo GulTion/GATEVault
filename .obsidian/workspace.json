@@ -4,45 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "e61eb733ad8f6c7c",
+        "id": "b8238524988d56d3",
         "type": "tabs",
         "children": [
           {
-            "id": "7f58ea5c5ecf36f9",
+            "id": "ab359a7b2e2bafcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/MixQue/CN/Switching.md",
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "baf95397cba1723c",
+            "id": "779bb9451aa08b4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/FULL/GATE 2020.md",
+                "file": "Revision/relation algbera.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aa12537ed267ff9b",
+            "id": "b1a07568d1394657",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
-              }
+              "type": "obsidian-projects",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/FULL/GATE 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/FULL/GATE 2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +177,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Revision/PYQ/FULL/GATE 2020.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,11 +215,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,12 +243,21 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "baf95397cba1723c",
+  "active": "ca7bc4254449ab06",
   "lastOpenFiles": [
+    "Revision/relation algbera.md",
+    "Revision/PYQ/CN/Network Layer Protocol.md",
+    "Revision/MicroNotes/DLD/Flip Flops.md",
+    "fromWhereSubject.md",
+    "Revision/RevisionDB.md",
+    "Revision/MixQue/CN/Switching.md",
+    "Revision/PYQ/FULL/GATE 2020.md",
+    "Revision/PYQ/FULL/media/Pasted image 20231103211502.png",
+    "DialyStuff/2023-11-04.md",
+    "Revision/PYQ/FULL/media/Pasted image 20231103205448.png",
     "Revision/PYQ/FULL/media/Pasted image 20231103204541.png",
     "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/PYQ/FULL/GATE 2020.md",
     "Revision/PYQ/FULL/media/Pasted image 20231103204109.png",
     "Revision/PYQ/FULL/media/Pasted image 20231103204035.png",
     "Revision/zealWorkBook/CN/media/Pasted image 20231103203542.png",
@@ -261,10 +265,6 @@
     "Revision/zealWorkBook/CN/media/Pasted image 20231103203206.png",
     "Revision/zealWorkBook/CN/media/Pasted image 20231103203157.png",
     "Revision/zealWorkBook/CN/media/Pasted image 20231103203121.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231103203048.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231103203001.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231103202943.png",
-    "Revision/MixQue/CN/Switching.md",
     "Revision/ShortNotes/CN/Packet Switiching.md",
     "Revision/ShortNotes/CN/Circuit Switching.md",
     "Revision/MixQue/CN/media",
@@ -273,7 +273,6 @@
     "DialyStuff/2023-11-03.md",
     "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
     "Revision/zealWorkBook/zealWorkBookDB.md",
-    "Revision/PYQ/CN/Network Layer Protocol.md",
     "MicroNoteArrage.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "DialyStuff/2023-11-02.md",
@@ -287,10 +286,6 @@
     "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/PYQ/MATH/Probability.md",
-    "Revision/PYQ/PYQDB.md",
-    "ad.md",
-    "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
-    "Revision/RevisionDB.md",
     "Untitled.canvas",
     "Revision/ZealTS/DSA/media",
     "Revision/ZealTS/DM/media",

@@ -24,7 +24,7 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": false,
     "tagsToReview": [
-      ""
+      "#note"
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": false,
@@ -39,7 +39,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2023-10-23",
+  "buryDate": "2023-11-03",
   "buryList": [],
   "historyDeck": null
 }
