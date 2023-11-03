@@ -11,44 +11,15 @@
             "id": "7f58ea5c5ecf36f9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
-              }
-            }
-          },
-          {
-            "id": "47490d6423d5f444",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Revision/zealWorkBook/zealWorkBookDB.md"
-              }
-            }
-          },
-          {
-            "id": "ca159b60f42d438f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-03.md",
+                "file": "Revision/ShortNotes/CN/Packet Switiching.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e8a2039ded330231",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-03.md",
+                "file": "Revision/ShortNotes/CN/Packet Switiching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-03.md",
+                "file": "Revision/ShortNotes/CN/Packet Switiching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-03.md"
+                "file": "Revision/ShortNotes/CN/Packet Switiching.md"
               }
             }
           },
@@ -231,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,10 +225,19 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "ca159b60f42d438f",
+  "active": "7f58ea5c5ecf36f9",
   "lastOpenFiles": [
-    "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
+    "Revision/ShortNotes/CN/Circuit Switching.md",
+    "Revision/ShortNotes/CN/Packet Switiching.md",
+    "Revision/MixQue/CN/Switching.md",
+    "Revision/MixQue/CN/media/Pasted image 20231103152113.png",
+    "Revision/MixQue/CN/media/Pasted image 20231103152100.png",
+    "Revision/MixQue/CN/media",
+    "Revision/MixQue/CN",
+    "Revision/MixQue/CN.md",
     "DialyStuff/2023-11-03.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
     "Revision/zealWorkBook/zealWorkBookDB.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/PYQ/CN/media/Pasted image 20231102204814.png",
@@ -270,9 +249,6 @@
     "Revision/PYQ/CN/media/Pasted image 20231102190342.png",
     "Revision/PYQ/CN/media/Pasted image 20231102190240.png",
     "MicroNoteArrage.md",
-    "Revision/PYQ/CN/media/Pasted image 20231102181615.png",
-    "Revision/PYQ/CN/media/Pasted image 20231102181605.png",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "DialyStuff/2023-11-02.md",
     "Revision/PYQ/COA/Machine Instruction.md",
@@ -293,17 +269,11 @@
     "Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md",
     "Untitled.canvas",
     "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
-    "Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
-    "DialyStuff/2023-11-01.md",
-    "Revision/ZealTS/ZealTSDB.md",
     "Revision/ZealTS/DSA/media",
-    "Revision/ZealTS/DM/TEST ID-3 DM-3 2023.md",
     "Revision/ZealTS/DM/media",
     "Revision/PYQ/CN/media",
     "Revision/ZealTS/DM",
     "Revision/PYQ/DBMS/media",
-    "Revision/MicroNotes/media",
-    "Revision/zealWorkBook/DBMS/media",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
