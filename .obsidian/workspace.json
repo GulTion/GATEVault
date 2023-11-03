@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ShortNotes/CN/Packet Switiching.md",
+                "file": "Revision/MixQue/CN/Switching.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "baf95397cba1723c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa12537ed267ff9b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ShortNotes/CN/Packet Switiching.md",
+                "file": "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ShortNotes/CN/Packet Switiching.md",
+                "file": "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ShortNotes/CN/Packet Switiching.md"
+                "file": "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md"
               }
             }
           },
@@ -225,18 +248,19 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "7f58ea5c5ecf36f9",
+  "active": "baf95397cba1723c",
   "lastOpenFiles": [
-    "Revision/ShortNotes/CN/Circuit Switching.md",
-    "Revision/ShortNotes/CN/Packet Switiching.md",
     "Revision/MixQue/CN/Switching.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/MixQue/CN/media/Pasted image 20231103155315.png",
+    "Revision/ShortNotes/CN/Packet Switiching.md",
+    "Revision/ShortNotes/CN/Circuit Switching.md",
     "Revision/MixQue/CN/media/Pasted image 20231103152113.png",
     "Revision/MixQue/CN/media/Pasted image 20231103152100.png",
     "Revision/MixQue/CN/media",
     "Revision/MixQue/CN",
     "Revision/MixQue/CN.md",
     "DialyStuff/2023-11-03.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
     "Revision/zealWorkBook/zealWorkBookDB.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
@@ -247,7 +271,6 @@
     "Revision/PYQ/CN/media/Pasted image 20231102190724.png",
     "Revision/PYQ/CN/media/Pasted image 20231102190713.png",
     "Revision/PYQ/CN/media/Pasted image 20231102190342.png",
-    "Revision/PYQ/CN/media/Pasted image 20231102190240.png",
     "MicroNoteArrage.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "DialyStuff/2023-11-02.md",
@@ -268,7 +291,6 @@
     "Revision/relation algbera.md",
     "Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md",
     "Untitled.canvas",
-    "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "Revision/ZealTS/DSA/media",
     "Revision/ZealTS/DM/media",
     "Revision/PYQ/CN/media",
