@@ -1,0 +1,1 @@
+{"path":"Revision/zealWorkBook/CN/media/Pasted image 20231103203001.png","text":"Solution: The minimum frame size (in bytes) is L >= (RTT + Tx of jamming signal) x R L >=(46.4 +4.8) x 10 L >=512 bits L >= 64 bytes","libVersion":"0.2.3","langs":"eng"}

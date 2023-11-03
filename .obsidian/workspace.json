@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
+                "file": "Revision/PYQ/FULL/GATE 2020.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
+                "file": "Revision/PYQ/FULL/GATE 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
+                "file": "Revision/PYQ/FULL/GATE 2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md"
+                "file": "Revision/PYQ/FULL/GATE 2020.md"
               }
             }
           },
@@ -250,13 +250,23 @@
   },
   "active": "baf95397cba1723c",
   "lastOpenFiles": [
-    "Revision/MixQue/CN/Switching.md",
+    "Revision/PYQ/FULL/media/Pasted image 20231103204541.png",
+    "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/MixQue/CN/media/Pasted image 20231103155315.png",
+    "Revision/PYQ/FULL/GATE 2020.md",
+    "Revision/PYQ/FULL/media/Pasted image 20231103204109.png",
+    "Revision/PYQ/FULL/media/Pasted image 20231103204035.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231103203542.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231103203525.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231103203206.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231103203157.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231103203121.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231103203048.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231103203001.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231103202943.png",
+    "Revision/MixQue/CN/Switching.md",
     "Revision/ShortNotes/CN/Packet Switiching.md",
     "Revision/ShortNotes/CN/Circuit Switching.md",
-    "Revision/MixQue/CN/media/Pasted image 20231103152113.png",
-    "Revision/MixQue/CN/media/Pasted image 20231103152100.png",
     "Revision/MixQue/CN/media",
     "Revision/MixQue/CN",
     "Revision/MixQue/CN.md",
@@ -264,13 +274,6 @@
     "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
     "Revision/zealWorkBook/zealWorkBookDB.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
-    "Revision/PYQ/CN/media/Pasted image 20231102204814.png",
-    "Revision/PYQ/CN/media/Pasted image 20231102204756.png",
-    "Revision/PYQ/CN/media/Pasted image 20231102190940.png",
-    "Revision/PYQ/CN/media/Pasted image 20231102190925.png",
-    "Revision/PYQ/CN/media/Pasted image 20231102190724.png",
-    "Revision/PYQ/CN/media/Pasted image 20231102190713.png",
-    "Revision/PYQ/CN/media/Pasted image 20231102190342.png",
     "MicroNoteArrage.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "DialyStuff/2023-11-02.md",
@@ -288,8 +291,6 @@
     "ad.md",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "Revision/RevisionDB.md",
-    "Revision/relation algbera.md",
-    "Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md",
     "Untitled.canvas",
     "Revision/ZealTS/DSA/media",
     "Revision/ZealTS/DM/media",

@@ -1,5 +1,5 @@
 ---
-atQ: 17
+atQ: 28
 startQ: 1
 endQ: 54
 subject: CN
@@ -31,4 +31,23 @@ status: acquiring
 ![[Pasted image 20231027155049.png]]::A <!--SR:!2023-11-11,11,270-->
 
 ![[Pasted image 20231027155214.png]]::A <!--SR:!2023-11-10,10,270-->
+
+![[Pasted image 20231103201411.png]]::B,D ![[Pasted image 20231103201429.png]]
+
+
+![[Pasted image 20231103201751.png]]::D![[Pasted image 20231103201811.png]]
+
+![[Pasted image 20231103202618.png]]::100![[Pasted image 20231103202637.png]]
+
+![[Pasted image 20231103202943.png]]::64![[Pasted image 20231103203001.png]]
+
+
+# Manchester Encoding
+#today ![[Pasted image 20231103203048.png]]::A ![[Pasted image 20231103203121.png]]
+
+#today![[Pasted image 20231103203157.png]]::![[Pasted image 20231103203206.png]]
+
+
+# Packet Switching
+![[Pasted image 20231103203525.png]]::![[Pasted image 20231103203542.png]]
 
