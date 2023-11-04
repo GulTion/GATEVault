@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/TOC/Context Free Language.md",
+                "file": "DialyStuff/2023-11-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/TOC/Context Free Language.md",
+                "file": "DialyStuff/2023-11-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/TOC/Context Free Language.md",
+                "file": "DialyStuff/2023-11-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/TOC/Context Free Language.md"
+                "file": "DialyStuff/2023-11-04.md"
               }
             }
           },
@@ -228,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,6 +254,8 @@
   },
   "active": "b1a07568d1394657",
   "lastOpenFiles": [
+    "Revision/PYQ/TOC/Context Free Language.md",
+    "Revision/PYQ/TOC/media/Pasted image 20231104175057.png",
     "Revision/PYQ/TOC/media/Pasted image 20231104170150.png",
     "Revision/PYQ/TOC/media/Pasted image 20231104152631.png",
     "Revision/PYQ/TOC/media/Pasted image 20231104152607.png",
@@ -262,7 +265,6 @@
     "Revision/PYQ/TOC/media/Pasted image 20231104150737.png",
     "Revision/PYQ/TOC/media",
     "DialyStuff/2023-11-04.md",
-    "Revision/PYQ/TOC/Context Free Language.md",
     "MicroNoteArrage.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/relation algbera.md",
@@ -273,10 +275,8 @@
     "Revision/PYQ/FULL/GATE 2020.md",
     "Revision/PYQ/FULL/media/Pasted image 20231103211502.png",
     "Revision/PYQ/FULL/media/Pasted image 20231103205448.png",
-    "Revision/PYQ/FULL/media/Pasted image 20231103204541.png",
     "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/PYQ/FULL/media/Pasted image 20231103204109.png",
     "Revision/ShortNotes/CN/Packet Switiching.md",
     "Revision/ShortNotes/CN/Circuit Switching.md",
     "Revision/MixQue/CN/media",

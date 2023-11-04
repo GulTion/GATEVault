@@ -18,4 +18,5 @@ src: https://practicepaper.in/gate-cse/context-free-language?page_no=1
 
 ![[Pasted image 20231104152607.png]]::A ![[Pasted image 20231104152631.png]]
 
-![[Pasted image 20231104170150.png]]::
+![[Pasted image 20231104170150.png]]::![[Pasted image 20231104175057.png]]
+
