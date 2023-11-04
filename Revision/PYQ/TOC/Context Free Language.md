@@ -8,3 +8,11 @@ status: acquiring
 src: https://practicepaper.in/gate-cse/context-free-language?page_no=1
 ---
 #card/TOC/Context_Free_Language
+![[Pasted image 20231104150737.png]]::B,C,D 
+
+![[Pasted image 20231104151008.png]]::A,B,C
+
+![[Pasted image 20231104151325.png]]::B,C,D
+
+
+

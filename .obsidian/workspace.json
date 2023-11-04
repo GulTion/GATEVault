@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MicroNoteArrage.md",
+                "file": "Revision/PYQ/TOC/Context Free Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MicroNoteArrage.md",
+                "file": "Revision/PYQ/TOC/Context Free Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MicroNoteArrage.md"
+                "file": "Revision/PYQ/TOC/Context Free Language.md"
               }
             }
           },
@@ -223,7 +223,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,10 +251,15 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "d2199322b4d00c75",
+  "active": "b1a07568d1394657",
   "lastOpenFiles": [
-    "Revision/PYQ/TOC/Context Free Language.md",
+    "Revision/PYQ/TOC/media/Pasted image 20231104151325.png",
+    "Revision/PYQ/TOC/media/Pasted image 20231104151008.png",
+    "Revision/PYQ/TOC/media/Pasted image 20231104150737.png",
+    "Revision/PYQ/TOC/media",
     "DialyStuff/2023-11-04.md",
+    "Revision/PYQ/TOC/Context Free Language.md",
+    "MicroNoteArrage.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/relation algbera.md",
     "Revision/MicroNotes/DLD/Flip Flops.md",
@@ -271,8 +277,6 @@
     "Revision/zealWorkBook/CN/media/Pasted image 20231103203542.png",
     "Revision/zealWorkBook/CN/media/Pasted image 20231103203525.png",
     "Revision/zealWorkBook/CN/media/Pasted image 20231103203206.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231103203157.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231103203121.png",
     "Revision/ShortNotes/CN/Packet Switiching.md",
     "Revision/ShortNotes/CN/Circuit Switching.md",
     "Revision/MixQue/CN/media",
@@ -281,7 +285,6 @@
     "DialyStuff/2023-11-03.md",
     "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
     "Revision/zealWorkBook/zealWorkBookDB.md",
-    "MicroNoteArrage.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "DialyStuff/2023-11-02.md",
     "Revision/PYQ/COA/Machine Instruction.md",
@@ -292,13 +295,11 @@
     "Revision/PYQ/DM/media",
     "Revision/PYQ/DM/recurrence DM PYQ.md",
     "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
-    "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Untitled.canvas",
     "Revision/ZealTS/DSA/media",
     "Revision/ZealTS/DM/media",
     "Revision/PYQ/CN/media",
     "Revision/ZealTS/DM",
-    "Revision/PYQ/DBMS/media",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
