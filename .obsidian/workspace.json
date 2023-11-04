@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-04.md",
+                "file": "Revision/PYQ/TOC/Context Free Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-04.md",
+                "file": "MicroNoteArrage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-04.md",
+                "file": "MicroNoteArrage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-04.md"
+                "file": "MicroNoteArrage.md"
               }
             }
           },
@@ -223,13 +223,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,8 +250,10 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "b1a07568d1394657",
+  "active": "d2199322b4d00c75",
   "lastOpenFiles": [
+    "Revision/PYQ/TOC/Context Free Language.md",
+    "DialyStuff/2023-11-04.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/relation algbera.md",
     "Revision/MicroNotes/DLD/Flip Flops.md",
@@ -262,7 +262,6 @@
     "Revision/MixQue/CN/Switching.md",
     "Revision/PYQ/FULL/GATE 2020.md",
     "Revision/PYQ/FULL/media/Pasted image 20231103211502.png",
-    "DialyStuff/2023-11-04.md",
     "Revision/PYQ/FULL/media/Pasted image 20231103205448.png",
     "Revision/PYQ/FULL/media/Pasted image 20231103204541.png",
     "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
@@ -294,7 +293,6 @@
     "Revision/PYQ/DM/recurrence DM PYQ.md",
     "Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
-    "Revision/PYQ/MATH/Probability.md",
     "Untitled.canvas",
     "Revision/ZealTS/DSA/media",
     "Revision/ZealTS/DM/media",
