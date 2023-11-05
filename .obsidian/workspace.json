@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/CN/Application Layer 1.md",
+                "file": "DialyStuff/2023-11-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/zealWorkBook/CN/Application Layer 1.md",
+                "file": "DialyStuff/2023-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/zealWorkBook/CN/Application Layer 1.md",
+                "file": "DialyStuff/2023-11-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/zealWorkBook/CN/Application Layer 1.md"
+                "file": "DialyStuff/2023-11-05.md"
               }
             }
           },
@@ -213,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,6 +238,7 @@
   },
   "active": "b09c769106017bde",
   "lastOpenFiles": [
+    "Revision/zealWorkBook/CN/Application Layer 1.md",
     "Revision/zealWorkBook/CN/media/Pasted image 20231105120125.png",
     "Revision/zealWorkBook/CN/media/Pasted image 20231105120106.png",
     "Revision/zealWorkBook/CN/media/Pasted image 20231105115930.png",
@@ -256,7 +256,6 @@
     "Revision/PYQ/TOC/media/Pasted image 20231104170150.png",
     "Revision/PYQ/TOC/media/Pasted image 20231104152631.png",
     "Revision/PYQ/TOC/media/Pasted image 20231104152607.png",
-    "Revision/PYQ/TOC/media/Pasted image 20231104152153.png",
     "Revision/PYQ/TOC/media",
     "MicroNoteArrage.md",
     "Revision/MicroNotes/DLD/Flip Flops.md",

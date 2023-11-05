@@ -8,13 +8,13 @@ last_time: 2023-10-12T00:00:00.000+05:30
 repeation: 4
 ---
 #card/CN/ApplicationLayer
-statements about the HTTP for the persistence and non-persistence connection	![[Pasted image 20231001083255.png]]::B <!--SR:!2023-11-05,7,246-->
+statements about the HTTP for the persistence and non-persistence connection	![[Pasted image 20231001083255.png]]::B <!--SR:!2023-11-09,4,226-->
 
-local DNS server function statement![[Pasted image 20231001084809.png]]::D <!--SR:!2023-11-05,8,230-->
+local DNS server function statement![[Pasted image 20231001084809.png]]::D <!--SR:!2023-11-22,17,230-->
 
-![[Pasted image 20231105115811.png]]::C![[Pasted image 20231105115823.png]]
+![[Pasted image 20231105115811.png]]::C![[Pasted image 20231105115823.png]] <!--SR:!2023-11-09,4,273-->
 
-![[Pasted image 20231105115915.png]]::A![[Pasted image 20231105115930.png]]
+![[Pasted image 20231105115915.png]]::A![[Pasted image 20231105115930.png]] <!--SR:!2023-11-09,4,273-->
 
 
 ![[Pasted image 20231105120106.png]]::D![[Pasted image 20231105120125.png]] <!--SR:!2023-12-01,26,270-->
