@@ -32,14 +32,14 @@ status: acquiring
 
 ![[Pasted image 20231027155214.png]]::A <!--SR:!2023-11-10,10,270-->
 
-![[Pasted image 20231103201411.png]]::B,D ![[Pasted image 20231103201429.png]]
+![[Pasted image 20231103201411.png]]::B,D ![[Pasted image 20231103201429.png]] <!--SR:!2023-11-08,3,260-->
 
 
-![[Pasted image 20231103201751.png]]::D![[Pasted image 20231103201811.png]] <!--SR:!2023-11-04,1,242-->
+![[Pasted image 20231103201751.png]]::D![[Pasted image 20231103201811.png]] <!--SR:!2023-11-08,3,262-->
 
 ![[Pasted image 20231103202618.png]]::100![[Pasted image 20231103202637.png]] <!--SR:!2023-11-06,3,262-->
 
-![[Pasted image 20231103202943.png]]::64![[Pasted image 20231103203001.png]]
+![[Pasted image 20231103202943.png]]::64![[Pasted image 20231103203001.png]] <!--SR:!2023-11-06,1,240-->
 
 
 # Manchester Encoding
