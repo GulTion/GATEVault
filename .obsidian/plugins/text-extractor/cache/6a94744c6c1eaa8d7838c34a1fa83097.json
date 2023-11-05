@@ -1,0 +1,1 @@
+{"path":"Revision/zealWorkBook/CN/media/Pasted image 20231105120125.png","text":"Answer is D (A)No this does not happen in DNS :-false (B) False (C)False , TTL field is not used for scalability . (D) True, in DNS field ,TTL field causes server to delete entries ,so that if host moves and address changes ,server will get correct address.","libVersion":"0.2.3","langs":"eng"}

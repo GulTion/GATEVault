@@ -12,6 +12,11 @@ statements about the HTTP for the persistence and non-persistence connection	![[
 
 local DNS server function statement![[Pasted image 20231001084809.png]]::D <!--SR:!2023-11-05,8,230-->
 
-statements for DNS TTL![[Pasted image 20231001085805.png]]::D <!--SR:!2023-11-04,10,270-->
+![[Pasted image 20231105115811.png]]::C![[Pasted image 20231105115823.png]]
+
+![[Pasted image 20231105115915.png]]::A![[Pasted image 20231105115930.png]]
+
+
+![[Pasted image 20231105120106.png]]::D![[Pasted image 20231105120125.png]] <!--SR:!2023-12-01,26,270-->
 
 DHCP discover message![[Pasted image 20231001100032.png]]::C <!--SR:!2023-11-09,13,290-->

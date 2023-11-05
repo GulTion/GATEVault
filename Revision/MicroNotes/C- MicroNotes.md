@@ -4,7 +4,7 @@
 
 #card/C 
 
-![[Pasted image 20231028175219.png]]::![[Pasted image 20231028175237.png]] <!--SR:!2023-11-05,2,190-->
+![[Pasted image 20231028175219.png]]::![[Pasted image 20231028175237.png]] <!--SR:!2023-11-09,4,190-->
 
 ![[Pasted image 20231028175441.png]]::![[Pasted image 20231028175501.png]] <!--SR:!2023-11-06,6,250-->
 
