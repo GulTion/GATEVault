@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
+                "file": "DialyStuff/2023-11-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
+                "file": "DialyStuff/2023-11-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
+                "file": "DialyStuff/2023-11-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md"
+                "file": "DialyStuff/2023-11-06.md"
               }
             }
           },
@@ -239,6 +239,8 @@
   },
   "active": "d4f0439661e75b97",
   "lastOpenFiles": [
+    "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
+    "DialyStuff/2023-11-06.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "DialyStuff/2023-11-05.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
@@ -278,7 +280,6 @@
     "Revision/PYQ/COA/Machine Instruction.md",
     "Revision/PYQ/COA/media/Recording 20231102141546.webm",
     "Revision/PYQ/COA/Instruction Addressing Modes.md",
-    "StackForSubjects.md",
     "Revision/PYQ/DM/media",
     "Untitled.canvas",
     "Revision/ZealTS/DSA/media",
