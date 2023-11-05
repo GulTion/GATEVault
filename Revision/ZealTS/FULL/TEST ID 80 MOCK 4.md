@@ -1,3 +1,10 @@
+---
+atQ: 50
+subject: FULL
+type: ZealTS
+status: acquiring
+src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=61daaf188bd490121af6b789&test_id=33
+---
 #card/FULL 
 
 ![[Pasted image 20231106004812.png]]::![[Pasted image 20231106004817.png]]
@@ -16,4 +23,9 @@
 
 ![[Pasted image 20231106011915.png]]::![[Pasted image 20231106011921.png]]
 
-![[Pasted image 20231106012802.png]]::
+![[Pasted image 20231106012802.png]]::![[Pasted image 20231106012808.png]]
+
+![[Pasted image 20231106015035.png]]::![[Pasted image 20231106015041.png]]
+
+![[Pasted image 20231106015542.png]]::![[Pasted image 20231106015548.png]]
+
