@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hinduism.md",
+                "file": "DialyStuff/2023-11-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hinduism.md",
+                "file": "DialyStuff/2023-11-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hinduism.md",
+                "file": "DialyStuff/2023-11-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hinduism.md"
+                "file": "DialyStuff/2023-11-07.md"
               }
             }
           },
@@ -227,9 +227,10 @@
   },
   "active": "d9a15d9ab6e25bc9",
   "lastOpenFiles": [
+    "Hinduism.md",
+    "DialyStuff/2023-11-07.md",
     "DialyStuff/2023-11-06.md",
     "Revision/zealWorkBook/CN/3 Data Link Layer Flow Control.md",
-    "Hinduism.md",
     "Revision/PYQ/COA/Memory Chip Design.md",
     "Revision/PYQ/COA/media/Pasted image 20231106103843.png",
     "Revision/PYQ/COA/media/Pasted image 20231106103830.png",
@@ -266,7 +267,6 @@
     "Revision/MixQue/CN/media",
     "Revision/MixQue/CN",
     "Revision/MixQue/CN.md",
-    "DialyStuff/2023-11-03.md",
     "Revision/PYQ/COA/media/Recording 20231102141546.webm",
     "Revision/PYQ/DM/media",
     "Untitled.canvas",
