@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-06.md",
+                "file": "Revision/PYQ/COA/Memory Chip Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-06.md",
+                "file": "Revision/PYQ/COA/Memory Chip Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-06.md",
+                "file": "Revision/PYQ/COA/Memory Chip Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-06.md"
+                "file": "Revision/PYQ/COA/Memory Chip Design.md"
               }
             }
           },
@@ -240,18 +240,20 @@
   },
   "active": "b09c769106017bde",
   "lastOpenFiles": [
-    "Revision/ZealTS/FULL/TEST ID 80 MOCK 4.md",
+    "Revision/PYQ/COA/media/Pasted image 20231106103843.png",
+    "Revision/PYQ/COA/media/Pasted image 20231106103830.png",
+    "Revision/PYQ/COA/media/Pasted image 20231106103157.png",
+    "Revision/PYQ/COA/media/Pasted image 20231106103114.png",
+    "Revision/PYQ/COA/media/Pasted image 20231106103043.png",
+    "Revision/PYQ/COA/media/Pasted image 20231106102154.png",
+    "Revision/PYQ/COA/media/Pasted image 20231106102108.png",
+    "Revision/PYQ/COA/media/Pasted image 20231106102008.png",
+    "Revision/PYQ/COA/media/Pasted image 20231106101920.png",
+    "Revision/PYQ/COA/media/Pasted image 20231106100753.png",
+    "Revision/PYQ/COA/media/Pasted image 20231106100724.png",
     "DialyStuff/2023-11-06.md",
-    "Revision/ZealTS/FULL/media/Pasted image 20231106015548.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231106015542.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231106015041.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231106015035.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231106012808.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231106012802.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231106011921.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231106011915.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231106010613.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231106010608.png",
+    "Revision/PYQ/COA/Memory Chip Design.md",
+    "Revision/ZealTS/FULL/TEST ID 80 MOCK 4.md",
     "DialyStuff/2023-11-05.md",
     "index.md",
     "DaskBoard Back.md",
@@ -278,7 +280,6 @@
     "Revision/MixQue/CN.md",
     "DialyStuff/2023-11-03.md",
     "Revision/zealWorkBook/CN/5 Network Layer Solutions.md",
-    "Revision/zealWorkBook/zealWorkBookDB.md",
     "Revision/PYQ/COA/media/Recording 20231102141546.webm",
     "Revision/PYQ/DM/media",
     "Untitled.canvas",
