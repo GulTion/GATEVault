@@ -15,11 +15,11 @@ src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 
 ![[Pasted image 20231030150411.png]]::![[Pasted image 20231030150423.png]] <!--SR:!2023-11-12,7,250-->
 
-![[Pasted image 20231030160705.png]]::C![[Pasted image 20231030160748.png]] <!--SR:!2023-11-07,2,250-->
+![[Pasted image 20231030160705.png]]::C![[Pasted image 20231030160748.png]] <!--SR:!2023-11-14,7,270-->
 
 ![[Pasted image 20231030162817.png]]::A![[Pasted image 20231030162832.png]] <!--SR:!2023-11-13,8,250-->
 
-![[Pasted image 20231030163542.png]]::256![[Pasted image 20231030163555.png]] <!--SR:!2023-11-07,2,250-->
+![[Pasted image 20231030163542.png]]::256![[Pasted image 20231030163555.png]] <!--SR:!2023-11-15,8,270-->
 
 #today ![[Pasted image 20231030163909.png]]:: <!--SR:!2023-11-04,4,270-->
 
