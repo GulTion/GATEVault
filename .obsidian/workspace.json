@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9a15d9ab6e25bc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hinduism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/COA/Memory Chip Design.md",
+                "file": "Hinduism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/COA/Memory Chip Design.md",
+                "file": "Hinduism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/COA/Memory Chip Design.md"
+                "file": "Hinduism.md"
               }
             }
           },
@@ -215,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,8 +252,10 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "b09c769106017bde",
+  "active": "d9a15d9ab6e25bc9",
   "lastOpenFiles": [
+    "Revision/PYQ/COA/Memory Chip Design.md",
+    "Hinduism.md",
     "Revision/PYQ/COA/media/Pasted image 20231106103843.png",
     "Revision/PYQ/COA/media/Pasted image 20231106103830.png",
     "Revision/PYQ/COA/media/Pasted image 20231106103157.png",
@@ -250,9 +266,7 @@
     "Revision/PYQ/COA/media/Pasted image 20231106102008.png",
     "Revision/PYQ/COA/media/Pasted image 20231106101920.png",
     "Revision/PYQ/COA/media/Pasted image 20231106100753.png",
-    "Revision/PYQ/COA/media/Pasted image 20231106100724.png",
     "DialyStuff/2023-11-06.md",
-    "Revision/PYQ/COA/Memory Chip Design.md",
     "Revision/ZealTS/FULL/TEST ID 80 MOCK 4.md",
     "DialyStuff/2023-11-05.md",
     "index.md",
