@@ -12,7 +12,7 @@ status: Revision
 
 # Test Series Questions
 
-![[Pasted image 20231001151238.png]]::![[Pasted image 20231001151248.png]] <!--SR:!2023-11-06,7,268-->
+![[Pasted image 20231001151238.png]]::![[Pasted image 20231001151248.png]] <!--SR:!2023-11-24,18,268-->
 
 #today ![[Pasted image 20231001163534.png]]::![[Pasted image 20231001163542.png]]
 

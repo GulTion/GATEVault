@@ -28,7 +28,9 @@ BCNF defination![[Pasted image 20231008113937.png]]::![[Pasted image 20231008114
 ![[Pasted image 20231008114221.png]]::![[Pasted image 20231008114242.png]] <!--SR:!2023-11-04,2,250-->
 
 
-- adequte=not more, not less![[Pasted image 20231028231459.png]]::D![[Pasted image 20231008120159.png]]::![[Pasted image 20231008120216.png]] <!--SR:!2023-11-03,4,271-->
+- adequte=not more, not less![[Pasted image 20231028231459.png]]::D
+
+![[Pasted image 20231008120159.png]]::![[Pasted image 20231008120216.png]] <!--SR:!2023-11-03,4,271-->
 
 #today ![[Pasted image 20231008120255.png]]::![[Pasted image 20231008120311.png]] <!--SR:!2023-11-02,3,250-->
 
