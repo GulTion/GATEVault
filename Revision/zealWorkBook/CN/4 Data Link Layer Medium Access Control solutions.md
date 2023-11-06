@@ -37,9 +37,9 @@ status: acquiring
 
 ![[Pasted image 20231103201751.png]]::D![[Pasted image 20231103201811.png]] <!--SR:!2023-11-08,3,262-->
 
-![[Pasted image 20231103202618.png]]::100![[Pasted image 20231103202637.png]] <!--SR:!2023-11-06,3,262-->
+ <!--SR:!2023-11-06,3,262-->
 
-![[Pasted image 20231103202943.png]]::64![[Pasted image 20231103203001.png]] <!--SR:!2023-11-06,1,240-->
+![[Pasted image 20231103202943.png]]::64![[Pasted image 20231103203001.png]] <!--SR:!2023-11-09,3,260-->
 
 
 # Manchester Encoding
@@ -49,5 +49,5 @@ status: acquiring
 
 
 # Packet Switching
-![[Pasted image 20231103203525.png]]::![[Pasted image 20231103203542.png]] <!--SR:!2023-11-06,3,262-->
+![[Pasted image 20231103203525.png]]::![[Pasted image 20231103203542.png]] <!--SR:!2023-11-08,2,242-->
 

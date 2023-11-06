@@ -20,7 +20,7 @@ Kth Packet lost in Selective Repeat![[Pasted image 20231022124236.png]]::![[Past
 ![[Pasted image 20231022124450.png]]::![[Pasted image 20231022124503.png]] <!--SR:!2023-11-10,14,292-->
 
 
-![[Pasted image 20231014125821.png]]![[Pasted image 20231014125841.png]]![[Pasted image 20231014130147.png]]::![[Pasted image 20231014125934.png]]  ^packet-flow-sender-window-to-reciver-window-in-selective-repeat <!--SR:!2023-11-06,9,272-->
+ <!--SR:!2023-11-06,9,272-->
 
 ![[Pasted image 20231022124658.png]]::![[Pasted image 20231022124717.png]] <!--SR:!2023-11-07,10,272-->
 
