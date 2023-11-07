@@ -4,7 +4,7 @@
 
 #card/DSA/Tree
 
-what is **Depth of tree**:::no. of edges from root to a particular node <!--SR:!2023-11-07,9,270!2023-11-11,10,270-->
+ <!--SR:!2023-11-07,9,270!2023-11-11,10,270-->
 
 what is **level of tree**:::1 + no. edges between a node and root <!--SR:!2023-11-13,15,290!2023-11-15,17,290-->
 
@@ -12,9 +12,9 @@ what is **height of tree** defination:::no. of edges in the path from node to it
 
 what is relation between child nodes to internal nodes formula::![[Pasted image 20231024110727.png]] <!--SR:!2023-11-15,17,290-->
 
-(in heaf tree, index start from 0) what is location of parent if location of child is given at **i**::![[Pasted image 20231024110918.png]] <!--SR:!2023-11-06,5,250-->
+(in heaf tree, index start from 0) what is location of parent if location of child is given at **i**::![[Pasted image 20231024110918.png]] <!--SR:!2023-11-21,14,250-->
 
-(in heaf tree, index start from 0) what is location of left child and right child if location of parent is given at **i**::![[Pasted image 20231024111035.png]] <!--SR:!2023-11-07,9,270-->
+(in heaf tree, index start from 0) what is location of left child and right child if location of parent is given at **i**::![[Pasted image 20231024111035.png]] <!--SR:!2023-11-12,5,250-->
 
 (in heaf tree, index start from 1) what is location of parent if location of child is given at **i**::![[Pasted image 20231024111148.png]] <!--SR:!2023-11-08,10,270-->
 
@@ -30,7 +30,7 @@ what is **Full Binary Tree**::![[Pasted image 20231024112023.png]] <!--SR:!2023-
 
 what is **strict binary tree**::![[Pasted image 20231024112103.png]] <!--SR:!2023-11-14,16,290-->
 
-min and max size of array to store binary tree of n  nodes::![[Pasted image 20231024113444.png]] <!--SR:!2023-11-06,8,250-->
+min and max size of array to store binary tree of n  nodes::![[Pasted image 20231024113444.png]] <!--SR:!2023-11-11,4,230-->
 
 total number of binary trees possible with  **n** nodes::![[Pasted image 20231024113619.png]] <!--SR:!2023-11-14,16,290-->
 
