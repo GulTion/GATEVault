@@ -15,7 +15,7 @@ status: Revision
 - 11. ![[Pasted image 20231015155434.png]]::![[Pasted image 20231015155441.png]] <!--SR:!2023-11-13,13,270-->
 #today - 13. ![[Pasted image 20231015160221.png]]::![[Pasted image 20231015160227.png]] <!--SR:!2023-11-01,4,270-->
 - #today/week 14. lack of concept #r2![[Pasted image 20231015160348.png]]::![[Pasted image 20231015160407.png]] <!--SR:!2023-11-16,10,278-->
-- #today/daily 21 statemwnts ![[Pasted image 20231015164115.png]]:: ![[Pasted image 20231015164119.png]]
+- #today/daily 21 statemwnts ![[Pasted image 20231015164115.png]]:: ![[Pasted image 20231015164119.png]] <!--SR:!2023-11-10,3,265-->
 - #today 23 new concept![[Pasted image 20231015164404.png]]::![[Pasted image 20231015164411.png]]
 - #today/day 24 lack of practice ![[Pasted image 20231015164857.png]]::![[Pasted image 20231015164902.png]]
 - 25 lack of practice ![[Pasted image 20231015164923.png]]::![[Pasted image 20231015164928.png]] <!--SR:!2023-11-12,11,270-->
