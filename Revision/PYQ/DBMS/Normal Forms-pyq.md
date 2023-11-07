@@ -25,12 +25,12 @@ lossless join and dependecny preserving![[Pasted image 20231028231215.png]]::![[
 BCNF defination![[Pasted image 20231008113937.png]]::![[Pasted image 20231008114000.png]] <!--SR:!2023-11-10,9,270-->
 
 
-![[Pasted image 20231008114221.png]]::![[Pasted image 20231008114242.png]] <!--SR:!2023-11-04,2,250-->
+![[Pasted image 20231008114221.png]]::![[Pasted image 20231008114242.png]] <!--SR:!2023-11-13,6,250-->
 
 
-- adequte=not more, not less![[Pasted image 20231028231459.png]]::D
+- adequte=not more, not less![[Pasted image 20231028231459.png]]::D <!--SR:!2023-11-10,3,256-->
 
-![[Pasted image 20231008120159.png]]::![[Pasted image 20231008120216.png]] <!--SR:!2023-11-03,4,271-->
+![[Pasted image 20231008120159.png]]::![[Pasted image 20231008120216.png]] <!--SR:!2023-11-09,2,251-->
 
 #today ![[Pasted image 20231008120255.png]]::![[Pasted image 20231008120311.png]] <!--SR:!2023-11-02,3,250-->
 
