@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
+                "file": "DialyStuff/2023-11-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"database-plugin\"]",
+                "query": "tag:#card/CN",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,7 +95,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
+                "file": "DialyStuff/2023-11-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
+                "file": "DialyStuff/2023-11-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ShortNotes/DBMS/DATABASE DESIGN.md"
+                "file": "DialyStuff/2023-11-07.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -248,14 +248,15 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "7ab6f3b17005b06d",
+  "active": "4e5945f15d13caa0",
   "lastOpenFiles": [
+    "DialyStuff/2023-11-07.md",
+    "DialyStuff/2023-11-08.md",
+    "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
     "Revision/ShortNotes/DBMS/media/Pasted image 20231107153532.png",
     "Revision/ShortNotes/DBMS/media/Pasted image 20231107153149.png",
     "Revision/ShortNotes/DBMS/media/Pasted image 20231107153123.png",
     "Revision/ShortNotes/DBMS/media/Pasted image 20231107152355.png",
-    "DialyStuff/2023-11-07.md",
-    "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
     "Revision/ShortNotes/DBMS/media/Pasted image 20231107135042.png",
     "Revision/ShortNotes/DBMS/media/Pasted image 20231107134959.png",
     "Revision/ShortNotes/DBMS/media/Pasted image 20231107134333.png",
@@ -268,7 +269,6 @@
     "DialyStuff/2023-11-06.md",
     "Revision/zealWorkBook/CN/3 Data Link Layer Flow Control.md",
     "Revision/PYQ/COA/Memory Chip Design.md",
-    "Revision/PYQ/COA/media/Pasted image 20231106103843.png",
     "Revision/ZealTS/FULL/TEST ID 80 MOCK 4.md",
     "DialyStuff/2023-11-05.md",
     "index.md",
