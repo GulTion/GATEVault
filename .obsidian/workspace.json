@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c9dfdba11806b0f",
+        "id": "b99058b470ca4fd2",
         "type": "tabs",
         "children": [
           {
-            "id": "d9a15d9ab6e25bc9",
+            "id": "4e5945f15d13caa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ab6f3b17005b06d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68dc590d638181f2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-07.md",
+                "file": "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-07.md",
+                "file": "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-07.md"
+                "file": "Revision/ShortNotes/DBMS/DATABASE DESIGN.md"
               }
             }
           },
@@ -225,24 +248,27 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "d9a15d9ab6e25bc9",
+  "active": "7ab6f3b17005b06d",
   "lastOpenFiles": [
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/ShortNotes/DBMS/media/Pasted image 20231107153532.png",
+    "Revision/ShortNotes/DBMS/media/Pasted image 20231107153149.png",
+    "Revision/ShortNotes/DBMS/media/Pasted image 20231107153123.png",
+    "Revision/ShortNotes/DBMS/media/Pasted image 20231107152355.png",
     "DialyStuff/2023-11-07.md",
+    "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
+    "Revision/ShortNotes/DBMS/media/Pasted image 20231107135042.png",
+    "Revision/ShortNotes/DBMS/media/Pasted image 20231107134959.png",
+    "Revision/ShortNotes/DBMS/media/Pasted image 20231107134333.png",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/MixQue/DLD/Combination Circuits.md",
+    "Revision/MixQue/DLD/media/Pasted image 20231107133244.png",
+    "Revision/MixQue/DLD/media/Pasted image 20231107133232.png",
+    "Revision/MixQue/DLD/media/Pasted image 20231107133214.png",
     "Hinduism.md",
     "DialyStuff/2023-11-06.md",
     "Revision/zealWorkBook/CN/3 Data Link Layer Flow Control.md",
     "Revision/PYQ/COA/Memory Chip Design.md",
     "Revision/PYQ/COA/media/Pasted image 20231106103843.png",
-    "Revision/PYQ/COA/media/Pasted image 20231106103830.png",
-    "Revision/PYQ/COA/media/Pasted image 20231106103157.png",
-    "Revision/PYQ/COA/media/Pasted image 20231106103114.png",
-    "Revision/PYQ/COA/media/Pasted image 20231106103043.png",
-    "Revision/PYQ/COA/media/Pasted image 20231106102154.png",
-    "Revision/PYQ/COA/media/Pasted image 20231106102108.png",
-    "Revision/PYQ/COA/media/Pasted image 20231106102008.png",
-    "Revision/PYQ/COA/media/Pasted image 20231106101920.png",
-    "Revision/PYQ/COA/media/Pasted image 20231106100753.png",
     "Revision/ZealTS/FULL/TEST ID 80 MOCK 4.md",
     "DialyStuff/2023-11-05.md",
     "index.md",
@@ -262,8 +288,6 @@
     "Revision/MixQue/CN/Switching.md",
     "Revision/PYQ/FULL/GATE 2020.md",
     "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
-    "Revision/ShortNotes/CN/Packet Switiching.md",
-    "Revision/ShortNotes/CN/Circuit Switching.md",
     "Revision/MixQue/CN/media",
     "Revision/MixQue/CN",
     "Revision/PYQ/COA/media/Recording 20231102141546.webm",
