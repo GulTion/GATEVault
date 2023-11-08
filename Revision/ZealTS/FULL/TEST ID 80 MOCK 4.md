@@ -13,7 +13,7 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 
 ![[Pasted image 20231106005717.png]]::![[Pasted image 20231106005723.png]]
 
-![[Pasted image 20231106005908.png]]::![[Pasted image 20231106005915.png]]
+![[Pasted image 20231106005908.png]]::![[Pasted image 20231106005915.png]] <!--SR:!2023-11-09,1,230-->
 
 ![[Pasted image 20231106005935.png]]::![[Pasted image 20231106005941.png]]
 
@@ -23,7 +23,7 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 
 ![[Pasted image 20231106011915.png]]::![[Pasted image 20231106011921.png]]
 
-![[Pasted image 20231106012802.png]]::![[Pasted image 20231106012808.png]]
+![[Pasted image 20231106012802.png]]::![[Pasted image 20231106012808.png]] <!--SR:!2023-11-11,3,250-->
 
 ![[Pasted image 20231106015035.png]]::![[Pasted image 20231106015041.png]]
 
