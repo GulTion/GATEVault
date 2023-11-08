@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-08.md",
+                "file": "Revision/MixQue/DS/Greedy/Dijkastra Algo - Made Easy.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-08.md",
+                "file": "Revision/MixQue/DS/Greedy/Dijkastra Algo - Made Easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-08.md",
+                "file": "Revision/MixQue/DS/Greedy/Dijkastra Algo - Made Easy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-08.md"
+                "file": "Revision/MixQue/DS/Greedy/Dijkastra Algo - Made Easy.md"
               }
             }
           },
@@ -228,12 +228,21 @@
   },
   "active": "d6c6aa57d7ff43d0",
   "lastOpenFiles": [
+    "Revision/MixQue/DS/Greedy/media/Pasted image 20231108221807.png",
+    "Revision/MixQue/DS/Greedy/media/Pasted image 20231108221031.png",
+    "Revision/MixQue/DS/Greedy/media/Pasted image 20231108221012.png",
+    "Revision/MixQue/DS/Greedy/media/Pasted image 20231108220940.png",
+    "Revision/MixQue/DS/Greedy/media",
+    "DialyStuff/2023-11-08.md",
+    "Revision/MixQue/DS/Greedy/Dijkastra Algo - Made Easy.md",
+    "Revision/MixQue/DS/Greedy.md",
+    "Revision/MixQue/DS/Greedy",
+    "Revision/MixQue/DS",
     "DialyStuff/2023-11-09.md",
     "Untitled.md",
     "Revision/PYQ/DS/Greedy Technique.md",
     "StackForSubjects.md",
     "fromWhereSubject.md",
-    "DialyStuff/2023-11-08.md",
     "WeakSubtopic.md",
     "Untitled Kanban.md",
     "Revision/zealWorkBook/DSA/Program design strategy.md",
@@ -244,9 +253,6 @@
     "Revision/zealWorkBook/DSA/media/Pasted image 20231108133420.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231108133408.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231108132350.png",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231108132133.png",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231108132115.png",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231108132101.png",
     "Revision/zealWorkBook/DSA/Basic - Program design strategy.md",
     "Revision/PYQ/DS/media",
     "Revision/zealWorkBook/OS/InterProcess Communication.md",
@@ -263,18 +269,12 @@
     "Revision/MixQue/DLD/Combination Circuits.md",
     "Hinduism.md",
     "DialyStuff/2023-11-06.md",
-    "Revision/zealWorkBook/CN/3 Data Link Layer Flow Control.md",
-    "Revision/PYQ/COA/Memory Chip Design.md",
-    "DialyStuff/2023-11-05.md",
     "Revision/PYQ/TOC/media",
     "Revision/MixQue/CN/media",
     "Revision/MixQue/CN",
     "Revision/PYQ/COA/media/Recording 20231102141546.webm",
     "Revision/PYQ/DM/media",
     "Untitled.canvas",
-    "Revision/ZealTS/DSA/media",
-    "Revision/ZealTS/DM/media",
-    "Revision/PYQ/CN/media",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
