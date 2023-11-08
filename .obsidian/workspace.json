@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ffd59d579f55fa93",
+        "id": "e784a21896067f33",
         "type": "tabs",
         "children": [
           {
-            "id": "20666cc761411eda",
+            "id": "d6c6aa57d7ff43d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/DS/Greedy Technique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40382e9278dfe4e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/zealWorkBook/DSA/Program design strategy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e4d19b4b4c16a6e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "79f22015b7687220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fromWhereSubject.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a84aab5ac7908f41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WeakSubtopic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db207639b3202f0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-11-08.md",
+                "file": "StackForSubjects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-08.md",
+                "file": "StackForSubjects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-08.md",
+                "file": "StackForSubjects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-08.md"
+                "file": "StackForSubjects.md"
               }
             }
           },
@@ -285,10 +226,15 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "db207639b3202f0f",
+  "active": "d6c6aa57d7ff43d0",
   "lastOpenFiles": [
-    "WeakSubtopic.md",
+    "DialyStuff/2023-11-09.md",
+    "Untitled.md",
+    "Revision/PYQ/DS/Greedy Technique.md",
+    "StackForSubjects.md",
     "fromWhereSubject.md",
+    "DialyStuff/2023-11-08.md",
+    "WeakSubtopic.md",
     "Untitled Kanban.md",
     "Revision/zealWorkBook/DSA/Program design strategy.md",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231108135103.png",
@@ -302,13 +248,10 @@
     "Revision/zealWorkBook/DSA/media/Pasted image 20231108132115.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231108132101.png",
     "Revision/zealWorkBook/DSA/Basic - Program design strategy.md",
-    "Revision/PYQ/DS/Greedy Technique.md",
-    "DialyStuff/2023-11-08.md",
     "Revision/PYQ/DS/media",
     "Revision/zealWorkBook/OS/InterProcess Communication.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "@{2023-11-09} OK.md",
-    "Untitled.md",
     "templates/Normal Task Template.md",
     "templates/dailyNote Template.md",
     "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2 2022.md",
@@ -323,8 +266,6 @@
     "Revision/zealWorkBook/CN/3 Data Link Layer Flow Control.md",
     "Revision/PYQ/COA/Memory Chip Design.md",
     "DialyStuff/2023-11-05.md",
-    "index.md",
-    "DaskBoard Back.md",
     "Revision/PYQ/TOC/media",
     "Revision/MixQue/CN/media",
     "Revision/MixQue/CN",

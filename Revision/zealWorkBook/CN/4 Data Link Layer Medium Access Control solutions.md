@@ -20,7 +20,7 @@ status: acquiring
 ![[Pasted image 20231027154001.png]]![[Pasted image 20231027153923.png]]::D![[Pasted image 20231027153938.png]] <!--SR:!2023-11-09,9,270-->
 
 
-![[Pasted image 20231027154551.png]]::A, sent by anyone, in which only one sucess and other get fail so![[Pasted image 20231027154608.png]] <!--SR:!2023-11-08,9,270-->
+![[Pasted image 20231027154551.png]]::A, sent by anyone, in which only one sucess and other get fail so![[Pasted image 20231027154608.png]] <!--SR:!2023-11-12,4,250-->
 
 
  <!--SR:!2023-11-03,4,275-->
@@ -32,10 +32,10 @@ status: acquiring
 
 ![[Pasted image 20231027155214.png]]::A <!--SR:!2023-11-10,10,270-->
 
-![[Pasted image 20231103201411.png]]::B,D ![[Pasted image 20231103201429.png]] <!--SR:!2023-11-08,3,260-->
+![[Pasted image 20231103201411.png]]::B,D ![[Pasted image 20231103201429.png]] <!--SR:!2023-11-18,10,280-->
 
 
-![[Pasted image 20231103201751.png]]::D![[Pasted image 20231103201811.png]] <!--SR:!2023-11-08,3,262-->
+![[Pasted image 20231103201751.png]]::D![[Pasted image 20231103201811.png]] <!--SR:!2023-11-16,8,262-->
 
  <!--SR:!2023-11-06,3,262-->
 
@@ -49,5 +49,5 @@ status: acquiring
 
 
 # Packet Switching
-![[Pasted image 20231103203525.png]]::![[Pasted image 20231103203542.png]] <!--SR:!2023-11-08,2,242-->
+ <!--SR:!2023-11-08,2,242-->
 

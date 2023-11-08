@@ -7,9 +7,7 @@ last_time: 2023-10-14T00:00:00.000+05:30
 #card/COA/pipeline 
 - all Stage of all instruction are different![Untitled](Revision/media/PYQRevision/COA/media/Untitled.png)::![Untitled](Revision/media/PYQRevision/COA/media/Untitled%201.png) <!--SR:!2023-11-11,17,290-->
     
-- breaking the stage of pipiline into two pieces![Untitled](Revision/media/PYQRevision/COA/media/Untitled%202.png)
-?
-    solution![[Pasted image 20231007183456.png]] <!--SR:!2023-11-08,14,292-->
+ <!--SR:!2023-11-08,14,292-->
 
 
 - Only Structural Hazard , Different Cycle for Execution stage![Untitled](Revision/media/PYQRevision/COA/media/Untitled%203.png)::solution![Untitled](Revision/media/PYQRevision/COA/media/Untitled%204.png)![Untitled](Revision/media/PYQRevision/COA/media/Untitled%205.png) <!--SR:!2023-11-09,15,292-->

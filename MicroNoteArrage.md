@@ -10,8 +10,8 @@ kanban-plugin: basic
 - [ ] CN
 - [ ] DSA
 - [ ] DM
-- [ ] OS
 - [ ] COA
+- [ ] OS
 - [ ] DLD
 - [ ] CD
 - [ ] EM-linear
