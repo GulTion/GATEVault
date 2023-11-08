@@ -4,69 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b99058b470ca4fd2",
+        "id": "e9ae5734f9172b3b",
         "type": "tabs",
         "children": [
           {
-            "id": "4e5945f15d13caa0",
+            "id": "e25933828e8aa89c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc5940b19ebeb584",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "95ce747d2b5d9dea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ab6f3b17005b06d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-11-08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68dc590d638181f2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
-              }
-            }
-          },
-          {
-            "id": "eb44d4d23e7f5184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05ac4829d575888e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2 2022.md",
+                "file": "Revision/zealWorkBook/OS/InterProcess Communication.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
+                "file": "Revision/zealWorkBook/OS/InterProcess Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
+                "file": "Revision/zealWorkBook/OS/InterProcess Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md"
+                "file": "Revision/zealWorkBook/OS/InterProcess Communication.md"
               }
             }
           },
@@ -249,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,18 +243,24 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "eb44d4d23e7f5184",
+  "active": "95ce747d2b5d9dea",
   "lastOpenFiles": [
+    "@{2023-11-09} OK.md",
+    "Untitled Kanban.md",
+    "Untitled.md",
+    "templates/Normal Task Template.md",
+    "templates/dailyNote Template.md",
+    "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2 2022.md",
+    "DialyStuff/2023-11-07.md",
+    "DialyStuff/2023-11-08.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/ZealTS/FULL/TEST ID 80 MOCK 4.md",
     "Revision/ZealTS/FULL/media/Pasted image 20231107221152.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231107221148.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231107220011.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231107220004.png",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2 2022.md",
-    "DialyStuff/2023-11-07.md",
-    "DialyStuff/2023-11-08.md",
     "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
     "Revision/ShortNotes/DBMS/media/Pasted image 20231107153532.png",
     "Revision/ShortNotes/DBMS/media/Pasted image 20231107153149.png",
@@ -299,7 +276,6 @@
     "DialyStuff/2023-11-05.md",
     "index.md",
     "DaskBoard Back.md",
-    "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
     "Revision/PYQ/DM/Graph Theory.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
@@ -307,10 +283,6 @@
     "DialyStuff/2023-11-04.md",
     "Revision/PYQ/TOC/Context Free Language.md",
     "Revision/PYQ/TOC/media",
-    "MicroNoteArrage.md",
-    "Revision/MicroNotes/DLD/Flip Flops.md",
-    "fromWhereSubject.md",
-    "Revision/RevisionDB.md",
     "Revision/MixQue/CN/media",
     "Revision/MixQue/CN",
     "Revision/PYQ/COA/media/Recording 20231102141546.webm",
