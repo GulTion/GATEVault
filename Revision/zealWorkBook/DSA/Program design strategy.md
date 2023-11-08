@@ -2,7 +2,7 @@
 subject: DS
 type: zealWorkBook
 status: acquiring
-atQ: 8
+atQ: 41
 endQ: 13
 startQ: 8
 ---
@@ -15,4 +15,7 @@ startQ: 8
 ![[Pasted image 20231108133408.png]]::![[Pasted image 20231108133420.png]]
 
 ![[Pasted image 20231108134225.png]]::A ![[Pasted image 20231108134254.png]]
+
+# MST
+![[Pasted image 20231108135035.png]]:10 ![[Pasted image 20231108135103.png]]
 

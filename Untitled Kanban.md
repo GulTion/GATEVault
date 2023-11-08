@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## MustDO
 
 **Complete**
-- [x] [[@{2023-11-09} OK]]
 
 
 ## Daily
