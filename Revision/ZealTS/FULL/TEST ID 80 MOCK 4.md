@@ -7,9 +7,9 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ---
 #card/FULL 
 
-![[Pasted image 20231106004812.png]]::![[Pasted image 20231106004817.png]]
+![[Pasted image 20231106004812.png]]::![[Pasted image 20231106004817.png]] <!--SR:!2023-11-11,3,250-->
 
-![[Pasted image 20231106005542.png]]::![[Pasted image 20231106005549.png]]
+![[Pasted image 20231106005542.png]]::![[Pasted image 20231106005549.png]] <!--SR:!2023-11-11,3,250-->
 
 ![[Pasted image 20231106005717.png]]::![[Pasted image 20231106005723.png]]
 

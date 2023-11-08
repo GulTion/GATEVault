@@ -10,7 +10,7 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ---
 #card/FULL
 - 31 gamma function integration ![[Pasted image 20231016173150.png]]::![[Pasted image 20231016173157.png]] <!--SR:!2023-11-02,4,270-->
-- 32 closure property ![[Pasted image 20231016173434.png]]::![[Pasted image 20231016173441.png]] <!--SR:!2023-11-03,4,272-->
-- 36 probabilty![[Pasted image 20231016175839.png]]::![[Pasted image 20231016175939.png]] <!--SR:!2023-11-03,4,272-->
+- 32 closure property ![[Pasted image 20231016173434.png]]::![[Pasted image 20231016173441.png]] <!--SR:!2023-11-20,12,272-->
+- 36 probabilty![[Pasted image 20231016175839.png]]::![[Pasted image 20231016175939.png]] <!--SR:!2023-11-10,2,252-->
 
 
