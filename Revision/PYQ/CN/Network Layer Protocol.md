@@ -35,7 +35,7 @@ src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 
 #today/week ![[Pasted image 20231101220450.png]]![[Pasted image 20231101220504.png]]![[Pasted image 20231101220527.png]]::A <!--SR:!2023-11-19,13,296-->
 
-![[Pasted image 20231102181314.png]]::C![[Pasted image 20231102181325.png]] <!--SR:!2023-11-08,3,258-->
+![[Pasted image 20231102181314.png]]::C![[Pasted image 20231102181325.png]] <!--SR:!2023-11-15,7,258-->
 
 ![[Pasted image 20231102181605.png]]::![[Pasted image 20231102181615.png]] <!--SR:!2023-11-15,7,258-->
 

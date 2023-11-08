@@ -13,3 +13,11 @@
 
 # CD
 - Live Variable Analysis + Runtime revision in CD
+
+# EM
+- Shreanik Practice Course
+	- Probability
+	- Linear Algebra
+
+# OS
+- Process Syncronization PYQ from Vishwdeep Gothi

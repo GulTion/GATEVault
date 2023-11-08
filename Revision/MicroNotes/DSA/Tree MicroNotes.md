@@ -16,7 +16,7 @@ what is relation between child nodes to internal nodes formula::![[Pasted image 
 
 (in heaf tree, index start from 0) what is location of left child and right child if location of parent is given at **i**::![[Pasted image 20231024111035.png]] <!--SR:!2023-11-12,5,250-->
 
-(in heaf tree, index start from 1) what is location of parent if location of child is given at **i**::![[Pasted image 20231024111148.png]] <!--SR:!2023-11-08,10,270-->
+(in heaf tree, index start from 1) what is location of parent if location of child is given at **i**::![[Pasted image 20231024111148.png]] <!--SR:!2023-11-14,6,250-->
 
 
 (in heaf tree, index start from 1) what is location of left child and right child if location of parent is given at **i**::![[Pasted image 20231024111222.png]] <!--SR:!2023-11-13,15,290-->
