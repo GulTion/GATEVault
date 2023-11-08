@@ -4,37 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e9ae5734f9172b3b",
+        "id": "ffd59d579f55fa93",
         "type": "tabs",
         "children": [
           {
-            "id": "e25933828e8aa89c",
+            "id": "20666cc761411eda",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bc5940b19ebeb584",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "95ce747d2b5d9dea",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+                "file": "Revision/PYQ/DS/Greedy Technique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40382e9278dfe4e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/zealWorkBook/DSA/KNAPSACK PROBLEM - Program design strategy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5045585632324
+    "width": 370.5045585632324
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+                "file": "Revision/zealWorkBook/DSA/KNAPSACK PROBLEM - Program design strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+                "file": "Revision/zealWorkBook/DSA/KNAPSACK PROBLEM - Program design strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+                "file": "Revision/zealWorkBook/DSA/KNAPSACK PROBLEM - Program design strategy.md"
               }
             }
           },
@@ -213,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,9 +239,21 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "95ce747d2b5d9dea",
+  "active": "40382e9278dfe4e6",
   "lastOpenFiles": [
+    "Revision/zealWorkBook/DSA/Basic - Program design strategy.md",
+    "Revision/zealWorkBook/DSA/KNAPSACK PROBLEM - Program design strategy.md",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231108120824.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231108120807.png",
+    "Revision/PYQ/DS/media/Pasted image 20231108115916.png",
+    "Revision/PYQ/DS/Greedy Technique.md",
+    "DialyStuff/2023-11-08.md",
+    "Revision/PYQ/DS/media/Pasted image 20231108115804.png",
+    "Revision/PYQ/DS/media/Pasted image 20231108115012.png",
+    "Revision/PYQ/DS/media/Pasted image 20231108114912.png",
+    "Revision/PYQ/DS/media",
     "Revision/zealWorkBook/OS/InterProcess Communication.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "@{2023-11-09} OK.md",
     "Untitled Kanban.md",
     "Untitled.md",
@@ -251,8 +261,6 @@
     "templates/dailyNote Template.md",
     "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2 2022.md",
     "DialyStuff/2023-11-07.md",
-    "DialyStuff/2023-11-08.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/ZealTS/FULL/TEST ID 80 MOCK 4.md",
     "Revision/ZealTS/FULL/media/Pasted image 20231107221152.png",
@@ -261,12 +269,6 @@
     "Revision/ZealTS/FULL/media/Pasted image 20231107220004.png",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
-    "Revision/ShortNotes/DBMS/media/Pasted image 20231107153532.png",
-    "Revision/ShortNotes/DBMS/media/Pasted image 20231107153149.png",
-    "Revision/ShortNotes/DBMS/media/Pasted image 20231107153123.png",
-    "Revision/ShortNotes/DBMS/media/Pasted image 20231107152355.png",
-    "Revision/ShortNotes/DBMS/media/Pasted image 20231107135042.png",
-    "Revision/ShortNotes/DBMS/media/Pasted image 20231107134959.png",
     "Revision/MixQue/DLD/Combination Circuits.md",
     "Hinduism.md",
     "DialyStuff/2023-11-06.md",
@@ -277,9 +279,6 @@
     "DaskBoard Back.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
     "Revision/PYQ/DM/Graph Theory.md",
-    "Revision/PYQ/CN/Network Layer Protocol.md",
-    "Revision/relation algbera.md",
-    "DialyStuff/2023-11-04.md",
     "Revision/PYQ/TOC/media",
     "Revision/MixQue/CN/media",
     "Revision/MixQue/CN",
@@ -289,7 +288,6 @@
     "Revision/ZealTS/DSA/media",
     "Revision/ZealTS/DM/media",
     "Revision/PYQ/CN/media",
-    "Revision/ZealTS/DM",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
