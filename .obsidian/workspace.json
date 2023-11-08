@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/KNAPSACK PROBLEM - Program design strategy.md",
+                "file": "Revision/zealWorkBook/DSA/Program design strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/KNAPSACK PROBLEM - Program design strategy.md",
+                "file": "Revision/zealWorkBook/DSA/Program design strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/KNAPSACK PROBLEM - Program design strategy.md",
+                "file": "Revision/zealWorkBook/DSA/Program design strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/KNAPSACK PROBLEM - Program design strategy.md"
+                "file": "Revision/zealWorkBook/DSA/Program design strategy.md"
               }
             }
           },
@@ -241,16 +241,21 @@
   },
   "active": "40382e9278dfe4e6",
   "lastOpenFiles": [
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231108134254.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231108134225.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231108133420.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231108133408.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231108132350.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231108132133.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231108132115.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231108132101.png",
     "Revision/zealWorkBook/DSA/Basic - Program design strategy.md",
-    "Revision/zealWorkBook/DSA/KNAPSACK PROBLEM - Program design strategy.md",
+    "Revision/zealWorkBook/DSA/Program design strategy.md",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231108120824.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231108120807.png",
     "Revision/PYQ/DS/media/Pasted image 20231108115916.png",
     "Revision/PYQ/DS/Greedy Technique.md",
     "DialyStuff/2023-11-08.md",
-    "Revision/PYQ/DS/media/Pasted image 20231108115804.png",
-    "Revision/PYQ/DS/media/Pasted image 20231108115012.png",
-    "Revision/PYQ/DS/media/Pasted image 20231108114912.png",
     "Revision/PYQ/DS/media",
     "Revision/zealWorkBook/OS/InterProcess Communication.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
@@ -263,10 +268,6 @@
     "DialyStuff/2023-11-07.md",
     "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/ZealTS/FULL/TEST ID 80 MOCK 4.md",
-    "Revision/ZealTS/FULL/media/Pasted image 20231107221152.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231107221148.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231107220011.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231107220004.png",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
     "Revision/MixQue/DLD/Combination Circuits.md",
@@ -278,7 +279,6 @@
     "index.md",
     "DaskBoard Back.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
-    "Revision/PYQ/DM/Graph Theory.md",
     "Revision/PYQ/TOC/media",
     "Revision/MixQue/CN/media",
     "Revision/MixQue/CN",
