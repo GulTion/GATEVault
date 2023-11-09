@@ -1,5 +1,6 @@
 # DS
 - [[Program design strategy]]
+- Reddy Sir, Graph Theory 25.mp4 35min
 
 # DBMS
 - [[DATABASE DESIGN]] Convert ER->Table Pathak Sir

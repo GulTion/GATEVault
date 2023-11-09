@@ -12,4 +12,5 @@ status: acquiring
 (ii) 79 (just see in the table at the very last)
 (iii) B->A->D->C->F->E 
 
+Effect of Negative Edege and Negative Edge weight cycle on Dijkstra and BellmanFord::![[Pasted image 20231109011928.png]]![[Pasted image 20231109012100.png]]
 
