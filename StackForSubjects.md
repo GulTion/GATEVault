@@ -4,6 +4,7 @@
 
 # DBMS
 - [[DATABASE DESIGN]] Convert ER->Table Pathak Sir
+- https://practicepaper.in/gate-cse/relational-schema PYQ
 
 # DLD 
 - GATEoMedia and short notes making

@@ -23,6 +23,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Revision/PYQ/DBMS/ER Model - pyq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28826ce1a1f9f7ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "StackForSubjects.md",
                 "mode": "source",
                 "source": false
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StackForSubjects.md",
+                "file": "Revision/PYQ/DBMS/ER Model - pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StackForSubjects.md",
+                "file": "Revision/PYQ/DBMS/ER Model - pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StackForSubjects.md"
+                "file": "Revision/PYQ/DBMS/ER Model - pyq.md"
               }
             }
           },
@@ -239,20 +251,25 @@
   },
   "active": "59e4a744f048b28b",
   "lastOpenFiles": [
+    "Revision/PYQ/DBMS/media/Pasted image 20231109164856.png",
+    "Revision/PYQ/DBMS/media/Pasted image 20231109164739.png",
+    "Revision/PYQ/DBMS/media/Pasted image 20231109164350.png",
+    "Revision/PYQ/DBMS/media/Pasted image 20231109164342.png",
+    "Revision/PYQ/DBMS/Relational Schema - pyq.md",
+    "Revision/PYQ/DBMS/ER Model - pyq.md",
+    "Revision/PYQ/DBMS/media/Pasted image 20231109161406.png",
+    "Revision/PYQ/DBMS/media/Pasted image 20231109161351.png",
+    "Revision/PYQ/DBMS/media/Pasted image 20231109160938.png",
+    "Revision/PYQ/DBMS/media/Pasted image 20231109160715.png",
+    "StackForSubjects.md",
+    "Revision/PYQ/DBMS/media/Pasted image 20231109154601.png",
+    "Revision/PYQ/DBMS/media/Pasted image 20231109154549.png",
+    "Revision/PYQ/DBMS/Normal Forms-pyq.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "MicroNoteArrage.md",
     "DialyStuff/2023-11-09.md",
     "Revision/MixQue/DS/Greedy/Dijkastra Algo - Made Easy.md",
     "Revision/MixQue/DS/Greedy/media/Pasted image 20231109134735.png",
-    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109134658.png",
-    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109134623.png",
-    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109134552.png",
-    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109134504.png",
-    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109133106.png",
-    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109132918.png",
-    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109132903.png",
-    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109132738.png",
-    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109132550.png",
     "Revision/MixQue/DS/Greedy/media",
     "DialyStuff/2023-11-08.md",
     "Revision/MixQue/DS/Greedy.md",
@@ -260,7 +277,6 @@
     "Revision/MixQue/DS",
     "Untitled.md",
     "Revision/PYQ/DS/Greedy Technique.md",
-    "StackForSubjects.md",
     "fromWhereSubject.md",
     "WeakSubtopic.md",
     "Untitled Kanban.md",
@@ -276,9 +292,6 @@
     "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/ZealTS/FULL/TEST ID 80 MOCK 4.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
-    "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
-    "Revision/MixQue/DLD/Combination Circuits.md",
-    "Hinduism.md",
     "Revision/PYQ/TOC/media",
     "Revision/MixQue/CN/media",
     "Revision/MixQue/CN",
