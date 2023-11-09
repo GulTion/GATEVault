@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6c6aa57d7ff43d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/MixQue/DS/Greedy/Dijkastra Algo - Made Easy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a56ef6ac74764f08",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,13 +229,17 @@
   "active": "a56ef6ac74764f08",
   "lastOpenFiles": [
     "Revision/MixQue/DS/Greedy/Dijkastra Algo - Made Easy.md",
-    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109012100.png",
-    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109011928.png",
+    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109134735.png",
+    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109134658.png",
+    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109134623.png",
+    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109134552.png",
+    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109134504.png",
+    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109133106.png",
+    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109132918.png",
+    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109132903.png",
+    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109132738.png",
+    "Revision/MixQue/DS/Greedy/media/Pasted image 20231109132550.png",
     "DialyStuff/2023-11-09.md",
-    "Revision/MixQue/DS/Greedy/media/Pasted image 20231108221807.png",
-    "Revision/MixQue/DS/Greedy/media/Pasted image 20231108221031.png",
-    "Revision/MixQue/DS/Greedy/media/Pasted image 20231108221012.png",
-    "Revision/MixQue/DS/Greedy/media/Pasted image 20231108220940.png",
     "Revision/MixQue/DS/Greedy/media",
     "DialyStuff/2023-11-08.md",
     "Revision/MixQue/DS/Greedy.md",
@@ -261,10 +252,6 @@
     "WeakSubtopic.md",
     "Untitled Kanban.md",
     "Revision/zealWorkBook/DSA/Program design strategy.md",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231108135103.png",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231108135035.png",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231108134254.png",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231108134225.png",
     "Revision/zealWorkBook/DSA/Basic - Program design strategy.md",
     "Revision/PYQ/DS/media",
     "Revision/zealWorkBook/OS/InterProcess Communication.md",

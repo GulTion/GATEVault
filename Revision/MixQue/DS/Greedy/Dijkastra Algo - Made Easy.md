@@ -14,3 +14,16 @@ status: acquiring
 
 Effect of Negative Edege and Negative Edge weight cycle on Dijkstra and BellmanFord::![[Pasted image 20231109011928.png]]![[Pasted image 20231109012100.png]]
 
+Find the correct sequence![[Pasted image 20231109132018.png]]::![[Pasted image 20231109132550.png]]
+
+
+![[Pasted image 20231109132738.png]]::![[Pasted image 20231109132903.png]]
+
+
+![[Pasted image 20231109132918.png]]::![[Pasted image 20231109133106.png]]
+
+![[Pasted image 20231109134504.png]]::1 2 4 5
+
+![[Pasted image 20231109134552.png]]![[Pasted image 20231109134623.png]]U-MST=unique, M-MST=multi::2 4 5
+
+![[Pasted image 20231109134658.png]]![[Pasted image 20231109134735.png]]:: 3
