@@ -39,7 +39,7 @@ status: acquiring
 
  <!--SR:!2023-11-06,3,262-->
 
-![[Pasted image 20231103202943.png]]::64![[Pasted image 20231103203001.png]] <!--SR:!2023-11-09,3,260-->
+![[Pasted image 20231103202943.png]]::64![[Pasted image 20231103203001.png]] <!--SR:!2023-11-16,7,260-->
 
 
 # Manchester Encoding

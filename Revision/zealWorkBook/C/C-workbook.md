@@ -13,7 +13,7 @@ src: zealWorkBook
  <!--SR:!2023-10-31,3,268-->
 - ![[Pasted image 20231001213927.png]]::C it will give error of `error: lvalue required as increment operand` bcz we can't change the address of the array `a` <!--SR:!2023-11-12,12,288-->
 
-![[Pasted image 20231001215133.png]]::A,![[Pasted image 20231001215145.png]] <!--SR:!2023-11-09,8,268-->
+![[Pasted image 20231001215133.png]]::A,![[Pasted image 20231001215145.png]] <!--SR:!2023-11-29,20,268-->
 
 ![[Pasted image 20231001225415.png]]::C <!--SR:!2023-11-12,12,288-->
 
