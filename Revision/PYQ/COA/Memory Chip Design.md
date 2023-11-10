@@ -7,7 +7,7 @@ status: acquiring
 
 ![[Pasted image 20231106100724.png]]::C ![[Pasted image 20231106100753.png]] <!--SR:!2023-11-12,4,270-->
 
-![[Pasted image 20231106101920.png]]::B ![[Pasted image 20231106102008.png]] <!--SR:!2023-11-09,1,230-->
+![[Pasted image 20231106101920.png]]::B ![[Pasted image 20231106102008.png]] <!--SR:!2023-11-13,3,250-->
 
 ![[Pasted image 20231106102108.png]]::B ![[Pasted image 20231106102154.png]] <!--SR:!2023-11-11,3,250-->
 

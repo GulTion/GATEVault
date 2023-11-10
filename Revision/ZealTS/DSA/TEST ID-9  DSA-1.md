@@ -9,7 +9,7 @@ startQ: 1
 ---
  #card/DSA/Asymtotic_Complexity 
  
-![[Pasted image 20231101162330.png]]::A,B,C,D![[Pasted image 20231101162339.png]] <!--SR:!2023-11-09,2,230-->
+![[Pasted image 20231101162330.png]]::A,B,C,D![[Pasted image 20231101162339.png]] <!--SR:!2023-11-15,5,230-->
 
 ![[Pasted image 20231101162509.png]]::C![[Pasted image 20231101162520.png]] <!--SR:!2023-11-22,15,290-->
 
@@ -28,5 +28,5 @@ startQ: 1
 
 ![[Pasted image 20231102164343.png]]22::B,C,D ![[Pasted image 20231102164356.png]] <!--SR:!2023-11-21,14,290-->
 
-![[Pasted image 20231102171242.png]]25::A,B,C![[Pasted image 20231102171250.png]] <!--SR:!2023-11-09,2,250-->
+![[Pasted image 20231102171242.png]]25::A,B,C![[Pasted image 20231102171250.png]] <!--SR:!2023-11-15,5,250-->
 

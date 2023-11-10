@@ -11,10 +11,7 @@ status: Revision
 - Window size calculation from RTT and Bandwidth![[Pasted image 20230930105606.png]]::200kb <!--SR:!2023-11-12,10,270-->
 
 
-RTT BandWidht Relation
-?
-> [!NOTE]
-> ![[TCP Notes#^3862a9]] <!--SR:!2023-11-09,9,270-->
+ <!--SR:!2023-11-09,9,270-->
 
 
 - Window Size Calculation #today ![[Pasted image 20230930132716.png]]![[Pasted image 20230930132738.png]]::DO ALL <!--SR:!2023-11-21,14,250-->
