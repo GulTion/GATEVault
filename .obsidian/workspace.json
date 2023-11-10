@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "5ce33df12c6645de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "58f4144995339c86",
             "type": "leaf",
             "state": {
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-11.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-11.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-11.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -234,10 +246,11 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "56392809447040dd",
+  "active": "5ce33df12c6645de",
   "lastOpenFiles": [
-    "Revision/PYQ/OS/Memory.md",
     "DialyStuff/2023-11-11.md",
+    "Untitled.md",
+    "Revision/PYQ/OS/Memory.md",
     "Revision/PYQ/OS/media/Pasted image 20231111000554.png",
     "Revision/PYQ/OS/media/Pasted image 20231031184718.png",
     "DialyStuff/2023-11-10.md",
@@ -272,7 +285,6 @@
     "Revision/MicroNotes/C- MicroNotes.md",
     "DialyStuff/2023-11-09.md",
     "templates/Normal Task Template.md",
-    "MicroNoteArrage.md",
     "Revision/ShortNotes/DS/media",
     "Revision/MixQue/DS/Greedy/media",
     "Revision/MixQue/DS/Greedy",

@@ -11,4 +11,4 @@ src: https://practicepaper.in/gate-cse/process
 
 storing things on context switch![[Pasted image 20231021172012.png]]::C![[Pasted image 20231021172030.png]] ^530611 <!--SR:!2023-11-16,17,290-->
 
-Intrrupt to running Proceess![[Pasted image 20231021172214.png]]::C![[Pasted image 20231021172227.png]]https://www.quora.com/How-does-the-timer-interrupt-invoke-the-process-scheduler ^800a01 <!--SR:!2023-11-09,10,270-->
+Intrrupt to running Proceess![[Pasted image 20231021172214.png]]::C![[Pasted image 20231021172227.png]]https://www.quora.com/How-does-the-timer-interrupt-invoke-the-process-scheduler ^800a01 <!--SR:!2023-12-21,40,290-->
