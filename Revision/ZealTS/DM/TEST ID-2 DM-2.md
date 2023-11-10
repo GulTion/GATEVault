@@ -4,6 +4,7 @@ type: ZealTS
 status: Revision
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=622065a845e7e84cb6a60679&test_id=32
 ---
+#card/DM/Group_Theory 
 ![[Pasted image 20231101143200.png]]::a,b ![[Pasted image 20231101143206.png]]
 
 ![[Pasted image 20231101143610.png]]::19 ![[Pasted image 20231101143639.png]]![[Pasted image 20231101143624.png]]![[Pasted image 20231101143615.png]]

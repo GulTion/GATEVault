@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "41aafb9c6d1f201d",
+        "id": "b5726aaa28422d6a",
         "type": "tabs",
         "children": [
           {
-            "id": "afc92726077c3edf",
+            "id": "0bfd75ebd89562ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da1a65f661d2929f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Revision/PYQ/OS/media/Pasted image 20231031184718.png"
-              }
-            }
-          },
-          {
-            "id": "56392809447040dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-11-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ce33df12c6645de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58f4144995339c86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-11-10.md",
+                "file": "Revision/MicroNotes/COA/Formula for Pipeline.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Revision/MicroNotes/COA/Formula for Pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Revision/MicroNotes/COA/Formula for Pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Revision/MicroNotes/COA/Formula for Pipeline.md"
               }
             }
           },
@@ -223,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,45 +200,45 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "5ce33df12c6645de",
+  "active": "0bfd75ebd89562ab",
   "lastOpenFiles": [
-    "DialyStuff/2023-11-11.md",
+    "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
+    "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
+    "Revision/MicroNotes/COA/Formula for Pipeline.md",
+    "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
+    "Revision/PYQ/OS/Disk Scheduling - pyq.md",
+    "Revision/PYQ/OS/File System - pyq.md",
+    "Revision/PYQ/OS/CPU Scheduling - pyq.md",
+    "Revision/PYQ/OS/Process - pyq.md",
+    "Revision/PYQ/OS/Process Synchronization - pyq.md",
+    "Revision/PYQ/OS/Deadlock - pyq.md",
+    "Revision/PYQ/OS/Memory Management - pyq.md",
+    "Revision/PYQ/OS/IPC.md",
     "Untitled.md",
-    "Revision/PYQ/OS/Memory.md",
-    "Revision/PYQ/OS/media/Pasted image 20231111000554.png",
-    "Revision/PYQ/OS/media/Pasted image 20231031184718.png",
+    "Revision/Untitled note 2.md",
+    "Revision/Untitled note 1.md",
+    "Revision/Untitled note.md",
+    "Revision/ZealTS/DM/TEST ID-2 DM-2.md",
+    "Revision/PYQ/DBMS/ER Model - pyq.md",
+    "Revision/MicroNotes/COA/Disk Memory in Input output.md",
     "DialyStuff/2023-11-10.md",
-    "Revision/PYQ/MATH/Probability-pyq.md",
-    "DialyStuff/2023-10-07.md",
+    "Revision/PYQ/OS/media/Pasted image 20231031184718.png",
+    "DialyStuff/2023-11-11.md",
+    "Revision/ShortNotes/COA/I O ShortNotes.md",
+    "Revision/ShortNotes/COA/Floating Point Tricks.md",
+    "Revision/zealWorkBook/OS/InterProcess Communication.md",
+    "Revision/ShortNotes/DS/Sorting.md",
+    "DialyStuff/2023-11-01.md",
+    "Revision/PYQ/OS/media/Pasted image 20231111000554.png",
     "Revision/PYQ/MATH/media/Pasted image 20231110224452.png",
     "Revision/PYQ/MATH/media/Pasted image 20231110224437.png",
     "Revision/PYQ/MATH/media/Pasted image 20231110224411.png",
-    "index.md",
-    "DialyStuff/2023-10-08.md",
-    "5 Database Management System - File Organization & Indexing.pdf.md",
     "Revision/PYQ/OS/media/Pasted image 20231110222047.png",
     "Revision/PYQ/OS/media/Pasted image 20231110222013.png",
     "Revision/PYQ/OS/media/Pasted image 20231110221850.png",
     "Revision/PYQ/OS/media/Pasted image 20231031185603.png",
     "Revision/PYQ/OS/media/Pasted image 20231110215521.png",
-    "Revision/PYQ/TOC/Context Free Language - pyq.md",
-    "StackForSubjects.md",
-    "Revision/PYQ/DBMS/Relational Algebra.md",
-    "Revision/zealWorkBook/TOC/TOC -1 TEST.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/zealWorkBook/DSA/Program design strategy.md",
-    "Rules at First.md",
-    "Revision/MicroNotes/COA/Formula for Pipeline.md",
-    "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
-    "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
-    "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
-    "Revision/PYQ/DBMS/File System - pyq.md",
-    "@{2023-11-09} OK.md",
-    "Revision/PYQ/DM/Graph Theory.md",
-    "DialyStuff/2023-10-15.md",
-    "Revision/MicroNotes/C- MicroNotes.md",
-    "DialyStuff/2023-11-09.md",
-    "templates/Normal Task Template.md",
     "Revision/ShortNotes/DS/media",
     "Revision/MixQue/DS/Greedy/media",
     "Revision/MixQue/DS/Greedy",

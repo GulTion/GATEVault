@@ -28,13 +28,13 @@
             "orderFields": [
               "name",
               "path",
+              "type",
               "atQ",
-              "startQ",
               "endQ",
+              "startQ",
               "src",
               "status",
               "subject",
-              "type",
               "sr-due",
               "sr-ease",
               "sr-interval"
@@ -45,6 +45,9 @@
               },
               "name": {
                 "width": 228
+              },
+              "endQ": {
+                "width": 112
               }
             }
           },
@@ -69,10 +72,7 @@
         },
         {
           "config": {
-            "includeFields": [
-              "atQ",
-              "endQ"
-            ],
+            "includeFields": [],
             "groupByField": "subject",
             "columns": {
               "OS": {
