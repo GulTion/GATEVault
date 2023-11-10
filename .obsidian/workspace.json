@@ -6,6 +6,7 @@
       {
         "id": "ae66f0f4400d6613",
         "type": "tabs",
+        "dimension": 30.405405405405407,
         "children": [
           {
             "id": "67ecabdaa953c7d6",
@@ -66,12 +67,12 @@
             }
           },
           {
-            "id": "e225f07a5420b6a5",
+            "id": "85feb1b08c1ef74f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/DBMS/File System - pyq.md",
+                "file": "Revision/PYQ/DBMS/Relational Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,6 +80,25 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "ff5e39c00376ff7b",
+        "type": "tabs",
+        "dimension": 69.5945945945946,
+        "children": [
+          {
+            "id": "e225f07a5420b6a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules at First.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,12 +183,20 @@
             }
           },
           {
+            "id": "7d3314f98fb677e5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
             "id": "7ec0733dda91710c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/DBMS/File System - pyq.md",
+                "file": "Rules at First.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/DBMS/File System - pyq.md",
+                "file": "Rules at First.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/DBMS/File System - pyq.md"
+                "file": "Rules at First.md"
               }
             }
           },
@@ -251,10 +279,22 @@
   },
   "active": "e225f07a5420b6a5",
   "lastOpenFiles": [
-    "StackForSubjects.md",
-    "Revision/PYQ/DBMS/File System - pyq.md",
-    "Revision/zealWorkBook/DSA/Program design strategy.md",
+    "Revision/MicroNotes/COA/Formula for Pipeline.md",
+    "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
+    "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
+    "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
+    "Revision/PYQ/DBMS/Relational Algebra.md",
     "DialyStuff/2023-11-10.md",
+    "Revision/ShortNotes/DBMS/media/Pasted image 20231110160031.png",
+    "Revision/zealWorkBook/DSA/Program design strategy.md",
+    "Revision/PYQ/DBMS/media/Pasted image 20231110155055.png",
+    "Revision/ShortNotes/DBMS/media/Pasted image 20231110154504.png",
+    "Revision/ShortNotes/DBMS/media/Pasted image 20231110154445.png",
+    "Revision/ShortNotes/DBMS/media/Pasted image 20231110154132.png",
+    "Revision/ShortNotes/DBMS/media/Pasted image 20231110154059.png",
+    "Revision/ShortNotes/DBMS/media/Pasted image 20231110154042.png",
+    "Revision/PYQ/DBMS/File System - pyq.md",
+    "StackForSubjects.md",
     "@{2023-11-09} OK.md",
     "Revision/PYQ/DM/Graph Theory.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
@@ -269,26 +309,13 @@
     "DialyStuff/2023-10-08.md",
     "MicroNoteArrage.md",
     "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
-    "Revision/MicroNotes/COA/Formula for Pipeline.md",
-    "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
     "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
-    "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
-    "Revision/ShortNotes/DS/media/Pasted image 20231110083758.png",
-    "Revision/ShortNotes/DS/media/Pasted image 20231110082558.png",
-    "Revision/ShortNotes/DS/media/Pasted image 20231110082429.png",
     "DaskBoard Back.md",
-    "Revision/ShortNotes/DS/media/Pasted image 20231110075253.png",
-    "Revision/ShortNotes/DS/media/Pasted image 20231110075230.png",
-    "Revision/ShortNotes/DS/media/Pasted image 20231110075015.png",
     "Revision/ShortNotes/DS/media",
     "index.md",
     "Untitled 5.md",
     "Revision/ShortNotes/ShortNotesDB.md",
     "Revision/ZealTS/ZealTSDB.md",
-    "Revision/zealWorkBook/zealWorkBookDB.md",
-    "Revision/MicroNotes/COA/Disk Memory in Input output.md",
-    "Revision/MicroNotes/APTI/Voca.md",
-    "Revision/media/C/media/Pasted image 20231001215133.png",
     "Revision/MixQue/DS/Greedy/media",
     "Revision/MixQue/DS/Greedy",
     "Revision/MixQue/DS",
