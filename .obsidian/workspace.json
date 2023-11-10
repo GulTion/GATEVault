@@ -15,19 +15,53 @@
               "state": {
                 "file": "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "33f3503fa129d337",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+              }
+            }
+          },
+          {
+            "id": "3a7e9db6119a9ea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "607865da53cb21b7",
+            "id": "286a51b40bab587b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-10.md",
+                "file": "DaskBoard Back.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a02b492532019ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/zealWorkBook/DSA/Program design strategy.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -38,9 +72,21 @@
               "type": "obsidian-projects",
               "state": {}
             }
+          },
+          {
+            "id": "c1eb13fcaa3c60de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-10.md",
+                "file": "DaskBoard Back.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-10.md",
+                "file": "DaskBoard Back.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-10.md"
+                "file": "DaskBoard Back.md"
               }
             }
           },
@@ -215,7 +261,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,10 +285,26 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "607865da53cb21b7",
+  "active": "286a51b40bab587b",
   "lastOpenFiles": [
-    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
+    "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
     "DialyStuff/2023-11-10.md",
+    "Revision/ShortNotes/DS/media/Pasted image 20231110075253.png",
+    "Revision/ShortNotes/DS/media/Pasted image 20231110075230.png",
+    "Revision/ShortNotes/DS/media/Pasted image 20231110075015.png",
+    "Revision/ShortNotes/DS/media",
+    "DaskBoard Back.md",
+    "index.md",
+    "StackForSubjects.md",
+    "Revision/zealWorkBook/DSA/Program design strategy.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Untitled 5.md",
+    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
+    "Revision/ShortNotes/ShortNotesDB.md",
+    "Revision/ZealTS/ZealTSDB.md",
+    "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
+    "Revision/zealWorkBook/zealWorkBookDB.md",
+    "Revision/MicroNotes/COA/Formula for Pipeline.md",
     "Revision/MicroNotes/COA/Disk Memory in Input output.md",
     "Revision/MicroNotes/APTI/Voca.md",
     "Revision/media/C/media/Pasted image 20231001215133.png",
@@ -253,8 +316,6 @@
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "Revision/GOTS/CN/GO Classes Test Series 2023 Computer Networks Test 1.md",
-    "StackForSubjects.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/PYQ/DBMS/ER Model - pyq.md",
     "Revision/PYQ/DBMS/media/Pasted image 20231109164856.png",
     "Revision/PYQ/DBMS/media/Pasted image 20231109164739.png",
@@ -263,29 +324,14 @@
     "Revision/PYQ/DBMS/Relational Schema - pyq.md",
     "Revision/PYQ/DBMS/media/Pasted image 20231109161406.png",
     "Revision/PYQ/DBMS/media/Pasted image 20231109161351.png",
-    "Revision/PYQ/DBMS/media/Pasted image 20231109160938.png",
-    "Revision/PYQ/DBMS/media/Pasted image 20231109160715.png",
-    "Revision/PYQ/DBMS/media/Pasted image 20231109154601.png",
-    "Revision/PYQ/DBMS/Normal Forms-pyq.md",
-    "MicroNoteArrage.md",
-    "DialyStuff/2023-11-09.md",
-    "Revision/MixQue/DS/Greedy/Dijkastra Algo - Made Easy.md",
     "Revision/MixQue/DS/Greedy/media",
-    "DialyStuff/2023-11-08.md",
-    "Revision/MixQue/DS/Greedy.md",
     "Revision/MixQue/DS/Greedy",
     "Revision/MixQue/DS",
-    "Untitled.md",
-    "Revision/PYQ/DS/Greedy Technique.md",
-    "fromWhereSubject.md",
-    "WeakSubtopic.md",
-    "Untitled Kanban.md",
     "Revision/PYQ/DS/media",
     "Revision/PYQ/TOC/media",
     "Revision/MixQue/CN/media",
     "Revision/MixQue/CN",
     "Revision/PYQ/COA/media/Recording 20231102141546.webm",
-    "Revision/PYQ/DM/media",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",

@@ -63,7 +63,6 @@
 	- [ ] Notes on Closure Properties, List of Theorem, Decidability&Undecidability,.pdf
 	- [ ] TOC -1.pdf
 	- [ ] TOC -2.pdf
-
 - [ ] DM & EM
 	- [ ] DM
 		- [ ] 'Graph Theory Basic Solution final.pdf'
@@ -105,6 +104,7 @@
 		- [ ] Routing algorithms DVR
 
 
+# Completed GATEOMEDIA NOTEs
 
 
 | Subject                                | Weightage (marks) |

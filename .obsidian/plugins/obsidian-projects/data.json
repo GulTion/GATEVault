@@ -31,16 +31,13 @@
               "atQ",
               "startQ",
               "endQ",
-              "last_time",
-              "repeation",
               "src",
               "status",
               "subject",
-              "subType",
-              "syllabus",
-              "title",
               "type",
-              "database-plugin"
+              "sr-due",
+              "sr-ease",
+              "sr-interval"
             ],
             "fieldConfig": {
               "database-plugin": {
@@ -58,7 +55,13 @@
             "conditions": []
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "type",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
           },
           "id": "0f5e5d65-3f78-4b51-99a1-c890416476d1",
           "name": "Table",
@@ -144,6 +147,85 @@
           },
           "id": "6955c2b9-f212-426b-80b8-88955af230bf",
           "name": "ZealWorkBook",
+          "type": "board"
+        },
+        {
+          "config": {
+            "groupByField": "type"
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "type",
+                "operator": "contains",
+                "enabled": true,
+                "value": "Notes"
+              },
+              {
+                "field": "subject",
+                "operator": "is",
+                "enabled": false,
+                "value": "DM"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "554ea0d1-1d52-41a5-bf44-d8febfdd9685",
+          "name": "Notes",
+          "type": "board"
+        },
+        {
+          "config": {
+            "groupByField": "type",
+            "columns": {
+              "No status": {
+                "weight": 0
+              },
+              "zealWorkBook": {
+                "weight": 1
+              },
+              "ZealAdvWorkBook": {
+                "weight": 2
+              },
+              "ZealTS": {
+                "weight": 3
+              },
+              "ShortNotes": {
+                "weight": 4
+              },
+              "PYQ": {
+                "weight": 5
+              },
+              "MixQue": {
+                "weight": 6
+              },
+              "MicroNotes": {
+                "weight": 7
+              },
+              "MadeEasyTS": {
+                "weight": 8
+              },
+              "GOTS": {
+                "weight": 9
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "3139e979-be22-45e2-95e0-4ba1ddf11abd",
+          "name": "Type",
           "type": "board"
         }
       ],

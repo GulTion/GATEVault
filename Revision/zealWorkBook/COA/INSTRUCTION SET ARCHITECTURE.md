@@ -1,5 +1,6 @@
 ---
-{}
+subject: COA
+type: zealWorkBook
 ---
 
 #card/COA/INSTRUCTION_SET_ARCHITECTURE
