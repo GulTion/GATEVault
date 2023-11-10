@@ -1,3 +1,0 @@
-Performance evaluation with stalls: S(speed up) _ Average instruction ET_ pipeline Average instruction ET ivetine . . S(speed up) _ CPImnpipe Cycle tlmemnpipe CPlise *Cycle timepipe e |deal CPI of pipeline is always 1. e But due to the dependency problem, extra cycles are created in the pipeline. So, - - S(speed up) _ CPImnpipe Cycle tlmemnpipe (1 +number of stallsper instruction) *Cycle timepipe
-
-![[Revision/media/Notes Revision/media/Untitled 5.png]]
