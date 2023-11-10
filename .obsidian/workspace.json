@@ -13,7 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/MATH/Probability-pyq.md",
+                "file": "DialyStuff/2023-11-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da1a65f661d2929f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Revision/PYQ/OS/media/Pasted image 20231031184718.png"
+              }
+            }
+          },
+          {
+            "id": "56392809447040dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-11-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/MATH/Probability-pyq.md",
+                "file": "DialyStuff/2023-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/MATH/Probability-pyq.md",
+                "file": "DialyStuff/2023-11-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/MATH/Probability-pyq.md"
+                "file": "DialyStuff/2023-11-11.md"
               }
             }
           },
@@ -211,26 +234,27 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "afc92726077c3edf",
+  "active": "56392809447040dd",
   "lastOpenFiles": [
+    "Revision/PYQ/OS/Memory.md",
+    "DialyStuff/2023-11-11.md",
+    "Revision/PYQ/OS/media/Pasted image 20231111000554.png",
+    "Revision/PYQ/OS/media/Pasted image 20231031184718.png",
     "DialyStuff/2023-11-10.md",
-    "DialyStuff/2023-10-07.md",
     "Revision/PYQ/MATH/Probability-pyq.md",
+    "DialyStuff/2023-10-07.md",
     "Revision/PYQ/MATH/media/Pasted image 20231110224452.png",
     "Revision/PYQ/MATH/media/Pasted image 20231110224437.png",
     "Revision/PYQ/MATH/media/Pasted image 20231110224411.png",
     "index.md",
     "DialyStuff/2023-10-08.md",
     "5 Database Management System - File Organization & Indexing.pdf.md",
-    "Revision/PYQ/OS/Memory.md",
     "Revision/PYQ/OS/media/Pasted image 20231110222047.png",
     "Revision/PYQ/OS/media/Pasted image 20231110222013.png",
     "Revision/PYQ/OS/media/Pasted image 20231110221850.png",
     "Revision/PYQ/OS/media/Pasted image 20231031185603.png",
     "Revision/PYQ/OS/media/Pasted image 20231110215521.png",
-    "Revision/PYQ/OS/media/Pasted image 20231110215502.png",
     "Revision/PYQ/TOC/Context Free Language - pyq.md",
-    "Revision/PYQ/TOC/media/Pasted image 20231110205532.png",
     "StackForSubjects.md",
     "Revision/PYQ/DBMS/Relational Algebra.md",
     "Revision/zealWorkBook/TOC/TOC -1 TEST.md",

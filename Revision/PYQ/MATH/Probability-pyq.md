@@ -2,9 +2,10 @@
 type: PYQ
 subject: MATH
 startQ: 1
-endQ: 79
-atQ: "3"
-status: No status
+endQ: 15
+atQ: 4
+status: acquiring
+src: sJain Practice Course
 ---
 #card/EM/probability
 1. Independent Event![[Pasted image 20231017122219.png]]::C & D[Solution](https://gateoverflow.in/399268/gate-cse-2023-question-43?show=412567#a412567) <!--SR:!2023-11-14,16,290-->
