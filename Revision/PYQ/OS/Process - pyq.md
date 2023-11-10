@@ -2,7 +2,7 @@
 subject: OS
 type: PYQ
 status: Revision
-atQ: 21
+atQ: "21"
 startQ: 1
 endQ: 21
 src: https://practicepaper.in/gate-cse/process

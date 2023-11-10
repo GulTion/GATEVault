@@ -22,3 +22,6 @@ startQ: 1
 ![[Pasted image 20231031185603.png]]::B 1![[Pasted image 20231031185836.png]] <!--SR:!2023-11-05,4,272-->
 
 ![[Pasted image 20231031190230.png]]::C 22 <!--SR:!2023-11-05,4,272-->
+
+![[Pasted image 20231110215502.png]]::D ![[Pasted image 20231110215521.png]]
+

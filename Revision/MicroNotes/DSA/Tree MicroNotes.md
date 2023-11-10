@@ -22,7 +22,7 @@ what is relation between child nodes to internal nodes formula::![[Pasted image 
 (in heaf tree, index start from 1) what is location of left child and right child if location of parent is given at **i**::![[Pasted image 20231024111222.png]] <!--SR:!2023-11-13,15,290-->
 
 
-how many NULL links in linked list based binary tree if n nodes in whole tree::![[Pasted image 20231024111325.png]] <!--SR:!2023-11-10,12,270-->
+how many NULL links in linked list based binary tree if n nodes in whole tree::![[Pasted image 20231024111325.png]] <!--SR:!2023-12-12,32,270-->
 
 what is **Complete Binary Tree**::![[Pasted image 20231024111952.png]] <!--SR:!2023-11-12,14,290-->
 

@@ -69,8 +69,43 @@
         },
         {
           "config": {
-            "includeFields": [],
-            "groupByField": "subject"
+            "includeFields": [
+              "atQ",
+              "endQ"
+            ],
+            "groupByField": "subject",
+            "columns": {
+              "OS": {
+                "weight": 0
+              },
+              "MATH": {
+                "weight": 1
+              },
+              "DS": {
+                "weight": 2
+              },
+              "FULL": {
+                "weight": 3
+              },
+              "DBMS": {
+                "weight": 4
+              },
+              "DM": {
+                "weight": 5
+              },
+              "COA": {
+                "weight": 6
+              },
+              "CN": {
+                "weight": 7
+              },
+              "C": {
+                "weight": 8
+              },
+              "TOC": {
+                "weight": 9
+              }
+            }
           },
           "filter": {
             "conditions": [
@@ -79,6 +114,12 @@
                 "operator": "is",
                 "enabled": true,
                 "value": "PYQ"
+              },
+              {
+                "field": "status",
+                "operator": "is",
+                "enabled": false,
+                "value": ""
               }
             ]
           },

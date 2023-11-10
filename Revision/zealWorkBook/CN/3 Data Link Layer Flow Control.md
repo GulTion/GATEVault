@@ -10,7 +10,7 @@ status: Revision
 send N frames with W window size using sliding window protocl , find the total time![[Pasted image 20231012163232.png]]::![[Pasted image 20231012163249.png]] <!--SR:!2023-11-16,11,232-->
 K-TH packet lost in GOBackN![[Pasted image 20231022124135.png]]::![[Pasted image 20231022124159.png]] <!--SR:!2023-11-11,2,212-->
 
-Kth Packet lost in Selective Repeat![[Pasted image 20231022124236.png]]::![[Pasted image 20231022124248.png]] <!--SR:!2023-11-10,5,230-->
+Kth Packet lost in Selective Repeat![[Pasted image 20231022124236.png]]::![[Pasted image 20231022124248.png]] <!--SR:!2023-11-25,15,250-->
 
 
 ![[Pasted image 20231014121248.png]]::![[Pasted image 20231014121259.png]] <!--SR:!2023-11-13,17,292-->
