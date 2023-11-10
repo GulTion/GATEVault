@@ -1,7 +1,6 @@
 ---
 type: MixQue
 subject: APTI
-last_time: 2023-10-12T00:00:00.000+05:30
 ---
 #card/aptitude/English/Antonyms_synonym 
 # Synonms

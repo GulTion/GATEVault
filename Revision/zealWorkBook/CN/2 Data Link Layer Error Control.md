@@ -3,8 +3,6 @@ subject: CN
 startQ: 1
 endQ: 37
 atQ: 37
-last_time: 2023-10-10T00:00:00.000+05:30
-repeation: 7
 type: zealWorkBook
 status: Revision
 ---

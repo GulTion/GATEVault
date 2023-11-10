@@ -4,8 +4,6 @@ type: zealWorkBook
 startQ: 1
 endQ: 112
 atQ: 112
-repeation: 2
-last_time: 2023-10-12T00:00:00.000+05:30
 status: Revision
 src: zealWorkBook
 ---

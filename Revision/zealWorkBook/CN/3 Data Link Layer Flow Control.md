@@ -4,8 +4,6 @@ endQ: 46
 atQ: 46
 subject: CN
 type: zealWorkBook
-repeation: 1
-last_time: 2023-10-13T12:30:00.000+05:30
 status: Revision
 ---
 #card/CN/DataLinkLayer/FlowControl

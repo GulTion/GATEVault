@@ -1,8 +1,6 @@
 ---
 type: MicroNotes
 subject: COA
-repeation: 7
-last_time: 2023-10-15T00:00:00.000+05:30
 ---
 - **n's complement of number X**
 	1. convert X into n system called as Y

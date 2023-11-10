@@ -4,8 +4,6 @@ subject: COA
 atQ: 92
 startQ: 1
 endQ: 92
-repeation: 4
-last_time: 2023-10-12T00:00:00.000+05:30
 ---
 #card/COA/Number_System
 

@@ -5,7 +5,6 @@ status: acquiring
 atQ: 76
 endQ: 107
 startQ: 67
-repeation: 3
 src: /host/COLLECTION/GATE2023/WorkBooks/zealWorkBook/basic/Discrete Mathematics/Solutions Topic wise/Graph Theory/Random about Numbers and Path .pdf
 ---
 #card/DM/graph_theory

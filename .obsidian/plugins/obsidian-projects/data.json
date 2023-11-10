@@ -91,7 +91,7 @@
         },
         {
           "config": {
-            "groupByField": "status"
+            "groupByField": "type"
           },
           "filter": {
             "conditions": [

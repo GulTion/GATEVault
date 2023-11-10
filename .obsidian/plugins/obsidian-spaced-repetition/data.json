@@ -22,13 +22,13 @@
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
     "editLaterTag": "#edit-later",
-    "enableNoteReviewPaneOnStartup": false,
+    "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
       "#note"
     ],
     "noteFoldersToIgnore": [],
-    "openRandomNote": false,
-    "autoNextNote": false,
+    "openRandomNote": true,
+    "autoNextNote": true,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
     "initiallyExpandAllSubdecksInTree": true,
@@ -39,7 +39,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2023-11-03",
+  "buryDate": "2023-11-09",
   "buryList": [],
   "historyDeck": null
 }

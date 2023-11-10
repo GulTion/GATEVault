@@ -5,10 +5,13 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 startQ: 1
 endQ: 17
 atQ: "4"
-repeation: 1
-last_time: 2023-10-17T00:00:00.000+05:30
-status: Analysis
+status: acquiring
 ---
-- average speed![[Pasted image 20231015130115.png]]
-- ![[Pasted image 20231017141813.png]]
-- 
+
+#card/aptitude 
+
+![[Pasted image 20231015130115.png]]::40
+
+![[Pasted image 20231017141813.png]]::8640
+
+

@@ -1,8 +1,6 @@
 ---
 type: ShortNotes
 subject: CD
-repeation: 3
-last_time: 2023-10-22T00:00:00.000+05:30
 ---
 #card/CD/Parser
  

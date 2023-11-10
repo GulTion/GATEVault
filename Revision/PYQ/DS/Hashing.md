@@ -4,8 +4,6 @@ atQ: "9"
 startQ: 1
 endQ: 58
 subject: DS
-repeation: 1
-last_time: 2023-10-14T00:00:00.000+05:30
 src: file:///host/PROJECTS/padda/site/solutionsadda.in/topic%3Ftp=Hashing.html
 status: acquiring
 ---

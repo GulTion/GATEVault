@@ -4,8 +4,6 @@ subject: DM
 atQ: "14"
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/results.html?exam_id=318
 status: Analysis
-repeation: 1
-last_time: 2023-10-19T00:00:00.000+05:30
 startQ: 1
 endQ: 25
 ---
@@ -17,7 +15,6 @@ endQ: 25
 
 ![[Pasted image 20231018223909.png]]::![[Pasted image 20231018223930.png]] <!--SR:!2023-11-14,16,290-->
 
- <!--SR:!2023-11-08,10,270-->
 
 
 ![[Pasted image 20231018224550.png]]::![[Pasted image 20231018224612.png]] <!--SR:!2023-11-11,13,290-->

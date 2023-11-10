@@ -13,5 +13,14 @@
   "plannerHeadingLevel": 1,
   "timelineColored": false,
   "timelineStartColor": "#ff0000",
-  "timelineEndColor": "#002aff"
+  "timelineEndColor": "#002aff",
+  "timestampFormat": "HH:mm",
+  "dataviewSource": "",
+  "showDataviewMigrationWarning": true,
+  "extendDurationUntilNext": false,
+  "defaultDurationMinutes": 30,
+  "showTimestampInTaskBlock": false,
+  "unscheduledTasksHeight": 100,
+  "showUncheduledTasks": true,
+  "showUnscheduledNestedTasks": true
 }

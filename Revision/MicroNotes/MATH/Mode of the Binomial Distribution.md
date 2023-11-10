@@ -1,8 +1,6 @@
 ---
 type: MicroNotes
 subject: MATH
-repeation: 5
-last_time: 2023-10-16T00:00:00.000+05:30
 startQ: 1
 endQ: 95
 atQ: 3

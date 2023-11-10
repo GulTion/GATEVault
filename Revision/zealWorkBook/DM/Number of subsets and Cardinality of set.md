@@ -3,7 +3,6 @@ subject: DM
 type: zealWorkBook
 status: acquiring
 atQ: 53
-last_time:
 startQ: 53
 endQ: 74
 src: zealWorkBook

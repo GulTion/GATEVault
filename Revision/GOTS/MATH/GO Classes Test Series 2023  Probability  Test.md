@@ -4,8 +4,6 @@ type: GOTS
 startQ: 1
 endQ: 20
 atQ: 8
-repeation: 1
-last_time: 2023-10-17T00:00:00.000+05:30
 ---
 #card/EM/probability 
 

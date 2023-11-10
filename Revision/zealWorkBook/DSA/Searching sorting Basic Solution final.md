@@ -1,8 +1,6 @@
 ---
 type: zealWorkBook
 subject: DS
-repeation: 2
-last_time: 2023-10-19T00:00:00.000+05:30
 atQ: 100
 startQ: 1
 endQ: 100

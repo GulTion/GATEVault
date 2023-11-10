@@ -2,11 +2,9 @@
 atQ: "15"
 type: ZealTS
 subject: COA
-last_time: 2023-10-20T00:00:00.000+05:30
 startQ: 1
 endQ: 25
 status: Analysis
-repeation: 3
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=62cea705550abd866f9de327&test_id=25
 ---
 #card/COA

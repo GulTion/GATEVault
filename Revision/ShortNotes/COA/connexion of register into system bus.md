@@ -1,8 +1,6 @@
 ---
 type: ShortNotes
 subject: COA
-repeation: 5
-last_time: 2023-10-15T00:00:00.000+05:30
 ---
 # connexion of register into system bus.
 

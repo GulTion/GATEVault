@@ -1,8 +1,6 @@
 ---
 type: ShortNotes
 subject: OS
-repeation: 7
-last_time: 2023-10-16T00:00:00.000+05:30
 ---
 #card/OS/process_synchronisation
 #notes/OS/process_synchronisation

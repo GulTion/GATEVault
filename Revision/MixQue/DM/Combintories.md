@@ -2,7 +2,6 @@
 type: MixQue
 atQ:
 subject: DM
-repeation: 1
 ---
 [LINK](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/results.html?exam_id=342)
 #notes/DM/Combintories

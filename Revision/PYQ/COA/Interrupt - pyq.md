@@ -2,11 +2,9 @@
 subject: COA
 type: PYQ
 status: acquiring
-repeation: 4
 atQ: "3"
 startQ: 1
 endQ: 24
-last_time: 2023-10-20T00:00:00.000+05:30
 src: https://practicepaper.in/gate-cse/interrupt
 ---
 #card/COA/interrupt

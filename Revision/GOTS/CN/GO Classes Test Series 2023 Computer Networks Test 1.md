@@ -1,5 +1,7 @@
 ---
-{}
+subject: CN
+type: GOTS
+status: Revision
 ---
 
 #card/CN/DataLinkLayer 

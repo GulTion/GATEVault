@@ -1,7 +1,5 @@
 ---
 status: acquiring
-repeation: 1
-last_time: 2023-10-19T00:00:00.000+05:30
 type: PYQ
 subject: MATH
 startQ: 1

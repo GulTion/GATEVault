@@ -1,8 +1,12 @@
 ---
 type: MicroNotes
 subject: COA
+sr-due: Invalid date
+sr-interval: NaN
+sr-ease: NaN
 ---
-# Formula for Pipeline
+#note
+# Formula for PipelineS
 
 Created: May 18, 2023 12:47 PM
 

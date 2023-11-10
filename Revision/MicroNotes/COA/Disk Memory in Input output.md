@@ -1,8 +1,11 @@
 ---
 type: MicroNotes
 subject: COA
+sr-due: 2031-07-03
+sr-interval: 1
+sr-ease: 130
 ---
-
+#note
 
 ![Untitled](Revision/media/Notes%20Revision/media/Untitled%203.png)
 
