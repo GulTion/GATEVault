@@ -35,7 +35,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md",
+                "file": "DialyStuff/2023-11-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bd3b099d0d5fcc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-11-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,9 +64,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e225f07a5420b6a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/PYQ/DBMS/File System - pyq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md",
+                "file": "Revision/PYQ/DBMS/File System - pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md",
+                "file": "Revision/PYQ/DBMS/File System - pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md"
+                "file": "Revision/PYQ/DBMS/File System - pyq.md"
               }
             }
           },
@@ -225,13 +249,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1def12fb1104382f",
+  "active": "e225f07a5420b6a5",
   "lastOpenFiles": [
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "DialyStuff/2023-11-10.md",
-    "Revision/zealWorkBook/TOC/TOC -1 TEST.md",
     "StackForSubjects.md",
+    "Revision/PYQ/DBMS/File System - pyq.md",
     "Revision/zealWorkBook/DSA/Program design strategy.md",
+    "DialyStuff/2023-11-10.md",
+    "@{2023-11-09} OK.md",
+    "Revision/PYQ/DM/Graph Theory.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/zealWorkBook/TOC/TOC -1 TEST.md",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231110104512.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231110101523.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231110101512.png",
@@ -262,8 +289,6 @@
     "Revision/MicroNotes/COA/Disk Memory in Input output.md",
     "Revision/MicroNotes/APTI/Voca.md",
     "Revision/media/C/media/Pasted image 20231001215133.png",
-    "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
-    "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/MixQue/DS/Greedy/media",
     "Revision/MixQue/DS/Greedy",
     "Revision/MixQue/DS",

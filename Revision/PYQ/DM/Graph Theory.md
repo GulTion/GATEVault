@@ -2,7 +2,7 @@
 subject: DM
 type: PYQ
 status: acquiring
-atQ: 1
+atQ: 5
 startQ: 1
 endQ: 108
 src: https://practicepaper.in/gate-cse/graph-theory?page_no=1
@@ -11,5 +11,13 @@ src: https://practicepaper.in/gate-cse/graph-theory?page_no=1
 
 ![[Pasted image 20231102132234.png]]::A,B <!--SR:!2023-11-18,11,270-->
 
-#today ![[Pasted image 20231102133433.png]]::https://gateoverflow.in/371894/Gate-cse-2022-question-42#a_list_title
+#today ![[Pasted image 20231102133433.png]]
+?
+A is correct
+- A refer Micronotes
+- B refer MicroNotes
+- C take any 3 verterx counter example
+- D take any counter example of four matrix of this graph( a--b  c--d  )
+
+
 
