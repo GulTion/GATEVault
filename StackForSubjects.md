@@ -23,3 +23,6 @@
 
 # OS
 - Process Syncronization PYQ from Vishwdeep Gothi
+
+# C
+- gatesOmedia p21 pointers

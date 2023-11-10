@@ -19,3 +19,5 @@ startQ: 8
 # MST
 ![[Pasted image 20231108135035.png]]:10 ![[Pasted image 20231108135103.png]]
 
+![[Pasted image 20231110101512.png]]::A ![[Pasted image 20231110101523.png]]
+
