@@ -16,3 +16,6 @@ status: No status
 ![[Pasted image 20231102110112.png]]![[Pasted image 20231102110136.png]]::C![[Pasted image 20231102110159.png]] <!--SR:!2023-11-12,2,241-->
 
 ![[Pasted image 20231102110903.png]]::0.5![[Pasted image 20231102110936.png]]![[Pasted image 20231102111010.png]]![[Pasted image 20231102111039.png]] <!--SR:!2023-11-17,10,279-->
+
+![[Pasted image 20231110224411.png]]::0.3 ![[Pasted image 20231110224437.png]]![[Pasted image 20231110224452.png]]
+
