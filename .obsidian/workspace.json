@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DaskBoard Back.md",
+                "file": "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5045585632324
+    "width": 370.5045585632324,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -178,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DaskBoard Back.md",
+                "file": "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DaskBoard Back.md",
+                "file": "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DaskBoard Back.md"
+                "file": "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md"
               }
             }
           },
@@ -287,13 +288,18 @@
   },
   "active": "286a51b40bab587b",
   "lastOpenFiles": [
+    "Revision/ShortNotes/DS/media/Pasted image 20231110083758.png",
+    "Revision/MicroNotes/C- MicroNotes.md",
+    "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
+    "Revision/ShortNotes/DS/media/Pasted image 20231110082558.png",
+    "Revision/ShortNotes/DS/media/Pasted image 20231110082429.png",
+    "DaskBoard Back.md",
     "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
     "DialyStuff/2023-11-10.md",
     "Revision/ShortNotes/DS/media/Pasted image 20231110075253.png",
     "Revision/ShortNotes/DS/media/Pasted image 20231110075230.png",
     "Revision/ShortNotes/DS/media/Pasted image 20231110075015.png",
     "Revision/ShortNotes/DS/media",
-    "DaskBoard Back.md",
     "index.md",
     "StackForSubjects.md",
     "Revision/zealWorkBook/DSA/Program design strategy.md",
@@ -316,14 +322,10 @@
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
     "Revision/GOTS/CN/GO Classes Test Series 2023 Computer Networks Test 1.md",
-    "Revision/PYQ/DBMS/ER Model - pyq.md",
     "Revision/PYQ/DBMS/media/Pasted image 20231109164856.png",
     "Revision/PYQ/DBMS/media/Pasted image 20231109164739.png",
     "Revision/PYQ/DBMS/media/Pasted image 20231109164350.png",
     "Revision/PYQ/DBMS/media/Pasted image 20231109164342.png",
-    "Revision/PYQ/DBMS/Relational Schema - pyq.md",
-    "Revision/PYQ/DBMS/media/Pasted image 20231109161406.png",
-    "Revision/PYQ/DBMS/media/Pasted image 20231109161351.png",
     "Revision/MixQue/DS/Greedy/media",
     "Revision/MixQue/DS/Greedy",
     "Revision/MixQue/DS",
