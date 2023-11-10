@@ -4,95 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae66f0f4400d6613",
+        "id": "5292e140cfe00d9c",
         "type": "tabs",
-        "dimension": 30.405405405405407,
         "children": [
           {
-            "id": "67ecabdaa953c7d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/zealWorkBook/TOC/TOC -1 TEST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcf715e374f613a8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
-              }
-            }
-          },
-          {
-            "id": "1def12fb1104382f",
+            "id": "bf9fa083b4823f39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DialyStuff/2023-11-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bd3b099d0d5fcc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-11-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d9eb8b10b81886b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/zealWorkBook/DSA/Program design strategy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85feb1b08c1ef74f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/PYQ/DBMS/Relational Algebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "ff5e39c00376ff7b",
-        "type": "tabs",
-        "dimension": 69.5945945945946,
-        "children": [
-          {
-            "id": "e225f07a5420b6a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules at First.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,14 +88,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "928a609bb508737b",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "ca7bc4254449ab06",
             "type": "leaf",
             "state": {
@@ -191,12 +104,20 @@
             }
           },
           {
+            "id": "c72626cdbb7fff07",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
             "id": "7ec0733dda91710c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules at First.md",
+                "file": "DialyStuff/2023-11-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules at First.md",
+                "file": "DialyStuff/2023-11-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules at First.md"
+                "file": "DialyStuff/2023-11-10.md"
               }
             }
           },
@@ -250,7 +171,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -270,23 +192,26 @@
       "omnisearch:Omnisearch": false,
       "remotely-save:Remotely Save": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
       "cmdr:Day Planner: Show the Week Planner": false,
       "obsidian-day-planner:Timeline": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "e225f07a5420b6a5",
+  "active": "bf9fa083b4823f39",
   "lastOpenFiles": [
+    "DialyStuff/2023-11-10.md",
+    "Revision/PYQ/DBMS/Relational Algebra.md",
+    "Revision/zealWorkBook/TOC/TOC -1 TEST.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/zealWorkBook/DSA/Program design strategy.md",
+    "Rules at First.md",
     "Revision/MicroNotes/COA/Formula for Pipeline.md",
     "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
     "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
     "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
-    "Revision/PYQ/DBMS/Relational Algebra.md",
-    "DialyStuff/2023-11-10.md",
     "Revision/ShortNotes/DBMS/media/Pasted image 20231110160031.png",
-    "Revision/zealWorkBook/DSA/Program design strategy.md",
     "Revision/PYQ/DBMS/media/Pasted image 20231110155055.png",
     "Revision/ShortNotes/DBMS/media/Pasted image 20231110154504.png",
     "Revision/ShortNotes/DBMS/media/Pasted image 20231110154445.png",
@@ -297,8 +222,6 @@
     "StackForSubjects.md",
     "@{2023-11-09} OK.md",
     "Revision/PYQ/DM/Graph Theory.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/zealWorkBook/TOC/TOC -1 TEST.md",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231110104512.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231110101523.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231110101512.png",
@@ -315,7 +238,6 @@
     "index.md",
     "Untitled 5.md",
     "Revision/ShortNotes/ShortNotesDB.md",
-    "Revision/ZealTS/ZealTSDB.md",
     "Revision/MixQue/DS/Greedy/media",
     "Revision/MixQue/DS/Greedy",
     "Revision/MixQue/DS",

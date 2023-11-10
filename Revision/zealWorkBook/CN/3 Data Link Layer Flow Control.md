@@ -15,7 +15,7 @@ Kth Packet lost in Selective Repeat![[Pasted image 20231022124236.png]]::![[Past
 
 ![[Pasted image 20231014121248.png]]::![[Pasted image 20231014121259.png]] <!--SR:!2023-11-13,17,292-->
 
-![[Pasted image 20231022124450.png]]::![[Pasted image 20231022124503.png]] <!--SR:!2023-11-10,14,292-->
+![[Pasted image 20231022124450.png]]::![[Pasted image 20231022124503.png]] <!--SR:!2023-12-19,39,292-->
 
 
  <!--SR:!2023-11-06,9,272-->
