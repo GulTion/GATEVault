@@ -1,7 +1,8 @@
 ---
-{}
+subject: DS
+type: MicroNotes
 ---
-
+#note
 #card/DSA/Tree
 
  <!--SR:!2023-11-07,9,270!2023-11-11,10,270-->

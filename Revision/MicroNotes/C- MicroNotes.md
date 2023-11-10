@@ -1,7 +1,8 @@
 ---
-{}
+subject: C
+type: MicroNotes
 ---
-
+#note
 #card/C 
 
 ![[Pasted image 20231028175219.png]]::![[Pasted image 20231028175237.png]] <!--SR:!2023-11-11,2,170-->

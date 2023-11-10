@@ -2,6 +2,7 @@
 type: ShortNotes
 subject: COA
 ---
+#note
 # I/O ShortNotes
 
 Created: June 10, 2023 8:06 PM

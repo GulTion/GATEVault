@@ -1,5 +1,6 @@
 ---
-{}
+type: MixQue
+subject: DLD
 ---
 
 at = 1hr/3hr

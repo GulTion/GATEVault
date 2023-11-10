@@ -1,7 +1,8 @@
 ---
-{}
+subject: CN
+type: ShortNotes
 ---
-
+#note
 ## **Switching Techniques-**
 
 [ICT | Information and Communication Technology - Introduction](https://humix.com/redirect?url=https%3A%2F%2Feducom360.com%2Fhumix%2Fvideo%2FE5GIsRqAjz2)

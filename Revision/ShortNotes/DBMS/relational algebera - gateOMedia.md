@@ -1,7 +1,9 @@
 ---
 sr-due: 2023-11-11
 sr-interval: 1
-sr-ease:
+sr-ease: 
+type: ShortNotes
+subject: DBMS
 ---
 
 #note 

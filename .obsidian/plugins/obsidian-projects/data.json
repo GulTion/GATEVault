@@ -222,15 +222,14 @@
         },
         {
           "config": {
-            "groupByField": "type",
             "columns": {
-              "No status": {
+              "ZealAdvWorkBook": {
                 "weight": 0
               },
-              "zealWorkBook": {
+              "No status": {
                 "weight": 1
               },
-              "ZealAdvWorkBook": {
+              "zealWorkBook": {
                 "weight": 2
               },
               "ZealTS": {
@@ -254,7 +253,8 @@
               "GOTS": {
                 "weight": 9
               }
-            }
+            },
+            "groupByField": "type"
           },
           "filter": {
             "conditions": []

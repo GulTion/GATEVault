@@ -3,6 +3,7 @@ subject: DBMS
 type: ShortNotes
 status: acquiring
 ---
+#note
 ![[Pasted image 20231107134333.png]]
 
 ![[Pasted image 20231107134959.png]]![[Pasted image 20231107135042.png]]

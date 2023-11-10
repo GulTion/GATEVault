@@ -1,5 +1,6 @@
 ---
-{}
+subject: CN
+type: MixQue
 ---
 
 #card/CN/Switching

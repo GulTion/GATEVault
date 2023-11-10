@@ -2,7 +2,7 @@
 type: MicroNotes
 subject: DLD
 ---
-
+#note
 - **BCD Code**
 	- 1010 to 1111 are invalid
 - **84-2-1**

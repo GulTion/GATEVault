@@ -1,7 +1,8 @@
 ---
-{}
+type: ShortNotes
+subject: OS
 ---
-
+#note
 #card/OS/introduction
 what is multiprogramming
 ?

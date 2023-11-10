@@ -2,6 +2,7 @@
 type: ShortNotes
 subject: COA
 ---
+#note
 # connexion of register into system bus.
 
 Created: June 19, 2023 4:41 PM

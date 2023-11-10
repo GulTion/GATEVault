@@ -2,6 +2,8 @@
 type: ShortNotes
 subject: DS
 ---
+#note
+
 - **PEEK(s)**=>Return the top of the stack. 
 - Stack Operations![[Pasted image 20231004082700.png]]
 - Applications of Stack ![[Pasted image 20231004082941.png]]

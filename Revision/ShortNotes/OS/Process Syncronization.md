@@ -2,6 +2,7 @@
 type: ShortNotes
 subject: OS
 ---
+#note
 #card/OS/process_synchronisation
 #notes/OS/process_synchronisation
 - IPC  Model and types::![[Pasted image 20231002144655.png]] <!--SR:!2023-11-21,19,250-->

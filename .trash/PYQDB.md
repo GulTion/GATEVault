@@ -274,6 +274,7 @@ columns:
       - { label: "acquiring", value: "acquiring", color: "hsl(302, 95%, 90%)"}
       - { label: "Analysis", value: "Analysis", color: "hsl(78, 95%, 90%)"}
       - { label: "Revision", value: "Revision", color: "hsl(255, 95%, 90%)"}
+      - { label: "No status", value: "No status", color: "hsl(357, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

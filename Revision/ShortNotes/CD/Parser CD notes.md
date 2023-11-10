@@ -2,6 +2,7 @@
 type: ShortNotes
 subject: CD
 ---
+#note
 #card/CD/Parser
  
 type of parser and type of all subtypes::![[Pasted image 20231004085003.png]] <!--SR:!2023-11-16,16,290-->

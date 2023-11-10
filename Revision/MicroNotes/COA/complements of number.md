@@ -2,6 +2,7 @@
 type: MicroNotes
 subject: COA
 ---
+#note
 - **n's complement of number X**
 	1. convert X into n system called as Y
 	2. make complement of Y with respect to (n-1) called as Z

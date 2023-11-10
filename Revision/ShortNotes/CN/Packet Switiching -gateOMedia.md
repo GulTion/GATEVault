@@ -1,7 +1,8 @@
 ---
-{}
+type: ShortNotes
+subject: CN
 ---
-
+#note/CN
 ## **Packet Switching-
 
 In packet switching,

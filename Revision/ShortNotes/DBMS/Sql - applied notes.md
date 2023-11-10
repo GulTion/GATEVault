@@ -1,5 +1,6 @@
 ---
-{}
+subject: DBMS
+type: ShortNotes
 ---
 
 #card/DBMS/sql

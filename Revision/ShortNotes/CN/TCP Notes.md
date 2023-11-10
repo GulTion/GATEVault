@@ -2,6 +2,7 @@
 type: ShortNotes
 subject: CN
 ---
+#note
 #card/CN/Transport_Layer 
 
 

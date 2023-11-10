@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df05c9bbab20cb99",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/MicroNotes/COA/Formula for Pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/MicroNotes/COA/Formula for Pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Revision/MicroNotes/COA/Formula for Pipeline.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,13 +176,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,35 +203,35 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "0bfd75ebd89562ab",
+  "active": "df05c9bbab20cb99",
   "lastOpenFiles": [
-    "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
-    "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
-    "Revision/MicroNotes/COA/Formula for Pipeline.md",
-    "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
-    "Revision/PYQ/OS/Disk Scheduling - pyq.md",
-    "Revision/PYQ/OS/File System - pyq.md",
-    "Revision/PYQ/OS/CPU Scheduling - pyq.md",
-    "Revision/PYQ/OS/Process - pyq.md",
-    "Revision/PYQ/OS/Process Synchronization - pyq.md",
-    "Revision/PYQ/OS/Deadlock - pyq.md",
-    "Revision/PYQ/OS/Memory Management - pyq.md",
-    "Revision/PYQ/OS/IPC.md",
-    "Untitled.md",
-    "Revision/Untitled note 2.md",
-    "Revision/Untitled note 1.md",
-    "Revision/Untitled note.md",
-    "Revision/ZealTS/DM/TEST ID-2 DM-2.md",
-    "Revision/PYQ/DBMS/ER Model - pyq.md",
+    "Revision/MicroNotes/APTI/Voca.md",
+    "Revision/MicroNotes/C- MicroNotes.md",
+    "Revision/MicroNotes/DLD/Flip Flops.md",
+    "Revision/MicroNotes/DLD/Invalid State in binary code representation.md",
+    "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
+    "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
     "Revision/MicroNotes/COA/Disk Memory in Input output.md",
-    "DialyStuff/2023-11-10.md",
-    "Revision/PYQ/OS/media/Pasted image 20231031184718.png",
-    "DialyStuff/2023-11-11.md",
+    "Revision/MicroNotes/COA/complements of number.md",
+    "Revision/MicroNotes/COA/Formula for Pipeline.md",
+    "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
+    "Revision/MicroNotes/DSA/Tree MicroNotes.md",
+    "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
+    "Revision/ShortNotes/CN/Packet Switiching -gateOMedia.md",
+    "Revision/ShortNotes/CD/Introduction CD notes.md",
+    "Revision/ShortNotes/CD/Parser CD notes.md",
+    "Revision/ShortNotes/CN/DHCP.md",
+    "Revision/ShortNotes/CN/Circuit Switching.md",
+    "Revision/ShortNotes/CN/TCP Notes.md",
+    "Revision/ShortNotes/COA/Floating Point Tables.md",
+    "Revision/ShortNotes/COA/Binary Operation Overflow stuff.md",
     "Revision/ShortNotes/COA/I O ShortNotes.md",
-    "Revision/ShortNotes/COA/Floating Point Tricks.md",
-    "Revision/zealWorkBook/OS/InterProcess Communication.md",
-    "Revision/ShortNotes/DS/Sorting.md",
-    "DialyStuff/2023-11-01.md",
+    "Revision/ShortNotes/COA/connexion of register into system bus.md",
+    "Revision/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md",
+    "Revision/ShortNotes/OS/Process Syncronization.md",
+    "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
+    "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
+    "Revision/PYQ/OS/media/Pasted image 20231031184718.png",
     "Revision/PYQ/OS/media/Pasted image 20231111000554.png",
     "Revision/PYQ/MATH/media/Pasted image 20231110224452.png",
     "Revision/PYQ/MATH/media/Pasted image 20231110224437.png",

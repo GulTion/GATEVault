@@ -1,5 +1,6 @@
 ---
-{}
+type: MixQue
+subject: DLD
 ---
 
 #card/DLD/combination
