@@ -3,6 +3,7 @@ subject: COA
 type: ZealTS
 status: Revision
 src:
+atQ: "0"
 ---
 #card/COA
 

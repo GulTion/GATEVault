@@ -4,23 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "64cbeee1adee3ba3",
+        "id": "223fe7e6ffad0c4d",
         "type": "tabs",
         "children": [
           {
-            "id": "633e06f86231c37d",
+            "id": "56047b328a8ceea1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
+                "file": "DialyStuff/2023-11-11.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "49ce1f49d7f6afd8",
+            "id": "6180be6890ac4a02",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+              }
+            }
+          },
+          {
+            "id": "084ece486b768f7f",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
@@ -28,67 +38,19 @@
             }
           },
           {
-            "id": "c95fff4c7f349d2d",
+            "id": "d7449269cb308fbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/TOC/22. Check the Context Free Language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ec6f362d39a4878",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DaskBoard Back.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "803cd8c16033dbd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-11-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4448d13dd4be0467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-11-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a425f5a20675b76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-11-11.md",
+                "file": "Revision/PYQ/DM/Graph Theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-11.md",
+                "file": "Revision/PYQ/DM/Graph Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-11.md",
+                "file": "Revision/PYQ/DM/Graph Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-11.md"
+                "file": "Revision/PYQ/DM/Graph Theory.md"
               }
             }
           },
@@ -267,45 +229,46 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "4448d13dd4be0467",
+  "active": "d7449269cb308fbc",
   "lastOpenFiles": [
-    "DialyStuff/2023-11-11.md",
+    "Revision/PYQ/DM/media/Pasted image 20231111144708.png",
+    "Revision/PYQ/DM/media/Pasted image 20231111144431.png",
+    "Revision/PYQ/DM/media/Pasted image 20231111144309.png",
     "Revision/zealWorkBook/TOC/22. Check the Context Free Language.md",
+    "DialyStuff/2023-11-11.md",
+    "Revision/PYQ/DM/Graph Theory.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/zealWorkBook/TOC/media/Pasted image 20231111141625.png",
+    "Revision/zealWorkBook/TOC/media/Pasted image 20231111141551.png",
+    "Revision/zealWorkBook/TOC/media/Pasted image 20231111141532.png",
+    "Revision/zealWorkBook/TOC/media/Pasted image 20231111140909.png",
+    "Revision/zealWorkBook/TOC/media/Pasted image 20231111140857.png",
+    "Revision/zealWorkBook/TOC/media",
+    "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
+    "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
+    "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
+    "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
+    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
+    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "Revision/ZealTS/TOC/TESTID - 37 TEST-2-2023.md",
     "DaskBoard Back.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/PYQ/OS/Process Synchronization - pyq.md",
-    "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
     "Revision/MicroNotes/COA/Formula for Pipeline.md",
-    "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
     "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
     "templates/Question.md",
     "Revision/MicroNotes/APTI/Voca.md",
     "Revision/MicroNotes/C- MicroNotes.md",
     "Revision/MicroNotes/DLD/Flip Flops.md",
     "Revision/MicroNotes/DLD/Invalid State in binary code representation.md",
-    "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
-    "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
     "Revision/MicroNotes/COA/Disk Memory in Input output.md",
     "Revision/MicroNotes/COA/complements of number.md",
     "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
     "Revision/MicroNotes/DSA/Tree MicroNotes.md",
     "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
     "Revision/ShortNotes/CN/Packet Switiching -gateOMedia.md",
-    "Revision/ShortNotes/CD/Introduction CD notes.md",
-    "Revision/ShortNotes/CD/Parser CD notes.md",
-    "Revision/ShortNotes/CN/DHCP.md",
-    "Revision/ShortNotes/CN/Circuit Switching.md",
     "Revision/PYQ/OS/media/Pasted image 20231031184718.png",
     "Revision/PYQ/OS/media/Pasted image 20231111000554.png",
     "Revision/PYQ/MATH/media/Pasted image 20231110224452.png",
-    "Revision/PYQ/MATH/media/Pasted image 20231110224437.png",
-    "Revision/PYQ/MATH/media/Pasted image 20231110224411.png",
-    "Revision/PYQ/OS/media/Pasted image 20231110222047.png",
-    "Revision/PYQ/OS/media/Pasted image 20231110222013.png",
-    "Revision/PYQ/OS/media/Pasted image 20231110221850.png",
-    "Revision/PYQ/OS/media/Pasted image 20231031185603.png",
-    "Revision/PYQ/OS/media/Pasted image 20231110215521.png",
     "Revision/ShortNotes/DS/media",
     "Revision/MixQue/DS/Greedy/media",
     "Revision/MixQue/DS/Greedy",
@@ -314,7 +277,6 @@
     "Revision/PYQ/TOC/media",
     "Revision/MixQue/CN/media",
     "Revision/MixQue/CN",
-    "Revision/PYQ/COA/media/Recording 20231102141546.webm",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",

@@ -3,7 +3,7 @@ subject: MATH
 type: GOTS
 startQ: 1
 endQ: 20
-atQ: 8
+atQ: "8"
 ---
 #card/EM/probability 
 

@@ -1,11 +1,8 @@
 ---
 subject: DS
 type: ShortNotes
-status: 
+status:
 src: GateOMedia
-sr-due: 2023-11-11
-sr-interval: 1
-sr-ease: "130"
 ---
 #note 
 ![[Pasted image 20231110075230.png]]

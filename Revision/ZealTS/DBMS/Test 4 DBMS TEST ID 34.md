@@ -3,6 +3,7 @@ subject: DBMS
 type: ZealTS
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=631efedfa733d3d3b8fe44e3&test_id=24
 status: Revision
+atQ: "0"
 ---
 #card/DBMS/BTree
 

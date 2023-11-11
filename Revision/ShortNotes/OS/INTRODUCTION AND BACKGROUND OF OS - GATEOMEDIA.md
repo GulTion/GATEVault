@@ -7,7 +7,7 @@ subject: OS
 what is multiprogramming
 ?
 - ==Multiple programs/jobs== reside in the main memory for execution. The operating system selects and executes one of these jobs on to the CPU.
-- If the job in execution requires an I/O operation, another job which is ready for execution is scheduled on the CPU.
+- If the job in execution requires an I/O operation, ==another== job which is ready for execution is scheduled on the CPU.
 - increased CPU utilization.
 - Increased throughput of the system. <!--SR:!2023-11-16,17,290-->
 

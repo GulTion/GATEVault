@@ -21,3 +21,9 @@ A is correct
 
 
 
+![[Pasted image 20231111144309.png]]::![[Pasted image 20231111144431.png]]
+
+![[Pasted image 20231111144708.png]]::D , clockwise and anticlock-wise r same
+
+
+

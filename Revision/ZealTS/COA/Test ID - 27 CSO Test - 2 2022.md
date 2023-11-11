@@ -3,6 +3,7 @@ subject: COA
 type: ZealTS
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=6120f9dfc3b76d335c7fea45&test_id=21
 status: Revision
+atQ: "0"
 ---
 #card/COA/Cache_Memory
 # Test 2022
