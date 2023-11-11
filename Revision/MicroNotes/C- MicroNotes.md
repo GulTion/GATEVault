@@ -1,6 +1,7 @@
 ---
 subject: C
 type: MicroNotes
+atQ: 0
 ---
 #note
 #card/C 

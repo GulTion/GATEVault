@@ -3,6 +3,7 @@ subject: DS
 type: ShortNotes
 status:
 src: GateOMedia
+atQ: 0
 ---
 #note 
 ![[Pasted image 20231110075230.png]]

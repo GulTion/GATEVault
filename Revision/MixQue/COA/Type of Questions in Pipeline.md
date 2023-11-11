@@ -1,6 +1,7 @@
 ---
 type: MixQue
 subject: COA
+atQ: 0
 ---
 #card/COA/pipeline 
 - all Stage of all instruction are different![Untitled](Revision/media/PYQRevision/COA/media/Untitled.png)::![Untitled](Revision/media/PYQRevision/COA/media/Untitled%201.png) <!--SR:!2023-11-11,17,290-->

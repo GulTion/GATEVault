@@ -2,7 +2,7 @@
 type: MadeEasyTS
 subject: FULL
 status: Analysis
-atQ: "43"
+atQ: 43
 startQ: 1
 endQ: 65
 ---

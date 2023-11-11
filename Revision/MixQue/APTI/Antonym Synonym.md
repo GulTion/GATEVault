@@ -1,6 +1,7 @@
 ---
 type: MixQue
 subject: APTI
+atQ: 0
 ---
 #card/aptitude/English/Antonyms_synonym 
 # Synonms

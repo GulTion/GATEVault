@@ -1,6 +1,7 @@
 ---
 subject: DM
 type: MicroNotes
+atQ: 0
 ---
 #note
 #card/micro/DM/Set_Theory

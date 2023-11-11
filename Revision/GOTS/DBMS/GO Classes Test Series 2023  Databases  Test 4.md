@@ -2,7 +2,7 @@
 subject: DBMS
 type: GOTS
 status: Revision
-atQ: "15"
+atQ: 15
 startQ: 1
 endQ: 15
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/results.html?exam_id=386

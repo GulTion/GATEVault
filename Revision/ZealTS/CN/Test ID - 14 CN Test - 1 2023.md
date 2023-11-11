@@ -3,7 +3,7 @@ subject: CN
 type: ZealTS
 status: Revision
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=626a31e2f1b00b4d80154b06&test_id=27
-atQ: "0"
+atQ: 0
 ---
 #card/CN/DataLinkLayer/FlowControl 
 

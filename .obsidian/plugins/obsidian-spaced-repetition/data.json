@@ -28,7 +28,7 @@
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": true,
-    "autoNextNote": true,
+    "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
     "initiallyExpandAllSubdecksInTree": true,

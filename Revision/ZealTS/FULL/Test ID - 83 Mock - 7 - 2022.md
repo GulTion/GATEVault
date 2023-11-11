@@ -1,7 +1,7 @@
 ---
 type: ZealTS
 subject: FULL
-atQ: "28"
+atQ: 28
 startQ: 1
 endQ: 65
 status: Analysis

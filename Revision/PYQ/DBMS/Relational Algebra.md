@@ -1,6 +1,7 @@
 ---
 subject: DBMS
 type: PYQ
+atQ: 0
 ---
 #card/DBMS/Relational_Algebra
 

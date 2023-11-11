@@ -1,6 +1,7 @@
 ---
 subject: CN
 type: MixQue
+atQ: 0
 ---
 
 #card/CN/Switching

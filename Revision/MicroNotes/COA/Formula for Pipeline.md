@@ -1,6 +1,7 @@
 ---
 type: MicroNotes
 subject: COA
+atQ: 0
 ---
 #note
 

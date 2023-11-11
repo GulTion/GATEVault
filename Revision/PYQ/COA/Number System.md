@@ -2,6 +2,7 @@
 type: PYQ
 subject: COA
 status: No status
+atQ: 0
 ---
 #card/COA/Number_System 
 Big endian - little endian (A,D) ![[Pasted image 20230929155216.png]]::A,D <!--SR:!2023-12-18,38,290-->

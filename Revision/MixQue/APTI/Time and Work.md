@@ -1,6 +1,7 @@
 ---
 type: MixQue
 subject: APTI
+atQ: 0
 ---
 # From Bharat Gupta
 - ![[Pasted image 20231014102525.png]]

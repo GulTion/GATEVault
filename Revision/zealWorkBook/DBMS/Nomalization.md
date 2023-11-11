@@ -1,7 +1,7 @@
 ---
 subject: DBMS
 type: zealWorkBook
-atQ: "0"
+atQ: 0
 ---
 #card/DBMS/Normalization
 

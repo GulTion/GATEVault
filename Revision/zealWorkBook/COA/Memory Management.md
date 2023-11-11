@@ -1,7 +1,7 @@
 ---
 subject: COA
 type: zealWorkBook
-atQ: "0"
+atQ: 0
 ---
 #card/COA/Cache_Memory 
 # from Grand Practice Series 

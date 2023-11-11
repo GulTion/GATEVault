@@ -1,6 +1,7 @@
 ---
 type: MicroNotes
 subject: COA
+atQ: 0
 ---
 #note
 - **n's complement of number X**

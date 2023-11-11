@@ -3,7 +3,7 @@ type: ZealTS
 subject: C
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=623af8b6f32ee520e9b026da&test_id=17
 status: Analysis
-atQ: "0"
+atQ: 0
 ---
 #card/C
 [LINK](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=623af8b6f32ee520e9b026da&test_id=17)

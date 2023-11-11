@@ -2,6 +2,7 @@
 subject: DBMS
 type: PYQ
 status: Analysis
+atQ: 0
 ---
 #card/DBMS/Relational_Scheme
 ![[Pasted image 20231109154601.png]]::D ![[Pasted image 20231109154549.png]] <!--SR:!2023-11-13,3,250-->

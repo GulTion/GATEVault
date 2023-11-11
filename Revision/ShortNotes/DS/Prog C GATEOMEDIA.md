@@ -1,6 +1,10 @@
 ---
 subject: C
 type: ShortNotes
+atQ: 0
+sr-due: 2023-11-14
+sr-interval: 3
+sr-ease: 150
 ---
 #note
 

@@ -2,6 +2,7 @@
 subject: CN
 type: GOTS
 status: Revision
+atQ: 0
 ---
 
 #card/CN/DataLinkLayer 

@@ -1,6 +1,7 @@
 ---
 type: MicroNotes
 subject: TOC
+atQ: 0
 ---
 #note
 # Closure Properties Trick of CFL #notes/TOC/Closure_properties/CFG

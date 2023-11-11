@@ -2,7 +2,7 @@
 subject: OS
 type: PYQ
 status: acquiring
-atQ: "67"
+atQ: 67
 startQ: 1
 endQ: 67
 src: https://practicepaper.in/gate-cse/cpu-scheduling?page_no=1

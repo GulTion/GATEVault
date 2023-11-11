@@ -2,7 +2,7 @@
 subject: OS
 type: PYQ
 status: acquiring
-atQ: "49"
+atQ: 49
 src: https://practicepaper.in/gate-cse/memory-management?page_no=8
 endQ: 107
 startQ: 1

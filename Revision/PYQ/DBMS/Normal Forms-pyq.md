@@ -2,6 +2,7 @@
 type: PYQ
 subject: DBMS
 status: Revision
+atQ: 0
 ---
 #card/DBMS/Normalization 
 ![[Pasted image 20231028231017.png]]::![[Pasted image 20231007214022.png]] <!--SR:!2023-11-11,10,270-->

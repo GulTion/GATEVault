@@ -2,6 +2,7 @@
 type: PYQ
 subject: C
 status: acquiring
+atQ: 0
 ---
 #card/C
 

@@ -1,8 +1,7 @@
 ---
 subject: TOC
 type: ZealTS
-sr:
-atQ: "0"
+atQ: 0
 ---
 #card/TOC 
 

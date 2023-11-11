@@ -1,6 +1,7 @@
 ---
 type: MicroNotes
 subject: APTI
+atQ: 0
 ---
 #note
 #card/aptitude/English/vocabulary

@@ -1,6 +1,7 @@
 ---
 type: MixQue
 subject: DLD
+atQ: 0
 ---
 
 at = 1hr/3hr

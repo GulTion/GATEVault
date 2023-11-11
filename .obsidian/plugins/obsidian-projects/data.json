@@ -3,10 +3,9 @@
   "projects": [
     {
       "fieldConfig": {
-        "repeation": {},
-        "note": {
+        "sr-ease": {
           "options": [
-            "#note"
+            "130"
           ]
         }
       },

@@ -2,6 +2,7 @@
 subject: COA
 type: PYQ
 status: acquiring
+atQ: 0
 ---
 #card/COA/memory_design 
 

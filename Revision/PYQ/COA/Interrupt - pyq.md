@@ -2,7 +2,7 @@
 subject: COA
 type: PYQ
 status: acquiring
-atQ: "3"
+atQ: 3
 startQ: 1
 endQ: 24
 src: https://practicepaper.in/gate-cse/interrupt

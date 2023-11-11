@@ -1,7 +1,7 @@
 ---
 type: ShortNotes
 subject: CD
-atQ: "0"
+atQ: 0
 ---
 #note
 #card/CD/Parser

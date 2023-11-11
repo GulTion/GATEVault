@@ -1,6 +1,7 @@
 ---
 type: ShortNotes
 subject: OS
+atQ: 0
 ---
 #note
 #card/OS/process_synchronisation

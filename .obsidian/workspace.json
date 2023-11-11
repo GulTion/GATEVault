@@ -4,53 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "223fe7e6ffad0c4d",
+        "id": "82bf7a53b0d7d1fe",
         "type": "tabs",
         "children": [
           {
-            "id": "56047b328a8ceea1",
+            "id": "87d8be498e681f33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-11.md",
+                "file": "Revision/MicroNotes/C- MicroNotes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6180be6890ac4a02",
+            "id": "4d3c5d31c04aca68",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+                "file": "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
           {
-            "id": "084ece486b768f7f",
+            "id": "b6aa30b4ef4624fb",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
               "state": {}
             }
-          },
-          {
-            "id": "d7449269cb308fbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,20 +117,12 @@
             }
           },
           {
-            "id": "7d3314f98fb677e5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "7ec0733dda91710c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md",
+                "file": "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md",
+                "file": "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md"
+                "file": "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md"
               }
             }
           },
@@ -195,10 +177,18 @@
             }
           },
           {
-            "id": "439c2497a3f60146",
+            "id": "50f173a1d37eff8e",
             "type": "leaf",
             "state": {
               "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "db18b448543fea5b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
               "state": {}
             }
           }
@@ -225,50 +215,50 @@
       "obsidian-projects:Open projects": false,
       "obsidian-day-planner:Timeline": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d7449269cb308fbc",
+  "active": "4d3c5d31c04aca68",
   "lastOpenFiles": [
+    "Revision/MicroNotes/C- MicroNotes.md",
+    "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
+    "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
+    "Revision/ShortNotes/OS/Process Syncronization.md",
+    "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
+    "Revision/ShortNotes/COA/Floating Point Tables.md",
+    "Revision/MicroNotes/COA/complements of number.md",
+    "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
+    "Revision/MicroNotes/COA/Formula for Pipeline.md",
+    "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
+    "Revision/ShortNotes/CN/TCP Notes.md",
+    "Revision/ShortNotes/COA/Binary Operation Overflow stuff.md",
+    "Revision/ShortNotes/COA/I O ShortNotes.md",
+    "Revision/MicroNotes/COA/Disk Memory in Input output.md",
+    "Revision/MicroNotes/DSA/Tree MicroNotes.md",
+    "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
+    "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
+    "Revision/ShortNotes/CD/Introduction CD notes.md",
+    "Revision/ShortNotes/CN/DHCP.md",
+    "Revision/ShortNotes/CD/Parser CD notes.md",
+    "Revision/ShortNotes/CN/Packet Switiching -gateOMedia.md",
+    "Revision/MicroNotes/APTI/Voca.md",
+    "Revision/MicroNotes/DLD/Invalid State in binary code representation.md",
+    "Revision/ShortNotes/DS/Type of Edges in DFS.md",
+    "DialyStuff/2023-11-11.md",
+    "Revision/MicroNotes/DLD/Flip Flops.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/PYQ/DM/media/Pasted image 20231111145054.png",
     "Revision/PYQ/DM/media/Pasted image 20231111144708.png",
     "Revision/PYQ/DM/media/Pasted image 20231111144431.png",
     "Revision/PYQ/DM/media/Pasted image 20231111144309.png",
-    "Revision/zealWorkBook/TOC/22. Check the Context Free Language.md",
-    "DialyStuff/2023-11-11.md",
-    "Revision/PYQ/DM/Graph Theory.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/zealWorkBook/TOC/media/Pasted image 20231111141625.png",
     "Revision/zealWorkBook/TOC/media/Pasted image 20231111141551.png",
     "Revision/zealWorkBook/TOC/media/Pasted image 20231111141532.png",
     "Revision/zealWorkBook/TOC/media/Pasted image 20231111140909.png",
     "Revision/zealWorkBook/TOC/media/Pasted image 20231111140857.png",
     "Revision/zealWorkBook/TOC/media",
-    "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
-    "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
-    "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
-    "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
-    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
-    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
-    "Revision/ZealTS/TOC/TESTID - 37 TEST-2-2023.md",
-    "DaskBoard Back.md",
-    "Revision/PYQ/OS/Process Synchronization - pyq.md",
-    "Revision/MicroNotes/COA/Formula for Pipeline.md",
-    "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
-    "templates/Question.md",
-    "Revision/MicroNotes/APTI/Voca.md",
-    "Revision/MicroNotes/C- MicroNotes.md",
-    "Revision/MicroNotes/DLD/Flip Flops.md",
-    "Revision/MicroNotes/DLD/Invalid State in binary code representation.md",
-    "Revision/MicroNotes/COA/Disk Memory in Input output.md",
-    "Revision/MicroNotes/COA/complements of number.md",
-    "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
-    "Revision/MicroNotes/DSA/Tree MicroNotes.md",
-    "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
-    "Revision/ShortNotes/CN/Packet Switiching -gateOMedia.md",
     "Revision/PYQ/OS/media/Pasted image 20231031184718.png",
-    "Revision/PYQ/OS/media/Pasted image 20231111000554.png",
-    "Revision/PYQ/MATH/media/Pasted image 20231110224452.png",
     "Revision/ShortNotes/DS/media",
     "Revision/MixQue/DS/Greedy/media",
     "Revision/MixQue/DS/Greedy",

@@ -1,6 +1,7 @@
 ---
 subject: DBMS
 type: ShortNotes
+atQ: 0
 ---
 
 #card/DBMS/sql

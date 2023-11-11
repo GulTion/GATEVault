@@ -1,7 +1,7 @@
 ---
 type: GOTS
 subject: DM
-atQ: "14"
+atQ: 14
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/results.html?exam_id=318
 status: Analysis
 startQ: 1

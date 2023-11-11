@@ -4,7 +4,7 @@ type: PYQ
 subject: MATH
 startQ: 1
 endQ: 95
-atQ: "4"
+atQ: 4
 ---
 #card/MATH/linear_algebra/eigen_vector
 

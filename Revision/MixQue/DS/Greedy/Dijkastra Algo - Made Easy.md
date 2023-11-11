@@ -2,6 +2,7 @@
 subject: DS
 type: MixQue
 status: acquiring
+atQ: 0
 ---
 #card/DSA/Greedy/Dijkastra
 
