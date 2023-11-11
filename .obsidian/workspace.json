@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b16ed0fbfff900f3",
+            "id": "ee22c00e33c1b284",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8203c4e0dbb82ded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/PYQ/DM/Graph Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ShortNotes/DS/Type of Edges in DFS.md",
+                "file": "Revision/PYQ/DM/Graph Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ShortNotes/DS/Type of Edges in DFS.md",
+                "file": "Revision/PYQ/DM/Graph Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ShortNotes/DS/Type of Edges in DFS.md"
+                "file": "Revision/PYQ/DM/Graph Theory.md"
               }
             }
           },
@@ -171,8 +184,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,9 +210,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b16ed0fbfff900f3",
+  "active": "8203c4e0dbb82ded",
   "lastOpenFiles": [
+    "Revision/PYQ/DM/media/Pasted image 20231111174956.png",
+    "Revision/PYQ/DM/media/Pasted image 20231111174711.png",
+    "Revision/PYQ/DM/media/Pasted image 20231111174649.png",
+    "Revision/PYQ/DM/media/Pasted image 20231111174123.png",
+    "Revision/PYQ/DM/media/Pasted image 20231111173320.png",
+    "Revision/PYQ/DM/media/Pasted image 20231111173020.png",
+    "Revision/PYQ/DM/media/Pasted image 20231111172959.png",
+    "Revision/ShortNotes/DS/Type of Edges in DFS.md",
     "Revision/PYQ/DM/Graph Theory.md",
+    "Revision/PYQ/DM/media/Pasted image 20231111170957.png",
+    "Revision/PYQ/DM/media/Pasted image 20231111170930.png",
+    "Revision/ShortNotes/DS/Untitled.md",
+    "Revision/ShortNotes/DS/DFS.md",
     "Revision/MicroNotes/C- MicroNotes.md",
     "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
     "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
@@ -222,22 +246,10 @@
     "Revision/ShortNotes/CD/Introduction CD notes.md",
     "Revision/ShortNotes/CN/DHCP.md",
     "Revision/ShortNotes/CD/Parser CD notes.md",
-    "Revision/ShortNotes/CN/Packet Switiching -gateOMedia.md",
-    "Revision/MicroNotes/APTI/Voca.md",
-    "Revision/MicroNotes/DLD/Invalid State in binary code representation.md",
-    "Revision/ShortNotes/DS/Type of Edges in DFS.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/PYQ/DM/media/Pasted image 20231111145054.png",
     "Revision/PYQ/DM/media/Pasted image 20231111144708.png",
-    "Revision/PYQ/DM/media/Pasted image 20231111144431.png",
-    "Revision/PYQ/DM/media/Pasted image 20231111144309.png",
-    "Revision/zealWorkBook/TOC/media/Pasted image 20231111141625.png",
-    "Revision/zealWorkBook/TOC/media/Pasted image 20231111141551.png",
-    "Revision/zealWorkBook/TOC/media/Pasted image 20231111141532.png",
-    "Revision/zealWorkBook/TOC/media/Pasted image 20231111140909.png",
-    "Revision/zealWorkBook/TOC/media/Pasted image 20231111140857.png",
     "Revision/zealWorkBook/TOC/media",
-    "Revision/PYQ/OS/media/Pasted image 20231031184718.png",
     "Revision/ShortNotes/DS/media",
     "Revision/MixQue/DS/Greedy/media",
     "Revision/MixQue/DS/Greedy",
