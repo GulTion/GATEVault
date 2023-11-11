@@ -168,7 +168,8 @@
         {
           "config": {
             "includeFields": [
-              "status"
+              "atQ",
+              "endQ"
             ],
             "groupByField": "subject"
           },
