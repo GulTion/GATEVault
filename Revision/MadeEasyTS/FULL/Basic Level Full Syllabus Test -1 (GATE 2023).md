@@ -11,7 +11,7 @@ endQ: 65
 
 ![[Pasted image 20231014223323.png]]::0
 
-![[Pasted image 20231014223846.png]]::A,C,D
+![[Pasted image 20231014223846.png]]::A,C,D <!--SR:!2023-11-14,3,198-->
 
 ![[Pasted image 20231014224026.png]]:: B
 
@@ -24,7 +24,7 @@ endQ: 65
 ![[Pasted image 20231023131757.png]]::![[Pasted image 20231023131815.png]] <!--SR:!2023-11-13,15,290-->
 
 
-![[Pasted image 20231023132501.png]]::![[Pasted image 20231023132515.png]] <!--SR:!2023-11-11,13,290-->
+![[Pasted image 20231023132501.png]]::![[Pasted image 20231023132515.png]] <!--SR:!2024-01-01,51,310-->
 
 ![[Pasted image 20231023162455.png]]::![[Pasted image 20231023162519.png]] <!--SR:!2023-11-14,16,290-->
 

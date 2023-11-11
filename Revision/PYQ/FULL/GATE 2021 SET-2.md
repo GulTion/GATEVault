@@ -15,17 +15,17 @@ atQ: 0
 
 #today ![[Pasted image 20231025155011.png]]::A![[Pasted image 20231025155333.png]]https://gateoverflow.in/357513/gate-cse-2021-set-2-question-27#a_list_title ^c52e74
 
-![[Pasted image 20231025160849.png]]::https://gateoverflow.in/357512/gate-cse-2021-set-2-question-28#a_list_title <!--SR:!2023-11-05,4,282-->
+#today ![[Pasted image 20231025160849.png]]::https://gateoverflow.in/357512/gate-cse-2021-set-2-question-28#a_list_title <!--SR:!2023-11-05,4,282-->
 
-![[Pasted image 20231026012121.png]]::C <!--SR:!2023-11-03,4,274-->
+![[Pasted image 20231026012121.png]]::C <!--SR:!2023-11-27,16,294-->
 
-![[Pasted image 20231026020716.png]]::![[Pasted image 20231026020740.png]] <!--SR:!2023-11-03,4,274-->
+![[Pasted image 20231026020716.png]]::![[Pasted image 20231026020740.png]] <!--SR:!2023-11-26,15,294-->
 
 
-![[Pasted image 20231026021503.png]]::![[Pasted image 20231026021537.png]] <!--SR:!2023-11-03,4,274-->
+![[Pasted image 20231026021503.png]]::![[Pasted image 20231026021537.png]] <!--SR:!2023-11-27,16,294-->
 
 
 #today ![[Pasted image 20231026022625.png]]::![[Pasted image 20231026022649.png]]
 
 
-![[Pasted image 20231026023057.png]]::https://gateoverflow.in/357487/gate-cse-2021-set-2-question-50#a_list_title <!--SR:!2023-11-03,4,274-->
+#today/daily ![[Pasted image 20231026023057.png]]::https://gateoverflow.in/357487/gate-cse-2021-set-2-question-50#a_list_title <!--SR:!2023-11-03,4,274-->
