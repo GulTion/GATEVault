@@ -11,7 +11,7 @@ RTT Bandwidth Relation
 $RTT* B = W$
 Here W is size in Bytes
 If want W as Packet then Divide W by L to get into packet form $N=W/L$
-^3862a9 <!--SR:!2023-11-11,10,286-->
+^3862a9 <!--SR:!2023-11-16,5,266-->
 
 
 Transition State Diagram:: ![[Pasted image 20230930125141.png]] <!--SR:!2023-11-14,4,230-->

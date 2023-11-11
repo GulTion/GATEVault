@@ -5,7 +5,7 @@ status: Revision
 atQ: 0
 ---
 #card/DBMS/Normalization 
-![[Pasted image 20231028231017.png]]::![[Pasted image 20231007214022.png]] <!--SR:!2023-11-11,10,270-->
+![[Pasted image 20231028231017.png]]::![[Pasted image 20231007214022.png]] <!--SR:!2023-12-18,37,290-->
 
 
 statment about the prime attribute![[Pasted image 20231007214323.png]]::![[Pasted image 20231007214348.png]] <!--SR:!2023-11-15,13,270-->
@@ -14,7 +14,7 @@ statment about the prime attribute![[Pasted image 20231007214323.png]]::![[Paste
 Check BCNF from the statement condition![[Pasted image 20231008095838.png]]::![[Pasted image 20231008095924.png]] <!--SR:!2023-11-28,18,250-->
 
 
-lossless join and dependecny preserving![[Pasted image 20231028231215.png]]::![[Pasted image 20231008101353.png]] <!--SR:!2023-11-11,9,270-->
+lossless join and dependecny preserving![[Pasted image 20231028231215.png]]::![[Pasted image 20231008101353.png]] <!--SR:!2023-12-14,33,290-->
 
 
 #today FD and MVD ![[Pasted image 20231008102802.png]]::![[Pasted image 20231008102813.png]]

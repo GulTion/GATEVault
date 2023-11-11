@@ -10,7 +10,7 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 
 #card/DBMS/indexing
 
-![[Pasted image 20231006145422.png]]:: ![[Pasted image 20231006145502.png]] <!--SR:!2023-11-11,13,272-->
+![[Pasted image 20231006145422.png]]:: ![[Pasted image 20231006145502.png]] <!--SR:!2023-12-31,50,292-->
 
 ![[Pasted image 20231017181651.png]]::![[Pasted image 20231017181707.png]] <!--SR:!2023-11-23,16,252-->
 

@@ -10,9 +10,9 @@ atQ: 0
 
 ![[Pasted image 20231106101920.png]]::B ![[Pasted image 20231106102008.png]] <!--SR:!2023-11-13,3,250-->
 
-![[Pasted image 20231106102108.png]]::B ![[Pasted image 20231106102154.png]] <!--SR:!2023-11-11,3,250-->
+![[Pasted image 20231106102108.png]]::B ![[Pasted image 20231106102154.png]] <!--SR:!2023-11-22,11,270-->
 
-![[Pasted image 20231106103043.png]]::10000 ![[Pasted image 20231106103114.png]]![[Pasted image 20231106103157.png]] <!--SR:!2023-11-11,3,250-->
+![[Pasted image 20231106103043.png]]::10000 ![[Pasted image 20231106103114.png]]![[Pasted image 20231106103157.png]] <!--SR:!2023-11-23,12,270-->
 
 ![[Pasted image 20231106103830.png]]::60%![[Pasted image 20231106103843.png]] <!--SR:!2023-11-12,4,270-->
 

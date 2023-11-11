@@ -12,7 +12,7 @@ startQ: 1
 #card/DS/program_design_strategy
 ![[Pasted image 20231108132101.png]]::NONE ![[Pasted image 20231108132350.png]]![[Pasted image 20231108132133.png]]![[Pasted image 20231108132115.png]] <!--SR:!2023-11-14,4,270-->
 
-![[Pasted image 20231108133408.png]]::![[Pasted image 20231108133420.png]] <!--SR:!2023-11-11,1,230-->
+![[Pasted image 20231108133408.png]]::![[Pasted image 20231108133420.png]] <!--SR:!2023-11-14,3,250-->
 
 ![[Pasted image 20231108134225.png]]::A ![[Pasted image 20231108134254.png]] <!--SR:!2023-11-13,3,250-->
 

@@ -28,7 +28,7 @@ status: acquiring
 # CSMA/CD and CSMA/CA
 ![[Pasted image 20231027155022.png]]::B <!--SR:!2023-12-03,23,270-->
 
-![[Pasted image 20231027155049.png]]::A <!--SR:!2023-11-11,11,270-->
+![[Pasted image 20231027155049.png]]::A <!--SR:!2023-11-16,5,250-->
 
 ![[Pasted image 20231027155214.png]]::A <!--SR:!2023-12-17,37,290-->
 

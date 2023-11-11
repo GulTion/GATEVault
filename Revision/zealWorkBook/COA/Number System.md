@@ -11,7 +11,7 @@ Finding n's complement of Number![[Pasted image 20230928212737.png]]::a <!--SR:!
  ^c5d009
 
 1. Find the Base of Numbers for Quardic Equation ![[Pasted image 20230928112103.png]]::8 <!--SR:!2023-12-13,33,290-->
-2. Find the Base of Numbers for Cubic Equation Equation ![[Pasted image 20230928112320.png]]![[Pasted image 20230928112338.png]]::5 <!--SR:!2023-11-11,11,272-->
+2. Find the Base of Numbers for Cubic Equation Equation ![[Pasted image 20230928112320.png]]![[Pasted image 20230928112338.png]]::5 <!--SR:!2023-12-10,29,272-->
 
 - Coding Scheme #edgeCase![[Pasted image 20230929082229.png]]::C ^7e1529 <!--SR:!2023-11-12,12,270-->
 - Statements about conversion of integer and Gray code property #statement![[Pasted image 20230929083303.png]]::B <!--SR:!2023-11-12,12,270-->
