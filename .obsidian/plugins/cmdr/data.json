@@ -12,14 +12,7 @@
     }
   ],
   "fileMenu": [],
-  "leftRibbon": [
-    {
-      "id": "obsidian-day-planner:show-weekly-view",
-      "icon": "align-vertical-distribute-start",
-      "name": "Day Planner: Show the Week Planner",
-      "mode": "any"
-    }
-  ],
+  "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
@@ -28,8 +21,25 @@
       "id": "app:delete-file",
       "icon": "lucide-trash-2",
       "name": "Delete current file",
-      "mode": "any",
-      "color": "#e6e6e6"
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-spaced-repetition:srs-note-review-easy",
+      "icon": "battery-full",
+      "name": "Spaced Repetition: Review note as easy",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-spaced-repetition:srs-note-review-good",
+      "icon": "battery-medium",
+      "name": "Spaced Repetition: Review note as good",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-spaced-repetition:srs-note-review-hard",
+      "icon": "battery-low",
+      "name": "Spaced Repetition: Review note as hard",
+      "mode": "any"
     }
   ],
   "macros": [],
@@ -39,7 +49,11 @@
       "obsidian-git",
       "properties"
     ],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Open trash explorer",
+      "Create a new database table",
+      "Open random note"
+    ]
   },
   "spacing": "7",
   "advancedToolbar": {

@@ -4,11 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "c927355fcf1d49ac",
+        "id": "64cbeee1adee3ba3",
         "type": "tabs",
         "children": [
           {
-            "id": "70328a7aab03efd8",
+            "id": "633e06f86231c37d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49ce1f49d7f6afd8",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "c95fff4c7f349d2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/zealWorkBook/TOC/22. Check the Context Free Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ec6f362d39a4878",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DaskBoard Back.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "803cd8c16033dbd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-11-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4448d13dd4be0467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-11-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a425f5a20675b76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -171,7 +240,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -191,15 +261,25 @@
       "omnisearch:Omnisearch": false,
       "remotely-save:Remotely Save": false,
       "obsidian-projects:Open projects": false,
-      "cmdr:Day Planner: Show the Week Planner": false,
       "obsidian-day-planner:Timeline": false,
       "dbfolder:Create a new database table": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "70328a7aab03efd8",
+  "active": "4448d13dd4be0467",
   "lastOpenFiles": [
+    "DialyStuff/2023-11-11.md",
+    "Revision/zealWorkBook/TOC/22. Check the Context Free Language.md",
+    "Revision/ZealTS/TOC/TESTID - 37 TEST-2-2023.md",
+    "DaskBoard Back.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/PYQ/OS/Process Synchronization - pyq.md",
+    "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
+    "Revision/MicroNotes/COA/Formula for Pipeline.md",
+    "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
+    "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
+    "templates/Question.md",
     "Revision/MicroNotes/APTI/Voca.md",
     "Revision/MicroNotes/C- MicroNotes.md",
     "Revision/MicroNotes/DLD/Flip Flops.md",
@@ -208,7 +288,6 @@
     "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
     "Revision/MicroNotes/COA/Disk Memory in Input output.md",
     "Revision/MicroNotes/COA/complements of number.md",
-    "Revision/MicroNotes/COA/Formula for Pipeline.md",
     "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
     "Revision/MicroNotes/DSA/Tree MicroNotes.md",
     "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
@@ -217,15 +296,6 @@
     "Revision/ShortNotes/CD/Parser CD notes.md",
     "Revision/ShortNotes/CN/DHCP.md",
     "Revision/ShortNotes/CN/Circuit Switching.md",
-    "Revision/ShortNotes/CN/TCP Notes.md",
-    "Revision/ShortNotes/COA/Floating Point Tables.md",
-    "Revision/ShortNotes/COA/Binary Operation Overflow stuff.md",
-    "Revision/ShortNotes/COA/I O ShortNotes.md",
-    "Revision/ShortNotes/COA/connexion of register into system bus.md",
-    "Revision/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md",
-    "Revision/ShortNotes/OS/Process Syncronization.md",
-    "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
-    "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
     "Revision/PYQ/OS/media/Pasted image 20231031184718.png",
     "Revision/PYQ/OS/media/Pasted image 20231111000554.png",
     "Revision/PYQ/MATH/media/Pasted image 20231110224452.png",
@@ -236,7 +306,6 @@
     "Revision/PYQ/OS/media/Pasted image 20231110221850.png",
     "Revision/PYQ/OS/media/Pasted image 20231031185603.png",
     "Revision/PYQ/OS/media/Pasted image 20231110215521.png",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ShortNotes/DS/media",
     "Revision/MixQue/DS/Greedy/media",
     "Revision/MixQue/DS/Greedy",

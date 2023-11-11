@@ -72,7 +72,10 @@
         },
         {
           "config": {
-            "includeFields": [],
+            "includeFields": [
+              "atQ",
+              "endQ"
+            ],
             "groupByField": "subject",
             "columns": {
               "OS": {
@@ -135,7 +138,7 @@
         },
         {
           "config": {
-            "groupByField": "type"
+            "groupByField": "subject"
           },
           "filter": {
             "conditions": [
