@@ -2,9 +2,6 @@
 type: ShortNotes
 subject: DBMS
 atQ: 0
-sr-due: Invalid date
-sr-interval: NaN
-sr-ease: NaN
 ---
 
 #note 

@@ -26,4 +26,3 @@ A is correct
 ![[Pasted image 20231111144708.png]]::D , clockwise and anticlock-wise r same
 
 ![[Pasted image 20231111145054.png]]::
-
