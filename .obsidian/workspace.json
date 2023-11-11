@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md",
+                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card/CN",
+                "query": "tag:#card/micro/DM/combinatorics",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md",
+                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md",
+                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/DM/Graph Theory.md"
+                "file": "Revision/PYQ/FULL/GATE 2021 SET-2.md"
               }
             }
           },
@@ -169,22 +170,23 @@
             }
           },
           {
-            "id": "50f173a1d37eff8e",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "db18b448543fea5b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "1b3a5d17b7767b65",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -212,6 +214,9 @@
   },
   "active": "8203c4e0dbb82ded",
   "lastOpenFiles": [
+    "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
+    "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
+    "Revision/PYQ/DM/Graph Theory.md",
     "Revision/PYQ/DM/media/Pasted image 20231111175035.png",
     "Revision/PYQ/DM/media/Pasted image 20231111174956.png",
     "Revision/PYQ/DM/media/Pasted image 20231111174711.png",
@@ -221,7 +226,6 @@
     "Revision/PYQ/DM/media/Pasted image 20231111173020.png",
     "Revision/PYQ/DM/media/Pasted image 20231111172959.png",
     "Revision/ShortNotes/DS/Type of Edges in DFS.md",
-    "Revision/PYQ/DM/Graph Theory.md",
     "Revision/PYQ/DM/media/Pasted image 20231111170957.png",
     "Revision/PYQ/DM/media/Pasted image 20231111170930.png",
     "Revision/ShortNotes/DS/Untitled.md",
@@ -234,7 +238,6 @@
     "Revision/MicroNotes/DSA/Tree MicroNotes.md",
     "DialyStuff/2023-11-11.md",
     "Revision/ShortNotes/OS/Process Syncronization.md",
-    "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
     "Revision/MicroNotes/COA/complements of number.md",
     "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
     "Revision/MicroNotes/COA/Formula for Pipeline.md",
@@ -243,12 +246,10 @@
     "Revision/ShortNotes/COA/Binary Operation Overflow stuff.md",
     "Revision/ShortNotes/COA/I O ShortNotes.md",
     "Revision/MicroNotes/COA/Disk Memory in Input output.md",
-    "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
     "Revision/ShortNotes/CD/Introduction CD notes.md",
     "Revision/ShortNotes/CN/DHCP.md",
     "Revision/ShortNotes/CD/Parser CD notes.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/PYQ/DM/media/Pasted image 20231111145054.png",
     "Revision/zealWorkBook/TOC/media",
     "Revision/ShortNotes/DS/media",
     "Revision/MixQue/DS/Greedy/media",

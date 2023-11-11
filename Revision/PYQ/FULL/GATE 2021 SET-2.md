@@ -4,7 +4,7 @@ type: PYQ
 status: Revision
 atQ: 0
 ---
-#card/Full
+#card/FULL 
 # DM
 ## LOGIC
 #notes/dm/logic/implication![[Pasted image 20230923160222.png]] 

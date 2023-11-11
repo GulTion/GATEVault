@@ -4,7 +4,7 @@ type: MicroNotes
 atQ: 0
 ---
 #note
-#card/micro/DM/combinatorics
+#card/DM/combinatorics
 
 ### arrangement of n in which p and q are identical::![[Pasted image 20231021094748.png|center|300]] <!--SR:!2000-01-01,1,250-->
 

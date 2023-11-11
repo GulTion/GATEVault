@@ -23,7 +23,7 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 
 ![[Pasted image 20231106011915.png]]::![[Pasted image 20231106011921.png]]
 
-![[Pasted image 20231106012802.png]]::![[Pasted image 20231106012808.png]] <!--SR:!2023-11-11,3,250-->
+ <!--SR:!2023-11-11,3,250-->
 
 ![[Pasted image 20231106015035.png]]::![[Pasted image 20231106015041.png]] <!--SR:!2023-11-13,3,268-->
 
