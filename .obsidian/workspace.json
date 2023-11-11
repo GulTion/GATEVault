@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b5726aaa28422d6a",
+        "id": "c927355fcf1d49ac",
         "type": "tabs",
         "children": [
           {
-            "id": "0bfd75ebd89562ab",
+            "id": "70328a7aab03efd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/MicroNotes/COA/Formula for Pipeline.md",
+                "file": "DialyStuff/2023-11-11.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "df05c9bbab20cb99",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DialyStuff/2023-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DialyStuff/2023-11-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2023-11-11.md"
+              }
             }
           },
           {
@@ -203,7 +198,7 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "df05c9bbab20cb99",
+  "active": "70328a7aab03efd8",
   "lastOpenFiles": [
     "Revision/MicroNotes/APTI/Voca.md",
     "Revision/MicroNotes/C- MicroNotes.md",
