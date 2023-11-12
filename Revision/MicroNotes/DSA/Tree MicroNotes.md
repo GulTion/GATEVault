@@ -1,7 +1,6 @@
 ---
 subject: DS
 type: MicroNotes
-atQ: 0
 ---
 #note
 #card/DSA/Tree
