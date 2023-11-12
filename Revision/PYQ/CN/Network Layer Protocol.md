@@ -9,11 +9,11 @@ src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 ---
 #card/CN/NetworkLayer
 
-![[Pasted image 20231030144234.png]]::3![[Pasted image 20231030144248.png]] <!--SR:!2023-11-12,7,250-->
+![[Pasted image 20231030144234.png]]::3![[Pasted image 20231030144248.png]] <!--SR:!2023-11-28,16,250-->
 
 #today ![[Pasted image 20231030144316.png]]::A,C ![[Pasted image 20231030144359.png]] <!--SR:!2023-11-07,2,230-->
 
-![[Pasted image 20231030150411.png]]::![[Pasted image 20231030150423.png]] <!--SR:!2023-11-12,7,250-->
+![[Pasted image 20231030150411.png]]::![[Pasted image 20231030150423.png]] <!--SR:!2023-12-05,23,270-->
 
 ![[Pasted image 20231030160705.png]]::C![[Pasted image 20231030160748.png]] <!--SR:!2023-11-14,7,270-->
 
@@ -45,5 +45,5 @@ src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 
 ![[Pasted image 20231102190925.png]]::B![[Pasted image 20231102190940.png]] <!--SR:!2023-11-19,11,278-->
 
-![[Pasted image 20231102204756.png]]::260 ![[Pasted image 20231102204814.png]] <!--SR:!2023-11-12,2,255-->
+![[Pasted image 20231102204756.png]]::260 ![[Pasted image 20231102204814.png]] <!--SR:!2023-11-20,8,275-->
 

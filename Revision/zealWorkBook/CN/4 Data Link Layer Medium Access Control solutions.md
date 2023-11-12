@@ -9,7 +9,7 @@ status: acquiring
 #card/CN/MacLaye4
 
 # Pure Aloha 
-![[Screenshot_2023_1021_153423.png]]::10.304 <!--SR:!2023-11-12,12,270-->
+![[Screenshot_2023_1021_153423.png]]::10.304 <!--SR:!2023-12-15,33,270-->
 
 # Slotted Aloha
 ![[Pasted image 20231026142944.png]]::C, this method for first time succeed![[Pasted image 20231026143016.png]] <!--SR:!2023-11-17,17,290-->
@@ -20,7 +20,7 @@ status: acquiring
 ![[Pasted image 20231027154001.png]]![[Pasted image 20231027153923.png]]::D![[Pasted image 20231027153938.png]] <!--SR:!2023-11-16,6,250-->
 
 
-![[Pasted image 20231027154551.png]]::A, sent by anyone, in which only one sucess and other get fail so![[Pasted image 20231027154608.png]] <!--SR:!2023-11-12,4,250-->
+![[Pasted image 20231027154551.png]]::A, sent by anyone, in which only one sucess and other get fail so![[Pasted image 20231027154608.png]] <!--SR:!2023-11-25,13,270-->
 
 
  <!--SR:!2023-11-03,4,275-->

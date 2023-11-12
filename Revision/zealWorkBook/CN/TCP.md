@@ -8,7 +8,7 @@ status: Revision
 ---
 #card/CN/Transport_Layer
 
-- Window size calculation from RTT and Bandwidth![[Pasted image 20230930105606.png]]::200kb <!--SR:!2023-11-12,10,270-->
+- Window size calculation from RTT and Bandwidth![[Pasted image 20230930105606.png]]::200kb <!--SR:!2023-12-19,37,290-->
 
 
  <!--SR:!2023-11-09,9,270-->

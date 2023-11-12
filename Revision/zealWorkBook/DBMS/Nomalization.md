@@ -10,7 +10,7 @@ atQ: 0
 ?
   | A   | B   | we can't conclude that A->B
   | --- | --- | we can only tell about violation
-  | 1  | 2   | <!--SR:!2023-11-12,11,288-->
+  | 1  | 2   | <!--SR:!2023-12-30,48,308-->
 
 
 #notes/DBMS/normalisation/CK  Find Key![[Pasted image 20231028163523.png]]::![[Pasted image 20231028163539.png]]

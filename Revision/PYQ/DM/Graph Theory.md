@@ -25,13 +25,13 @@ A is correct
 
 ![[Pasted image 20231111144708.png]]::D , clockwise and anticlock-wise r same <!--SR:!2023-11-13,2,164-->
 
-![[Pasted image 20231111145054.png]]:: A [[Type of Edges in DFS]]
+![[Pasted image 20231111145054.png]]:: A [[Type of Edges in DFS]] <!--SR:!2023-11-14,2,169-->
 
-![[Pasted image 20231111170930.png]]::D [[Type of Edges in DFS]] ![[Pasted image 20231111170957.png]] <!--SR:!2023-11-12,1,144-->
+![[Pasted image 20231111170930.png]]::D [[Type of Edges in DFS]] ![[Pasted image 20231111170957.png]] <!--SR:!2023-11-14,2,164-->
 
-![[Pasted image 20231111172959.png]]::![[Pasted image 20231111173020.png]] <!--SR:!2023-11-12,1,144-->
+![[Pasted image 20231111172959.png]]::![[Pasted image 20231111173020.png]] <!--SR:!2023-11-14,2,164-->
 
-![[Pasted image 20231111173320.png]]::D ![[Pasted image 20231111174123.png]] <!--SR:!2023-11-12,1,144-->
+![[Pasted image 20231111173320.png]]::D ![[Pasted image 20231111174123.png]] <!--SR:!2023-11-14,2,164-->
 
 ![[Pasted image 20231111174649.png]]::5![[Pasted image 20231111174711.png]] <!--SR:!2023-11-13,2,164-->
 

@@ -18,6 +18,6 @@ atQ: 0
 - #today/daily 21 statemwnts ![[Pasted image 20231015164115.png]]:: ![[Pasted image 20231015164119.png]] <!--SR:!2023-11-23,13,285-->
 
 - #today/day 24 lack of practice ![[Pasted image 20231015164857.png]]::![[Pasted image 20231015164902.png]] <!--SR:!2023-11-18,8,265-->
-- 25 lack of practice ![[Pasted image 20231015164923.png]]::![[Pasted image 20231015164928.png]] <!--SR:!2023-11-12,11,270-->
+- 25 lack of practice ![[Pasted image 20231015164923.png]]::![[Pasted image 20231015164928.png]] <!--SR:!2023-12-24,42,290-->
 - 5. silly mistake![[Pasted image 20231014135910.png]]::![[Pasted image 20231014135917.png]] <!--SR:!2023-11-15,14,290-->
 - 6. silly mistake ![[Pasted image 20231014140029.png]]::![[Pasted image 20231014140040.png]] <!--SR:!2023-11-18,17,290-->

@@ -6,15 +6,15 @@ atQ: 0
 #note
 #card/DM/combinatorics
 
-### arrangement of n in which p and q are identical::![[Pasted image 20231021094748.png|center|300]] <!--SR:!2000-01-01,1,250-->
+### arrangement of n in which p and q are identical::![[Pasted image 20231021094748.png|center|300]] <!--SR:!2023-11-15,3,215-->
 
 
-![[Pasted image 20231021095711.png|center|300]]:::![[Pasted image 20231021095747.png|center|700]] <!--SR:!2023-11-06,4,274!2023-11-03,1,234-->
+ <!--SR:!2023-11-06,4,274!2023-11-03,1,234-->
 
 
-![[Pasted image 20231021095816.png|center|300]]:::![[Pasted image 20231021095828.png|center|700]] <!--SR:!2023-11-15,13,290!2000-01-01,1,250-->
+![[Pasted image 20231021095816.png|center|300]]:::![[Pasted image 20231021095828.png|center|700]] <!--SR:!2023-11-15,13,290!2023-11-15,3,215-->
 
 
-![[Pasted image 20231021095909.png|center|600]]:::![[Pasted image 20231021095919.png|center|800]] <!--SR:!2023-11-06,4,274!2023-11-06,4,274-->
+ <!--SR:!2023-11-06,4,274!2023-11-29,17,294-->
 
-### Property of nCr![[Pasted image 20231021100005.png|center|300]]:::![[Pasted image 20231021100421.png]] <!--SR:!2023-11-06,4,274!2023-11-03,1,234-->
+ <!--SR:!2023-11-26,14,294!2023-11-03,1,234-->
