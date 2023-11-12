@@ -1,0 +1,1 @@
+{"path":"Revision/zealWorkBook/DSA/media/Pasted image 20231112014129.png","text":"Recurrence relation for finding mi umb de T(n) =T(n-1) +T(n-2) +1 v T(0)=1, T(1) =2, T(2) =4 T(3) =T(2) +T(1) +1=7 T(4) =T(3) +T(2) +1 =7+4+ 2 T(5) =T(4) +T(3) +1= 12+ o) Answer is 20 I\\'","libVersion":"0.2.3","langs":"eng"}

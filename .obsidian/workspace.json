@@ -33,9 +33,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
+                "file": "DialyStuff/2023-11-12.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -45,9 +45,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Program design strategy.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "30da962ce2e90e4d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
               }
             }
           },
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
+                "file": "DialyStuff/2023-11-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
+                "file": "DialyStuff/2023-11-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md"
+                "file": "DialyStuff/2023-11-12.md"
               }
             }
           },
@@ -217,7 +227,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -245,12 +255,18 @@
   },
   "active": "7982dad35352702b",
   "lastOpenFiles": [
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "index.md",
+    "DialyStuff/2023-11-12.md",
     "Revision/zealWorkBook/DSA/Program design strategy.md",
+    "DialyStuff/2023-11-11.md",
+    "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231112014129.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231112014059.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231112010948.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231112010934.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231112010739.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231112010717.png",
-    "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
     "Revision/ShortNotes/DS/Greedy Technique - gateOmedia.md",
     "Revision/ShortNotes/DS/media/Pasted image 20231112000815.png",
     "Revision/ShortNotes/DS/media/Pasted image 20231112000752.png",
@@ -259,9 +275,7 @@
     "Revision/ShortNotes/DS/Type of Edges in DFS.md",
     "Revision/ShortNotes/DS/DAC - GateOmedia.md",
     "Revision/ShortNotes/DS/media/Pasted image 20231112000543.png",
-    "Revision/ShortNotes/DS/media/Pasted image 20231112000237.png",
     "Revision/MicroNotes/DLD/Invalid State in binary code representation.md",
-    "Revision/ShortNotes/DS/media/Pasted image 20231111231111.png",
     "Revision/PYQ/FULL/GATE 2021 SET-2.md",
     "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
     "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
@@ -272,16 +286,11 @@
     "Revision/ShortNotes/DS/Prog C GATEOMEDIA.md",
     "Revision/ShortNotes/COA/Floating Point Tables.md",
     "Revision/MicroNotes/DSA/Tree MicroNotes.md",
-    "DialyStuff/2023-11-11.md",
     "Revision/ShortNotes/OS/Process Syncronization.md",
     "Revision/MicroNotes/COA/complements of number.md",
     "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
     "Revision/MicroNotes/COA/Formula for Pipeline.md",
     "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
-    "Revision/ShortNotes/CN/TCP Notes.md",
-    "Revision/ShortNotes/COA/Binary Operation Overflow stuff.md",
-    "Revision/ShortNotes/COA/I O ShortNotes.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/zealWorkBook/TOC/media",
     "Revision/ShortNotes/DS/media",
     "Revision/MixQue/DS/Greedy/media",
