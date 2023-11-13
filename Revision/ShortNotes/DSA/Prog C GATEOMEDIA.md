@@ -1,5 +1,5 @@
 ---
-subject: C
+subject: DSA
 type: ShortNotes
 atQ: 0
 ---

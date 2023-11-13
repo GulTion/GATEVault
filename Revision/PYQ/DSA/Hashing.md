@@ -3,7 +3,7 @@ type: PYQ
 atQ: 9
 startQ: 1
 endQ: 23
-subject: DS
+subject: DSA
 src: https://practicepaper.in/gate-cse/hashing?page_no=1
 status: acquiring
 ---

@@ -137,7 +137,42 @@
         },
         {
           "config": {
-            "groupByField": "subject"
+            "groupByField": "subject",
+            "columns": {
+              "TOC": {
+                "weight": 0
+              },
+              "OS": {
+                "weight": 1
+              },
+              "FULL": {
+                "weight": 2
+              },
+              "DS": {
+                "weight": 3
+              },
+              "DM": {
+                "weight": 4
+              },
+              "DBMS": {
+                "weight": 5
+              },
+              "COA": {
+                "weight": 6
+              },
+              "CN": {
+                "weight": 7
+              },
+              "C": {
+                "weight": 8
+              },
+              "APTI": {
+                "weight": 9
+              },
+              "MATH": {
+                "weight": 10
+              }
+            }
           },
           "filter": {
             "conditions": [
@@ -195,7 +230,7 @@
         },
         {
           "config": {
-            "groupByField": "type"
+            "groupByField": "subject"
           },
           "filter": {
             "conditions": [
@@ -226,35 +261,32 @@
         {
           "config": {
             "columns": {
-              "ZealAdvWorkBook": {
+              "No status": {
                 "weight": 0
               },
-              "No status": {
+              "zealWorkBook": {
                 "weight": 1
               },
-              "zealWorkBook": {
+              "ZealTS": {
                 "weight": 2
               },
-              "ZealTS": {
+              "ShortNotes": {
                 "weight": 3
               },
-              "ShortNotes": {
+              "PYQ": {
                 "weight": 4
               },
-              "PYQ": {
+              "MixQue": {
                 "weight": 5
               },
-              "MixQue": {
+              "MicroNotes": {
                 "weight": 6
               },
-              "MicroNotes": {
+              "MadeEasyTS": {
                 "weight": 7
               },
-              "MadeEasyTS": {
-                "weight": 8
-              },
               "GOTS": {
-                "weight": 9
+                "weight": 8
               }
             },
             "groupByField": "type"

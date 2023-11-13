@@ -1,6 +1,6 @@
 ---
 type: ShortNotes
-subject: DS
+subject: DSA
 atQ: 0
 ---
 #note

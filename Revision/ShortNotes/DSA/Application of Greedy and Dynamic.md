@@ -1,7 +1,7 @@
 ---
-subject: DS
+subject: DSA
 type: ShortNotes
-status:
+status: 
 src: GateOMedia
 atQ: 0
 ---

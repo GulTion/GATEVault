@@ -4,55 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df7d6722bb1b647a",
+        "id": "30151a3778f15716",
         "type": "tabs",
         "children": [
           {
-            "id": "3aaaa4395656d0aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/MicroNotes/DSA/Tree MicroNotes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3bf050f13abd02b",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "c3aa0b4578c0b2ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-11-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31f759611dfc83a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/ZealTS/DSA/TEST ID-10 DSA-2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "205469cd8644d530",
+            "id": "3f7306f686355e20",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -62,31 +18,31 @@
             }
           },
           {
-            "id": "7918bf2841a30fa6",
+            "id": "308447e5fbc6192a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
+                "file": "Revision/PYQ/DSA/Greedy Technique.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "55cde42f34e599ae",
+            "id": "fac17a23a94a855a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
+                "file": "Revision/PYQ/DSA/Dynamic Programming - pyq.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,10 +71,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#card/DS",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -140,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/DSA/TEST ID-10 DSA-2.md",
+                "file": "Revision/PYQ/DSA/Dynamic Programming - pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/DSA/TEST ID-10 DSA-2.md",
+                "file": "Revision/PYQ/DSA/Dynamic Programming - pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/DSA/TEST ID-10 DSA-2.md"
+                "file": "Revision/PYQ/DSA/Dynamic Programming - pyq.md"
               }
             }
           },
@@ -239,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -265,52 +222,52 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "31f759611dfc83a9",
+  "active": "f05219de2c216c2d",
   "lastOpenFiles": [
+    "Revision/PYQ/DSA/Greedy Technique.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/ZealTS/DSA/TEST ID-10 DSA-2.md",
-    "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
+    "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
+    "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
+    "Revision/ZealTS/DSA/TEST ID-11 DSA-3.md",
+    "Revision/PYQ/DSA/Dynamic Programming - pyq.md",
+    "Revision/MixQue/DS/Greedy/Dijkastra Algo - Made Easy.md",
+    "Revision/MicroNotes/DSA/Tree MicroNotes.md",
+    "Revision/ShortNotes/DSA/media/Pasted image 20231110075015.png",
+    "Revision/ShortNotes/DSA/Stack.md",
+    "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
+    "Revision/ShortNotes/DSA/Greedy Technique - gateOmedia.md",
+    "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
+    "Revision/ShortNotes/DSA/Application of Greedy and Dynamic.md",
+    "Revision/zealWorkBook/DSA/Program design strategy.md",
+    "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
+    "Revision/zealWorkBook/DSA/Basic - Program design strategy.md",
+    "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
+    "Revision/ZealTS/DSA/TEST ID-10 DSA-2.md",
+    "Revision/PYQ/DSA/Hashing.md",
+    "Revision/zealWorkBook/DSA/Dynamic Programming - pyq.md",
     "DialyStuff/2023-11-13.md",
     "DialyStuff/2023-11-12.md",
-    "Revision/PYQ/DS/Greedy Technique.md",
-    "Revision/PYQ/DS/media/Pasted image 20231112200630.png",
-    "Revision/PYQ/DS/media/Pasted image 20231112200209.png",
-    "Revision/PYQ/DS/media/Pasted image 20231112200142.png",
-    "Revision/ShortNotes/DS/Greedy Technique - gateOmedia.md",
-    "Revision/MicroNotes/DSA/Tree MicroNotes.md",
+    "Revision/PYQ/DSA/media/Pasted image 20231112200630.png",
+    "Revision/PYQ/DSA/media/Pasted image 20231112200209.png",
+    "Revision/PYQ/DSA/media/Pasted image 20231112200142.png",
     "Revision/ShortNotes/MATH/LU decomosition.md",
     "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/ZealTS/FULL/media/Pasted image 20231112192630.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231112192624.png",
     "Resh",
     "Revision/ZealTS/FULL/TEST ID 80 MOCK 4.md",
-    "Untitled 1.md",
     "Revision/ShortNotes/MATH",
     "media/Pasted image 20231112191823.png",
     "media/Pasted image 20231112191805.png",
     "media/Pasted image 20231112191748.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231112175749.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231112175727.png",
-    "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
-    "index.md",
-    "Revision/zealWorkBook/DSA/Program design strategy.md",
-    "DialyStuff/2023-11-11.md",
-    "Revision/ShortNotes/DS/Application of Greedy and Dynamic.md",
-    "Revision/ShortNotes/DS/Type of Edges in DFS.md",
-    "Revision/ShortNotes/DS/DAC - GateOmedia.md",
-    "Revision/MicroNotes/DLD/Invalid State in binary code representation.md",
-    "Revision/PYQ/FULL/GATE 2021 SET-2.md",
-    "Revision/MicroNotes/DM/Micro-DM-combinatorics.md",
-    "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
-    "Revision/PYQ/DM/Graph Theory.md",
-    "Revision/ShortNotes/DS/DFS.md",
     "Revision/zealWorkBook/TOC/media",
-    "Revision/ShortNotes/DS/media",
+    "Revision/ShortNotes/DSA/media",
     "Revision/MixQue/DS/Greedy/media",
     "Revision/MixQue/DS/Greedy",
     "Revision/MixQue/DS",
-    "Revision/PYQ/DS/media",
+    "Revision/PYQ/DSA/media",
     "Revision/PYQ/TOC/media",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",

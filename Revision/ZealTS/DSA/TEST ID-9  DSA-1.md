@@ -1,6 +1,6 @@
 ---
 type: ZealTS
-subject: DS
+subject: DSA
 status: Revision
 atQ: 9
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=62514f5e6261be9c3c5454e7&test_id=31

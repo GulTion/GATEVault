@@ -1,6 +1,6 @@
 ---
 type: zealWorkBook
-subject: DS
+subject: DSA
 atQ: 100
 startQ: 1
 endQ: 100

@@ -1,5 +1,5 @@
 ---
-subject: DS
+subject: DSA
 type: PYQ
 status: acquiring
 atQ: 16
