@@ -9,7 +9,7 @@ startQ: 1
 #silly/DSA/huffman_coding priorities of nodes while merging must be ascending order
 
 
-#card/DS/program_design_strategy
+#card/DSA/program_design_strategy
 ![[Pasted image 20231108132101.png]]::NONE ![[Pasted image 20231108132350.png]]![[Pasted image 20231108132133.png]]![[Pasted image 20231108132115.png]] <!--SR:!2023-11-14,4,270-->
 
 ![[Pasted image 20231108133408.png]]::![[Pasted image 20231108133420.png]] <!--SR:!2023-11-14,3,250-->
@@ -24,4 +24,6 @@ startQ: 1
 ![[Pasted image 20231112010717.png]]::B ![[Pasted image 20231112010739.png]]
 
 ![[Pasted image 20231112010934.png]]::C![[Pasted image 20231112010948.png]]
+
+![[Pasted image 20231113154701.png]]::A ![[Pasted image 20231113154715.png]]
 
