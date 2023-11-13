@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+                "file": "Revision/ZealTS/DSA/TEST ID-10 DSA-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+                "file": "Revision/ZealTS/DSA/TEST ID-10 DSA-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+                "file": "Revision/ZealTS/DSA/TEST ID-10 DSA-2.md"
               }
             }
           },
@@ -265,10 +265,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "205469cd8644d530",
+  "active": "31f759611dfc83a9",
   "lastOpenFiles": [
-    "Revision/ZealTS/DSA/TEST ID-10 DSA-2.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/ZealTS/DSA/TEST ID-10 DSA-2.md",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "DialyStuff/2023-11-13.md",
