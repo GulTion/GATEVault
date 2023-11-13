@@ -12,4 +12,15 @@ startQ: 1
 queue implemention from two stack
 ![[Pasted image 20231114015445.png]]::![[Pasted image 20231114015453.png]] ^9f03c5
 
-![[Pasted image 20231114021016.png]]::
+![[Pasted image 20231114021016.png]]::![[Pasted image 20231114021026.png]]
+
+![[Pasted image 20231114021217.png]]![[Pasted image 20231114021202.png]]![[Pasted image 20231114021228.png]]::![[Pasted image 20231114021245.png]]
+
+![[Pasted image 20231114021310.png]]::![[Pasted image 20231114021320.png]]
+
+![[Pasted image 20231114021712.png]]::![[Pasted image 20231114021719.png]]
+
+![[Pasted image 20231114021919.png]]::![[Pasted image 20231114021927.png]]
+
+
+![[Pasted image 20231114022222.png]]::![[Pasted image 20231114022247.png]]![[Pasted image 20231114022258.png]]![[Pasted image 20231114022311.png]]

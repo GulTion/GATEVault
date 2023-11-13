@@ -1,0 +1,1 @@
+{"path":"Revision/ZealTS/DSA/media/Pasted image 20231114021245.png","text":"Solution: While(p—next!= NULL) {a=p; P=p—next; } By this code, p reach at last node, and q reaches at second last node. Head .Ili h i.e., g—next = Null; P-next = heap; heap= p; Answer is D","libVersion":"0.2.3","langs":"eng"}
