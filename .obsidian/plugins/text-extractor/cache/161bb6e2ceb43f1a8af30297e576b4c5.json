@@ -1,0 +1,1 @@
+{"path":"Revision/ZealTS/DSA/media/Pasted image 20231114013530.png","text":"Answer: C Foreachi(1,2,3 ... n),jwill run (logi) times and k will run log n times. So, overall complexity = log n x Y'_; logi = logn X log(n!) = logn X nlogn = n (logn)?. So, correct option is C.","libVersion":"0.2.3","langs":"eng"}

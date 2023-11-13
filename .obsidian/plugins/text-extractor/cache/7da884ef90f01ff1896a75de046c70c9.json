@@ -1,0 +1,1 @@
+{"path":"Revision/ZealTS/DSA/media/Pasted image 20231114014638.png","text":"Suppose we need to sort an array of elements using a comparison-based sorting algorithm. If swapping two elements is an expensive operation, the sorting algorithm we should use would be: (a) Bubble Sort (b) Selection Sort (9) Quicksort (d) MergeSort","libVersion":"0.2.3","langs":"eng"}
