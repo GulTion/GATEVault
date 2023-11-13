@@ -2,9 +2,9 @@
 type: PYQ
 atQ: 9
 startQ: 1
-endQ: 58
+endQ: 23
 subject: DS
-src: file:///host/PROJECTS/padda/site/solutionsadda.in/topic%3Ftp=Hashing.html
+src: https://practicepaper.in/gate-cse/hashing?page_no=1
 status: acquiring
 ---
 #card/DBMS/hashing  

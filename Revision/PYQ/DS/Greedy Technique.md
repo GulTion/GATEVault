@@ -2,7 +2,7 @@
 subject: DS
 type: PYQ
 status: acquiring
-atQ: 2
+atQ: 16
 startQ: 1
 endQ: 16
 src: https://practicepaper.in/gate-cse/greedy-technique
