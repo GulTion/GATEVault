@@ -173,7 +173,9 @@
                 "weight": 10
               }
             },
-            "includeFields": []
+            "includeFields": [
+              "status"
+            ]
           },
           "filter": {
             "conditions": [
