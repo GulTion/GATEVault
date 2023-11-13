@@ -172,7 +172,8 @@
               "MATH": {
                 "weight": 10
               }
-            }
+            },
+            "includeFields": []
           },
           "filter": {
             "conditions": [
@@ -183,10 +184,16 @@
                 "value": "TS"
               },
               {
-                "field": "subject",
+                "field": "status",
                 "operator": "is",
-                "enabled": false,
-                "value": "DM"
+                "enabled": true,
+                "value": "Analysis"
+              },
+              {
+                "field": "type",
+                "operator": "is",
+                "enabled": true,
+                "value": "ZealTS"
               }
             ]
           },

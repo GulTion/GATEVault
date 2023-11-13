@@ -18,6 +18,14 @@
             }
           },
           {
+            "id": "b232d7f48a1b56cc",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
             "id": "308447e5fbc6192a",
             "type": "leaf",
             "state": {
@@ -53,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-13.md",
+                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-13.md",
+                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-13.md"
+                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
               }
             }
           },
@@ -234,11 +241,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "24467b3d16680a7e",
+  "active": "3f7306f686355e20",
   "lastOpenFiles": [
+    "DialyStuff/2023-10-30.md",
+    "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
+    "Revision/ShortNotes/CN/IPV4 HEADER - GateOMedia.md",
+    "Revision/ShortNotes/CN/media/Pasted image 20231113231934.png",
+    "Revision/ShortNotes/CN/media/Pasted image 20231113230809.png",
+    "Revision/ShortNotes/CN/media/Pasted image 20231113230801.png",
+    "Revision/ShortNotes/CN/media/Pasted image 20231113230708.png",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
+    "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2 2022.md",
+    "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
+    "Revision/ZealTS/DSA/TEST ID-12 DSA-4.md",
+    "Revision/ZealTS/TOC/TESTID - 37 TEST-2-2023.md",
+    "DialyStuff/2023-11-13.md",
     "Revision/ZealTS/DSA/TEST ID-10 DSA-2.md",
     "Revision/ZealTS/DSA/TEST ID-11 DSA-3.md",
-    "Revision/ZealTS/DSA/TEST ID-12 DSA-4.md",
     "Revision/ShortNotes/DSA/Dynamic - LCS, Knapsack,.md",
     "Revision/ShortNotes/DSA/media/Pasted image 20231113200916.png",
     "Revision/ShortNotes/DSA/media/Pasted image 20231113183136.png",
@@ -250,29 +270,15 @@
     "Revision/PYQ/DSA/Dynamic Programming - pyq.md",
     "Revision/zealWorkBook/DSA/Basic - Program design strategy.md",
     "Revision/PYQ/DSA/Greedy Technique.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
     "Revision/MixQue/DS/Greedy/Dijkastra Algo - Made Easy.md",
     "Revision/MicroNotes/DSA/Tree MicroNotes.md",
-    "Revision/ShortNotes/DSA/media/Pasted image 20231110075015.png",
     "Revision/ShortNotes/DSA/Stack.md",
     "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
     "Revision/ShortNotes/DSA/Greedy Technique - gateOmedia.md",
     "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
-    "Revision/ShortNotes/DSA/Application of Greedy and Dynamic.md",
-    "Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
-    "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
-    "Revision/PYQ/DSA/Hashing.md",
-    "Revision/zealWorkBook/DSA/Dynamic Programming - pyq.md",
-    "DialyStuff/2023-11-13.md",
-    "DialyStuff/2023-11-12.md",
-    "Revision/PYQ/DSA/media/Pasted image 20231112200630.png",
-    "Revision/PYQ/DSA/media/Pasted image 20231112200209.png",
-    "Revision/PYQ/DSA/media/Pasted image 20231112200142.png",
-    "Revision/ShortNotes/MATH/LU decomosition.md",
-    "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Resh",
     "Revision/ShortNotes/MATH",
     "Revision/zealWorkBook/TOC/media",

@@ -1,7 +1,7 @@
 ---
 type: ZealTS
 subject: DSA
-status: No status
+status: Analysis
 atQ: 0
 src: 
 endQ: 25

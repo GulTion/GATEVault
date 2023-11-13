@@ -2,6 +2,7 @@
 subject: TOC
 type: ZealTS
 atQ: 0
+status: No status
 ---
 #card/TOC 
 
