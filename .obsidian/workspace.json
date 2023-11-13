@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Program design strategy.md",
+                "file": "Revision/ShortNotes/DSA/Dynamic - LCS, Knapsack,.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Program design strategy.md",
+                "file": "Revision/ShortNotes/DSA/Dynamic - LCS, Knapsack,.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Program design strategy.md",
+                "file": "Revision/ShortNotes/DSA/Dynamic - LCS, Knapsack,.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/zealWorkBook/DSA/Program design strategy.md"
+                "file": "Revision/ShortNotes/DSA/Dynamic - LCS, Knapsack,.md"
               }
             }
           },
@@ -235,10 +235,14 @@
   },
   "active": "24467b3d16680a7e",
   "lastOpenFiles": [
+    "Revision/ShortNotes/DSA/media/Pasted image 20231113183136.png",
+    "Revision/ShortNotes/DSA/media/Pasted image 20231113181339.png",
+    "Revision/ShortNotes/DSA/media/Pasted image 20231113180717.png",
+    "Revision/zealWorkBook/DSA/Program design strategy.md",
+    "Revision/ShortNotes/DSA/Dynamic - LCS, Knapsack,.md",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231113154715.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231113154701.png",
     "Revision/PYQ/DSA/Dynamic Programming - pyq.md",
-    "Revision/zealWorkBook/DSA/Program design strategy.md",
     "Revision/zealWorkBook/DSA/Basic - Program design strategy.md",
     "Revision/PYQ/DSA/Greedy Technique.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
@@ -269,11 +273,7 @@
     "Revision/ZealTS/FULL/media/Pasted image 20231112192630.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231112192624.png",
     "Resh",
-    "Revision/ZealTS/FULL/TEST ID 80 MOCK 4.md",
     "Revision/ShortNotes/MATH",
-    "media/Pasted image 20231112191823.png",
-    "media/Pasted image 20231112191805.png",
-    "media/Pasted image 20231112191748.png",
     "Revision/zealWorkBook/TOC/media",
     "Revision/ShortNotes/DSA/media",
     "Revision/MixQue/DS/Greedy/media",
