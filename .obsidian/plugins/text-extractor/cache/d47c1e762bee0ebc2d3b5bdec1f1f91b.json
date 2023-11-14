@@ -1,0 +1,1 @@
+{"path":"Revision/ZealTS/DSA/media/Pasted image 20231114175906.png","text":"Solution: Applying Dijiktras’s shortest path algorithm taking source vertex as S Correct for node A S—»>A=1 S—»>B=5 It will not calculate correct shortest path for node T. Answer: B","libVersion":"0.2.3","langs":"eng"}
