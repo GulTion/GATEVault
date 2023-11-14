@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-14.md",
+                "file": "Revision/PYQ/DBMS/SQL - pyq.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-14.md",
+                "file": "Revision/PYQ/DBMS/SQL - pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-14.md",
+                "file": "Revision/PYQ/DBMS/SQL - pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-14.md"
+                "file": "Revision/PYQ/DBMS/SQL - pyq.md"
               }
             }
           },
@@ -200,13 +200,16 @@
   },
   "active": "8be575efc21522cd",
   "lastOpenFiles": [
+    "Revision/PYQ/DBMS/media/Pasted image 20231114155414.png",
+    "Revision/PYQ/DBMS/media/Pasted image 20231114155332.png",
+    "DialyStuff/2023-11-14.md",
+    "Revision/PYQ/DBMS/SQL - pyq.md",
     "Revision/ShortNotes/OS/Process Syncronization.md",
     "Revision/MicroNotes/APTI/Voca.md",
     "Revision/ShortNotes/CN/DHCP.md",
     "Revision/ShortNotes/COA/I O ShortNotes.md",
     "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
     "Revision/PYQ/DBMS/Relational Algebra - pyq.md",
-    "DialyStuff/2023-11-14.md",
     "Revision/ZealTS/DSA/media/Pasted image 20231114022311.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231114022258.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231114022247.png",
@@ -216,7 +219,6 @@
     "Revision/ZealTS/DSA/media/Pasted image 20231114021719.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231114021712.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231114021602.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231114021320.png",
     "Revision/ZealTS/DSA/TEST ID-11 DSA-3.md",
     "Revision/ShortNotes/DSA/Space Complexity.md",
     "Revision/ZealTS/DSA/TEST ID-10 DSA-2 2022.md",
@@ -235,8 +237,6 @@
     "Revision/ZealTS/TOC/TESTID - 37 TEST-2-2023.md",
     "Revision/ShortNotes/DSA/Dynamic - LCS, Knapsack,.md",
     "Revision/zealWorkBook/DSA/Program design strategy.md",
-    "Revision/zealWorkBook/DSA/Basic - Program design strategy.md",
-    "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Resh",
     "Revision/ShortNotes/MATH",
     "Revision/zealWorkBook/TOC/media",
