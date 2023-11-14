@@ -2,6 +2,9 @@
 type: ShortNotes
 subject: DBMS
 atQ: 0
+sr-due: 2023-11-16
+sr-interval: 2
+sr-ease: 151
 ---
 
 #note 

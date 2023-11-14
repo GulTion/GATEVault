@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "30151a3778f15716",
+        "id": "9c68f204db01fa0c",
         "type": "tabs",
         "children": [
           {
-            "id": "f051410070137a7d",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "e438459cca7f3896",
+            "id": "8be575efc21522cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DialyStuff/2023-11-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df92a5dfda9a305f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-11-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82112095733088f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/ShortNotes/DSA/Space Complexity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,17 +136,15 @@
             }
           },
           {
-            "id": "d82fbf37ee2686ec",
+            "id": "1b3a5d17b7767b65",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "DialyStuff/2023-11-14.md"
-              }
+              "type": "timeline",
+              "state": {}
             }
           },
           {
-            "id": "14ca28b6893474ae",
+            "id": "58294da56553f15d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -189,18 +154,20 @@
             }
           },
           {
-            "id": "db18b448543fea5b",
+            "id": "c749cb49b6563a8c",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "DialyStuff/2023-11-14.md"
+              }
             }
           },
           {
-            "id": "1b3a5d17b7767b65",
+            "id": "7b4197e1aae742a6",
             "type": "leaf",
             "state": {
-              "type": "timeline",
+              "type": "review-queue-list-view",
               "state": {}
             }
           }
@@ -231,8 +198,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e438459cca7f3896",
+  "active": "8be575efc21522cd",
   "lastOpenFiles": [
+    "Revision/ShortNotes/OS/Process Syncronization.md",
+    "Revision/MicroNotes/APTI/Voca.md",
+    "Revision/ShortNotes/CN/DHCP.md",
+    "Revision/ShortNotes/COA/I O ShortNotes.md",
+    "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
+    "Revision/PYQ/DBMS/Relational Algebra - pyq.md",
+    "DialyStuff/2023-11-14.md",
     "Revision/ZealTS/DSA/media/Pasted image 20231114022311.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231114022258.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231114022247.png",
@@ -243,8 +217,6 @@
     "Revision/ZealTS/DSA/media/Pasted image 20231114021712.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231114021602.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231114021320.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231114021310.png",
-    "DialyStuff/2023-11-14.md",
     "Revision/ZealTS/DSA/TEST ID-11 DSA-3.md",
     "Revision/ShortNotes/DSA/Space Complexity.md",
     "Revision/ZealTS/DSA/TEST ID-10 DSA-2 2022.md",
@@ -265,11 +237,6 @@
     "Revision/zealWorkBook/DSA/Program design strategy.md",
     "Revision/zealWorkBook/DSA/Basic - Program design strategy.md",
     "Revision/ZealTS/DSA/TEST ID-9  DSA-1.md",
-    "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
-    "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
-    "Revision/MixQue/DS/Greedy/Dijkastra Algo - Made Easy.md",
-    "Revision/MicroNotes/DSA/Tree MicroNotes.md",
-    "Revision/ShortNotes/DSA/Stack.md",
     "Resh",
     "Revision/ShortNotes/MATH",
     "Revision/zealWorkBook/TOC/media",

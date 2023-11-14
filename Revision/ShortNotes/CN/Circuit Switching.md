@@ -1,6 +1,9 @@
 ---
 subject: CN
 type: ShortNotes
+sr-due: 2023-11-16
+sr-interval: 2
+sr-ease: 150
 ---
 #note
 ## **Switching Techniques-**
@@ -30,7 +33,7 @@ This switching technique operates in the following three phases-
 In this phase,
 
 - A circuit is established between the two ends.
-- Circuit provides a dedicated path for data to travel from one to the other end.
+- Circuit provides a ==dedicated path== for data to travel from one to the other end.
 - Resources are reserved at intermediate switches which are used during the transmission.
 - The intermediate switches are connected by the physical links.
 
@@ -60,26 +63,6 @@ where-
 <mark style="background: #BBFABBA6;">- Propagation delay = (Number of hops on way x Distance between 2 hops) / Propagation speed</mark>
 
 
-## **Advantages-**
-
-Circuit switching has the following advantages-
-
-- A well defined and dedicated path exists for the data to travel.
-- There is no header overhead.
-- There is no waiting time at any switch and the data is transmitted without any delay.
-- Data always reaches the other end in order.
-- No re ordering is required.
-
-## **Disadvantages-**
-
-Circuit switching has the following disadvantages-
-
-- The channel is blocked for two ends only.
-- It is inefficient in terms of utilization of system resources.
-- The time required for establishing the circuit between the two ends is too long.
-- Dedicated channels require more bandwidth.
-- It is more expensive than other switching techniques.
-- Routing decisions can not be changed once the circuit is established.
 
 ## **Important Notes-**
 

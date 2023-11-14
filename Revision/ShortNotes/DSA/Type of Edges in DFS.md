@@ -2,6 +2,9 @@
 subject: DSA
 type: ShortNotes
 status: Revision
+sr-due: 2023-11-15
+sr-interval: 1
+sr-ease: 135
 ---
 #note
 Consider a directed graph given in below, DFS of the below graph is 1 2 4 6 3 5 7 8. In below diagram if [DFS](https://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/) is applied on this graph a tree is obtained which is connected using green edges.

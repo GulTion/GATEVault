@@ -1,6 +1,9 @@
 ---
 type: ShortNotes
 subject: COA
+sr-due: 2023-11-16
+sr-interval: 2
+sr-ease: 150
 ---
 #note
 # connexion of register into system bus.

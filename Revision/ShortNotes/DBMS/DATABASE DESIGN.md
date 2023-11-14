@@ -2,6 +2,9 @@
 subject: DBMS
 type: ShortNotes
 status: acquiring
+sr-due: 2023-11-16
+sr-interval: 2
+sr-ease: 150
 ---
 #note
 ![[Pasted image 20231107134333.png]]

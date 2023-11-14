@@ -2,6 +2,9 @@
 subject: DM
 type: MicroNotes
 atQ: 0
+sr-due: 2023-11-16
+sr-interval: 2
+sr-ease: 179
 ---
 #note
 #card/DM/Set_Theory
@@ -17,25 +20,25 @@ what is **Domain and Codomain of function**::![[Pasted image 20231026131359.png]
 how many **numbers of function are in |A|=m and |B|=n**?::![[Pasted image 20231026131548.png]] <!--SR:!2023-11-28,16,294-->
 
 
-what is one-one function? and some properties
-- possible cardinality of set A and B
-- number of one-one function on |A|=m and |B|=n
-- number of one-one function on |A|= |B|=n
+**what is one-one function? and some properties**
+- **possible cardinality of set A and B**
+- **number of one-one function on |A|=m and |B|=n**
+- **number of one-one function on |A|= |B|=n**
 ?
 ![[Pasted image 20231026131713.png]] <!--SR:!2023-11-15,3,201-->
 
 
-what is definition of Onto function or surjection?
-some properties
--  possible cardinality of set A and B
-- what if |A| = |B| then what's the relation between one-one and onto function
-- number of onto function on |A|= |B|=n
-- number of onto function on |A|=m and |B|=n
+**what is definition of Onto function or surjection?
+some properties**
+-  **possible cardinality of set A and B**
+- **what if |A| = |B| then what's the relation between one-one and onto function**
+- **number of onto function on |A|= |B|=n**
+- **number of onto function on |A|=m and |B|=n**
 ?
 ![[Pasted image 20231026131944.png]] <!--SR:!2023-11-15,3,201-->
 
 
-what is definition of bijection function and number of bijection function when |A|=|B|
+**what is definition of bijection function and number of bijection function when |A|=|B|**
 ?
 ![[Pasted image 20231026132455.png]] <!--SR:!2023-11-06,4,274-->
 
