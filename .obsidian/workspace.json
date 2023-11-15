@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
+                "file": "DialyStuff/2023-11-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,9 +60,55 @@
                 "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
               }
             }
+          },
+          {
+            "id": "5564328e9ef465aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a523fb9c780794ac",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+              }
+            }
+          },
+          {
+            "id": "30b6f183fd0cdbb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ShortNotes/DSA/BFS DFS properties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4365365aa480231",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ShortNotes/DSA/BFS DFS properties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +190,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +206,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +245,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Revision/ShortNotes/DSA/DAC - GateOmedia.md"
-              }
+              "state": {}
             }
           },
           {
@@ -241,30 +283,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "06dd9d3e6a7df493",
+  "active": "911f79c5b14eeae3",
   "lastOpenFiles": [
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md",
+    "Revision/ShortNotes/DSA/BFS DFS properties.md",
+    "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
+    "Revision/PYQ/DM/Graph Theory-pyq.md",
+    "Revision/ShortNotes/DSA/media/Pasted image 20231115120653.png",
+    "Revision/ShortNotes/DSA/media/Pasted image 20231115120642.png",
+    "Revision/ShortNotes/DSA/media/Pasted image 20231115120239.png",
+    "Revision/ShortNotes/DSA/Greedy Technique - gateOmedia.md",
+    "Revision/ShortNotes/DSA/Space Complexity.md",
+    "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
+    "Revision/PYQ/DM/media/Pasted image 20231115115214.png",
+    "Revision/PYQ/DM/media/Pasted image 20231115115151.png",
+    "Revision/PYQ/DM/media/Pasted image 20231115114639.png",
+    "Revision/PYQ/DM/media/Pasted image 20231115114622.png",
+    "Revision/PYQ/DM/media/Pasted image 20231115114016.png",
+    "Revision/PYQ/DM/media/Pasted image 20231115114002.png",
+    "Revision/PYQ/DM/media/Pasted image 20231115113536.png",
+    "DialyStuff/2023-11-15.md",
     "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
     "Revision/ShortNotes/CN/TCP Notes.md",
     "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
-    "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
-    "Revision/ShortNotes/DSA/Space Complexity.md",
     "Revision/ShortNotes/OS/Process Syncronization.md",
     "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/PYQ/DBMS/SQL - pyq.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
     "Revision/ZealTS/DSA/TEST ID-11 DSA-3.md",
     "Revision/ZealTS/DSA/TEST ID-12 DSA-4.md",
-    "Revision/ZealTS/DSA/media/Pasted image 20231114180956.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231114180946.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231114180920.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231114180851.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231114180839.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231114180343.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231114180319.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231114180302.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231114180243.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231114180121.png",
     "DialyStuff/2023-11-14.md",
     "Revision/MicroNotes/APTI/Voca.md",
     "Revision/ShortNotes/CN/DHCP.md",
@@ -273,13 +321,6 @@
     "Revision/ZealTS/DSA/TEST ID-10 DSA-2 2022.md",
     "DialyStuff/2023-11-13.md",
     "Revision/PYQ/DSA/Dynamic Programming - pyq.md",
-    "Revision/PYQ/DSA/Greedy Technique.md",
-    "DialyStuff/2023-10-30.md",
-    "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
-    "Revision/ShortNotes/CN/IPV4 HEADER - GateOMedia.md",
-    "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
-    "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2 2022.md",
-    "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "Resh",
     "Revision/ShortNotes/MATH",
     "Revision/zealWorkBook/TOC/media",

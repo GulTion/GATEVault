@@ -2,7 +2,7 @@
 subject: DM
 type: PYQ
 status: acquiring
-atQ: 5
+atQ: 71
 startQ: 1
 endQ: 108
 src: https://practicepaper.in/gate-cse/graph-theory?page_no=1
@@ -36,4 +36,16 @@ A is correct
 ![[Pasted image 20231111174649.png]]::5![[Pasted image 20231111174711.png]] <!--SR:!2023-11-13,2,164-->
 
 ![[Pasted image 20231111174956.png]]::![[Pasted image 20231111175035.png]]
+
+![[Pasted image 20231115112213.png]]::![[Pasted image 20231115112223.png]]
+
+![[Pasted image 20231115113048.png]]::A https://gateoverflow.in/1537/gate-cse-2013-question-26#a_list
+
+![[Pasted image 20231115113524.png]]::![[Pasted image 20231115113536.png]]
+
+![[Pasted image 20231115114002.png]]::![[Pasted image 20231115114016.png]]
+
+![[Pasted image 20231115114622.png]]::![[Pasted image 20231115114639.png]]
+
+![[Pasted image 20231115115151.png]]::![[Pasted image 20231115115214.png]]
 
