@@ -28,3 +28,6 @@ startQ: 1
 ![[Pasted image 20231110221850.png]]::C ![[Pasted image 20231110222013.png]] <!--SR:!2023-11-14,3,259-->
 
 ![[Pasted image 20231110222047.png]]:: C  visit viswdeep goti coa lecture for virutal memeory around 2013
+
+![[Pasted image 20231115150053.png]]::B ![[Pasted image 20231115150112.png]]
+
