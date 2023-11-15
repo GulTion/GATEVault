@@ -18,6 +18,26 @@
             }
           },
           {
+            "id": "f95aee3e0e63cff5",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "94c279b7cd19be90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/PYQ/DM/Graph Theory-pyq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0436b77857b7b8b2",
             "type": "leaf",
             "state": {
@@ -30,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-15.md",
+                "file": "Revision/PYQ/DM/Graph Theory-pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-15.md",
+                "file": "Revision/PYQ/DM/Graph Theory-pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-15.md"
+                "file": "Revision/PYQ/DM/Graph Theory-pyq.md"
               }
             }
           },
@@ -209,21 +229,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0436b77857b7b8b2",
+  "active": "94c279b7cd19be90",
   "lastOpenFiles": [
+    "Revision/PYQ/DM/media/Pasted image 20231115231105.png",
+    "Revision/PYQ/DM/media/Pasted image 20231115231057.png",
+    "Revision/PYQ/DM/media/Pasted image 20231115225622.png",
+    "Revision/PYQ/DM/media/Pasted image 20231115225603.png",
+    "Revision/PYQ/DM/media/Pasted image 20231115225208.png",
+    "Revision/PYQ/DM/media/Pasted image 20231115225156.png",
+    "Revision/PYQ/DM/media/Pasted image 20231111144309.png",
+    "Revision/PYQ/DM/Graph Theory-pyq.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "DialyStuff/2023-11-15.md",
     "Revision/PYQ/OS/Memory Management - pyq.md",
     "Revision/PYQ/OS/media/Pasted image 20231115155307.png",
     "Revision/PYQ/OS/media/Pasted image 20231115153729.png",
     "Revision/PYQ/OS/media/Pasted image 20231115153711.png",
     "Revision/PYQ/OS/media/Pasted image 20231115153454.png",
-    "Revision/PYQ/OS/media/Pasted image 20231115153430.png",
-    "Revision/PYQ/OS/media/Pasted image 20231115151155.png",
-    "Revision/PYQ/OS/media/Pasted image 20231115151144.png",
-    "Revision/PYQ/OS/media/Pasted image 20231115150707.png",
-    "Revision/PYQ/OS/media/Pasted image 20231115150658.png",
-    "Revision/PYQ/OS/media/Pasted image 20231115150112.png",
-    "DialyStuff/2023-11-15.md",
     "Revision/ShortNotes/CN/Circuit Switching.md",
     "Revision/ShortNotes/DSA/BFS DFS properties.md",
     "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md",
@@ -231,7 +253,6 @@
     "Revision/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
     "Revision/ZealTS/C/TEST ID -8 C-FULL.md",
     "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
-    "Revision/PYQ/DM/Graph Theory-pyq.md",
     "Revision/ShortNotes/DSA/Greedy Technique - gateOmedia.md",
     "Revision/ShortNotes/DSA/Space Complexity.md",
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",

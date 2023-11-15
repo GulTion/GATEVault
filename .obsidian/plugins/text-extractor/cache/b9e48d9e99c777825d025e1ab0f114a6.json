@@ -1,0 +1,1 @@
+{"path":"Revision/PYQ/DM/media/Pasted image 20231115225208.png","text":"I'm gonna disprove all wrong options here: A.d[u] < d[v], Counter Example ==- Well if we directly start DFS on V first, then I call DFS on X' which visits U. B.d[u] < f[v], Counter example = Same as A C. flu] < f[v], Counter example = Same as A again So, answer is D.","libVersion":"0.2.3","langs":"eng"}

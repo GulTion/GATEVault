@@ -40,6 +40,12 @@
       "icon": "battery-low",
       "name": "Spaced Repetition: Review note as hard",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-spaced-repetition:srs-cram-flashcards-in-note",
+      "icon": "album",
+      "name": "Spaced Repetition: Cram flashcards in this note",
+      "mode": "any"
     }
   ],
   "macros": [],

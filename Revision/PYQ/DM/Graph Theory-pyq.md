@@ -21,8 +21,6 @@ A is correct
 
 
 
-#today ![[Pasted image 20231111144309.png]]::![[Pasted image 20231111144431.png]]
-
 ![[Pasted image 20231111144708.png]]::D , clockwise and anticlock-wise r same <!--SR:!2023-11-13,2,164-->
 
 ![[Pasted image 20231111145054.png]]:: A [[Type of Edges in DFS]] <!--SR:!2023-11-14,2,169-->
@@ -37,7 +35,7 @@ A is correct
 
 ![[Pasted image 20231111174956.png]]::![[Pasted image 20231111175035.png]]
 
-![[Pasted image 20231115112213.png]]::![[Pasted image 20231115112223.png]]
+![[Pasted image 20231115112213.png]]::B![[Pasted image 20231115112223.png]]
 
 ![[Pasted image 20231115113048.png]]::A https://gateoverflow.in/1537/gate-cse-2013-question-26#a_list
 
@@ -48,4 +46,12 @@ A is correct
 ![[Pasted image 20231115114622.png]]::![[Pasted image 20231115114639.png]]
 
 ![[Pasted image 20231115115151.png]]::![[Pasted image 20231115115214.png]]
+
+![[Pasted image 20231115225156.png]]::D ![[Pasted image 20231115225208.png]]
+
+![[Pasted image 20231115225603.png]]::![[Pasted image 20231115225622.png]]
+
+![[Pasted image 20231115231057.png]]::B![[Pasted image 20231115231105.png]]
+
+
 
