@@ -19,7 +19,7 @@ src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 
 ![[Pasted image 20231030162817.png]]::A![[Pasted image 20231030162832.png]] <!--SR:!2023-11-13,8,250-->
 
-![[Pasted image 20231030163542.png]]::256![[Pasted image 20231030163555.png]] <!--SR:!2023-11-15,8,270-->
+![[Pasted image 20231030163542.png]]::256![[Pasted image 20231030163555.png]] <!--SR:!2023-12-14,29,290-->
 
 #today ![[Pasted image 20231030163909.png]]:: <!--SR:!2023-11-04,4,270-->
 
@@ -35,9 +35,9 @@ src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 
 #today/week ![[Pasted image 20231101220450.png]]![[Pasted image 20231101220504.png]]![[Pasted image 20231101220527.png]]::A <!--SR:!2023-11-19,13,296-->
 
-![[Pasted image 20231102181314.png]]::C![[Pasted image 20231102181325.png]] <!--SR:!2023-11-15,7,258-->
+![[Pasted image 20231102181314.png]]::C![[Pasted image 20231102181325.png]] <!--SR:!2023-12-11,26,278-->
 
-![[Pasted image 20231102181605.png]]::![[Pasted image 20231102181615.png]] <!--SR:!2023-11-15,7,258-->
+![[Pasted image 20231102181605.png]]::![[Pasted image 20231102181615.png]] <!--SR:!2023-12-13,28,278-->
 
 ![[Pasted image 20231102190240.png]]::C![[Pasted image 20231102190342.png]] <!--SR:!2023-11-17,7,255-->
 

@@ -14,7 +14,7 @@ status: acquiring
 # Slotted Aloha
 ![[Pasted image 20231026142944.png]]::C, this method for first time succeed![[Pasted image 20231026143016.png]] <!--SR:!2023-11-17,17,290-->
 
-![[Pasted image 20231027153956.png]]![[Pasted image 20231027153855.png]]::B![[Pasted image 20231027153905.png]] <!--SR:!2023-11-13,13,270-->
+![[Pasted image 20231027153956.png]]![[Pasted image 20231027153855.png]]::B![[Pasted image 20231027153905.png]] <!--SR:!2023-12-19,34,270-->
 
 
 ![[Pasted image 20231027154001.png]]![[Pasted image 20231027153923.png]]::D![[Pasted image 20231027153938.png]] <!--SR:!2023-11-16,6,250-->
