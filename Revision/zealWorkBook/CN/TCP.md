@@ -16,5 +16,5 @@ status: Revision
 
 - Window Size Calculation #today ![[Pasted image 20230930132716.png]]![[Pasted image 20230930132738.png]]::DO ALL <!--SR:!2023-11-21,14,250-->
 
-congested slow start![[Pasted image 20231013234533.png]]::![[Pasted image 20231013234540.png]] <!--SR:!2023-11-13,12,270-->
+congested slow start![[Pasted image 20231013234533.png]]::![[Pasted image 20231013234540.png]] <!--SR:!2023-12-16,31,270-->
 
