@@ -2,10 +2,10 @@
 subject: DM
 type: PYQ
 status: acquiring
-atQ: 71
+atQ: 81
 startQ: 1
 endQ: 108
-src: https://practicepaper.in/gate-cse/graph-theory?page_no=1
+src: https://practicepaper.in/gate-cse/graph-theory?page_no=17
 ---
 #card/DM/graph_theory 
 
@@ -52,6 +52,10 @@ A is correct
 ![[Pasted image 20231115225603.png]]::![[Pasted image 20231115225622.png]]
 
 ![[Pasted image 20231115231057.png]]::B![[Pasted image 20231115231105.png]]
+
+![[Pasted image 20231115231536.png]]::C ![[Pasted image 20231115231551.png]]
+
+![[Pasted image 20231115231632.png]]:: C ![[Pasted image 20231115231645.png]]
 
 
 
