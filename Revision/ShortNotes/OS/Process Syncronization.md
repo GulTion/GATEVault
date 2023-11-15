@@ -2,6 +2,9 @@
 type: ShortNotes
 subject: OS
 atQ: 0
+sr-due: 2023-11-17
+sr-interval: 2
+sr-ease: 170
 ---
 #note
 #card/OS/process_synchronisation

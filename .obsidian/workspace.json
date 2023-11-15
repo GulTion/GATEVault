@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
+                "file": "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
+                "file": "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
+                "file": "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md"
+                "file": "Revision/ShortNotes/DSA/DAC - GateOmedia.md"
               }
             }
           },
@@ -243,6 +243,13 @@
   },
   "active": "06dd9d3e6a7df493",
   "lastOpenFiles": [
+    "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
+    "Revision/ShortNotes/CN/TCP Notes.md",
+    "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
+    "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
+    "Revision/ShortNotes/DSA/Space Complexity.md",
+    "Revision/ShortNotes/OS/Process Syncronization.md",
+    "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/PYQ/DBMS/SQL - pyq.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
@@ -259,13 +266,10 @@
     "Revision/ZealTS/DSA/media/Pasted image 20231114180243.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231114180121.png",
     "DialyStuff/2023-11-14.md",
-    "Revision/ShortNotes/OS/Process Syncronization.md",
     "Revision/MicroNotes/APTI/Voca.md",
     "Revision/ShortNotes/CN/DHCP.md",
     "Revision/ShortNotes/COA/I O ShortNotes.md",
-    "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
     "Revision/PYQ/DBMS/Relational Algebra - pyq.md",
-    "Revision/ShortNotes/DSA/Space Complexity.md",
     "Revision/ZealTS/DSA/TEST ID-10 DSA-2 2022.md",
     "DialyStuff/2023-11-13.md",
     "Revision/PYQ/DSA/Dynamic Programming - pyq.md",
@@ -276,9 +280,6 @@
     "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
     "Revision/ZealTS/COA/Test ID - 27 CSO Test - 2 2022.md",
     "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
-    "Revision/ZealTS/TOC/TESTID - 37 TEST-2-2023.md",
-    "Revision/ShortNotes/DSA/Dynamic - LCS, Knapsack,.md",
-    "Revision/zealWorkBook/DSA/Program design strategy.md",
     "Resh",
     "Revision/ShortNotes/MATH",
     "Revision/zealWorkBook/TOC/media",

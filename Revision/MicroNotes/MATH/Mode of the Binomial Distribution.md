@@ -4,9 +4,9 @@ subject: MATH
 startQ: 1
 endQ: 95
 atQ: 3
-sr-due: 2023-11-15
-sr-interval: 1
-sr-ease: 130
+sr-due: 2023-11-17
+sr-interval: 2
+sr-ease: 150
 ---
 #note
 
@@ -19,7 +19,7 @@ Let X be a Binomial variate with parameters n and p.
 #### **Case 1**: When (n+1)p is an integer
 
 Let (n + 1) p = k (an integer).  
-In this case, the distribution is bi-modal, the two modal values being X=k and X=k–1.
+In this case, the d*istribution is bi-modal,* the two modal values being **X=k and X=k–1.**
 
 **_Example_**: Suppose n = 9 and p = 0·4, then (n + 1) p = 10 × 0·4 = 4, which is an integer.
 

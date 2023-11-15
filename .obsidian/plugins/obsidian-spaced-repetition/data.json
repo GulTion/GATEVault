@@ -28,7 +28,7 @@
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": true,
-    "autoNextNote": false,
+    "autoNextNote": true,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
     "initiallyExpandAllSubdecksInTree": true,
@@ -39,7 +39,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2023-11-11",
+  "buryDate": "2023-11-15",
   "buryList": [],
   "historyDeck": null
 }
