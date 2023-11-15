@@ -2,8 +2,8 @@
 subject: OS
 type: PYQ
 status: acquiring
-atQ: 49
-src: https://practicepaper.in/gate-cse/memory-management?page_no=8
+atQ: 70
+src: https://practicepaper.in/gate-cse/memory-management?page_no=14
 endQ: 107
 startQ: 1
 ---
@@ -30,4 +30,15 @@ startQ: 1
 ![[Pasted image 20231110222047.png]]:: C  visit viswdeep goti coa lecture for virutal memeory around 2013
 
 ![[Pasted image 20231115150053.png]]::B ![[Pasted image 20231115150112.png]]
+
+![[Pasted image 20231115150658.png]]::![[Pasted image 20231115150707.png]]
+
+
+![[Pasted image 20231115151144.png]]::D ![[Pasted image 20231115151155.png]]
+
+![[Pasted image 20231115153430.png]]::B ![[Pasted image 20231115153454.png]]
+
+![[Pasted image 20231115153711.png]]::C ![[Pasted image 20231115153729.png]]
+
+![[Pasted image 20231115155307.png]]::D go for vishwdeep gothi
 
