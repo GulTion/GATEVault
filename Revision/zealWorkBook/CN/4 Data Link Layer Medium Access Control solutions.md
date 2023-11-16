@@ -48,6 +48,10 @@ status: acquiring
 #today![[Pasted image 20231103203157.png]]::![[Pasted image 20231103203206.png]]
 
 
-# Packet Switching
- <!--SR:!2023-11-08,2,242-->
+# CSMA/CD
+![[Pasted image 20231116175202.png]]::B![[Pasted image 20231116175217.png]]
+
+![[Pasted image 20231116180131.png]]::0.125 ![[Pasted image 20231116180209.png]]![[Pasted image 20231116180225.png]]
+
+![[Pasted image 20231116180316.png]]::![[Pasted image 20231116180209.png]]![[Pasted image 20231116180344.png]]
 
