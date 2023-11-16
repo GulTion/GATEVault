@@ -270,35 +270,48 @@
         {
           "config": {
             "columns": {
-              "No status": {
+              "OS": {
                 "weight": 0
               },
-              "zealWorkBook": {
+              "DM": {
                 "weight": 1
               },
-              "ZealTS": {
+              "DSA": {
                 "weight": 2
               },
-              "ShortNotes": {
+              "COA": {
                 "weight": 3
               },
-              "PYQ": {
+              "CD": {
                 "weight": 4
               },
-              "MixQue": {
+              "DLD": {
                 "weight": 5
               },
-              "MicroNotes": {
+              "APTI": {
                 "weight": 6
               },
-              "MadeEasyTS": {
+              "TOC": {
                 "weight": 7
               },
-              "GOTS": {
+              "MATH": {
                 "weight": 8
+              },
+              "C": {
+                "weight": 9
+              },
+              "DBMS": {
+                "weight": 10
+              },
+              "CN": {
+                "weight": 11
+              },
+              "FULL": {
+                "weight": 12
               }
             },
-            "groupByField": "type"
+            "groupByField": "subject",
+            "includeFields": []
           },
           "filter": {
             "conditions": []
