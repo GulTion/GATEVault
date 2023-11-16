@@ -8,3 +8,7 @@ startQ: 1
 endQ: 40
 ---
 #card/C 
+![[Pasted image 20231116142615.png]]::A, B ![[Pasted image 20231116142629.png]]
+
+![[Pasted image 20231116142700.png]]::D ![[Pasted image 20231116142710.png]]
+

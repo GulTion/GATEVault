@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3cc0673dcf799e5",
+        "id": "b53fba77b0f6eec0",
         "type": "tabs",
         "children": [
           {
-            "id": "b1912e10f6f3627b",
+            "id": "ddd8a4c3bfac8755",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,36 +16,12 @@
             }
           },
           {
-            "id": "5d5d8ba7856f0d9c",
+            "id": "988c5198e3277e26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8eceea139e2ce288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/ShortNotes/CD/Introduction CD notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f154de2a96e80ed6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/ShortNotes/CD/Parser CD notes.md",
+                "file": "Revision/ZealTS/C/TEST ID -8 C-FULL.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-16.md",
+                "file": "Revision/ZealTS/C/TEST ID -8 C-FULL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-16.md",
+                "file": "Revision/ZealTS/C/TEST ID -8 C-FULL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-16.md"
+                "file": "Revision/ZealTS/C/TEST ID -8 C-FULL.md"
               }
             }
           },
@@ -203,14 +179,41 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "79283e221703ce75",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Revision/ZealTS/C/TEST ID -8 C-FULL.md"
+              }
+            }
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "717ab2836a0d2335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb71cc482fffabfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-11-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 445.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,19 +235,25 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5d5d8ba7856f0d9c",
+  "active": "988c5198e3277e26",
   "lastOpenFiles": [
-    "Revision/PYQ/CD/Runtime Environment - pyq.md",
+    "Revision/ZealTS/C/media/Pasted image 20231116142710.png",
+    "Revision/ZealTS/C/media/Pasted image 20231116142700.png",
+    "Revision/ZealTS/C/media/Pasted image 20231116142629.png",
+    "Revision/ZealTS/C/media/Pasted image 20231116142615.png",
     "DialyStuff/2023-11-16.md",
-    "Revision/PYQ/CD",
-    "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
+    "Revision/PYQ/DM/Graph Theory-pyq.md",
+    "DaskBoard Back.md",
+    "DialyStuff/2023-11-17.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ShortNotes/CD/Parser CD notes.md",
     "Revision/ShortNotes/CD/Introduction CD notes.md",
+    "Revision/PYQ/CD/Runtime Environment - pyq.md",
+    "Revision/PYQ/CD",
+    "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
     "DialyStuff/2023-11-15.md",
     "Revision/ZealTS/DBMS/Test 1 DBMS TEST ID 31.md",
     "Revision/ZealTS/DBMS/Test 4 DBMS TEST ID 34.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/PYQ/DM/Graph Theory-pyq.md",
     "Revision/PYQ/DM/media/Pasted image 20231115231645.png",
     "Revision/PYQ/DM/media/Pasted image 20231115231632.png",
     "Revision/PYQ/DM/media/Pasted image 20231115231551.png",
@@ -252,9 +261,6 @@
     "Revision/PYQ/DM/media/Pasted image 20231115231105.png",
     "Revision/PYQ/DM/media/Pasted image 20231115231057.png",
     "Revision/PYQ/DM/media/Pasted image 20231115225622.png",
-    "Revision/PYQ/DM/media/Pasted image 20231115225603.png",
-    "Revision/PYQ/DM/media/Pasted image 20231115225208.png",
-    "Revision/PYQ/DM/media/Pasted image 20231115225156.png",
     "Revision/PYQ/OS/Memory Management - pyq.md",
     "Revision/ShortNotes/CN/Circuit Switching.md",
     "Revision/ShortNotes/DSA/BFS DFS properties.md",
@@ -269,9 +275,6 @@
     "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
     "Revision/ShortNotes/CN/TCP Notes.md",
     "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
-    "Revision/ShortNotes/OS/Process Syncronization.md",
-    "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
-    "Revision/ZealTS/DSA/TEST ID-11 DSA-3.md",
     "Resh",
     "Revision/ShortNotes/MATH",
     "Revision/zealWorkBook/TOC/media",

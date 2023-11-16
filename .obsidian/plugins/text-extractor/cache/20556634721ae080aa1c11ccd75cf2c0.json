@@ -1,0 +1,1 @@
+{"path":"Revision/ZealTS/C/media/Pasted image 20231116142700.png","text":"What is output of following program? #include<stdio.h> void main () { static char *s[] = {\"black\", \"white\", \"yellow\", \"violet\"}; char **ptr[ ] = {s+3, s+2, s+1, s}, ***p; p= ptr; s printf(\"%s\",*--*++p+3); } (a)black (b)ellow (c)violet (d)ck","libVersion":"0.2.3","langs":"eng"}

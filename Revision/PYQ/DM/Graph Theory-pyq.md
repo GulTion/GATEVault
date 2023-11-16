@@ -2,7 +2,7 @@
 subject: DM
 type: PYQ
 status: acquiring
-atQ: 81
+atQ: 83
 startQ: 1
 endQ: 108
 src: https://practicepaper.in/gate-cse/graph-theory?page_no=17
@@ -56,6 +56,5 @@ A is correct
 ![[Pasted image 20231115231536.png]]::C ![[Pasted image 20231115231551.png]]
 
 ![[Pasted image 20231115231632.png]]:: C ![[Pasted image 20231115231645.png]]
-
 
 
