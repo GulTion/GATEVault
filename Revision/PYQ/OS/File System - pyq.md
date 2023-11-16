@@ -2,9 +2,10 @@
 type: PYQ
 subject: OS
 status: acquiring
-startQ: 1
+startQ: 12
 endQ: 12
 atQ: 1
+completed: true
 ---
 #card/OS/FileSystem
 
