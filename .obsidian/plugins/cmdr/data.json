@@ -46,6 +46,12 @@
       "icon": "album",
       "name": "Spaced Repetition: Cram flashcards in this note",
       "mode": "any"
+    },
+    {
+      "id": "file-explorer:reveal-active-file",
+      "icon": "lucide-navigation",
+      "name": "Files: Reveal current file in navigation",
+      "mode": "any"
     }
   ],
   "macros": [],

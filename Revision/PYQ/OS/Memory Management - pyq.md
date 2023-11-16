@@ -2,8 +2,8 @@
 subject: OS
 type: PYQ
 status: acquiring
-atQ: 70
-src: https://practicepaper.in/gate-cse/memory-management?page_no=14
+atQ: 71
+src: https://practicepaper.in/gate-cse/memory-management?page_no=15
 endQ: 107
 startQ: 1
 ---
@@ -41,4 +41,6 @@ startQ: 1
 ![[Pasted image 20231115153711.png]]::C ![[Pasted image 20231115153729.png]]
 
 ![[Pasted image 20231115155307.png]]::D go for vishwdeep gothi
+
+![[Pasted image 20231116221457.png]]::![[Pasted image 20231116221511.png]]
 
