@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/OS/File System - pyq.md",
+                "file": "DialyStuff/2023-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/OS/File System - pyq.md",
+                "file": "DialyStuff/2023-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/OS/File System - pyq.md"
+                "file": "DialyStuff/2023-11-16.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/PYQ/OS/File System - pyq.md"
+                "file": "DialyStuff/2023-11-16.md"
               }
             }
           }
@@ -261,8 +261,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ef261055a89ae9f4",
+  "active": "35e58d47b2cf63d8",
   "lastOpenFiles": [
+    "Revision/PYQ/OS/File System - pyq.md",
+    "Revision/PYQ/OS/media/Pasted image 20231116224458.png",
+    "Revision/PYQ/OS/media/Pasted image 20231116224342.png",
+    "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
+    "Revision/PYQ/OS/media/Pasted image 20231116223613.png",
+    "Revision/PYQ/OS/media/Pasted image 20231116223552.png",
     "Revision/PYQ/OS/media/Pasted image 20231116223017.png",
     "Revision/PYQ/OS/media/Pasted image 20231116222756.png",
     "Revision/PYQ/OS/media/Pasted image 20231116222740.png",
@@ -272,11 +278,6 @@
     "Revision/PYQ/OS/media/Pasted image 20231116221457.png",
     "DialyStuff/2023-11-16.md",
     "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231116182446.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231116182434.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231116182420.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231116182409.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231116180344.png",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "Revision/ZealTS/C/TEST ID -8 C-FULL.md",
     "Revision/PYQ/DM/Graph Theory-pyq.md",
@@ -299,8 +300,6 @@
     "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
     "Revision/ShortNotes/DSA/Greedy Technique - gateOmedia.md",
     "Revision/ShortNotes/DSA/Space Complexity.md",
-    "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
-    "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
     "Resh",
     "Revision/ShortNotes/MATH",
     "Revision/zealWorkBook/TOC/media",

@@ -12,3 +12,6 @@ atQ: 1
 
 ![[Pasted image 20231116223017.png]]::D
 
+![[Pasted image 20231116223552.png]]::99.6 ![[Pasted image 20231116223613.png]]
+
+![[Pasted image 20231116224342.png]]::B
