@@ -14,8 +14,29 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "6e5e540a413fbee8",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c70c7a88ef4de33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5045585632324
+    "width": 370.5045585632324,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -216,8 +238,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ddd8a4c3bfac8755",
+  "active": "6e5e540a413fbee8",
   "lastOpenFiles": [
+    "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "Revision/ZealTS/C/TEST ID -8 C-FULL.md",
     "Revision/ZealTS/C/media/Pasted image 20231116152656.png",
     "Revision/ZealTS/C/media/Pasted image 20231116152644.png",

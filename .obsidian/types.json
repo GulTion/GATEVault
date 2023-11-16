@@ -5,6 +5,7 @@
     "tags": "tags",
     "atQ": "number",
     "sr-interval": "number",
-    "sr-ease": "number"
+    "sr-ease": "number",
+    "completed": "checkbox"
   }
 }

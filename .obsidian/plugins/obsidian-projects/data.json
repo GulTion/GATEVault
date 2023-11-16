@@ -311,10 +311,18 @@
               }
             },
             "groupByField": "subject",
-            "includeFields": []
+            "includeFields": [
+              "completed"
+            ]
           },
           "filter": {
-            "conditions": []
+            "conditions": [
+              {
+                "field": "completed",
+                "operator": "is-empty",
+                "enabled": true
+              }
+            ]
           },
           "colors": {
             "conditions": []
@@ -323,7 +331,7 @@
             "criteria": []
           },
           "id": "3139e979-be22-45e2-95e0-4ba1ddf11abd",
-          "name": "Type",
+          "name": "Multi",
           "type": "board"
         }
       ],
