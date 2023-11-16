@@ -1,0 +1,1 @@
+{"path":"Revision/ZealTS/C/media/Pasted image 20231116152459.png","text":"Answer: (c) Solution: We are trying to modify the string constant -here \"Flower\". This will produce an error, al is also holding the garbage string here The segmentation fault will be produced by the compiler.","libVersion":"0.2.3","langs":"eng"}

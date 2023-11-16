@@ -1,0 +1,1 @@
+{"path":"Revision/ZealTS/C/media/Pasted image 20231116152329.png","text":"What will be output of given C code? #include<stdio.h> #include <stdio.h> int main() { struct node { int x; inty; int z; b struct node s ={ 10, 12, 14 }; struct node *pt = &s; printf(\"%d \\n\",*((int*)pt+1)); return O; b (a)10 (b)12 (c)14 (d)Compilation Errror","libVersion":"0.2.3","langs":"eng"}

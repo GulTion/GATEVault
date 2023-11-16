@@ -12,3 +12,15 @@ endQ: 40
 
 ![[Pasted image 20231116142700.png]]::D ![[Pasted image 20231116142710.png]]
 
+![[Pasted image 20231116152037.png]]::![[Pasted image 20231116152045.png]]
+
+![[Pasted image 20231116152127.png]]::![[Pasted image 20231116152136.png]]
+
+![[Pasted image 20231116152156.png]]::22![[Pasted image 20231116152205.png]]
+
+![[Pasted image 20231116152329.png]]::![[Pasted image 20231116152337.png]]
+
+![[Pasted image 20231116152443.png]]::![[Pasted image 20231116152459.png]]
+
+![[Pasted image 20231116152644.png]]::![[Pasted image 20231116152656.png]]
+

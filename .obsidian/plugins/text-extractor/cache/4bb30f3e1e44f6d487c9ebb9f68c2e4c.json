@@ -1,0 +1,1 @@
+{"path":"Revision/ZealTS/C/media/Pasted image 20231116152644.png","text":"What will be output of following C code? #include<stdio.h> #include <stdio.h> struct zeal { int i; union { int a; int b; Je; o int main() { a.c.a=25; printf(\"%d\\n\", a.c.b); return O; } (a)25 (b)No output (c)Compilation error (d)Run time error","libVersion":"0.2.3","langs":"eng"}
