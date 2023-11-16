@@ -55,3 +55,7 @@ status: acquiring
 
 ![[Pasted image 20231116180316.png]]::![[Pasted image 20231116180209.png]]![[Pasted image 20231116180344.png]]
 
+![[Pasted image 20231116182409.png]]::![[Pasted image 20231116182420.png]]
+
+![[Pasted image 20231116182434.png]]::![[Pasted image 20231116182446.png]]
+
