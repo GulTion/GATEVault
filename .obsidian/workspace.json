@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f050ff7b82f5e525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/PYQ/DLD/Sequential Circuit - pyq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-17.md",
+                "file": "Revision/PYQ/DLD/Sequential Circuit - pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-17.md",
+                "file": "Revision/PYQ/DLD/Sequential Circuit - pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-17.md"
+                "file": "Revision/PYQ/DLD/Sequential Circuit - pyq.md"
               }
             }
           },
@@ -191,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-11-17.md"
+                "file": "Revision/PYQ/DLD/Sequential Circuit - pyq.md"
               }
             }
           }
@@ -200,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5,
-    "collapsed": true
+    "width": 445.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,7 +234,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d3bfc3ab6d21c5a9",
+  "active": "f050ff7b82f5e525",
   "lastOpenFiles": [
     "DialyStuff/2023-11-17.md",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
