@@ -1,0 +1,1 @@
+{"path":"Revision/ZealTS/DBMS/media/Pasted image 20231117230602.png","text":"Suppose relation R(4, B) and S(B, Q) the following tuples: [R] [AB] [BIC] [2]6] [6]3] 614} [2[E] Then the number of tuples in the result of the following SOL query is: SELECT * FROM R FULL OUTER JOIN S;","libVersion":"0.2.3","langs":"eng"}

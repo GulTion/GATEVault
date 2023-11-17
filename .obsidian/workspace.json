@@ -28,6 +28,30 @@
             }
           },
           {
+            "id": "82bc6d028cd0f7d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ZealTS/DBMS/Test 1 DBMS TEST ID 31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b8e5a317c6d0d4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e9ca52a2fcf398ef",
             "type": "leaf",
             "state": {
@@ -65,24 +89,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "56ab5936c9f40b2c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c933111bf2da810c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/PYQ/DM/Graph Theory-pyq.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-18.md",
+                "file": "Revision/ZealTS/DBMS/Test 1 DBMS TEST ID 31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-18.md",
+                "file": "Revision/ZealTS/DBMS/Test 1 DBMS TEST ID 31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-18.md"
+                "file": "Revision/ZealTS/DBMS/Test 1 DBMS TEST ID 31.md"
               }
             }
           },
@@ -233,7 +239,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-11-18.md"
+                "file": "Revision/ZealTS/DBMS/Test 1 DBMS TEST ID 31.md"
               }
             }
           },
@@ -250,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 445.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,12 +280,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e9ca52a2fcf398ef",
+  "active": "82bc6d028cd0f7d4",
   "lastOpenFiles": [
-    "Revision/PYQ/DM/Graph Theory-pyq.md",
-    "Revision/PYQ/DM/media/Pasted image 20231117213515.png",
+    "Revision/ZealTS/DBMS/media/Pasted image 20231117230829.png",
+    "Revision/ZealTS/DBMS/media/Pasted image 20231117230820.png",
+    "Revision/ZealTS/DBMS/media/Pasted image 20231117230730.png",
+    "Revision/ZealTS/DBMS/media/Pasted image 20231117230725.png",
+    "Revision/ZealTS/DBMS/media/Pasted image 20231117230704.png",
+    "Revision/ZealTS/DBMS/media/Pasted image 20231117230656.png",
+    "Revision/ZealTS/DBMS/media/Pasted image 20231117230622.png",
+    "Revision/ZealTS/DBMS/media/Pasted image 20231117230602.png",
+    "Revision/ZealTS/DBMS/media/Pasted image 20231117230322.png",
+    "Revision/ZealTS/DBMS/media/Pasted image 20231117230315.png",
+    "Revision/ZealTS/DBMS/media/Pasted image 20231117230223.png",
+    "Revision/ZealTS/DBMS/media",
+    "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "DialyStuff/2023-11-18.md",
-    "Revision/PYQ/DM/media/Pasted image 20231117213340.png",
+    "Revision/PYQ/DM/Graph Theory-pyq.md",
+    "DialyStuff/2023-11-17.md",
     "Revision/PYQ/DBMS/Normal Forms-pyq.md",
     "Revision/ShortNotes/COA/connexion of register into system bus.md",
     "Revision/ShortNotes/CN/TCP Notes.md",
@@ -289,18 +308,9 @@
     "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
     "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md",
-    "Revision/ShortNotes/TOC/media/Pasted image 20231117210941.png",
     "Revision/zealWorkBook/TOC/34. Check String in TM - zealworkbook.md",
-    "Revision/ShortNotes/TOC/media/Pasted image 20231117194338.png",
-    "Revision/ShortNotes/TOC/media/Pasted image 20231117194147.png",
-    "Revision/ShortNotes/TOC/media/Pasted image 20231117185719.png",
-    "Revision/ShortNotes/TOC/media/Pasted image 20231117185651.png",
-    "Revision/ShortNotes/TOC/media/Pasted image 20231117185529.png",
-    "Revision/ShortNotes/TOC/media/Pasted image 20231117185505.png",
-    "Revision/ShortNotes/TOC/media/Pasted image 20231117185424.png",
     "Revision/ShortNotes/TOC/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "DialyStuff/2023-11-17.md",
     "Rules_at_First.md",
     "Revision/PYQ/DLD/Sequential Circuit - pyq.md",
     "Excalidraw/Drawing 2023-11-17 18.01.33.excalidraw.md",
@@ -312,14 +322,12 @@
     "Revision/PYQ/DLD/Number System - pyq.md",
     "Revision/PYQ/DLD/Combinational Circuit - pyq.md",
     "Revision/ShortNotes/DLD/Boolean Algbrea - ShortNotes.md",
-    "Revision/PYQ/DLD/Boolean Algebra- pyq.md",
     "Revision/ShortNotes/DLD/media",
     "Revision/ShortNotes/DLD",
     "Revision/PYQ/DLD/media",
     "Revision/PYQ/DLD",
     "Revision/PYQ/CD",
     "Resh",
-    "Revision/ShortNotes/MATH",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
