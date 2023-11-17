@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md",
+                "file": "Revision/zealWorkBook/TOC/34. Check String in TM - zealworkbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md",
+                "file": "Revision/zealWorkBook/TOC/34. Check String in TM - zealworkbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md",
+                "file": "Revision/zealWorkBook/TOC/34. Check String in TM - zealworkbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md"
+                "file": "Revision/zealWorkBook/TOC/34. Check String in TM - zealworkbook.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md"
+                "file": "Revision/zealWorkBook/TOC/34. Check String in TM - zealworkbook.md"
               }
             }
           },
@@ -212,6 +212,9 @@
   },
   "active": "d1a1a85454bb1e42",
   "lastOpenFiles": [
+    "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md",
+    "Revision/zealWorkBook/TOC/34. Check String in TM - zealworkbook.md",
+    "Revision/ShortNotes/TOC/media/Pasted image 20231117194338.png",
     "Revision/ShortNotes/TOC/media/Pasted image 20231117194147.png",
     "Revision/ShortNotes/TOC/media/Pasted image 20231117185719.png",
     "Revision/ShortNotes/TOC/media/Pasted image 20231117185651.png",
@@ -223,7 +226,6 @@
     "Revision/ShortNotes/TOC/media/Pasted image 20231117185221.png",
     "Revision/ShortNotes/TOC/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md",
     "DialyStuff/2023-11-17.md",
     "Rules_at_First.md",
     "Revision/PYQ/DLD/Sequential Circuit - pyq.md",
@@ -237,8 +239,6 @@
     "Revision/PYQ/DLD/Combinational Circuit - pyq.md",
     "Revision/ShortNotes/DLD/Boolean Algbrea - ShortNotes.md",
     "Revision/PYQ/DLD/Boolean Algebra- pyq.md",
-    "Revision/ShortNotes/DLD/media/Pasted image 20231117022228.png",
-    "Revision/ShortNotes/DLD/media/Pasted image 20231117022216.png",
     "Revision/ShortNotes/DLD/media",
     "DialyStuff/2023-11-16.md",
     "Revision/ShortNotes/COA/Binary Operation Overflow stuff.md",

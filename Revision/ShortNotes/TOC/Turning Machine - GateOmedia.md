@@ -17,3 +17,5 @@ src: GateOMedia
 
 ![[Pasted image 20231117185719.png]]
 ![[Pasted image 20231117194147.png]]
+![[Pasted image 20231117194338.png]]
+
