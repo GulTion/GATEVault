@@ -28,6 +28,30 @@
             }
           },
           {
+            "id": "26142a45d2b37773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/MicroNotes/DLD/Flip Flops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ff9c13bb7427567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ZealTS/C/TEST ID -8 C-FULL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "82bc6d028cd0f7d4",
             "type": "leaf",
             "state": {
@@ -89,6 +113,35 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "6703c0d7130c30e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29af3b297424a2c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/MicroNotes/DLD/Flip Flops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "395df4bf9e4b7ac9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-18 01.18.14.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/DBMS/Test 1 DBMS TEST ID 31.md",
+                "file": "Excalidraw/Drawing 2023-11-18 01.18.14.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/DBMS/Test 1 DBMS TEST ID 31.md",
+                "file": "Excalidraw/Drawing 2023-11-18 01.18.14.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/DBMS/Test 1 DBMS TEST ID 31.md"
+                "file": "Excalidraw/Drawing 2023-11-18 01.18.14.excalidraw.md"
               }
             }
           },
@@ -239,7 +292,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/ZealTS/DBMS/Test 1 DBMS TEST ID 31.md"
+                "file": "Excalidraw/Drawing 2023-11-18 01.18.14.excalidraw.md"
               }
             }
           },
@@ -252,7 +305,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -280,8 +333,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "82bc6d028cd0f7d4",
+  "active": "395df4bf9e4b7ac9",
   "lastOpenFiles": [
+    "Revision/MicroNotes/DLD/Flip Flops.md",
+    "Revision/ZealTS/C/TEST ID -8 C-FULL.md",
+    "Excalidraw/Drawing 2023-11-18 01.18.14.excalidraw.md",
+    "Excalidraw/media/Pasted Image 20231118012000_309.png",
+    "Excalidraw/media",
+    "Revision/media/Notes Revision/DLD/media/Drawing 2023-11-18 01.18.50.excalidraw.md",
+    "Revision/ShortNotes/DSA/Stack.md",
+    "Revision/ShortNotes/COA/Binary Operation Overflow stuff.md",
+    "Revision/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
+    "Revision/ZealTS/C/TEST ID-7 C-Prog.md",
+    "Revision/ZealTS/DBMS/Test 1 DBMS TEST ID 31.md",
     "Revision/ZealTS/DBMS/media/Pasted image 20231117230829.png",
     "Revision/ZealTS/DBMS/media/Pasted image 20231117230820.png",
     "Revision/ZealTS/DBMS/media/Pasted image 20231117230730.png",
@@ -291,8 +355,6 @@
     "Revision/ZealTS/DBMS/media/Pasted image 20231117230622.png",
     "Revision/ZealTS/DBMS/media/Pasted image 20231117230602.png",
     "Revision/ZealTS/DBMS/media/Pasted image 20231117230322.png",
-    "Revision/ZealTS/DBMS/media/Pasted image 20231117230315.png",
-    "Revision/ZealTS/DBMS/media/Pasted image 20231117230223.png",
     "Revision/ZealTS/DBMS/media",
     "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "DialyStuff/2023-11-18.md",
@@ -312,22 +374,12 @@
     "Revision/ShortNotes/TOC/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Rules_at_First.md",
-    "Revision/PYQ/DLD/Sequential Circuit - pyq.md",
-    "Excalidraw/Drawing 2023-11-17 18.01.33.excalidraw.md",
-    "Excalidraw/abc.md",
-    "Excalidraw/Drawing 2023-11-17 18.00.42.excalidraw.md",
     "Excalidraw",
-    "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
-    "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
-    "Revision/PYQ/DLD/Number System - pyq.md",
-    "Revision/PYQ/DLD/Combinational Circuit - pyq.md",
-    "Revision/ShortNotes/DLD/Boolean Algbrea - ShortNotes.md",
     "Revision/ShortNotes/DLD/media",
     "Revision/ShortNotes/DLD",
     "Revision/PYQ/DLD/media",
     "Revision/PYQ/DLD",
     "Revision/PYQ/CD",
-    "Resh",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
