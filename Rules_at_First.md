@@ -1,6 +1,6 @@
 These are rules that specify which of the following things must be done for the following operations
 
-## Creation
+## Creationd
 - New Note
 	1. Add the `type`, `subject`
 	2. Add the `#note` tag

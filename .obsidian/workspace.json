@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b53fba77b0f6eec0",
+        "id": "768c2e9110f0434f",
         "type": "tabs",
         "children": [
           {
-            "id": "6e5e540a413fbee8",
+            "id": "d1a1a85454bb1e42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3bfc3ab6d21c5a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-11-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f050ff7b82f5e525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/PYQ/DLD/Sequential Circuit - pyq.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f14641709fbf358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-11-17.md",
+                "file": "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-17.md",
+                "file": "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-17.md",
+                "file": "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-17.md"
+                "file": "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md"
               }
             }
           },
@@ -206,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-11-17.md"
+                "file": "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md"
               }
             }
           },
@@ -223,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 445.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,12 +210,27 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8f14641709fbf358",
+  "active": "d1a1a85454bb1e42",
   "lastOpenFiles": [
+    "Revision/ShortNotes/TOC/media/Pasted image 20231117194147.png",
+    "Revision/ShortNotes/TOC/media/Pasted image 20231117185719.png",
+    "Revision/ShortNotes/TOC/media/Pasted image 20231117185651.png",
+    "Revision/ShortNotes/TOC/media/Pasted image 20231117185529.png",
+    "Revision/ShortNotes/TOC/media/Pasted image 20231117185505.png",
+    "Revision/ShortNotes/TOC/media/Pasted image 20231117185424.png",
+    "Revision/ShortNotes/TOC/media/Pasted image 20231117185348.png",
+    "Revision/ShortNotes/TOC/media/Pasted image 20231117185324.png",
+    "Revision/ShortNotes/TOC/media/Pasted image 20231117185221.png",
+    "Revision/ShortNotes/TOC/media",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md",
+    "DialyStuff/2023-11-17.md",
+    "Rules_at_First.md",
     "Revision/PYQ/DLD/Sequential Circuit - pyq.md",
+    "Excalidraw/Drawing 2023-11-17 18.01.33.excalidraw.md",
+    "Excalidraw/abc.md",
     "Excalidraw/Drawing 2023-11-17 18.00.42.excalidraw.md",
     "Excalidraw",
-    "DialyStuff/2023-11-17.md",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
     "Revision/PYQ/DLD/Number System - pyq.md",
@@ -260,18 +239,10 @@
     "Revision/PYQ/DLD/Boolean Algebra- pyq.md",
     "Revision/ShortNotes/DLD/media/Pasted image 20231117022228.png",
     "Revision/ShortNotes/DLD/media/Pasted image 20231117022216.png",
-    "Revision/ShortNotes/DLD/media/Pasted image 20231117021905.png",
     "Revision/ShortNotes/DLD/media",
-    "Revision/PYQ/DLD/media/Pasted image 20231117021604.png",
-    "Revision/PYQ/DLD/media/Pasted image 20231117021021.png",
     "DialyStuff/2023-11-16.md",
     "Revision/ShortNotes/COA/Binary Operation Overflow stuff.md",
     "Revision/ShortNotes/DLD",
-    "Revision/PYQ/DLD/media/Pasted image 20231117010839.png",
-    "Revision/PYQ/DLD/media/Pasted image 20231117010828.png",
-    "Revision/PYQ/DLD/media/Pasted image 20231117005620.png",
-    "Revision/PYQ/DLD/media/Pasted image 20231117005602.png",
-    "Revision/PYQ/DLD/media/Pasted image 20231117005331.png",
     "Revision/PYQ/DLD/media",
     "Revision/PYQ/DLD",
     "Revision/PYQ/OS/File System - pyq.md",
@@ -280,20 +251,13 @@
     "Revision/ZealTS/C/TEST ID -8 C-FULL.md",
     "Revision/PYQ/DM/Graph Theory-pyq.md",
     "DaskBoard Back.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/ShortNotes/CD/Parser CD notes.md",
     "Revision/ShortNotes/CD/Introduction CD notes.md",
     "Revision/PYQ/CD/Runtime Environment - pyq.md",
     "Revision/PYQ/CD",
     "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
-    "DialyStuff/2023-11-15.md",
-    "Revision/ZealTS/DBMS/Test 1 DBMS TEST ID 31.md",
-    "Revision/ZealTS/DBMS/Test 4 DBMS TEST ID 34.md",
-    "Revision/ShortNotes/CN/Circuit Switching.md",
-    "Revision/ShortNotes/DSA/BFS DFS properties.md",
     "Resh",
     "Revision/ShortNotes/MATH",
-    "Revision/zealWorkBook/TOC/media",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",

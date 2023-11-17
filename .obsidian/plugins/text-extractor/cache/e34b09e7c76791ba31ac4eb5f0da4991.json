@@ -1,0 +1,1 @@
+{"path":"Revision/ShortNotes/TOC/media/Pasted image 20231117194147.png","text":"Note : e If problem p is decidable then p is also decidable. e If problem p is Undecidable then p is also UD. e If problem p is RE but not recursive then p is not RE. e If problem p is not RE then p is either “Not RE” or “RE but not Recursive”.","libVersion":"0.2.3","langs":"eng"}
