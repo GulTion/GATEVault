@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f14641709fbf358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-11-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5045585632324,
-    "collapsed": true
+    "width": 370.5045585632324
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -127,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/DLD/Sequential Circuit - pyq.md",
+                "file": "DialyStuff/2023-11-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/DLD/Sequential Circuit - pyq.md",
+                "file": "DialyStuff/2023-11-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,16 +196,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/DLD/Sequential Circuit - pyq.md"
+                "file": "DialyStuff/2023-11-17.md"
               }
-            }
-          },
-          {
-            "id": "7b4197e1aae742a6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
             }
           },
           {
@@ -203,12 +206,20 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/PYQ/DLD/Sequential Circuit - pyq.md"
+                "file": "DialyStuff/2023-11-17.md"
               }
+            }
+          },
+          {
+            "id": "340151c735ec6c5a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -225,17 +236,21 @@
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-projects:Open projects": false,
       "obsidian-day-planner:Timeline": false,
       "dbfolder:Create a new database table": false,
       "obsidian-trash-explorer:Open trash explorer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-projects:Open projects": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f050ff7b82f5e525",
+  "active": "8f14641709fbf358",
   "lastOpenFiles": [
+    "Revision/PYQ/DLD/Sequential Circuit - pyq.md",
+    "Excalidraw/Drawing 2023-11-17 18.00.42.excalidraw.md",
+    "Excalidraw",
     "DialyStuff/2023-11-17.md",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
@@ -258,7 +273,6 @@
     "Revision/PYQ/DLD/media/Pasted image 20231117005602.png",
     "Revision/PYQ/DLD/media/Pasted image 20231117005331.png",
     "Revision/PYQ/DLD/media",
-    "Revision/PYQ/DLD/Sequential Circuit - pyq.md",
     "Revision/PYQ/DLD",
     "Revision/PYQ/OS/File System - pyq.md",
     "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
@@ -280,7 +294,6 @@
     "Resh",
     "Revision/ShortNotes/MATH",
     "Revision/zealWorkBook/TOC/media",
-    "Revision/ShortNotes/DSA/media",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
