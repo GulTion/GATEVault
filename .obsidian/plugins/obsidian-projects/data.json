@@ -239,7 +239,10 @@
         },
         {
           "config": {
-            "groupByField": "subject"
+            "groupByField": "subject",
+            "includeFields": [
+              "type"
+            ]
           },
           "filter": {
             "conditions": [

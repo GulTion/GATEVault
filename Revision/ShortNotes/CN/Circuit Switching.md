@@ -1,9 +1,9 @@
 ---
 subject: CN
 type: ShortNotes
-sr-due: 2023-11-16
-sr-interval: 2
-sr-ease: 150
+sr-due: 2023-11-24
+sr-interval: 7
+sr-ease: 170
 ---
 #note
 ## **Switching Techniques-**
@@ -30,9 +30,7 @@ This switching technique operates in the following three phases-
 
 ### **1. Establishing A Circuit-**
 
-In this phase,
 
-- A circuit is established between the two ends.
 - Circuit provides a ==dedicated path== for data to travel from one to the other end.
 - Resources are reserved at intermediate switches which are used during the transmission.
 - The intermediate switches are connected by the physical links.
@@ -59,8 +57,9 @@ After the data transfer is completed,
 
 where-
 
-- Transmission delay = Message size / Bandwidth
-<mark style="background: #BBFABBA6;">- Propagation delay = (Number of hops on way x Distance between 2 hops) / Propagation speed</mark>
+
+- Transmission delay  (Td)= Message size(L) / Bandwidth(B)
+<mark style="background: #BBFABBA6;">- Propagation delay(Tp) = (Number of hops on way(X) x Distance between 2 hops)(D) / Propagation speed(V)</mark>
 
 
 

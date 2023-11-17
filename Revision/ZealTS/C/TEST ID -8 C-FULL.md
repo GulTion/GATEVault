@@ -16,11 +16,11 @@ endQ: 40
 
 ![[Pasted image 20231116152127.png]]::![[Pasted image 20231116152136.png]]
 
-![[Pasted image 20231116152156.png]]::22![[Pasted image 20231116152205.png]]
+![[Pasted image 20231116152156.png]]::22![[Pasted image 20231116152205.png]] <!--SR:!2023-11-19,2,150-->
 
 ![[Pasted image 20231116152329.png]]::![[Pasted image 20231116152337.png]]
 
 ![[Pasted image 20231116152443.png]]::![[Pasted image 20231116152459.png]]
 
-![[Pasted image 20231116152644.png]]::![[Pasted image 20231116152656.png]]
+![[Pasted image 20231116152644.png]]::![[Pasted image 20231116152656.png]] <!--SR:!2023-11-19,2,150-->
 

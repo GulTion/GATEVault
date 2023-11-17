@@ -1,11 +1,13 @@
 ---
 subject: DSA
 type: ShortNotes
-sr-due: 2023-11-17
-sr-interval: 2
-sr-ease: 150
+sr-due: 2023-11-21
+sr-interval: 4
+sr-ease: 170
 ---
 #note
+
+#notes/DSA/DAC
 ![[Pasted image 20231111231111.png]]
 
 #notes/ALGO/Divide_And_Conquer/Merge_Algo/Comparisons 

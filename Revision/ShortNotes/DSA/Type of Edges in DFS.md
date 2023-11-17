@@ -2,12 +2,12 @@
 subject: DSA
 type: ShortNotes
 status: Revision
-sr-due: 2023-11-17
-sr-interval: 2
-sr-ease: 155
+sr-due: 2023-11-22
+sr-interval: 5
+sr-ease: 175
 ---
 #note
-Consider a directed graph given in below, DFS of the below graph is 1 2 4 6 3 5 7 8. In below diagram if [DFS](https://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/) is applied on this graph a tree is obtained which is connected using green edges.
+
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/Untitled-drawing-2-4.jpg)
 

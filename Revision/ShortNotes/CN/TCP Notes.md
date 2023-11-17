@@ -1,9 +1,9 @@
 ---
 type: ShortNotes
 subject: CN
-sr-due: 2023-11-17
-sr-interval: 2
-sr-ease: 168
+sr-due: 2023-11-23
+sr-interval: 6
+sr-ease: 188
 ---
 #note
 #card/CN/Transport_Layer 

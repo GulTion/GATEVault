@@ -57,4 +57,8 @@ A is correct
 
 ![[Pasted image 20231115231632.png]]:: C ![[Pasted image 20231115231645.png]]
 
+sink graph part 2
+![[Pasted image 20231117213340.png]]::https://gateoverflow.in/3857/gate-it-2005-question-84b ^fc913d
 
+sink part 1
+![[Pasted image 20231117213515.png]]::https://gateoverflow.in/3856/gate-it-2005-question-84a ^e572e7

@@ -19,3 +19,4 @@ src: GateOMedia
 ![[Pasted image 20231117194147.png]]
 ![[Pasted image 20231117194338.png]]
 
+![[Pasted image 20231117210941.png]]
