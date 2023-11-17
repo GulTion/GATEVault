@@ -17,5 +17,6 @@ Ans: **3**
 PI: *include Don't_Care and treated as 1*
 EPI: *Don't include  Don't_Care and Treated as 0*
 
+
 ![[Pasted image 20231117005602.png]]::D ![[Pasted image 20231117005620.png]]
 

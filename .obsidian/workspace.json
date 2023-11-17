@@ -8,35 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddd8a4c3bfac8755",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "6e5e540a413fbee8",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "35e58d47b2cf63d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-11-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a08eeba4d933c156",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,43 +20,19 @@
             }
           },
           {
-            "id": "78d56472665ac708",
+            "id": "d3bfc3ab6d21c5a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/DLD/Number System - pyq.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a1aaf1b4065abe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c70c7a88ef4de33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
+                "file": "DialyStuff/2023-11-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/DLD/Number System - pyq.md",
+                "file": "DialyStuff/2023-11-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/DLD/Number System - pyq.md",
+                "file": "DialyStuff/2023-11-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/DLD/Number System - pyq.md"
+                "file": "DialyStuff/2023-11-17.md"
               }
             }
           },
@@ -242,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/PYQ/DLD/Number System - pyq.md"
+                "file": "DialyStuff/2023-11-17.md"
               }
             }
           }
@@ -273,34 +221,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "78d56472665ac708",
+  "active": "d3bfc3ab6d21c5a9",
   "lastOpenFiles": [
-    "Revision/ShortNotes/COA/Binary Operation Overflow stuff.md",
-    "Revision/ShortNotes/DLD/Boolean Algbrea - ShortNotes.md",
-    "Revision/PYQ/DLD/Number System - pyq.md",
     "DialyStuff/2023-11-17.md",
+    "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
+    "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
+    "Revision/PYQ/DLD/Number System - pyq.md",
+    "Revision/PYQ/DLD/Combinational Circuit - pyq.md",
+    "Revision/ShortNotes/DLD/Boolean Algbrea - ShortNotes.md",
+    "Revision/PYQ/DLD/Boolean Algebra- pyq.md",
+    "Revision/ShortNotes/DLD/media/Pasted image 20231117022228.png",
+    "Revision/ShortNotes/DLD/media/Pasted image 20231117022216.png",
+    "Revision/ShortNotes/DLD/media/Pasted image 20231117021905.png",
+    "Revision/ShortNotes/DLD/media",
+    "Revision/PYQ/DLD/media/Pasted image 20231117021604.png",
+    "Revision/PYQ/DLD/media/Pasted image 20231117021021.png",
+    "DialyStuff/2023-11-16.md",
+    "Revision/ShortNotes/COA/Binary Operation Overflow stuff.md",
     "Revision/ShortNotes/DLD",
     "Revision/PYQ/DLD/media/Pasted image 20231117010839.png",
     "Revision/PYQ/DLD/media/Pasted image 20231117010828.png",
-    "Revision/PYQ/DLD/Boolean Algebra- pyq.md",
     "Revision/PYQ/DLD/media/Pasted image 20231117005620.png",
     "Revision/PYQ/DLD/media/Pasted image 20231117005602.png",
     "Revision/PYQ/DLD/media/Pasted image 20231117005331.png",
-    "DialyStuff/2023-11-16.md",
-    "Revision/PYQ/DLD/media/Pasted image 20231117003133.png",
-    "Revision/PYQ/DLD/media/Pasted image 20231117003118.png",
     "Revision/PYQ/DLD/media",
-    "Revision/PYQ/DLD/Combinational Circuit - pyq.md",
     "Revision/PYQ/DLD/Sequential Circuit - pyq.md",
     "Revision/PYQ/DLD",
     "Revision/PYQ/OS/File System - pyq.md",
-    "Revision/PYQ/OS/media/Pasted image 20231116224458.png",
-    "Revision/PYQ/OS/media/Pasted image 20231116224342.png",
     "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
-    "Revision/PYQ/OS/media/Pasted image 20231116223613.png",
     "Revision/PYQ/OS/Memory Management - pyq.md",
-    "Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
-    "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "Revision/ZealTS/C/TEST ID -8 C-FULL.md",
     "Revision/PYQ/DM/Graph Theory-pyq.md",
     "DaskBoard Back.md",
@@ -315,12 +264,10 @@
     "Revision/ZealTS/DBMS/Test 4 DBMS TEST ID 34.md",
     "Revision/ShortNotes/CN/Circuit Switching.md",
     "Revision/ShortNotes/DSA/BFS DFS properties.md",
-    "Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md",
     "Resh",
     "Revision/ShortNotes/MATH",
     "Revision/zealWorkBook/TOC/media",
     "Revision/ShortNotes/DSA/media",
-    "Revision/MixQue/DS/Greedy/media",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
