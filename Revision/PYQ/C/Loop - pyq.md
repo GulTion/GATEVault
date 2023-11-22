@@ -2,6 +2,10 @@
 type: PYQ
 subject: C
 status: acquiring
+startQ: 1
+endQ: 14
+atQ: 4
+src: https://practicepaper.in/gate-cse/loop?page_no=1
 ---
 #card/C/Loops
 

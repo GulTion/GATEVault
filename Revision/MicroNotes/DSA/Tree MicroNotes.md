@@ -13,7 +13,7 @@ what is **height of tree** defination:::no. of edges in the path from node to it
 
 what is relation between child nodes to internal nodes formula::![[Pasted image 20231024110727.png]] <!--SR:!2024-01-27,68,310-->
 
-(in heaf tree, index start from 0) what is location of parent if location of child is given at **i**::![[Pasted image 20231024110918.png]] <!--SR:!2023-11-21,14,250-->
+(in heaf tree, index start from 0) what is location of parent if location of child is given at **i**::![[Pasted image 20231024110918.png]] <!--SR:!2024-01-09,48,270-->
 
 (in heaf tree, index start from 0) what is location of left child and right child if location of parent is given at **i**::![[Pasted image 20231024111035.png]] <!--SR:!2023-12-07,17,270-->
 

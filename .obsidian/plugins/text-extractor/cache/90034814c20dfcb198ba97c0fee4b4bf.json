@@ -1,0 +1,1 @@
+{"path":"Revision/ZealTS/FULL/media/Pasted image 20231122163842.png","text":"An asynchronous frequency divider/counter uses a clock which runs at SMHz. If your JK flip flops have a propagation delay of 21 nsec, how many bits (at most) can the counter have before it's counting becomes invalid due to errors from the delays?","libVersion":"0.2.3","langs":"eng"}

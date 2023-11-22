@@ -187,14 +187,14 @@
               },
               {
                 "field": "status",
-                "operator": "is-not",
+                "operator": "is",
                 "enabled": true,
                 "value": "Analysis"
               },
               {
                 "field": "status",
                 "operator": "is-not",
-                "enabled": true,
+                "enabled": false,
                 "value": "Revision"
               }
             ]
