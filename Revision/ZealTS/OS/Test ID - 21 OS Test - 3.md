@@ -20,4 +20,6 @@ endQ: 25
 
 ![[Pasted image 20231122142709.png]]::![[Pasted image 20231122142714.png]]
 
+![[Pasted image 20231122150657.png]]::![[Pasted image 20231122150706.png]]
+
 

@@ -11,37 +11,26 @@
             "id": "bb1ab12421f5b991",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/ZealTS/OS/Test ID - 21 OS Test - 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fccb1878333ad7f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/PracticeSet/Pigeon Hole Principle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad7686f5e4db797c",
-            "type": "leaf",
-            "state": {
               "type": "pdf",
               "state": {
                 "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
               }
             }
+          },
+          {
+            "id": "b460d5ac98b83ffb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/PYQ/C/Loop.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/OS/Test ID - 21 OS Test - 3.md",
+                "file": "Revision/PYQ/C/Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/OS/Test ID - 21 OS Test - 3.md",
+                "file": "Revision/PYQ/C/Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/OS/Test ID - 21 OS Test - 3.md"
+                "file": "Revision/PYQ/C/Loop.md"
               }
             }
           },
@@ -183,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/ZealTS/OS/Test ID - 21 OS Test - 3.md"
+                "file": "Revision/PYQ/C/Loop.md"
               }
             }
           },
@@ -211,7 +200,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -238,25 +228,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb1ab12421f5b991",
+  "active": "b460d5ac98b83ffb",
   "lastOpenFiles": [
-    "Revision/ZealTS/OS/media/Pasted image 20231122142714.png",
-    "Revision/ZealTS/OS/media/Pasted image 20231122142709.png",
-    "Revision/ZealTS/OS/media/Pasted image 20231122142513.png",
-    "Revision/ZealTS/OS/media/Pasted image 20231122142506.png",
-    "Revision/ZealTS/OS/media/Pasted image 20231122142309.png",
-    "Revision/ZealTS/OS/media/Pasted image 20231122142304.png",
-    "Revision/ZealTS/OS/media/Pasted image 20231122141939.png",
-    "Revision/ZealTS/OS/media/Pasted image 20231122141931.png",
-    "Revision/ZealTS/OS/media/Pasted image 20231122141922.png",
-    "Revision/ZealTS/OS/media/Pasted image 20231122141918.png",
-    "Revision/ZealTS/OS/media/Pasted image 20231122141906.png",
+    "Revision/PYQ/C/media/Pasted image 20231122155457.png",
+    "Revision/PYQ/C/media/Pasted image 20231122155157.png",
+    "Revision/PYQ/C/media/Pasted image 20231122155142.png",
+    "Revision/PYQ/C/media/Pasted image 20231122154653.png",
+    "Revision/PYQ/C/Conditional Statement.md",
+    "Revision/PYQ/C/Loop.md",
+    "Revision/PYQ/C/Arithmetic Operation.md",
+    "Revision/PYQ/C/media/Pasted image 20231122154019.png",
+    "Revision/PYQ/C/media/Pasted image 20231122153539.png",
+    "Revision/PYQ/C/Full C.md",
+    "Revision/PYQ/C/media/Pasted image 20231122152600.png",
+    "Revision/PYQ/C/media/Pasted image 20231122152544.png",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "DialyStuff/2023-11-22.md",
+    "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "Revision/ZealTS/OS/Test ID - 19 OS Test - 1.md",
     "Revision/ZealTS/OS/Test ID - 21 OS Test - 3.md",
-    "Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md",
-    "DialyStuff/2023-11-22.md",
     "Revision/PracticeSet/Pigeon Hole Principle.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/ZealTS/OS/media/Pasted image 20231122150706.png",
+    "Revision/ZealTS/OS/media/Pasted image 20231122150657.png",
+    "Revision/ZealTS/OS/media/Pasted image 20231122142714.png",
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/PracticeSet/media",
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
@@ -275,10 +269,6 @@
     "Revision/ShortNotes/CN/IPV4 HEADER - GateOMedia.md",
     "Revision/ZealTS/FULL/MOCK 1 2023.md",
     "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
-    "Revision/MicroNotes/COA/Disk Memory in Input output.md",
-    "Binary Operation Overflow stuff.md",
-    "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
-    "Revision/ShortNotes/DBMS/DATABASE DESIGN.md",
     "Revision/MadeEasyTS/MATH/media",
     "Revision/MadeEasyTS/MATH",
     "media/media/Recording 20231006112015.webm",
