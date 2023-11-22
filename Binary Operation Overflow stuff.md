@@ -1,9 +1,9 @@
 ---
 subject: COA
 type: ShortNotes
-sr-due: 2023-11-20
-sr-interval: 2
-sr-ease: 150
+sr-due: 2023-11-28
+sr-interval: 7
+sr-ease: 170
 ---
 #note
 - addition of 2’s complemnet , when will be overflow

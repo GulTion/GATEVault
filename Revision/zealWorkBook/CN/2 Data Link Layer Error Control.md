@@ -17,5 +17,5 @@ CRC property![[Pasted image 20231010125524.png]]
 - **Answer is (A)&(B)** <!--SR:!2023-12-07,27,250-->
 
 
-![[Pasted image 20231010131314.png]]::![[Pasted image 20231010131341.png]] <!--SR:!2023-11-18,9,230-->
+![[Pasted image 20231010131314.png]]::![[Pasted image 20231010131341.png]] <!--SR:!2023-12-19,28,250-->
 

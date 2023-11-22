@@ -187,15 +187,15 @@
               },
               {
                 "field": "status",
-                "operator": "is",
+                "operator": "is-not",
                 "enabled": true,
                 "value": "Analysis"
               },
               {
-                "field": "type",
-                "operator": "is",
+                "field": "status",
+                "operator": "is-not",
                 "enabled": true,
-                "value": "ZealTS"
+                "value": "Revision"
               }
             ]
           },
@@ -315,7 +315,8 @@
             },
             "groupByField": "subject",
             "includeFields": [
-              "completed"
+              "completed",
+              "status"
             ]
           },
           "filter": {
@@ -324,6 +325,12 @@
                 "field": "completed",
                 "operator": "is-empty",
                 "enabled": true
+              },
+              {
+                "field": "type",
+                "operator": "is",
+                "enabled": true,
+                "value": "PYQ"
               }
             ]
           },

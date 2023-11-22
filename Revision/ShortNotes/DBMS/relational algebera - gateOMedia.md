@@ -2,9 +2,9 @@
 type: ShortNotes
 subject: DBMS
 atQ: 0
-sr-due: 2023-11-16
-sr-interval: 2
-sr-ease: 151
+sr-due: 2023-12-04
+sr-interval: 14
+sr-ease: 171
 ---
 
 #note 
@@ -19,5 +19,5 @@ sr-ease: 151
 ![[Pasted image 20231110154504.png]] ^9610d5
 
 #notes/DBMS/Relation_Algebra/Cardinality_Table
-![[Pasted image 20231110160031.png]]
+![[Drawing 2023-11-20 00.28.49.excalidraw|center|1000]]
 

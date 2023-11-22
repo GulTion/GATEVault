@@ -1,7 +1,10 @@
-# [[TimeTable]]
-
-# Useful link
-1. [Test Series](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/)
-2. [PYQ - TopicWise - Practice Paper](https://practicepaper.in/gate-cse/topic-wise-practice-of-gate-cse-previous-year-papers)
-
-![[Pasted image 20231101104143.png]]
+# Must be Done Subject By Subject
+## CD
+- go through practice
+	- zeal topics
+		- LL
+		- LR
+		- SLR
+		- CLR
+		- LALR
+		

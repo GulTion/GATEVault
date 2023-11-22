@@ -2,9 +2,9 @@
 type: MicroNotes
 subject: COA
 atQ: 0
-sr-due: 2023-11-16
-sr-interval: 2
-sr-ease: 150
+sr-due: 2023-12-03
+sr-interval: 13
+sr-ease: 170
 ---
 #note
 - **n's complement of number X**
@@ -17,7 +17,7 @@ sr-ease: 150
 		432 = Z
 	3. add 1 in Z then u will get **n's complement**
 
-- **self complementry**
+- #imp **self complementry**
 	- rule: ==add all value of MSB to LSB==
 		- e.g.: 8421 BCD code = 8+4+2+1 = 15
 		  this is not equal to 9 so not self complement

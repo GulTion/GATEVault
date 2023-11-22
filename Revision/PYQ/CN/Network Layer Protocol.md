@@ -28,10 +28,10 @@ src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 #today ![[Pasted image 20231031163646.png]]![[Pasted image 20231031163659.png]]::https://gateoverflow.in/2160/gate-cse-2011-question-52#a_list
 
 
-![[Pasted image 20231031170020.png]]::C![[Pasted image 20231031170044.png]] <!--SR:!2023-11-18,13,274-->
+![[Pasted image 20231031170020.png]]::C![[Pasted image 20231031170044.png]] <!--SR:!2024-01-12,52,294-->
 
 
-![[Pasted image 20231031170132.png]]::D <!--SR:!2023-11-17,12,274-->
+![[Pasted image 20231031170132.png]]::D <!--SR:!2024-01-05,45,294-->
 
 #today/week ![[Pasted image 20231101220450.png]]![[Pasted image 20231101220504.png]]![[Pasted image 20231101220527.png]]::A <!--SR:!2023-11-19,13,296-->
 
@@ -39,11 +39,11 @@ src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 
 ![[Pasted image 20231102181605.png]]::![[Pasted image 20231102181615.png]] <!--SR:!2023-12-13,28,278-->
 
-![[Pasted image 20231102190240.png]]::C![[Pasted image 20231102190342.png]] <!--SR:!2023-11-17,7,255-->
+![[Pasted image 20231102190240.png]]::C![[Pasted image 20231102190342.png]] <!--SR:!2023-12-14,23,275-->
 
-![[Pasted image 20231102190713.png]]::D![[Pasted image 20231102190724.png]] <!--SR:!2023-11-20,10,275-->
+![[Pasted image 20231102190713.png]]::D![[Pasted image 20231102190724.png]] <!--SR:!2024-01-01,41,295-->
 
-![[Pasted image 20231102190925.png]]::B![[Pasted image 20231102190940.png]] <!--SR:!2023-11-19,11,278-->
+![[Pasted image 20231102190925.png]]::B![[Pasted image 20231102190940.png]] <!--SR:!2024-01-03,43,298-->
 
-![[Pasted image 20231102204756.png]]::260 ![[Pasted image 20231102204814.png]] <!--SR:!2023-11-20,8,275-->
+![[Pasted image 20231102204756.png]]::260 ![[Pasted image 20231102204814.png]] <!--SR:!2023-12-22,31,295-->
 

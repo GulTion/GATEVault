@@ -1,9 +1,9 @@
 ---
 subject: DSA
 type: ShortNotes
-sr-due: 2023-11-17
-sr-interval: 2
-sr-ease: 150
+sr-due: 2023-12-05
+sr-interval: 14
+sr-ease: 170
 ---
 #note 
 

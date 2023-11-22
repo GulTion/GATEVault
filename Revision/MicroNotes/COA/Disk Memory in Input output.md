@@ -2,9 +2,9 @@
 type: MicroNotes
 subject: COA
 atQ: 0
-sr-due: 2023-11-16
-sr-interval: 2
-sr-ease: 150
+sr-due: 2023-12-07
+sr-interval: 16
+sr-ease: 170
 ---
 #note
 

@@ -1,0 +1,1 @@
+{"path":"Revision/ShortNotes/DBMS/media/Pasted image 20231120224339.png","text":"Note: Every schedule which is allowed by 2PL is always conflict serializable, but not every conflict serializable schedule is allowed by 2PL. Conflict serializable schedule","libVersion":"0.2.3","langs":"eng"}

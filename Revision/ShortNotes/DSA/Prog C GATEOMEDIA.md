@@ -2,7 +2,7 @@
 subject: DSA
 type: ShortNotes
 atQ: 0
-sr-due: 2023-11-16
+sr-due: 2023-11-22
 sr-interval: 1
 sr-ease: 130
 ---

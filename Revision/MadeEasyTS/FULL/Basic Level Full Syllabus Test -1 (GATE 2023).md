@@ -4,6 +4,8 @@ subject: FULL
 atQ: 38
 startQ: 1
 endQ: 65
+status: acquiring
+src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/me/test.html?pageName=timeManagementReport&testid=5187&t=a&testType=2&data=eyJuYW1lIjoiQmFzaWMgTGV2ZWwgRnVsbCBTeWxsYWJ1cyBUZXN0IC0xIChHQVRFIDIwMjMpIn0=
 ---
 #card/FULL
 

@@ -4,6 +4,7 @@ type: GOTS
 startQ: 1
 endQ: 20
 atQ: 8
+status: acquiring
 ---
 #card/EM/probability 
 
