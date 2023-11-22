@@ -1,0 +1,1 @@
+{"path":"Revision/ZealTS/OS/media/Pasted image 20231122142513.png","text":"Answer: 242 Solution: Average memory access time, = hx(T+M) + (1-h)[(T + 2xM + (1-p)M + p[(1-d)(D) + d(2D)]] =0.8x (30+150) + (1-0.8)[30 + 2x150 + (1-0.01)*x150 + (0.01)[(1-0.3)(1000) + (0.3)(2000)]] =242.3 (in ns)","libVersion":"0.2.3","langs":"eng"}
