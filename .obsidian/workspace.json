@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+                "file": "DialyStuff/2023-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+                "file": "DialyStuff/2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+                "file": "DialyStuff/2023-11-22.md"
               }
             }
           },
@@ -184,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+                "file": "DialyStuff/2023-11-22.md"
               }
             }
           },
@@ -212,8 +211,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,13 +238,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad7686f5e4db797c",
+  "active": "bb1ab12421f5b991",
   "lastOpenFiles": [
     "Revision/PracticeSet/Pigeon Hole Principle.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "DialyStuff/2023-11-22.md",
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/PracticeSet/media",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
     "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
