@@ -52,3 +52,7 @@ startQ: 1
 
 ![[Pasted image 20231120144458.png]]::D ![[Pasted image 20231120144521.png]] <!--SR:!2023-11-24,3,227-->
 
+![[Pasted image 20231122180629.png]]::1260 ![[Pasted image 20231122180716.png]]
+
+![[Pasted image 20231122180920.png]]::![[Pasted image 20231122180944.png]]
+

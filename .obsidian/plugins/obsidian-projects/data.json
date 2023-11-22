@@ -73,7 +73,8 @@
           "config": {
             "includeFields": [
               "atQ",
-              "endQ"
+              "endQ",
+              "status"
             ],
             "groupByField": "subject",
             "columns": {
@@ -120,8 +121,8 @@
               {
                 "field": "status",
                 "operator": "is",
-                "enabled": false,
-                "value": ""
+                "enabled": true,
+                "value": "acquiring"
               }
             ]
           },
