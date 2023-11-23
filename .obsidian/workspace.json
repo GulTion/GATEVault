@@ -11,9 +11,11 @@
             "id": "3700f09c1e248581",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+                "file": "DialyStuff/2023-11-23.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+                "file": "DialyStuff/2023-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+                "file": "DialyStuff/2023-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+                "file": "DialyStuff/2023-11-23.md"
               }
             }
           },
@@ -159,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+                "file": "DialyStuff/2023-11-23.md"
               }
             }
           },
@@ -218,16 +220,16 @@
   },
   "active": "3700f09c1e248581",
   "lastOpenFiles": [
-    "DialyStuff/2023-11-23.md",
     "DialyStuff/2023-11-22.md",
+    "DialyStuff/2023-11-23.md",
     "templates/Normal Task Template.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "DialyStuff/2023-11-24.md",
     "DialyStuff/2023-11-20.md",
     "DialyStuff/2023-11-25.md",
     "TimeTable.md",
     "fromWhereSubject.md",
     "StackForSubjects.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Untitled 1.md",
     "Untitled.md",
     "2023-11-20.md",
@@ -254,7 +256,6 @@
     "Revision/MixQue/DM/Combintories.md",
     "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
     "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
-    "Revision/PYQ/OS/Memory Management - pyq.md",
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/PracticeSet/media",
     "Revision/MadeEasyTS/MATH/media",
