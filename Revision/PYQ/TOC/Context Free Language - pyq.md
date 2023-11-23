@@ -1,10 +1,10 @@
 ---
-atQ: 20
+atQ: 46
 startQ: 1
 endQ: 46
 subject: TOC
 type: PYQ
-status: acquiring
+status: Revision
 src: https://practicepaper.in/gate-cse/context-free-language?page_no=1
 ---
 #card/TOC/Context_Free_Language
@@ -28,3 +28,6 @@ src: https://practicepaper.in/gate-cse/context-free-language?page_no=1
 
 ![[Pasted image 20231124003713.png]]::![[Pasted image 20231124003726.png]]
 
+![[Pasted image 20231124003937.png]]::![[Pasted image 20231124004201.png]]
+
+![[Pasted image 20231124004558.png]]::![[Pasted image 20231124004617.png]]
