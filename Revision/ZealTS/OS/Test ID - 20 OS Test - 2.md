@@ -2,7 +2,8 @@
 subject: OS
 type: ZealTS
 status: Analysis
-atQ: 0
+atQ: 8
+endQ: 25
 ---
 #card/OS/IPC_deadlock
 # Stack
@@ -42,4 +43,6 @@ atQ: 0
 
 
 ![[Pasted image 20231123120739.png]]::4 ![[Pasted image 20231123120745.png]]
+
+![[Pasted image 20231123122350.png]]::B
 
