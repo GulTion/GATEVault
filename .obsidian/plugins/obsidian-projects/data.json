@@ -314,24 +314,19 @@
                 "weight": 12
               }
             },
-            "groupByField": "subject",
             "includeFields": [
               "completed",
               "status"
-            ]
+            ],
+            "groupByField": "type"
           },
           "filter": {
             "conditions": [
               {
-                "field": "completed",
-                "operator": "is-empty",
-                "enabled": true
-              },
-              {
-                "field": "type",
+                "field": "subject",
                 "operator": "is",
                 "enabled": true,
-                "value": "PYQ"
+                "value": "DM"
               }
             ]
           },
