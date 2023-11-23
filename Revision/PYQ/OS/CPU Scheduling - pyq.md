@@ -22,6 +22,6 @@ taking time![[Pasted image 20231021211326.png]]::B![[Pasted image 20231021211351
 
 least utilization![[Pasted image 20231021213154.png]]::D![[Pasted image 20231021213224.png]] <!--SR:!2024-01-20,60,312-->
 
-multiprogramming and tasking![[Pasted image 20231021213529.png]]::B![[Pasted image 20231021213542.png]] ^b40ae5 <!--SR:!2023-11-23,13,250-->
+multiprogramming and tasking![[Pasted image 20231021213529.png]]::B![[Pasted image 20231021213542.png]] ^b40ae5 <!--SR:!2024-01-09,47,270-->
 
 #today hard![[Pasted image 20231021214638.png]]::![[Pasted image 20231021214652.png]] ^e18105

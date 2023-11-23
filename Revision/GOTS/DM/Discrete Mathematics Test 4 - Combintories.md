@@ -1,12 +1,13 @@
 ---
 type: GOTS
 subject: DM
-atQ: 14
+atQ: 16
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/results.html?exam_id=318
 status: Analysis
 startQ: 1
 endQ: 25
 ---
+
 #card/DM/combintories 
 ![[Pasted image 20231014085619.png]]::![[Pasted image 20231014085701.png]]other method![[Pasted image 20231014093432.png]] <!--SR:!2023-11-15,17,290-->
 ![[Pasted image 20231018223000.png]]::![[Pasted image 20231018223016.png]] <!--SR:!2023-11-13,15,290-->

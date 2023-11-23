@@ -326,7 +326,7 @@
                 "field": "subject",
                 "operator": "is",
                 "enabled": true,
-                "value": "DM"
+                "value": "OS"
               }
             ]
           },

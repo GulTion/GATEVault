@@ -7,7 +7,8 @@
   "translucency": false,
   "showViewHeader": true,
   "enabledCssSnippets": [
-    "imageCenter"
+    "imageCenter",
+    "hide-properties"
   ],
   "textFontFamily": "Ubuntu",
   "interfaceFontFamily": ""

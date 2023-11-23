@@ -125,7 +125,16 @@
       "key": "S"
     }
   ],
-  "editor:insert-callout": [
+  "templater-obsidian:templates/Iframe.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "templater-obsidian:templates/CallOut.md": [
     {
       "modifiers": [
         "Alt",

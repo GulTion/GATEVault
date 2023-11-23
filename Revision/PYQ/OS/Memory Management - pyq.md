@@ -11,7 +11,7 @@ startQ: 1
 #notes/OS/Memory/TLB_hitMiss
 ![[Pasted image 20231002125807.png]]::![[Pasted image 20231002125817.png]] <!--SR:!2023-11-26,5,252-->
 #notes/OS/Memory/Virtual_page_table
-![[Pasted image 20231028232141.png]]::![[Pasted image 20231002131308.png]] <!--SR:!2023-11-23,12,270-->
+![[Pasted image 20231028232141.png]]::![[Pasted image 20231002131308.png]] <!--SR:!2023-12-23,30,270-->
 #notes/OS/Memory/TLB_hitMiss 
 ![[Pasted image 20231031184718.png]]::B. 155 ![[Pasted image 20231111000554.png]] <!--SR:!2023-12-30,39,292-->
 #notes/OS/Memory/Virtual_page_table 
@@ -36,7 +36,7 @@ startQ: 1
 
 ![[Pasted image 20231115151144.png]]::D ![[Pasted image 20231115151155.png]] <!--SR:!2023-11-23,3,224-->
 
-![[Pasted image 20231115153430.png]]::B ![[Pasted image 20231115153454.png]] <!--SR:!2023-11-23,3,224-->
+![[Pasted image 20231115153430.png]]::B ![[Pasted image 20231115153454.png]] <!--SR:!2023-12-02,9,244-->
 
 ![[Pasted image 20231115153711.png]]::C ![[Pasted image 20231115153729.png]] <!--SR:!2023-11-23,3,224-->
 
