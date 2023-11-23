@@ -13,7 +13,7 @@ stored in PCB![[Pasted image 20231022104409.png]]::A,B,C![[Pasted image 20231022
 
 play of short term![[Pasted image 20231022104810.png]]::![[Pasted image 20231022104827.png]] <!--SR:!2023-12-02,21,270-->
 
-![[Pasted image 20231022105233.png]]::![[Pasted image 20231022105242.png]] <!--SR:!2023-11-14,15,290-->
+![[Pasted image 20231022105233.png]]::![[Pasted image 20231022105242.png]] <!--SR:!2024-01-21,59,310-->
 
 ![[Pasted image 20231022105942.png]]::![[Pasted image 20231022105949.png]] <!--SR:!2024-01-14,54,310-->
 

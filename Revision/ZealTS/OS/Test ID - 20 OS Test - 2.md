@@ -34,3 +34,12 @@ atQ: 0
 | 21*   | TLE                          |
 | 23*   | TLE                          |
 
+![[Pasted image 20231123114903.png]]::A,B,D![[Pasted image 20231123114910.png]]![[Pasted image 20231123114918.png]]
+
+![[Pasted image 20231123115426.png]]::B![[Pasted image 20231123115436.png]]
+
+![[Pasted image 20231123120153.png]]::A![[Pasted image 20231123120159.png]]
+
+
+![[Pasted image 20231123120739.png]]::4 ![[Pasted image 20231123120745.png]]
+

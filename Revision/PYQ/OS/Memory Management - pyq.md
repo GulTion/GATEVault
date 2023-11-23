@@ -19,7 +19,7 @@ startQ: 1
 
 ![[Pasted image 20231031185420.png]]::B <!--SR:!2023-11-25,5,252-->
 
-![[Pasted image 20231031185603.png]]::B 1![[Pasted image 20231031185836.png]] <!--SR:!2023-11-22,11,272-->
+![[Pasted image 20231031185603.png]]::B 1![[Pasted image 20231031185836.png]] <!--SR:!2024-01-03,41,292-->
 
 ![[Pasted image 20231031190230.png]]::C 22 <!--SR:!2023-11-26,6,252-->
 
@@ -29,32 +29,32 @@ startQ: 1
 
 ![[Pasted image 20231110222047.png]]:: C  visit viswdeep goti coa lecture for virutal memeory around 2013 <!--SR:!2023-11-24,3,227-->
 
-![[Pasted image 20231115150053.png]]::B ![[Pasted image 20231115150112.png]] <!--SR:!2023-11-23,3,224-->
+![[Pasted image 20231115150053.png]]::B ![[Pasted image 20231115150112.png]] <!--SR:!2023-12-02,9,244-->
 
-![[Pasted image 20231115150658.png]]::![[Pasted image 20231115150707.png]] <!--SR:!2023-11-23,3,224-->
+![[Pasted image 20231115150658.png]]::![[Pasted image 20231115150707.png]] <!--SR:!2023-12-02,9,244-->
 
 
-![[Pasted image 20231115151144.png]]::D ![[Pasted image 20231115151155.png]] <!--SR:!2023-11-23,3,224-->
+![[Pasted image 20231115151144.png]]::D ![[Pasted image 20231115151155.png]] <!--SR:!2023-11-28,5,224-->
 
 ![[Pasted image 20231115153430.png]]::B ![[Pasted image 20231115153454.png]] <!--SR:!2023-12-02,9,244-->
 
-![[Pasted image 20231115153711.png]]::C ![[Pasted image 20231115153729.png]] <!--SR:!2023-11-23,3,224-->
+![[Pasted image 20231115153711.png]]::C ![[Pasted image 20231115153729.png]] <!--SR:!2023-12-05,12,244-->
 
-![[Pasted image 20231115155307.png]]::D go for vishwdeep gothi <!--SR:!2023-11-23,2,184-->
+![[Pasted image 20231115155307.png]]::D go for vishwdeep gothi <!--SR:!2023-11-27,4,184-->
 
-![[Pasted image 20231116221457.png]]::![[Pasted image 20231116221511.png]] <!--SR:!2023-11-23,3,224-->
+![[Pasted image 20231116221457.png]]::![[Pasted image 20231116221511.png]] <!--SR:!2023-12-05,12,244-->
 
 ![[Pasted image 20231120142109.png]]::C ![[Pasted image 20231120142121.png]] <!--SR:!2023-11-24,3,227-->
 
 #today ![[Pasted image 20231120143418.png]]::https://gateoverflow.in/3600/gate2006-it-56
 
-![[Pasted image 20231120144155.png]]::![[Pasted image 20231120144209.png]] <!--SR:!2023-11-22,1,187-->
+![[Pasted image 20231120144155.png]]::![[Pasted image 20231120144209.png]] <!--SR:!2023-11-26,3,207-->
 
 ![[Pasted image 20231120144458.png]]::D ![[Pasted image 20231120144521.png]] <!--SR:!2023-11-24,3,227-->
 
-![[Pasted image 20231122180629.png]]::1260 ![[Pasted image 20231122180716.png]]
+![[Pasted image 20231122180629.png]]::1260 ![[Pasted image 20231122180716.png]] <!--SR:!2023-11-26,3,229-->
 
-![[Pasted image 20231122180920.png]]::![[Pasted image 20231122180944.png]]
+![[Pasted image 20231122180920.png]]::![[Pasted image 20231122180944.png]] <!--SR:!2023-11-26,3,229-->
 
-![[Pasted image 20231122182752.png]]::_0.96(1+(0.9(1) + 0.1(10+1)))   +   0.04(1+ 2* (10) + (0.9(1) + 0.1(10+1))) = 3.8 ns..so 4ns_![[Pasted image 20231122182808.png]]  
+![[Pasted image 20231122182752.png]]::_0.96(1+(0.9(1) + 0.1(10+1)))   +   0.04(1+ 2* (10) + (0.9(1) + 0.1(10+1))) = 3.8 ns..so 4ns_![[Pasted image 20231122182808.png]] <!--SR:!2023-11-26,3,229-->
 
