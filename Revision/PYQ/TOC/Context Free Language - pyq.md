@@ -24,3 +24,7 @@ src: https://practicepaper.in/gate-cse/context-free-language?page_no=1
 
 ![[Pasted image 20231110205506.png]]19::D ![[Pasted image 20231110205532.png]] <!--SR:!2023-11-25,2,150-->
 
+![[Pasted image 20231124001955.png]]::![[Pasted image 20231124002012.png]]
+
+![[Pasted image 20231124003713.png]]::![[Pasted image 20231124003726.png]]
+
