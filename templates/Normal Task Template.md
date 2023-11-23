@@ -1,19 +1,16 @@
 # Subject A: CN
-- [ ] Micro Notes
-- [ ] FlashCard
-- [ ] Notes
-- [ ] PYQ
-- [ ] Zeal WorkBook
-- [ ] ZealTS
+- [ ] ALL PYQ OVER LOOK
+- [ ] ALL ZealWORK BOOK
+- [ ] WOrk on speed
 # Subject B: TOC
 - [ ] Micro Notes
-- [ ] FlashCard
+- [ ] FlashCard274.5
 - [ ] Notes
 - [ ] PYQ
 - [ ] Zeal WorkBook
 - [ ] ZealTS
 
-# Subject C: DLD
+# Subject C: DLD & APTI
 
 
 # Analysis A

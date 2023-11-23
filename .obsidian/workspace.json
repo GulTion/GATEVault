@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-23.md",
+                "file": "templates/Normal Task Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,8 +278,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8042dd4f602b0965",
+  "active": "3700f09c1e248581",
   "lastOpenFiles": [
+    "templates/Normal Task Template.md",
+    "DialyStuff/2023-11-23.md",
     "Revision/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
@@ -290,10 +291,8 @@
     "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
     "Revision/ShortNotes/CN/IPV4 HEADER - GateOMedia.md",
     "Revision/ShortNotes/CN/TCP Notes.md",
-    "DialyStuff/2023-11-23.md",
     "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
     "DialyStuff/2023-11-22.md",
-    "templates/Normal Task Template.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "DialyStuff/2023-11-24.md",
     "DialyStuff/2023-11-20.md",
