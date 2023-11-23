@@ -23,24 +23,64 @@
             "id": "8042dd4f602b0965",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-11-23.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "c5ca0a938e537ad0",
+            "id": "45f57af15985de7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ShortNotes/CN/TCP Notes.md",
+                "file": "Revision/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc8f060e32c65043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/PYQ/CN/Network Layer Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af511e4c57bc0493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/zealWorkBook/CN/TCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6167f9332ed3c70e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ShortNotes/DBMS/TRANSACTIONS ANDCONCURRENCY CONTROL - GateOmedia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ShortNotes/CN/TCP Notes.md",
+                "file": "DialyStuff/2023-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ShortNotes/CN/TCP Notes.md",
+                "file": "DialyStuff/2023-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ShortNotes/CN/TCP Notes.md"
+                "file": "DialyStuff/2023-11-23.md"
               }
             }
           },
@@ -182,7 +222,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/ShortNotes/CN/TCP Notes.md"
+                "file": "DialyStuff/2023-11-23.md"
               }
             }
           },
@@ -239,8 +279,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c5ca0a938e537ad0",
+  "active": "8042dd4f602b0965",
   "lastOpenFiles": [
+    "Revision/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
+    "Revision/PYQ/CN/Network Layer Protocol.md",
+    "Revision/zealWorkBook/CN/Application Layer 1.md",
+    "Revision/zealWorkBook/CN/TCP.md",
+    "Revision/ShortNotes/CN/Circuit Switching.md",
+    "Revision/ShortNotes/DBMS/TRANSACTIONS ANDCONCURRENCY CONTROL - GateOmedia.md",
+    "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
+    "Revision/ShortNotes/CN/IPV4 HEADER - GateOMedia.md",
+    "Revision/ShortNotes/CN/TCP Notes.md",
     "DialyStuff/2023-11-23.md",
     "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
     "DialyStuff/2023-11-22.md",
@@ -269,15 +318,6 @@
     "Revision/ZealTS/OS/media/Pasted image 20231123114910.png",
     "Revision/ZealTS/OS/media/Pasted image 20231123114903.png",
     "Revision/ZealTS/OS/Test ID - 21 OS Test - 3.md",
-    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
-    "templates/dailyNote Template.md",
-    "templates/Iframe.md",
-    "templates/Untitled 1.md",
-    "Revision/GOTS/DM/GO Classes Test Series 2023 - Discrete Mathematics - Test 1.md",
-    "Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
-    "Revision/MixQue/DM/Combintories.md",
-    "Revision/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
-    "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/PracticeSet/media",
     "Revision/MadeEasyTS/MATH/media",

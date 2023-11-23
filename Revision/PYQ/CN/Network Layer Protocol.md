@@ -4,7 +4,7 @@ endQ: 92
 atQ: 92
 subject: CN
 type: PYQ
-status: acquiring
+status: Revision
 src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 ---
 #card/CN/NetworkLayer
