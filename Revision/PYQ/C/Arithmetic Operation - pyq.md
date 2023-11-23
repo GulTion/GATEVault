@@ -5,6 +5,6 @@ status: Revision
 ---
 #card/C/Arithmetic_Operation
 
-![[Pasted image 20231122152544.png]]::B![[Pasted image 20231122152600.png]]
+![[Pasted image 20231122152544.png]]::B![[Pasted image 20231122152600.png]] <!--SR:!2023-11-24,2,150-->
 
 
