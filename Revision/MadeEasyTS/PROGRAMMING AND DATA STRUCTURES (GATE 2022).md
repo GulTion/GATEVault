@@ -2,7 +2,8 @@
 subject: DSA
 type: MadeEasyTS
 status: acquiring
-atQ: 8
+atQ: 19
+endQ: 33
 ---
 #card/DSA/FULL
 
