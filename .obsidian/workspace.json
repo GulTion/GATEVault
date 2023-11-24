@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08e30437ffcc6589",
+        "id": "67f5ca45ca664eeb",
         "type": "tabs",
         "children": [
           {
-            "id": "fc59dd9366edf78c",
+            "id": "dc7725d9c46c397c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-24.md",
+                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-24.md",
+                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-24.md",
+                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-24.md"
+                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-11-24.md"
+                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md"
               }
             }
           },
@@ -189,7 +189,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -217,33 +218,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc59dd9366edf78c",
+  "active": "dc7725d9c46c397c",
   "lastOpenFiles": [
+    "Revision/PYQ/CN/Network Layer Protocol.md",
+    "templates/Normal Task Template.md",
+    "Revision/PYQ/DSA/Dynamic Programming - pyq.md",
+    "Revision/PYQ/DLD/Boolean Algebra- pyq.md",
+    "Revision/PYQ/DLD/media/Pasted image 20231125001119.png",
+    "Revision/PYQ/DLD/media/Pasted image 20231125001049.png",
+    "Revision/PYQ/DLD/media/Pasted image 20231125000743.png",
+    "Revision/PYQ/DLD/media/Pasted image 20231125000726.png",
+    "Revision/PYQ/DLD/media/Pasted image 20231125000327.png",
+    "Revision/PYQ/DLD/media/Pasted image 20231124235619.png",
+    "Revision/PYQ/DLD/media/Pasted image 20231124235605.png",
+    "DialyStuff/2023-11-24.md",
     "Revision/zealWorkBook/DM/DS advanced.md",
     "Revision/ZealTS/C/media/Pasted image 20231116152045.png",
     "Revision/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
     "Revision/MadeEasyTS/media/Pasted image 20231124185637.png",
     "Revision/MadeEasyTS/media/Pasted image 20231124185632.png",
-    "Revision/MadeEasyTS/media/Pasted image 20231124184356.png",
-    "Revision/MadeEasyTS/media/Pasted image 20231124184343.png",
     "Revision/MadeEasyTS/media",
-    "DialyStuff/2023-11-24.md",
-    "DialyStuff/media/Pasted image 20231124182255.png",
     "Revision/ShortNotes/CN/TCP Notes.md",
     "Revision/ZealTS/DSA/TEST ID-12 DSA-4.md",
-    "Revision/ShortNotes/DSA/media/Pasted image 20231110075015.png",
-    "Revision/ZealTS/DSA/media/Pasted image 20231114174649.png",
     "DialyStuff/2023-11-25.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "templates/Normal Task Template.md",
     "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
     "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
-    "Revision/PYQ/CN/media/Pasted image 20231124143826.png",
-    "Revision/PYQ/CN/media/Pasted image 20231124143802.png",
     "Revision/zealWorkBook/CN/TCP.md",
-    "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/MadeEasyTS/CN/COMPUTER NETWORKS (GATE 2022).md",
     "Revision/MadeEasyTS/CN/media",
     "Revision/MadeEasyTS/CN",
@@ -257,8 +260,6 @@
     "Revision/ShortNotes/CN/Circuit Switching.md",
     "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
     "Revision/ShortNotes/CN/IPV4 HEADER - GateOMedia.md",
-    "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
-    "DialyStuff/2023-11-22.md",
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/PracticeSet/media",
     "Revision/MadeEasyTS/MATH/media",

@@ -12,7 +12,7 @@
 - [ ] ZealTS
 
 # Subject C: DLD & APTI
-
+- [ ] functionaly complete practice https://gateoverflow.in/tag/functional-completeness
 
 # Analysis A
 
