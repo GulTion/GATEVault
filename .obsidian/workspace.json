@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/MadeEasyTS/CN/COMPUTER NETWORKS (GATE 2022).md",
+                "file": "Revision/PYQ/CN/Transport Layer Protocol.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/MadeEasyTS/CN/COMPUTER NETWORKS (GATE 2022).md",
+                "file": "DialyStuff/2023-11-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/MadeEasyTS/CN/COMPUTER NETWORKS (GATE 2022).md",
+                "file": "DialyStuff/2023-11-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/MadeEasyTS/CN/COMPUTER NETWORKS (GATE 2022).md"
+                "file": "DialyStuff/2023-11-24.md"
               }
             }
           },
@@ -174,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/MadeEasyTS/CN/COMPUTER NETWORKS (GATE 2022).md"
+                "file": "DialyStuff/2023-11-24.md"
               }
             }
           },
@@ -231,19 +230,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12337106118e9c06",
+  "active": "fc59dd9366edf78c",
   "lastOpenFiles": [
+    "Revision/PYQ/CN/Transport Layer Protocol.md",
+    "Revision/PYQ/CN/media/Pasted image 20231124121408.png",
+    "DialyStuff/2023-11-24.md",
+    "Revision/PYQ/CN/Network Layer Protocol.md",
+    "Revision/MadeEasyTS/CN/COMPUTER NETWORKS (GATE 2022).md",
     "Revision/MadeEasyTS/CN/media/Pasted image 20231124112117.png",
     "Revision/MadeEasyTS/CN/media/Pasted image 20231124112109.png",
     "Revision/MadeEasyTS/CN/media/Pasted image 20231124112047.png",
-    "DialyStuff/2023-11-24.md",
-    "Revision/MadeEasyTS/CN/COMPUTER NETWORKS (GATE 2022).md",
     "Revision/MadeEasyTS/CN/media/Pasted image 20231124111046.png",
     "Revision/MadeEasyTS/CN/media/Pasted image 20231124111036.png",
     "Revision/MadeEasyTS/CN/media/Pasted image 20231124110905.png",
     "Revision/MadeEasyTS/CN/media/Pasted image 20231124110859.png",
     "Revision/MadeEasyTS/CN/media",
-    "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/MadeEasyTS/CN",
     "Revision/ShortNotes/DLD/carry look a head.md",
     "Revision/ShortNotes/DBMS/TRANSACTIONS ANDCONCURRENCY CONTROL - GateOmedia.md",
@@ -253,8 +254,6 @@
     "Revision/PYQ/TOC/Context Free Language - pyq.md",
     "Revision/PYQ/TOC/media/Pasted image 20231124004617.png",
     "Revision/PYQ/TOC/media/Pasted image 20231124004558.png",
-    "Revision/PYQ/TOC/media/Pasted image 20231124004201.png",
-    "Revision/PYQ/TOC/media/Pasted image 20231124003937.png",
     "Revision/zealWorkBook/TOC/22. Check the Context Free Language.md",
     "DialyStuff/2023-11-23.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
@@ -271,7 +270,6 @@
     "fromWhereSubject.md",
     "StackForSubjects.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/PracticeSet/media",
     "Revision/MadeEasyTS/MATH/media",
