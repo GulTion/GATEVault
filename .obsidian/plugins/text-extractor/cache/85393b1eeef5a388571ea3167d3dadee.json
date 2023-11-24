@@ -1,0 +1,1 @@
+{"path":"Revision/MadeEasyTS/media/Pasted image 20231124184343.png","text":"Q.8 Find the output of the following program: main( ) { extern int i; 1=20; printf(“%d”, i); } e Linker error o~ a Compiler error Q None of these VIEW Anwser || COPY || MARK","libVersion":"0.2.3","langs":"eng"}

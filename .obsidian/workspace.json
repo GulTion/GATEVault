@@ -13,67 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbe8b5bde56077d6",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Revision/media/Notes Revision/media/Untitled 1 1.png",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "a97a8812ce590b48",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "b242e91985cf6da1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
-              }
-            }
-          },
-          {
-            "id": "221099c4476d91b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Normal Task Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ffd6b50d68e72cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/ShortNotes/CN/TCP Notes.md",
+                "file": "Revision/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Revision/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Revision/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Revision/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md"
+              }
             }
           },
           {
@@ -210,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Revision/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md"
+              }
             }
           },
           {
@@ -265,12 +217,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cbe8b5bde56077d6",
+  "active": "fc59dd9366edf78c",
   "lastOpenFiles": [
+    "Revision/MadeEasyTS/media/Pasted image 20231124185637.png",
+    "Revision/MadeEasyTS/media/Pasted image 20231124185632.png",
+    "Revision/MadeEasyTS/media/Pasted image 20231124184356.png",
+    "Revision/MadeEasyTS/media/Pasted image 20231124184343.png",
+    "Revision/MadeEasyTS/media",
+    "DialyStuff/2023-11-24.md",
+    "Revision/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
+    "DialyStuff/media/Pasted image 20231124182255.png",
+    "Revision/ShortNotes/CN/TCP Notes.md",
     "Revision/ZealTS/DSA/TEST ID-12 DSA-4.md",
     "Revision/ShortNotes/DSA/media/Pasted image 20231110075015.png",
     "Revision/ZealTS/DSA/media/Pasted image 20231114174649.png",
-    "DialyStuff/2023-11-24.md",
     "DialyStuff/2023-11-25.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "templates/Normal Task Template.md",
@@ -281,13 +241,8 @@
     "Revision/PYQ/CN/media/Pasted image 20231124143826.png",
     "Revision/PYQ/CN/media/Pasted image 20231124143802.png",
     "Revision/PYQ/CN/media/Pasted image 20231124143346.png",
-    "Revision/ShortNotes/CN/TCP Notes.md",
     "Revision/zealWorkBook/CN/TCP.md",
     "Revision/zealWorkBook/CN/media/Pasted image 20231124132745.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231124132735.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231124132722.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231124132617.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231124132608.png",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/MadeEasyTS/CN/COMPUTER NETWORKS (GATE 2022).md",
     "Revision/MadeEasyTS/CN/media",
@@ -304,13 +259,11 @@
     "Revision/ShortNotes/CN/IPV4 HEADER - GateOMedia.md",
     "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
     "DialyStuff/2023-11-22.md",
-    "DialyStuff/2023-11-20.md",
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/PracticeSet/media",
     "Revision/MadeEasyTS/MATH/media",
     "Revision/MadeEasyTS/MATH",
     "media/media/Recording 20231006112015.webm",
-    "Revision/PDF/11. Expression Analysis.pdf",
     "Revision/PDF/11. Expression Analysis.pdf",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
