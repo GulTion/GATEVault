@@ -18,5 +18,7 @@
   "obsidian-spaced-repetition",
   "obsidian-excalidraw-plugin",
   "editor-width-slider",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-sidebar-expand-on-hover",
+  "obsidian-hover-editor"
 ]

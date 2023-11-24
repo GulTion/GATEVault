@@ -2,9 +2,9 @@
 - [ ] ALL PYQ OVER LOOK
 - [ ] ALL ZealWORK BOOK
 - [ ] WOrk on speed
-# Subject B: TOC
+# Subject B: DSA
 - [ ] Micro Notes
-- [ ] FlashCard274.5
+- [ ] FlashCard
 - [ ] Notes
 - [ ] PYQ
 - [ ] Zeal WorkBook

@@ -20,18 +20,53 @@
             }
           },
           {
-            "id": "12337106118e9c06",
+            "id": "cbe8b5bde56077d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol.md",
+                "file": "DialyStuff/2023-11-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b242e91985cf6da1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf"
+              }
+            }
+          },
+          {
+            "id": "221099c4476d91b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Normal Task Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ffd6b50d68e72cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ShortNotes/CN/TCP Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 252,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -113,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-24.md",
+                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-24.md",
+                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-24.md"
+                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md"
               }
             }
           },
@@ -173,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-11-24.md"
+                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md"
               }
             }
           },
@@ -206,7 +242,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 365.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,46 +267,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc59dd9366edf78c",
+  "active": "2acb9b0f9eafb939",
   "lastOpenFiles": [
-    "Revision/PYQ/CN/Transport Layer Protocol.md",
-    "Revision/PYQ/CN/media/Pasted image 20231124121408.png",
     "DialyStuff/2023-11-24.md",
+    "templates/Normal Task Template.md",
+    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
+    "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
+    "Revision/PYQ/CN/media/Pasted image 20231124143826.png",
+    "Revision/PYQ/CN/media/Pasted image 20231124143802.png",
+    "Revision/PYQ/CN/media/Pasted image 20231124143346.png",
+    "Revision/ShortNotes/CN/TCP Notes.md",
+    "Revision/zealWorkBook/CN/TCP.md",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231124132745.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231124132735.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231124132722.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231124132617.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231124132608.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231124132022.png",
+    "Revision/zealWorkBook/CN/media/Pasted image 20231124132006.png",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/MadeEasyTS/CN/COMPUTER NETWORKS (GATE 2022).md",
-    "Revision/MadeEasyTS/CN/media/Pasted image 20231124112117.png",
-    "Revision/MadeEasyTS/CN/media/Pasted image 20231124112109.png",
-    "Revision/MadeEasyTS/CN/media/Pasted image 20231124112047.png",
-    "Revision/MadeEasyTS/CN/media/Pasted image 20231124111046.png",
-    "Revision/MadeEasyTS/CN/media/Pasted image 20231124111036.png",
-    "Revision/MadeEasyTS/CN/media/Pasted image 20231124110905.png",
-    "Revision/MadeEasyTS/CN/media/Pasted image 20231124110859.png",
     "Revision/MadeEasyTS/CN/media",
     "Revision/MadeEasyTS/CN",
     "Revision/ShortNotes/DLD/carry look a head.md",
     "Revision/ShortNotes/DBMS/TRANSACTIONS ANDCONCURRENCY CONTROL - GateOmedia.md",
-    "Revision/zealWorkBook/CN/TCP.md",
     "Revision/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
-    "templates/Normal Task Template.md",
     "Revision/PYQ/TOC/Context Free Language - pyq.md",
-    "Revision/PYQ/TOC/media/Pasted image 20231124004617.png",
-    "Revision/PYQ/TOC/media/Pasted image 20231124004558.png",
     "Revision/zealWorkBook/TOC/22. Check the Context Free Language.md",
     "DialyStuff/2023-11-23.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
     "Revision/ShortNotes/CN/Circuit Switching.md",
     "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
     "Revision/ShortNotes/CN/IPV4 HEADER - GateOMedia.md",
-    "Revision/ShortNotes/CN/TCP Notes.md",
     "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
     "DialyStuff/2023-11-22.md",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "DialyStuff/2023-11-20.md",
     "DialyStuff/2023-11-25.md",
     "TimeTable.md",
     "fromWhereSubject.md",
     "StackForSubjects.md",
-    "Untitled 1.md",
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/PracticeSet/media",
     "Revision/MadeEasyTS/MATH/media",

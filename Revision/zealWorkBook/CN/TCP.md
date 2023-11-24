@@ -7,11 +7,16 @@ endQ: 64
 status: Revision
 ---
 #card/CN/Transport_Layer
+![[Pasted image 20231124131630.png]]::![[Pasted image 20231124131649.png]]
+
+![[Pasted image 20231124132006.png]]::![[Pasted image 20231124132022.png]]
+
+![[Pasted image 20231124132608.png]]::![[Pasted image 20231124132617.png]]
+
+![[Pasted image 20231124132722.png]]![[Pasted image 20231124132735.png]]::![[Pasted image 20231124132745.png]]
 
 - Window size calculation from RTT and Bandwidth![[Pasted image 20230930105606.png]]::200kb <!--SR:!2023-12-19,37,290-->
 
-
- <!--SR:!2023-11-09,9,270-->
 
 
 - Window Size Calculation #today ![[Pasted image 20230930132716.png]]![[Pasted image 20230930132738.png]]::DO ALL <!--SR:!2024-01-09,49,270-->
