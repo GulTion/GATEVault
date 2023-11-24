@@ -18,5 +18,5 @@ src: /host/COLLECTION/GATE2023/WorkBooks/zealWorkBook/basic/DSAlgo/Solutions Top
 
 ![[Pasted image 20231024173126.png]]::B![[Pasted image 20231024173138.png]] <!--SR:!2023-12-14,33,290-->
 
-![[Pasted image 20231112014059.png]]::20 ![[Pasted image 20231112014129.png]] <!--SR:!2023-11-23,3,202-->
+![[Pasted image 20231112014059.png]]::20 ![[Pasted image 20231112014129.png]] <!--SR:!2023-12-02,8,222-->
 

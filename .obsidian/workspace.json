@@ -23,12 +23,19 @@
             "id": "cbe8b5bde56077d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "DialyStuff/2023-11-24.md",
-                "mode": "source",
-                "source": false
+                "file": "Revision/media/Notes Revision/media/Untitled 1 1.png",
+                "staged": false
               }
+            }
+          },
+          {
+            "id": "a97a8812ce590b48",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
             }
           },
           {
@@ -124,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252,
-    "collapsed": true
+    "width": 252
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -149,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,9 +202,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md"
-              }
+              "state": {}
             }
           },
           {
@@ -208,9 +210,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md"
-              }
+              "state": {}
             }
           },
           {
@@ -237,13 +237,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,11 +265,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2acb9b0f9eafb939",
+  "active": "cbe8b5bde56077d6",
   "lastOpenFiles": [
+    "Revision/ZealTS/DSA/TEST ID-12 DSA-4.md",
+    "Revision/ShortNotes/DSA/media/Pasted image 20231110075015.png",
+    "Revision/ZealTS/DSA/media/Pasted image 20231114174649.png",
     "DialyStuff/2023-11-24.md",
-    "templates/Normal Task Template.md",
+    "DialyStuff/2023-11-25.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "templates/Normal Task Template.md",
+    "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
+    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
     "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
     "Revision/PYQ/CN/media/Pasted image 20231124143826.png",
@@ -284,8 +288,6 @@
     "Revision/zealWorkBook/CN/media/Pasted image 20231124132722.png",
     "Revision/zealWorkBook/CN/media/Pasted image 20231124132617.png",
     "Revision/zealWorkBook/CN/media/Pasted image 20231124132608.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231124132022.png",
-    "Revision/zealWorkBook/CN/media/Pasted image 20231124132006.png",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/MadeEasyTS/CN/COMPUTER NETWORKS (GATE 2022).md",
     "Revision/MadeEasyTS/CN/media",
@@ -303,10 +305,6 @@
     "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
     "DialyStuff/2023-11-22.md",
     "DialyStuff/2023-11-20.md",
-    "DialyStuff/2023-11-25.md",
-    "TimeTable.md",
-    "fromWhereSubject.md",
-    "StackForSubjects.md",
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/PracticeSet/media",
     "Revision/MadeEasyTS/MATH/media",
