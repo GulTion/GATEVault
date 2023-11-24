@@ -1,7 +1,4 @@
 ---
-startQ: 1
-endQ: 92
-atQ: 92
 subject: CN
 type: PYQ
 status: Revision
