@@ -38,3 +38,10 @@ endQ: 65
 ![[Pasted image 20231019002249.png]]::C
 
 ![[Pasted image 20231019002555.png]]::C <!--SR:!2023-11-12,1,130-->
+
+![[Pasted image 20231125222935.png]]::![[Pasted image 20231125222948.png]]
+
+![[Pasted image 20231125223126.png]]::![[Pasted image 20231125223132.png]]
+
+![[Pasted image 20231125224751.png]]::D
+

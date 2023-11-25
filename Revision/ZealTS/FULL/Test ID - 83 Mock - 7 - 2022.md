@@ -1,10 +1,7 @@
 ---
 type: ZealTS
 subject: FULL
-atQ: 28
-startQ: 1
-endQ: 65
-status: Analysis
+status: Revision
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=61ea88a0270ed80fc0b71076&test_id=23
 ---
 #card/FULL
@@ -22,3 +19,6 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ![[Pasted image 20231125214708.png]]::![[Pasted image 20231125214717.png]]
 
 ![[Pasted image 20231125214738.png]]::![[Pasted image 20231125214746.png]]
+
+![[Pasted image 20231125221515.png]]::![[Pasted image 20231125221522.png]]
+
