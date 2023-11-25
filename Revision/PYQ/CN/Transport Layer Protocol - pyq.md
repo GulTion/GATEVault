@@ -1,9 +1,9 @@
 ---
 subject: CN
 type: PYQ
+atQ: 26
 endQ: 48
 status: acquiring
-atQ: 26
 src: https://practicepaper.in/gate-cse/transport-layer-protocol
 ---
 ![[Pasted image 20231124121408.png]]::B,C,D

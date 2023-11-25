@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59ab25b51894859e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Normal Task Template.md",
+                "file": "DialyStuff/2023-11-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
+                "file": "DialyStuff/2023-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
+                "file": "DialyStuff/2023-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md"
+                "file": "DialyStuff/2023-11-25.md"
               }
             }
           },
@@ -173,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md"
+                "file": "DialyStuff/2023-11-25.md"
               }
             }
           },
@@ -232,30 +220,30 @@
   },
   "active": "dc7725d9c46c397c",
   "lastOpenFiles": [
+    "Revision/PYQ/CN/Network Layer Protocol.md",
+    "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
+    "templates/media/Pasted image 20231125012103.png",
+    "DialyStuff/2023-11-25.md",
+    "DialyStuff/2023-11-26.md",
+    "templates/Normal Task Template.md",
     "Revision/PYQ/CN/media/Pasted image 20231125012606.png",
     "Revision/PYQ/CN/media/Pasted image 20231125012533.png",
-    "templates/Normal Task Template.md",
-    "templates/media/Pasted image 20231125012103.png",
     "templates/media",
-    "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
     "Revision/PYQ/CN/media/Pasted image 20231125004203.png",
     "Revision/PYQ/CN/media/Pasted image 20231125004137.png",
     "Revision/PYQ/CN/media/Pasted image 20231125003827.png",
     "Revision/PYQ/CN/media/Pasted image 20231125003804.png",
-    "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/PYQ/DSA/Dynamic Programming - pyq.md",
     "Revision/PYQ/DLD/Boolean Algebra- pyq.md",
     "Revision/PYQ/DLD/media/Pasted image 20231125001119.png",
     "Revision/PYQ/DLD/media/Pasted image 20231125001049.png",
     "Revision/PYQ/DLD/media/Pasted image 20231125000743.png",
-    "Revision/PYQ/DLD/media/Pasted image 20231125000726.png",
     "DialyStuff/2023-11-24.md",
     "Revision/zealWorkBook/DM/DS advanced.md",
     "Revision/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
     "Revision/MadeEasyTS/media",
     "Revision/ShortNotes/CN/TCP Notes.md",
     "Revision/ZealTS/DSA/TEST ID-12 DSA-4.md",
-    "DialyStuff/2023-11-25.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
@@ -272,7 +260,6 @@
     "DialyStuff/2023-11-23.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
     "Revision/ShortNotes/CN/Circuit Switching.md",
-    "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/PracticeSet/media",
     "Revision/MadeEasyTS/MATH/media",
