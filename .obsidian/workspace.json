@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "67f5ca45ca664eeb",
+        "id": "0bf9ed7f7a4ca355",
         "type": "tabs",
         "children": [
           {
-            "id": "dc7725d9c46c397c",
+            "id": "1acf7ced129ae5bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-25.md",
+                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d81072fadd5804f2",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "77ceb199d1e815f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-25.md",
+                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-25.md",
+                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-25.md"
+                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md"
               }
             }
           },
@@ -161,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-11-25.md"
+                "file": "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md"
               }
             }
           },
@@ -218,12 +239,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dc7725d9c46c397c",
+  "active": "77ceb199d1e815f0",
   "lastOpenFiles": [
-    "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
-    "templates/media/Pasted image 20231125012103.png",
+    "Revision/PYQ/CN/Network Layer Protocol.md",
     "DialyStuff/2023-11-25.md",
+    "templates/media/Pasted image 20231125012103.png",
     "DialyStuff/2023-11-26.md",
     "templates/Normal Task Template.md",
     "Revision/PYQ/CN/media/Pasted image 20231125012606.png",
