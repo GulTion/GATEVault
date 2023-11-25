@@ -1,10 +1,7 @@
 ---
 type: MadeEasyTS
 subject: FULL
-status: Analysis
-atQ: 43
-startQ: 1
-endQ: 65
+status: Revision
 ---
 #card/FULL 
 
@@ -56,4 +53,6 @@ endQ: 65
 ![[Pasted image 20231126003654.png]]::![[Pasted image 20231126003710.png]]
 
 ![[Pasted image 20231126004241.png]]::0.9 ![[Pasted image 20231126004251.png]]
+
+![[Pasted image 20231126005300.png]]::![[Pasted image 20231126005306.png]]
 

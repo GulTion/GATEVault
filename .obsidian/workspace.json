@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,9 +189,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md"
-              }
+              "state": {}
             }
           },
           {
@@ -251,12 +245,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4db5f364c7d65280",
+  "active": "d81072fadd5804f2",
   "lastOpenFiles": [
+    "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231126005306.png",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231126005300.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126004251.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126004241.png",
     "templates/Normal Task Template.md",
-    "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126003710.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126003654.png",
     "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
@@ -267,9 +263,6 @@
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231125235942.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231125234550.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231125234535.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231125234527.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231125232607.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231125232553.png",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
     "Rules_at_First.md",
     "delete me.md",
