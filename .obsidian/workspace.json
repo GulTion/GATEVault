@@ -23,8 +23,22 @@
             "id": "d81072fadd5804f2",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Revision/PYQ/C/Conditional Statement - pyq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06be7f9d8d4a74dc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Revision/PYQ/C/media/Pasted image 20231122152544.png"
+              }
             }
           },
           {
@@ -52,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/Normal Task Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/Normal Task Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/Normal Task Template.md"
+              }
             }
           },
           {
@@ -189,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "templates/Normal Task Template.md"
+              }
             }
           },
           {
@@ -217,7 +237,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -245,8 +265,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d81072fadd5804f2",
+  "active": "cd2498f614f8ce8e",
   "lastOpenFiles": [
+    "Revision/PYQ/C/Conditional Statement - pyq.md",
+    "Revision/PYQ/C/media/Pasted image 20231122152544.png",
+    "Revision/PYQ/C/Arithmetic Operation - pyq.md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126005306.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126005300.png",
@@ -262,7 +285,6 @@
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231125235949.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231125235942.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231125234550.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231125234535.png",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
     "Rules_at_First.md",
     "delete me.md",
@@ -283,10 +305,8 @@
     "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
     "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
     "Revision/zealWorkBook/CN/TCP.md",
-    "Revision/MadeEasyTS/CN/COMPUTER NETWORKS (GATE 2022).md",
     "Revision/MadeEasyTS/CN/media",
     "Revision/MadeEasyTS/CN",
-    "Revision/ShortNotes/DLD/carry look a head.md",
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/PracticeSet/media",
     "Revision/MadeEasyTS/MATH/media",

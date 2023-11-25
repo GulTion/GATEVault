@@ -10,6 +10,7 @@
 - [ ] functionaly complete practice https://gateoverflow.in/tag/functional-completeness
 - [ ] watch entire video for sequencel circuit on youtube
 - [ ] all COA memeory PYQ star marking
+- [ ] [[Loop - pyq]] continue
 
 
 # Analysis A
