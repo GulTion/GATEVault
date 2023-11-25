@@ -1,0 +1,1 @@
+{"path":"Revision/MadeEasyTS/FULL/media/Pasted image 20231126003710.png","text":"Q.59 Which of the following is/are true about breadth first search of a directed graph. Here, d[i ] denotes depth of vertex i from source S of BFS traversal? Q For each back edge (1, v) 0 < d[u] < d[v].","libVersion":"0.2.3","langs":"eng"}

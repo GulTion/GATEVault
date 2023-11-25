@@ -38,6 +38,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd2498f614f8ce8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Normal Task Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -211,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -241,27 +253,29 @@
   },
   "active": "4db5f364c7d65280",
   "lastOpenFiles": [
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231126004251.png",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231126004241.png",
+    "templates/Normal Task Template.md",
+    "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231126003710.png",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231126003654.png",
+    "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
+    "DialyStuff/2023-11-25.md",
+    "Revision/ShortNotes/DSA/BFS DFS properties.md",
+    "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231125235949.png",
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231125235942.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231125234550.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231125234535.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231125234527.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231125232607.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231125232553.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231125232543.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231125230423.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231125230408.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231125225829.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231125225823.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231125224751.png",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
     "Rules_at_First.md",
-    "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "delete me.md",
-    "DialyStuff/2023-11-25.md",
     "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
-    "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "DialyStuff/2023-11-26.md",
-    "templates/Normal Task Template.md",
     "templates/media",
     "Revision/PYQ/DSA/Dynamic Programming - pyq.md",
     "Revision/PYQ/DLD/Boolean Algebra- pyq.md",
@@ -280,8 +294,6 @@
     "Revision/MadeEasyTS/CN/media",
     "Revision/MadeEasyTS/CN",
     "Revision/ShortNotes/DLD/carry look a head.md",
-    "Revision/ShortNotes/DBMS/TRANSACTIONS ANDCONCURRENCY CONTROL - GateOmedia.md",
-    "Revision/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/PracticeSet/media",
     "Revision/MadeEasyTS/MATH/media",

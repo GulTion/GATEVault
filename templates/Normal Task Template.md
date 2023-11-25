@@ -1,18 +1,16 @@
 # Subject A: CN
 - [ ] [[Transport Layer Protocol - pyq]]
-- [ ] https://gateoverflow.in/tag/token-bucket
 - [ ] [[Pasted image 20231125012103.png]]
       
 # Subject B: DSA
-- [ ] Micro Notes
-- [ ] FlashCard
-- [ ] Notes
-- [ ] PYQ
-- [ ] Zeal WorkBook
-- [ ] ZealTS
+- [ ] [[BFS DFS properties]] write on micronotes
+
 
 # Subject C: DLD & APTI
 - [ ] functionaly complete practice https://gateoverflow.in/tag/functional-completeness
+- [ ] watch entire video for sequencel circuit on youtube
+- [ ] all COA memeory PYQ star marking
+
 
 # Analysis A
 
