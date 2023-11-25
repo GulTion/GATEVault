@@ -43,5 +43,11 @@ endQ: 65
 
 ![[Pasted image 20231125223126.png]]::![[Pasted image 20231125223132.png]]
 
-![[Pasted image 20231125224751.png]]::D
+![[Pasted image 20231125224751.png]]::D, A is unable to generate 101
+
+![[Pasted image 20231125225823.png]]::![[Pasted image 20231125225829.png]]
+
+![[Pasted image 20231125232553.png]]::![[Pasted image 20231125232607.png]]
+
+![[Pasted image 20231125234527.png]]::![[Pasted image 20231125234550.png]]
 

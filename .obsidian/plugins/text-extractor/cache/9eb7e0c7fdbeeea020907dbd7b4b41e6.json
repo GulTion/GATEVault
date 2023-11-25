@@ -1,0 +1,1 @@
+{"path":"Revision/MadeEasyTS/FULL/media/Pasted image 20231125230423.png","text":"Solution : @ Result of inner query is non empty because even no record satisfy where condition of inner query count (*) produces one record. So every record of R where condition true.","libVersion":"0.2.3","langs":"eng"}
