@@ -49,11 +49,11 @@ status: acquiring
 
 
 # CSMA/CD
-![[Pasted image 20231116175202.png]]::B![[Pasted image 20231116175217.png]] <!--SR:!2023-11-26,3,238-->
+![[Pasted image 20231116175202.png]]::B![[Pasted image 20231116175217.png]] <!--SR:!2023-12-06,10,258-->
 
 ![[Pasted image 20231116180131.png]]::0.125 ![[Pasted image 20231116180209.png]]![[Pasted image 20231116180225.png]] <!--SR:!2023-11-26,3,212-->
 
-![[Pasted image 20231116180316.png]]::![[Pasted image 20231116180209.png]]![[Pasted image 20231116180344.png]] <!--SR:!2023-11-26,3,238-->
+![[Pasted image 20231116180316.png]]::![[Pasted image 20231116180209.png]]![[Pasted image 20231116180344.png]] <!--SR:!2023-12-07,11,258-->
 
 ![[Pasted image 20231116182409.png]]::![[Pasted image 20231116182420.png]] <!--SR:!2023-11-24,3,232-->
 
