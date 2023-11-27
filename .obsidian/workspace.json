@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Normal Task Template.md",
+                "file": "DialyStuff/2023-11-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Normal Task Template.md",
+                "file": "DialyStuff/2023-11-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Normal Task Template.md",
+                "file": "DialyStuff/2023-11-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Normal Task Template.md"
+                "file": "DialyStuff/2023-11-27.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/Normal Task Template.md"
+                "file": "DialyStuff/2023-11-27.md"
               }
             }
           },
@@ -267,6 +267,8 @@
   },
   "active": "cd2498f614f8ce8e",
   "lastOpenFiles": [
+    "templates/Normal Task Template.md",
+    "DialyStuff/2023-11-27.md",
     "Revision/PYQ/C/Conditional Statement - pyq.md",
     "Revision/PYQ/C/media/Pasted image 20231122152544.png",
     "Revision/PYQ/C/Arithmetic Operation - pyq.md",
@@ -275,7 +277,6 @@
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126005300.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126004251.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126004241.png",
-    "templates/Normal Task Template.md",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126003710.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126003654.png",
     "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
