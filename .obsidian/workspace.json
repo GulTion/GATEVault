@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
+                "file": "DialyStuff/2023-11-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
+                "file": "DialyStuff/2023-11-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
+                "file": "DialyStuff/2023-11-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md"
+                "file": "DialyStuff/2023-11-27.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md"
+                "file": "DialyStuff/2023-11-27.md"
               }
             }
           },
@@ -279,6 +279,7 @@
   },
   "active": "5923ba5aa5394ac7",
   "lastOpenFiles": [
+    "Revision/PYQ/CN/media/Pasted image 20231127152436.png",
     "Revision/PYQ/CN/media/Pasted image 20231127133447.png",
     "DialyStuff/2023-11-27.md",
     "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
@@ -298,7 +299,6 @@
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231125235949.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231125235942.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231125234550.png",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
     "Rules_at_First.md",
     "delete me.md",

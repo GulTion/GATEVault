@@ -19,3 +19,7 @@ src: https://practicepaper.in/gate-cse/transport-layer-protocol
 
 ![[Pasted image 20231125012533.png]]::11 ![[Pasted image 20231125012606.png]]
 
+![[Pasted image 20231127152436.png]]::7 and sequence = 2,4,8,9,10,1,2,4,5,6,7
+
+
+
