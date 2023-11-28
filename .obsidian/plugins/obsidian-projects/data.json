@@ -328,12 +328,22 @@
                 "field": "subject",
                 "operator": "is",
                 "enabled": true,
-                "value": "CN"
+                "value": "DSA"
               }
             ]
           },
           "colors": {
-            "conditions": []
+            "conditions": [
+              {
+                "color": "#6bff84",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Revision"
+                }
+              }
+            ]
           },
           "sort": {
             "criteria": []

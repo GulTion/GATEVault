@@ -16,6 +16,26 @@
             }
           },
           {
+            "id": "721d190f1fda84d6",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "7659d568b4ff0f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "db4b9b54e1b9fa8b",
             "type": "leaf",
             "state": {
@@ -52,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-28.md",
+                "file": "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-28.md",
+                "file": "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-28.md"
+                "file": "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md"
               }
             }
           },
@@ -194,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-11-28.md"
+                "file": "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md"
               }
             }
           },
@@ -251,8 +271,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "733f6794e7746260",
+  "active": "7659d568b4ff0f28",
   "lastOpenFiles": [
+    "DialyStuff/2023-11-28.md",
     "DialyStuff/media/Pasted image 20231128155646.png",
     "Revision/PYQ/CN/Application Layer - PYQ.md",
     "Revision/PYQ/CN/media/Pasted image 20231128152547.png",
@@ -263,7 +284,6 @@
     "Revision/PYQ/CN/media/Pasted image 20231128143037.png",
     "Revision/ShortNotes/CN/Circuit Switching.md",
     "Revision/PYQ/CN/media/Pasted image 20231128140410.png",
-    "DialyStuff/2023-11-28.md",
     "Revision/PYQ/CN/media/Pasted image 20231128135338.png",
     "templates/Normal Task Template.md",
     "templates/media/Pasted image 20231125012103.png",
@@ -274,7 +294,6 @@
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
     "Revision/PYQ/CN/media/Pasted image 20231128131311.png",
-    "Revision/PYQ/CN/media/Pasted image 20231128123932.png",
     "Revision/PYQ/C/Arithmetic Operation - pyq.md",
     "DialyStuff/2023-11-25.md",
     "Revision/ShortNotes/DSA/BFS DFS properties.md",
