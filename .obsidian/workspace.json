@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
+                "file": "DialyStuff/2023-11-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
+                "file": "DialyStuff/2023-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
+                "file": "DialyStuff/2023-11-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md"
+                "file": "DialyStuff/2023-11-28.md"
               }
             }
           },
@@ -195,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/PYQ/CN/Transport Layer Protocol - pyq.md"
+                "file": "DialyStuff/2023-11-28.md"
               }
             }
           },
@@ -254,9 +253,14 @@
   },
   "active": "733f6794e7746260",
   "lastOpenFiles": [
+    "Revision/PYQ/CN/Application Layer - PYQ.md",
+    "Revision/PYQ/CN/media/Pasted image 20231128152547.png",
+    "Revision/PYQ/CN/media/Pasted image 20231128145339.png",
+    "Revision/PYQ/CN/media/Pasted image 20231128144015.png",
+    "Revision/PYQ/CN/Data Link Layer - PYQ.md",
+    "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
     "Revision/PYQ/CN/media/Pasted image 20231128143037.png",
     "Revision/ShortNotes/CN/Circuit Switching.md",
-    "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
     "Revision/PYQ/CN/media/Pasted image 20231128140410.png",
     "DialyStuff/2023-11-28.md",
     "Revision/PYQ/CN/media/Pasted image 20231128135338.png",
@@ -268,13 +272,8 @@
     "Revision/PYQ/C/Conditional Statement - pyq.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
-    "Revision/PYQ/CN/Data Link Layer - PYQ.md",
     "Revision/PYQ/CN/media/Pasted image 20231128131311.png",
     "Revision/PYQ/CN/media/Pasted image 20231128123932.png",
-    "Revision/PYQ/CN/media/Pasted image 20231128123848.png",
-    "Revision/PYQ/CN/media/Pasted image 20231127173154.png",
-    "Revision/PYQ/CN/media/Pasted image 20231127172622.png",
-    "Revision/PYQ/CN/media/Pasted image 20231127172552.png",
     "Revision/PYQ/C/Arithmetic Operation - pyq.md",
     "DialyStuff/2023-11-25.md",
     "Revision/ShortNotes/DSA/BFS DFS properties.md",
@@ -291,7 +290,6 @@
     "Revision/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
     "Revision/MadeEasyTS/media",
     "Revision/ShortNotes/CN/TCP Notes.md",
-    "Revision/ZealTS/DSA/TEST ID-12 DSA-4.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/MadeEasyTS/CN/media",
     "Revision/MadeEasyTS/CN",
