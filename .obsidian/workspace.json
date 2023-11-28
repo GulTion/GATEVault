@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-28.md",
+                "file": "Revision/PYQ/CN/Data Link Layer - PYQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252,
-    "collapsed": true
+    "width": 252
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -160,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-28.md",
+                "file": "Revision/PYQ/CN/Data Link Layer - PYQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-28.md",
+                "file": "Revision/PYQ/CN/Data Link Layer - PYQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-28.md"
+                "file": "Revision/PYQ/CN/Data Link Layer - PYQ.md"
               }
             }
           },
@@ -220,7 +219,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-11-28.md"
+                "file": "Revision/PYQ/CN/Data Link Layer - PYQ.md"
               }
             }
           },
@@ -279,8 +278,12 @@
   },
   "active": "1acf7ced129ae5bf",
   "lastOpenFiles": [
-    "DialyStuff/2023-11-27.md",
+    "Revision/PYQ/CN/media/Pasted image 20231128123932.png",
+    "Revision/PYQ/CN/media/Pasted image 20231128123848.png",
     "DialyStuff/2023-11-28.md",
+    "Revision/PYQ/CN/Data Link Layer - PYQ.md",
+    "Revision/PYQ/C/Conditional Statement - pyq.md",
+    "DialyStuff/2023-11-27.md",
     "Revision/PYQ/CN/media/Pasted image 20231127173154.png",
     "Revision/PYQ/CN/media/Pasted image 20231127172622.png",
     "Revision/PYQ/CN/media/Pasted image 20231127172552.png",
@@ -288,14 +291,12 @@
     "Revision/PYQ/CN/media/Pasted image 20231127133447.png",
     "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
     "templates/Normal Task Template.md",
-    "Revision/PYQ/C/Conditional Statement - pyq.md",
     "Revision/PYQ/C/media/Pasted image 20231122152544.png",
     "Revision/PYQ/C/Arithmetic Operation - pyq.md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126005306.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126005300.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126004251.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231126004241.png",
     "DialyStuff/2023-11-25.md",
     "Revision/ShortNotes/DSA/BFS DFS properties.md",
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
@@ -316,8 +317,6 @@
     "Revision/ZealTS/DSA/TEST ID-12 DSA-4.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
-    "Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md",
-    "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
     "Revision/MadeEasyTS/CN/media",
     "Revision/MadeEasyTS/CN",
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
