@@ -6,7 +6,7 @@ src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 ---
 #card/CN/NetworkLayer
 
-![[Pasted image 20231030144234.png]]::3![[Pasted image 20231030144248.png]] <!--SR:!2023-11-28,16,250-->
+![[Pasted image 20231030144234.png]]::3![[Pasted image 20231030144248.png]] <!--SR:!2024-01-22,55,270-->
 
 #today ![[Pasted image 20231030144316.png]]::A,C ![[Pasted image 20231030144359.png]] <!--SR:!2023-11-07,2,230-->
 

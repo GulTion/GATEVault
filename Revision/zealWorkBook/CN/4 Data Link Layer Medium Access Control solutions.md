@@ -20,7 +20,7 @@ status: acquiring
 ![[Pasted image 20231027154001.png]]![[Pasted image 20231027153923.png]]::D![[Pasted image 20231027153938.png]] <!--SR:!2023-12-10,19,270-->
 
 
-![[Pasted image 20231027154551.png]]::A, sent by anyone, in which only one sucess and other get fail so![[Pasted image 20231027154608.png]] <!--SR:!2023-11-25,13,270-->
+![[Pasted image 20231027154551.png]]::A, sent by anyone, in which only one sucess and other get fail so![[Pasted image 20231027154608.png]] <!--SR:!2024-01-15,48,290-->
 
 
  <!--SR:!2023-11-03,4,275-->
@@ -51,11 +51,11 @@ status: acquiring
 # CSMA/CD
 ![[Pasted image 20231116175202.png]]::B![[Pasted image 20231116175217.png]] <!--SR:!2023-12-06,10,258-->
 
-![[Pasted image 20231116180131.png]]::0.125 ![[Pasted image 20231116180209.png]]![[Pasted image 20231116180225.png]] <!--SR:!2023-11-26,3,212-->
+![[Pasted image 20231116180131.png]]::0.125 ![[Pasted image 20231116180209.png]]![[Pasted image 20231116180225.png]] <!--SR:!2023-12-06,8,232-->
 
 ![[Pasted image 20231116180316.png]]::![[Pasted image 20231116180209.png]]![[Pasted image 20231116180344.png]] <!--SR:!2023-12-07,11,258-->
 
-![[Pasted image 20231116182409.png]]::![[Pasted image 20231116182420.png]] <!--SR:!2023-11-24,3,232-->
+![[Pasted image 20231116182409.png]]::![[Pasted image 20231116182420.png]] <!--SR:!2023-12-07,9,252-->
 
-![[Pasted image 20231116182434.png]]::![[Pasted image 20231116182446.png]] <!--SR:!2023-11-24,3,232-->
+![[Pasted image 20231116182434.png]]::![[Pasted image 20231116182446.png]] <!--SR:!2023-12-08,10,252-->
 

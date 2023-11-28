@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-27.md",
+                "file": "DialyStuff/2023-11-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 252,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -159,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-27.md",
+                "file": "DialyStuff/2023-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-27.md",
+                "file": "DialyStuff/2023-11-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-27.md"
+                "file": "DialyStuff/2023-11-28.md"
               }
             }
           },
@@ -219,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-11-27.md"
+                "file": "DialyStuff/2023-11-28.md"
               }
             }
           },
@@ -278,10 +279,11 @@
   },
   "active": "1acf7ced129ae5bf",
   "lastOpenFiles": [
+    "DialyStuff/2023-11-27.md",
+    "DialyStuff/2023-11-28.md",
     "Revision/PYQ/CN/media/Pasted image 20231127173154.png",
     "Revision/PYQ/CN/media/Pasted image 20231127172622.png",
     "Revision/PYQ/CN/media/Pasted image 20231127172552.png",
-    "DialyStuff/2023-11-27.md",
     "Revision/PYQ/CN/media/Pasted image 20231127152436.png",
     "Revision/PYQ/CN/media/Pasted image 20231127133447.png",
     "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
@@ -294,7 +296,6 @@
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126005300.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126004251.png",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231126004241.png",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231126003710.png",
     "DialyStuff/2023-11-25.md",
     "Revision/ShortNotes/DSA/BFS DFS properties.md",
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
