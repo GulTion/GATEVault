@@ -1,6 +1,10 @@
 # Subject A: CN
-- [ ] [[Transport Layer Protocol - pyq]]
-- [ ] [[Pasted image 20231125012103.png]]
+- NL
+	- Practice Question
+		- Subnetting and SuperNetting
+	- Revision
+		- OSF,DVR,LINK state PYQ
+- 
       
 # Subject B: DSA
 - [ ] [[BFS DFS properties]] write on micronotes

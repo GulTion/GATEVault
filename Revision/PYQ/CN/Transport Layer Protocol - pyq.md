@@ -1,13 +1,11 @@
 ---
 subject: CN
 type: PYQ
-atQ: 26
-endQ: 48
-status: acquiring
+status: Revision
 src: https://practicepaper.in/gate-cse/transport-layer-protocol
 ---
-
-![[Pasted image 20231124121408.png]]::B,C,D
+#card/CN/TCP 
+![[Pasted image 20231124121408.png]]::B,C,D![[Pasted image 20231128143037.png]]
 
 ![[Pasted image 20231124143346.png]]::44 
 
@@ -23,4 +21,8 @@ src: https://practicepaper.in/gate-cse/transport-layer-protocol
 
 ![[Pasted image 20231127172552.png]]::![[Pasted image 20231127172622.png]]![[Pasted image 20231127173154.png]]
 
+
+![[Pasted image 20231128135338.png]]::D 
+
+![[Pasted image 20231128140410.png]]::B min(congestion, receiver)
 
