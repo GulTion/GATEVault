@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PracticeSet/Pigeon Hole Principle.md",
+                "file": "Revision/PracticeSet/Input Output.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PracticeSet/Pigeon Hole Principle.md",
+                "file": "Revision/PracticeSet/Input Output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PracticeSet/Pigeon Hole Principle.md",
+                "file": "Revision/PracticeSet/Input Output.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PracticeSet/Pigeon Hole Principle.md"
+                "file": "Revision/PracticeSet/Input Output.md"
               }
             }
           },
@@ -222,7 +222,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/PracticeSet/Pigeon Hole Principle.md"
+                "file": "Revision/PracticeSet/Input Output.md"
               }
             }
           },
@@ -281,9 +281,11 @@
   },
   "active": "106b873affc3ea1f",
   "lastOpenFiles": [
+    "Revision/PracticeSet/media/IO device.pdf",
+    "Revision/PracticeSet/Pigeon Hole Principle.md",
+    "Revision/PracticeSet/Input Output.md",
     "Revision/PracticeSet/Expression Analysis.md",
     "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
-    "Revision/PracticeSet/Pigeon Hole Principle.md",
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
     "Revision/zealWorkBook/COA/IO device.md",
     "DialyStuff/2023-11-29.md",
@@ -315,8 +317,6 @@
     "Revision/PYQ/CN/media/Pasted image 20231128131311.png",
     "Revision/PYQ/C/Arithmetic Operation - pyq.md",
     "DialyStuff/2023-11-25.md",
-    "Revision/ShortNotes/DSA/BFS DFS properties.md",
-    "Revision/zealWorkBook/CN/Application Layer 1.md",
     "templates/media",
     "Revision/MadeEasyTS/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
