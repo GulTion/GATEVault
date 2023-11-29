@@ -8,6 +8,6 @@ src: https://practicepaper.in/gate-cse/application-layer-protocols
 ---
 #card/CN/ApplicationLayer 
 
-![[Pasted image 20231128144015.png]]::6
+![[Pasted image 20231128144015.png]]::6 <!--SR:!2023-12-01,2,150-->
 
 ![[Pasted image 20231128145339.png]]![[Pasted image 20231128152547.png]]

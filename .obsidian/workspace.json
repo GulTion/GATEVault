@@ -13,7 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealTS/FULL/MOCK 1 2023.md",
+                "file": "Revision/ShortNotes/DSA/Stack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "106b873affc3ea1f",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "832b28445dc48bcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/PYQ/C/Loop - pyq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd396c03f40676da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/FULL/MOCK 1 2023.md",
+                "file": "Revision/ShortNotes/DSA/Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/FULL/MOCK 1 2023.md",
+                "file": "Revision/ShortNotes/DSA/Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/FULL/MOCK 1 2023.md"
+                "file": "Revision/ShortNotes/DSA/Stack.md"
               }
             }
           },
@@ -161,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/ZealTS/FULL/MOCK 1 2023.md"
+                "file": "Revision/ShortNotes/DSA/Stack.md"
               }
             }
           },
@@ -221,6 +253,10 @@
   },
   "active": "840988c37990bdfe",
   "lastOpenFiles": [
+    "DialyStuff/2023-11-29.md",
+    "Revision/PYQ/C/Loop - pyq.md",
+    "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
+    "Revision/ZealTS/FULL/MOCK 1 2023.md",
     "DialyStuff/2023-11-28.md",
     "templates/Normal Task Template.md",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
@@ -254,11 +290,7 @@
     "templates/media",
     "Revision/PYQ/DSA/Dynamic Programming - pyq.md",
     "Revision/PYQ/DLD/Boolean Algebra- pyq.md",
-    "DialyStuff/2023-11-24.md",
-    "Revision/zealWorkBook/DM/DS advanced.md",
-    "Revision/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
     "Revision/MadeEasyTS/media",
-    "Revision/ShortNotes/CN/TCP Notes.md",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
     "Revision/MadeEasyTS/CN/media",
     "Revision/MadeEasyTS/CN",
