@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
+                "file": "DialyStuff/2023-11-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
+                "file": "DialyStuff/2023-11-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
+                "file": "DialyStuff/2023-11-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ShortNotes/CN/ICMP - GateOMedia.md"
+                "file": "DialyStuff/2023-11-29.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/ShortNotes/CN/ICMP - GateOMedia.md"
+                "file": "DialyStuff/2023-11-29.md"
               }
             }
           },
@@ -204,12 +204,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,9 +234,9 @@
   },
   "active": "7b715ea93ad277ce",
   "lastOpenFiles": [
-    "DialyStuff/2023-11-29.md",
-    "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
     "Revision/ShortNotes/DBMS/TRANSACTIONS ANDCONCURRENCY CONTROL - GateOmedia.md",
+    "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
+    "DialyStuff/2023-11-29.md",
     "Revision/PracticeSet/Input Output - note.md",
     "Revision/PracticeSet/media/IO device.pdf",
     "Revision/PracticeSet/Pigeon Hole Principle.md",
