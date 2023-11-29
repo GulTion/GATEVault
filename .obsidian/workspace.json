@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/COA/IO device.md",
+                "file": "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,8 +47,12 @@
             "id": "106b873affc3ea1f",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Revision/PracticeSet/Pigeon Hole Principle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -76,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/zealWorkBook/COA/IO device.md",
+                "file": "Revision/PracticeSet/Pigeon Hole Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/zealWorkBook/COA/IO device.md",
+                "file": "Revision/PracticeSet/Pigeon Hole Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/zealWorkBook/COA/IO device.md"
+                "file": "Revision/PracticeSet/Pigeon Hole Principle.md"
               }
             }
           },
@@ -218,7 +222,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/zealWorkBook/COA/IO device.md"
+                "file": "Revision/PracticeSet/Pigeon Hole Principle.md"
               }
             }
           },
@@ -247,7 +251,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -275,10 +279,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f86323a076eeb16b",
+  "active": "106b873affc3ea1f",
   "lastOpenFiles": [
-    "DialyStuff/2023-11-29.md",
+    "Revision/PracticeSet/Expression Analysis.md",
+    "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
+    "Revision/PracticeSet/Pigeon Hole Principle.md",
+    "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
     "Revision/zealWorkBook/COA/IO device.md",
+    "DialyStuff/2023-11-29.md",
     "Revision/PYQ/MATH/Probability-pyq.md",
     "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
     "Revision/PYQ/C/Loop - pyq.md",
@@ -304,15 +312,11 @@
     "Revision/PYQ/C/media/Pasted image 20231122152544.png",
     "Revision/PYQ/C/Conditional Statement - pyq.md",
     "Revision/PYQ/CN/Network Layer Protocol.md",
-    "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
     "Revision/PYQ/CN/media/Pasted image 20231128131311.png",
     "Revision/PYQ/C/Arithmetic Operation - pyq.md",
     "DialyStuff/2023-11-25.md",
     "Revision/ShortNotes/DSA/BFS DFS properties.md",
     "Revision/zealWorkBook/CN/Application Layer 1.md",
-    "Rules_at_First.md",
-    "delete me.md",
-    "Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "templates/media",
     "Revision/MadeEasyTS/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",

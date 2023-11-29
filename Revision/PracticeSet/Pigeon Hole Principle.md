@@ -3,5 +3,5 @@ subject: DM
 type: Practice
 ---
 
-#note
+#note/Practice 
 ![[13. Pigeon hole principle.pdf]]
