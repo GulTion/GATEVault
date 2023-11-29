@@ -1,9 +1,6 @@
 ---
 type: zealWorkBook
 subject: COA
-startQ: 10
-endQ: 31
-atQ: 31
 status: Revision
 ---
 #card/COA/io_device ![[Pasted image 20231012170717.png]]::512 <!--SR:!2023-11-15,14,290-->
