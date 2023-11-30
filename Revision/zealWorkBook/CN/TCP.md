@@ -9,7 +9,7 @@ status: Revision
 #card/CN/Transport_Layer
 ![[Pasted image 20231124131630.png]]::![[Pasted image 20231124131649.png]] <!--SR:!2023-12-01,3,194-->
 
-![[Pasted image 20231124132006.png]]::![[Pasted image 20231124132022.png]]
+![[Pasted image 20231124132006.png]]::![[Pasted image 20231124132022.png]] <!--SR:!2023-12-03,3,198-->
 
 ![[Pasted image 20231124132608.png]]::![[Pasted image 20231124132617.png]] <!--SR:!2023-12-01,3,194-->
 

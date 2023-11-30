@@ -16,7 +16,7 @@ atQ: 0
 ![[Pasted image 20231024192928.png]]::![[Pasted image 20231024192933.png]] <!--SR:!2024-01-10,59,310-->
 
 
-![[Pasted image 20231024193817.png]]::![[Pasted image 20231024193824.png]] <!--SR:!2023-11-30,9,256-->
+![[Pasted image 20231024193817.png]]::![[Pasted image 20231024193824.png]] <!--SR:!2023-12-31,31,276-->
 
 
 #today ![[Pasted image 20231024194357.png]]::![[Pasted image 20231024194402.png]] <!--SR:!2023-10-31,4,276-->

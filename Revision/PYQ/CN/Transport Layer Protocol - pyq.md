@@ -5,17 +5,17 @@ status: Revision
 src: https://practicepaper.in/gate-cse/transport-layer-protocol
 ---
 #card/CN/TCP 
-![[Pasted image 20231124121408.png]]::B,C,D
+![[Pasted image 20231124121408.png]]::B,C,D <!--SR:!2023-12-02,2,158-->
 
 ![[Pasted image 20231128143037.png]]::B <!--SR:!2023-12-01,2,150-->
 
 ![[Pasted image 20231124143346.png]]::44 <!--SR:!2023-12-01,2,150-->
 
-![[Pasted image 20231124143802.png]]::C ![[Pasted image 20231124143826.png]]
+![[Pasted image 20231124143802.png]]::C ![[Pasted image 20231124143826.png]] <!--SR:!2023-12-02,2,158-->
 
 ![[Pasted image 20231125003804.png]]::![[Pasted image 20231125003827.png]] <!--SR:!2023-12-01,2,150-->
 
-![[Pasted image 20231125004137.png]]::B ![[Pasted image 20231125004203.png]]
+![[Pasted image 20231125004137.png]]::B ![[Pasted image 20231125004203.png]] <!--SR:!2023-12-02,2,158-->
 
 ![[Pasted image 20231125012533.png]]::11 ![[Pasted image 20231125012606.png]] <!--SR:!2023-12-01,2,150-->
 
@@ -26,5 +26,5 @@ src: https://practicepaper.in/gate-cse/transport-layer-protocol
 
 ![[Pasted image 20231128135338.png]]::D <!--SR:!2023-12-01,2,150-->
 
-![[Pasted image 20231128140410.png]]::B min(congestion, receiver)
+![[Pasted image 20231128140410.png]]::B min(congestion, receiver) <!--SR:!2023-12-02,2,158-->
 
