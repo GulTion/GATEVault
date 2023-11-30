@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/COA/input-output.md",
+                "file": "Revision/PYQ/COA/input-output - pyq.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/COA/input-output.md",
+                "file": "Revision/PYQ/COA/input-output - pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/COA/input-output.md",
+                "file": "Revision/PYQ/COA/input-output - pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/COA/input-output.md"
+                "file": "Revision/PYQ/COA/input-output - pyq.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/PYQ/COA/input-output.md"
+                "file": "Revision/PYQ/COA/input-output - pyq.md"
               }
             }
           },
@@ -245,10 +245,20 @@
   },
   "active": "0b8b8af3bb38a0ae",
   "lastOpenFiles": [
+    "Revision/PYQ/COA/media/Pasted image 20231130165706.png",
+    "Revision/PYQ/COA/media/Pasted image 20231130165642.png",
+    "Revision/PYQ/COA/media/Pasted image 20231130164709.png",
+    "Revision/PYQ/COA/media/Pasted image 20231130163239.png",
+    "Revision/PYQ/COA/media/Pasted image 20231130163226.png",
+    "index.md",
+    "FlowChart.canvas",
+    "COA.md",
+    "Home.md",
+    "Revision/PYQ/COA/input-output - pyq.md",
+    "Untitled.md",
     "Revision/PDF/11. Expression Analysis.pdf",
     "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
     "DialyStuff/2023-11-30.md",
-    "Revision/PYQ/COA/input-output.md",
     "Revision/PYQ/COA/media/Pasted image 20231130154920.png",
     "Revision/PracticeSet/Expression Analysis.md",
     "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
@@ -269,19 +279,11 @@
     "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
     "Revision/PYQ/C/Loop - pyq.md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
-    "Revision/ZealTS/FULL/MOCK 1 2023.md",
-    "DialyStuff/2023-11-28.md",
-    "templates/Normal Task Template.md",
-    "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "DialyStuff/media/Pasted image 20231128155646.png",
     "Revision/PYQ/CN/media/Pasted image 20231128152547.png",
     "Revision/PYQ/CN/media/Pasted image 20231128145339.png",
     "Revision/PYQ/CN/media/Pasted image 20231128144015.png",
     "Revision/PYQ/CN/media/Pasted image 20231128143037.png",
-    "Revision/PYQ/CN/media/Pasted image 20231128140410.png",
-    "Revision/PYQ/CN/media/Pasted image 20231128135338.png",
-    "templates/media/Pasted image 20231125012103.png",
-    "Revision/PYQ/C/media/Pasted image 20231122152544.png",
     "templates/media",
     "Revision/MadeEasyTS/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
@@ -290,7 +292,6 @@
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/PracticeSet/media",
     "Revision/MadeEasyTS/MATH/media",
-    "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

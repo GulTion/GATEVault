@@ -1,0 +1,1 @@
+{"path":"Revision/PYQ/COA/media/Pasted image 20231130165706.png","text":"D 512 KB-1/50 sec 2) 4 Byte transfer will take total :4/(512 x 50 x 21%) = 152.58 ns DMA will transfer 4B in 40nsec So, Cpu will be blocked (40/152.58) = 26% of time Best matching answer is (B).","libVersion":"0.2.3","langs":"eng"}
