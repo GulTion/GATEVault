@@ -33,8 +33,8 @@ atQ: 0
 |          |                                                               |
 
 
-8. maximum and minimum positive number in custom IEEE![[Pasted image 20231007100240.png]]::![[Pasted image 20231007100253.png]] <!--SR:!2023-11-13,13,270-->
-- 16. find Number Around N![[Pasted image 20231007100914.png]]::![[Pasted image 20231007100920.png]] <!--SR:!2023-11-15,14,290-->
+8. maximum and minimum positive number in custom IEEE![[Pasted image 20231007100240.png]]::![[Pasted image 20231007100253.png]] <!--SR:!2024-01-16,47,290-->
+- 16. find Number Around N![[Pasted image 20231007100914.png]]::![[Pasted image 20231007100920.png]] <!--SR:!2024-01-29,60,310-->
 undefined
 
 
