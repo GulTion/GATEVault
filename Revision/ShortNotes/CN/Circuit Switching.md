@@ -1,9 +1,9 @@
 ---
 subject: CN
 type: ShortNotes
-sr-due: 2023-11-24
-sr-interval: 7
-sr-ease: 170
+sr-due: 2024-01-01
+sr-interval: 32
+sr-ease: 190
 ---
 #note
 ## **Switching Techniques-**

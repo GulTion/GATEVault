@@ -4,9 +4,9 @@ subject: MATH
 startQ: 1
 endQ: 95
 atQ: 3
-sr-due: 2023-11-30
-sr-interval: 9
-sr-ease: 190
+sr-due: 2023-12-25
+sr-interval: 25
+sr-ease: 210
 ---
 #note
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-29.md",
+                "file": "DialyStuff/2023-11-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-11-29.md",
+                "file": "Revision/PracticeSet/Expression Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b8b8af3bb38a0ae",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Revision/PDF/11. Expression Analysis.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-11-29.md",
+                "file": "Revision/PDF/11. Expression Analysis.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-11-29.md",
+                "file": "Revision/PDF/11. Expression Analysis.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-11-29.md"
+                "file": "Revision/PDF/11. Expression Analysis.pdf"
               }
             }
           },
@@ -175,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-11-29.md"
+                "file": "Revision/PDF/11. Expression Analysis.pdf"
               }
             }
           },
@@ -232,16 +242,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b715ea93ad277ce",
+  "active": "0b8b8af3bb38a0ae",
   "lastOpenFiles": [
+    "Revision/PracticeSet/Expression Analysis.md",
+    "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
+    "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
+    "Binary Operation Overflow stuff.md",
     "Revision/ShortNotes/DBMS/TRANSACTIONS ANDCONCURRENCY CONTROL - GateOmedia.md",
-    "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
+    "DialyStuff/2023-11-30.md",
     "DialyStuff/2023-11-29.md",
+    "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
+    "Revision/ShortNotes/CN/Circuit Switching.md",
+    "Revision/ShortNotes/DSA/DAC - GateOmedia.md",
+    "Revision/ShortNotes/DSA/Stack.md",
+    "Revision/ShortNotes/CN/ICMP - GateOMedia.md",
     "Revision/PracticeSet/Input Output - note.md",
     "Revision/PracticeSet/media/IO device.pdf",
     "Revision/PracticeSet/Pigeon Hole Principle.md",
-    "Revision/PracticeSet/Expression Analysis.md",
-    "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
     "Revision/zealWorkBook/COA/IO device.md",
     "Revision/PYQ/MATH/Probability-pyq.md",
     "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
@@ -259,18 +276,11 @@
     "Revision/PYQ/CN/Data Link Layer - PYQ.md",
     "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
     "Revision/PYQ/CN/media/Pasted image 20231128143037.png",
-    "Revision/ShortNotes/CN/Circuit Switching.md",
     "Revision/PYQ/CN/media/Pasted image 20231128140410.png",
     "Revision/PYQ/CN/media/Pasted image 20231128135338.png",
     "templates/media/Pasted image 20231125012103.png",
-    "DialyStuff/2023-11-27.md",
-    "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/PYQ/C/media/Pasted image 20231122152544.png",
-    "Revision/PYQ/C/Conditional Statement - pyq.md",
-    "Revision/PYQ/CN/Network Layer Protocol.md",
     "Revision/PYQ/CN/media/Pasted image 20231128131311.png",
-    "Revision/PYQ/C/Arithmetic Operation - pyq.md",
-    "DialyStuff/2023-11-25.md",
     "templates/media",
     "Revision/MadeEasyTS/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",

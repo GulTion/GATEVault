@@ -2,9 +2,9 @@
 type: ShortNotes
 subject: DSA
 atQ: 0
-sr-due: 2023-11-27
-sr-interval: 9
-sr-ease: 170
+sr-due: 2023-12-30
+sr-interval: 30
+sr-ease: 190
 ---
 #note
 

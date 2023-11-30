@@ -2,8 +2,8 @@
 subject: DSA
 type: ShortNotes
 status: Revision
-sr-due: 2023-11-22
-sr-interval: 5
+sr-due: 2023-12-15
+sr-interval: 15
 sr-ease: 175
 ---
 #note
