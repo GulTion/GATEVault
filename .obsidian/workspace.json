@@ -35,9 +35,11 @@
             "id": "0b8b8af3bb38a0ae",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Revision/PDF/11. Expression Analysis.pdf"
+                "file": "Revision/PYQ/COA/input-output.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252,
-    "collapsed": true
+    "width": 252
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PDF/11. Expression Analysis.pdf",
+                "file": "Revision/PYQ/COA/input-output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PDF/11. Expression Analysis.pdf",
+                "file": "Revision/PYQ/COA/input-output.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PDF/11. Expression Analysis.pdf"
+                "file": "Revision/PYQ/COA/input-output.md"
               }
             }
           },
@@ -185,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/PDF/11. Expression Analysis.pdf"
+                "file": "Revision/PYQ/COA/input-output.md"
               }
             }
           },
@@ -244,12 +245,16 @@
   },
   "active": "0b8b8af3bb38a0ae",
   "lastOpenFiles": [
+    "Revision/PDF/11. Expression Analysis.pdf",
+    "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
+    "DialyStuff/2023-11-30.md",
+    "Revision/PYQ/COA/input-output.md",
+    "Revision/PYQ/COA/media/Pasted image 20231130154920.png",
     "Revision/PracticeSet/Expression Analysis.md",
     "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
     "Binary Operation Overflow stuff.md",
     "Revision/ShortNotes/DBMS/TRANSACTIONS ANDCONCURRENCY CONTROL - GateOmedia.md",
-    "DialyStuff/2023-11-30.md",
     "DialyStuff/2023-11-29.md",
     "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
     "Revision/ShortNotes/CN/Circuit Switching.md",
@@ -269,18 +274,14 @@
     "templates/Normal Task Template.md",
     "Revision/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
     "DialyStuff/media/Pasted image 20231128155646.png",
-    "Revision/PYQ/CN/Application Layer - PYQ.md",
     "Revision/PYQ/CN/media/Pasted image 20231128152547.png",
     "Revision/PYQ/CN/media/Pasted image 20231128145339.png",
     "Revision/PYQ/CN/media/Pasted image 20231128144015.png",
-    "Revision/PYQ/CN/Data Link Layer - PYQ.md",
-    "Revision/PYQ/CN/Transport Layer Protocol - pyq.md",
     "Revision/PYQ/CN/media/Pasted image 20231128143037.png",
     "Revision/PYQ/CN/media/Pasted image 20231128140410.png",
     "Revision/PYQ/CN/media/Pasted image 20231128135338.png",
     "templates/media/Pasted image 20231125012103.png",
     "Revision/PYQ/C/media/Pasted image 20231122152544.png",
-    "Revision/PYQ/CN/media/Pasted image 20231128131311.png",
     "templates/media",
     "Revision/MadeEasyTS/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
@@ -289,7 +290,6 @@
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/PracticeSet/media",
     "Revision/MadeEasyTS/MATH/media",
-    "Revision/MadeEasyTS/MATH",
     "Untitled.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",

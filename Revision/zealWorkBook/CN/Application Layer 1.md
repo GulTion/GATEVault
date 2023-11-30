@@ -12,7 +12,7 @@ local DNS server function statement![[Pasted image 20231001084809.png]]::D <!--S
 
 ![[Pasted image 20231105115811.png]]::C![[Pasted image 20231105115823.png]] <!--SR:!2024-01-03,43,293-->
 
-![[Pasted image 20231105115915.png]]::A![[Pasted image 20231105115930.png]] <!--SR:!2023-11-30,15,273-->
+![[Pasted image 20231105115915.png]]::A![[Pasted image 20231105115930.png]] <!--SR:!2024-01-25,56,293-->
 
 
 ![[Pasted image 20231105120106.png]]::D![[Pasted image 20231105120125.png]] <!--SR:!2023-12-01,26,270-->
