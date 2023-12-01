@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 252,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ZealTS/FULL/MOCK 1 2023.md",
+                "file": "DialyStuff/2023-12-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ZealTS/FULL/MOCK 1 2023.md",
+                "file": "DialyStuff/2023-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ZealTS/FULL/MOCK 1 2023.md"
+                "file": "DialyStuff/2023-12-01.md"
               }
             }
           },
@@ -198,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/ZealTS/FULL/MOCK 1 2023.md"
+                "file": "DialyStuff/2023-12-01.md"
               }
             }
           },
@@ -255,21 +256,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4b30925950a097d3",
+  "active": "0b8b8af3bb38a0ae",
   "lastOpenFiles": [
-    "Revision/ZealTS/FULL/media/Pasted image 20231201180418.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201180400.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201180326.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201180312.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201180245.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201180239.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201180219.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201180209.png",
-    "DialyStuff/2023-12-01.md",
     "Revision/ZealTS/FULL/MOCK 1 2023.md",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201173917.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201173906.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201173855.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201210320.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201210302.png",
+    "DialyStuff/2023-12-01.md",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201200429.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201200418.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201200254.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201200236.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201195725.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201195657.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201194759.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201194754.png",
     "Revision/PYQ/COA/input-output - pyq.md",
     "index.md",
     "FlowChart.canvas",
