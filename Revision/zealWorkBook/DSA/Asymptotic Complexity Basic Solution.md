@@ -17,7 +17,7 @@ src: zealWorkBook
 
 ![[Pasted image 20231202102232.png]]::D
 
-![[Pasted image 20231202103237.png]]::D $$\sum_{i=1}^{n}\sum_{j=1}^{i(i+1)/2}1$$
+![[Pasted image 20231202103237.png]]::D $$\sum_{i=1}^{n}\sum_{j=i}^{i(i+1)/2}1\Rightarrow\sum_{i=1}^{n}\left(\sum_{j=1}^{i(i+1)/2}1-\sum_{j=1}^{i}1\right)$$
 
 ![[Pasted image 20231202104805.png]]::A
 

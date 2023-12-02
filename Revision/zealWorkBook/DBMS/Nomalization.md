@@ -13,11 +13,11 @@ atQ: 0
   | 1  | 2   | <!--SR:!2023-12-30,48,308-->
 
 
-#notes/DBMS/normalisation/CK  Find Key![[Pasted image 20231028163523.png]]::![[Pasted image 20231028163539.png]]
+#card/DBMS/normalisation/CK  Find Key![[Pasted image 20231028163523.png]]::![[Pasted image 20231028163539.png]]
 
-#notes/DBMS/normalisation/CK  Number of Keys![[Pasted image 20231028163622.png]]::![[Pasted image 20231028163630.png]]
+#card/DBMS/normalisation/CK  Number of Keys![[Pasted image 20231028163622.png]]::![[Pasted image 20231028163630.png]]
 
-- #notes/DBMS/normalisation/SK  number of superkeys![[Pasted image 20231028163705.png]]::![[Pasted image 20231028163713.png]] <!--SR:!2023-11-14,13,288-->
+- #card/DBMS/normalisation/SK  number of superkeys![[Pasted image 20231028163705.png]]::![[Pasted image 20231028163713.png]] <!--SR:!2023-11-14,13,288-->
 
 
 #notes/DBMS/normalisation/SK ![[Pasted image 20231006213054.png]]::![[Pasted image 20231006213111.png]] 
