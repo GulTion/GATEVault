@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-02.md",
+                "file": "Revision/MadeEasyTS/COA/2022/COMPUTER ORGANIZATION AND ARCHITECTURE-2 (GATE 2022).md",
                 "mode": "source",
                 "source": false
               }
@@ -122,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-02.md",
+                "file": "Revision/MadeEasyTS/COA/2022/COMPUTER ORGANIZATION AND ARCHITECTURE-2 (GATE 2022).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-02.md",
+                "file": "Revision/MadeEasyTS/COA/2022/COMPUTER ORGANIZATION AND ARCHITECTURE-2 (GATE 2022).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-02.md"
+                "file": "Revision/MadeEasyTS/COA/2022/COMPUTER ORGANIZATION AND ARCHITECTURE-2 (GATE 2022).md"
               }
             }
           },
@@ -264,13 +263,19 @@
   },
   "active": "57f68d884e083c56",
   "lastOpenFiles": [
+    "Revision/MadeEasyTS/COA/2022/media/Pasted image 20231202164316.png",
+    "Revision/MadeEasyTS/COA/2022/media/Pasted image 20231202164046.png",
+    "Revision/MadeEasyTS/COA/2022/media",
+    "DialyStuff/2023-12-02.md",
+    "Revision/MadeEasyTS/COA/2022/COMPUTER ORGANIZATION AND ARCHITECTURE-2 (GATE 2022).md",
+    "Revision/MadeEasyTS/COA/2022",
+    "Revision/MadeEasyTS/COA",
     "Revision/PYQ/DM/Graph Theory-pyq.md",
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
     "Cat (en-US).md",
     "Revision/PYQ/C/Loop - pyq.md",
     "Revision/PYQ/C/media/Pasted image 20231202135549.png",
     "Revision/PYQ/C/media/Pasted image 20231202135539.png",
-    "DialyStuff/2023-12-02.md",
     "Revision/PYQ/C/media/Pasted image 20231202134236.png",
     "Revision/PYQ/C/media/Pasted image 20231202134147.png",
     "Revision/PYQ/C/media/Pasted image 20231202134138.png",
@@ -278,7 +283,6 @@
     "Revision/PYQ/C/media/Pasted image 20231202132929.png",
     "Revision/PYQ/C/media/Pasted image 20231202130659.png",
     "Revision/PYQ/C/media/Pasted image 20231202130643.png",
-    "Revision/PYQ/C/media/Pasted image 20231202125843.png",
     "Revision/MicroNotes/DLD/Flip Flops.md",
     "Binary Operation Overflow stuff.md",
     "Revision/ZealTS/FULL/MOCK 1 2023.md",
@@ -299,8 +303,6 @@
     "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
-    "Revision/PracticeSet/Referential Constraint - practice.md",
-    "Revision/ShortNotes/OS/Process Syncronization.md",
     "Revision/PracticeSet/media/Referential Constraint.pdf",
     "FlowChart.canvas",
     "Revision/PDF/11. Expression Analysis.pdf",
@@ -308,9 +310,6 @@
     "templates/media",
     "Revision/MadeEasyTS/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
-    "Revision/MadeEasyTS/CN/media",
-    "Revision/MadeEasyTS/CN",
-    "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

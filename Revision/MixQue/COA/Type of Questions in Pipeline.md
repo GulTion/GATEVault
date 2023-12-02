@@ -16,6 +16,6 @@ atQ: 0
     
 - Total time for Execution , in which time r of evey stage is given with input buffer delay![Untitled](Revision/media/PYQRevision/COA/media/Untitled%208.png)::![Untitled](Revision/media/PYQRevision/COA/media/Untitled%209.png) <!--SR:!2023-12-25,45,292-->
     
-- Extra Stalls for Data Harzard and Structurl Hazard![Untitled](Revision/media/PYQRevision/COA/media/Untitled%2010.png)::![Untitled](Revision/media/PYQRevision/COA/media/Untitled%2011.png)![Untitled](Revision/media/PYQRevision/COA/media/Untitled%2012.png)    ![Untitled](Revision/media/PYQRevision/COA/media/Untitled%2013.png) <!--SR:!2023-11-25,24,272-->
+- Extra Stalls for Data Harzard and Structurl Hazard![Untitled](Revision/media/PYQRevision/COA/media/Untitled%2010.png)::![Untitled](Revision/media/PYQRevision/COA/media/Untitled%2011.png)![Untitled](Revision/media/PYQRevision/COA/media/Untitled%2012.png)    ![Untitled](Revision/media/PYQRevision/COA/media/Untitled%2013.png) <!--SR:!2024-03-01,90,292-->
     
 - Branch Hazard but Percentage and stalls![Untitled](Revision/media/PYQRevision/COA/media/Untitled%2014.png)::![Untitled](Revision/media/PYQRevision/COA/media/Untitled%2015.png) <!--SR:!2023-12-26,46,292-->
