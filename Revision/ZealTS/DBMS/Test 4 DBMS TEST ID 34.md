@@ -7,9 +7,9 @@ atQ: 0
 ---
 #card/DBMS/BTree
 
-- 3. #r2![[Pasted image 20231014135729.png|Quest1]]::![[Pasted image 20231014135745.png]] <!--SR:!2023-11-16,15,290-->
+- 3. #r2![[Pasted image 20231014135729.png|Quest1]]::![[Pasted image 20231014135745.png]] <!--SR:!2024-01-30,59,310-->
  ^fd292b
-- 7. silly  mistake (confusion in finding the order of leafnode) ![[Pasted image 20231014140455.png]]::![[Pasted image 20231014140501.png]] <!--SR:!2023-11-13,12,270-->
+- 7. silly  mistake (confusion in finding the order of leafnode) ![[Pasted image 20231014140455.png]]::![[Pasted image 20231014140501.png]] <!--SR:!2024-01-17,46,290-->
 - 9. lack of practice ![[Pasted image 20231014141700.png]]::![[Pasted image 20231014141707.png]] ^1d018a <!--SR:!2023-12-08,28,270-->
 - 10. lack of concept ![[Pasted image 20231014142520.png]]::![[Pasted image 20231014142526.png]] <!--SR:!2023-12-02,22,270-->
 - 11. ![[Pasted image 20231015155434.png]]::![[Pasted image 20231015155441.png]] <!--SR:!2023-11-13,13,270-->
