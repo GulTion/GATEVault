@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-01.md",
+                "file": "Revision/MixQue/APTI/Vocu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8c04a54a733bfa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-12-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252,
-    "collapsed": true
+    "width": 252
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -139,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-01.md",
+                "file": "DialyStuff/2023-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-01.md",
+                "file": "DialyStuff/2023-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-01.md"
+                "file": "DialyStuff/2023-12-02.md"
               }
             }
           },
@@ -199,7 +210,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-01.md"
+                "file": "DialyStuff/2023-12-02.md"
               }
             }
           },
@@ -256,20 +267,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b8b8af3bb38a0ae",
+  "active": "a8c04a54a733bfa6",
   "lastOpenFiles": [
     "Revision/ZealTS/FULL/MOCK 1 2023.md",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201210320.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201210302.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201222810.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201222754.png",
+    "DialyStuff/2023-12-02.md",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201222628.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201222623.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201222526.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201222521.png",
+    "Revision/MixQue/APTI/Antonym Synonym.md",
+    "Revision/MixQue/APTI/Vocu.md",
+    "Revision/MixQue/APTI/media/Pasted image 20231201222259.png",
+    "Revision/MixQue/APTI/media/Pasted image 20231201222252.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201221833.png",
+    "Revision/ZealTS/FULL/media/Pasted image 20231201221822.png",
     "DialyStuff/2023-12-01.md",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201200429.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201200418.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201200254.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201200236.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201195725.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201195657.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201194759.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201194754.png",
     "Revision/PYQ/COA/input-output - pyq.md",
     "index.md",
     "FlowChart.canvas",
@@ -293,9 +307,6 @@
     "Revision/PracticeSet/Input Output - note.md",
     "Revision/PracticeSet/media/IO device.pdf",
     "Revision/PracticeSet/Pigeon Hole Principle.md",
-    "Revision/zealWorkBook/COA/IO device.md",
-    "Revision/PYQ/MATH/Probability-pyq.md",
-    "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
     "templates/media",
     "Revision/MadeEasyTS/media",
     "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
