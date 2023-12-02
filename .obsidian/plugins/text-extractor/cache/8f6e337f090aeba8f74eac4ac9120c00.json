@@ -1,0 +1,1 @@
+{"path":"Revision/zealWorkBook/DSA/media/Pasted image 20231202104805.png","text":"What is the value return by the following function? void foo(int n){ BASIC DATA STRUCTURE AND ALGORITEM | while (n > 0) { res +=n; n=n/2; } return res; ki (2)6(n) (b)6(nlogn) (©) 6 (n) (d) 6 (log n)","libVersion":"0.2.3","langs":"eng"}

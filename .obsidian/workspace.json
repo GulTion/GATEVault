@@ -56,12 +56,24 @@
             }
           },
           {
+            "id": "c0fbfbfc75e94f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "80ed722f7036fd7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ZealTS/FULL/MOCK 1 2023.md",
+                "file": "Revision/ShortNotes/DBMS/Difference between Generalization and Specialization in DBMS - shortNotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,6 +85,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "DialyStuff/2023-12-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "836f6d2d885359dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Revision/ZealTS/FULL/MOCK 1 2023.md",
                 "mode": "source",
                 "source": false
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -138,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 323.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -279,9 +303,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80ed722f7036fd7c",
+  "active": "836f6d2d885359dd",
   "lastOpenFiles": [
     "DialyStuff/2023-12-02.md",
+    "Revision/zealWorkBook/DSA/Program design strategy.md",
+    "Revision/zealWorkBook/DBMS/SQL - zeal.md",
+    "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231202105204.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231202104805.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231202103237.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231202102232.png",
+    "Revision/zealWorkBook/DSA/media/Pasted image 20231202101620.png",
+    "Revision/ZealTS/FULL/MOCK 1 2023.md",
+    "Revision/MixQue/APTI/Vocu.md",
+    "Revision/ShortNotes/DBMS/Difference between Generalization and Specialization in DBMS - shortNotes.md",
     "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
@@ -289,19 +324,12 @@
     "Revision/PracticeSet/Referential Constraint - practice.md",
     "Revision/ShortNotes/OS/Process Syncronization.md",
     "Revision/PracticeSet/media/Referential Constraint.pdf",
-    "Revision/ZealTS/FULL/MOCK 1 2023.md",
     "Revision/ZealTS/FULL/media/Pasted image 20231201222810.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231201222754.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231201222628.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231201222623.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231201222526.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201222521.png",
     "Revision/MixQue/APTI/Antonym Synonym.md",
-    "Revision/MixQue/APTI/Vocu.md",
-    "Revision/MixQue/APTI/media/Pasted image 20231201222259.png",
-    "Revision/MixQue/APTI/media/Pasted image 20231201222252.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201221833.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201221822.png",
     "DialyStuff/2023-12-01.md",
     "Revision/PYQ/COA/input-output - pyq.md",
     "index.md",
@@ -316,10 +344,6 @@
     "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
     "Binary Operation Overflow stuff.md",
-    "Revision/ShortNotes/DBMS/TRANSACTIONS ANDCONCURRENCY CONTROL - GateOmedia.md",
-    "DialyStuff/2023-11-29.md",
-    "Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md",
-    "Revision/ShortNotes/CN/Circuit Switching.md",
     "Revision/PracticeSet/media/IO device.pdf",
     "templates/media",
     "Revision/MadeEasyTS/media",

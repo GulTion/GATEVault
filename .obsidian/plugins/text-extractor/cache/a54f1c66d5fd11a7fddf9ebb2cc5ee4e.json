@@ -1,0 +1,1 @@
+{"path":"Revision/zealWorkBook/DSA/media/Pasted image 20231202101620.png","text":"void function (int n ) { int i=1; s=0; while(s<n) { s=s+2i; printf(“ hello”); i++; } } BASIC DATA STRUCTURE AND ALGORITHM (a) 8(n) (b) 6(vn) (c) 6(logn) (d) none","libVersion":"0.2.3","langs":"eng"}
