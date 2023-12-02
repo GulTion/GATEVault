@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-02.md",
+                "file": "Revision/ZealTS/FULL/MOCK 1 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-02.md",
+                "file": "Revision/ZealTS/FULL/MOCK 1 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-02.md"
+                "file": "Revision/ZealTS/FULL/MOCK 1 2023.md"
               }
             }
           },
@@ -210,7 +210,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-02.md"
+                "file": "Revision/ZealTS/FULL/MOCK 1 2023.md"
               }
             }
           },
@@ -238,8 +238,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,12 +266,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8c04a54a733bfa6",
+  "active": "4b30925950a097d3",
   "lastOpenFiles": [
     "Revision/ZealTS/FULL/MOCK 1 2023.md",
+    "DialyStuff/2023-12-02.md",
     "Revision/ZealTS/FULL/media/Pasted image 20231201222810.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231201222754.png",
-    "DialyStuff/2023-12-02.md",
     "Revision/ZealTS/FULL/media/Pasted image 20231201222628.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231201222623.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231201222526.png",
