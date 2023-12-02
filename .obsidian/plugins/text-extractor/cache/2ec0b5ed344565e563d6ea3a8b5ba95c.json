@@ -1,0 +1,1 @@
+{"path":"Revision/PYQ/C/media/Pasted image 20231202135539.png","text":"What does the following algorithm approximate? (Assume m > 1, € > 0). : X = m; y=1; While (x-y > €) { X = (x+y)/2; y = m/x; } print(x); A logm B.m? c.m* D.m3 gatecse-2004 algorithms identify-function normal","libVersion":"0.2.3","langs":"eng"}

@@ -33,6 +33,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "DialyStuff/2023-12-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57f68d884e083c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Revision/PYQ/C/Loop - pyq.md",
                 "mode": "source",
                 "source": false
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -229,15 +241,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c83c9b40e58e95cb",
+  "active": "57f68d884e083c56",
   "lastOpenFiles": [
-    "Revision/PYQ/C/media/Pasted image 20231202125843.png",
-    "Revision/PYQ/C/media/Pasted image 20231202125832.png",
+    "Revision/PYQ/C/media/Pasted image 20231202135549.png",
+    "Revision/PYQ/C/media/Pasted image 20231202135539.png",
     "DialyStuff/2023-12-02.md",
     "Revision/PYQ/C/Loop - pyq.md",
+    "Revision/PYQ/C/media/Pasted image 20231202134236.png",
+    "Revision/PYQ/C/media/Pasted image 20231202134147.png",
+    "Revision/PYQ/C/media/Pasted image 20231202134138.png",
+    "Revision/PYQ/C/media/Pasted image 20231202132944.png",
+    "Revision/PYQ/C/media/Pasted image 20231202132929.png",
+    "Revision/PYQ/C/media/Pasted image 20231202130659.png",
+    "Revision/PYQ/C/media/Pasted image 20231202130643.png",
+    "Revision/PYQ/C/media/Pasted image 20231202125843.png",
+    "Revision/PYQ/C/media/Pasted image 20231202125832.png",
     "Revision/MicroNotes/DLD/Flip Flops.md",
     "Binary Operation Overflow stuff.md",
-    "Excalidraw/media/Pasted Image 20231202111930_574.png",
     "Revision/ZealTS/FULL/MOCK 1 2023.md",
     "Excalidraw/Drawing 2023-12-02 11.19.14.excalidraw.md",
     "Revision/zealWorkBook/DBMS/Nomalization.md",
@@ -253,20 +273,12 @@
     "Revision/ShortNotes/DSA/media/Dynamic Programming.pdf",
     "Revision/zealWorkBook/DSA/Program design strategy.md",
     "Revision/zealWorkBook/DBMS/SQL - zeal.md",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231202105204.png",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231202104805.png",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231202103237.png",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231202102232.png",
-    "Revision/zealWorkBook/DSA/media/Pasted image 20231202101620.png",
     "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/PracticeSet/Referential Constraint - practice.md",
     "Revision/ShortNotes/OS/Process Syncronization.md",
     "Revision/PracticeSet/media/Referential Constraint.pdf",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201222810.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201222754.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201222628.png",
     "Revision/MixQue/APTI/Antonym Synonym.md",
     "DialyStuff/2023-12-01.md",
     "FlowChart.canvas",

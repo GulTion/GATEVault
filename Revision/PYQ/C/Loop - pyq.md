@@ -17,3 +17,11 @@ src: https://practicepaper.in/gate-cse/loop?page_no=1
 
 ![[Pasted image 20231202125832.png]]::![[Pasted image 20231202125843.png]]
 
+![[Pasted image 20231202130643.png]]::![[Pasted image 20231202130659.png]]
+
+![[Pasted image 20231202132929.png]]:: D![[Pasted image 20231202132944.png]]
+
+![[Pasted image 20231202134147.png]]::A ![[Pasted image 20231202134236.png]]
+
+![[Pasted image 20231202135539.png]]::![[Pasted image 20231202135549.png]]
+
