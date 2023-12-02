@@ -8,7 +8,8 @@ atQ: 0
 # DM
 ## LOGIC
 #notes/dm/logic/implication![[Pasted image 20230923160222.png]] 
-- 1. nice trick for closure properties ![[Pasted image 20231017215142.png]]::![[Pasted image 20231017215227.png]] <!--SR:!2023-11-14,15,290-->
+## TOC 
+![[Pasted image 20231017215142.png]]::![[Pasted image 20231017215227.png]] <!--SR:!2024-01-30,59,310-->
 - 19 ![[Pasted image 20231018160155.png]]::![[Pasted image 20231018160211.png]] <!--SR:!2023-11-16,15,290-->
 
 #today ![[Pasted image 20231025154346.png]]::https://gateoverflow.in/357515/gate-cse-2021-set-2-question-25#a_list_title

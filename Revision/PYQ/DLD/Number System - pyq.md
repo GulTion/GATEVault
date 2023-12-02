@@ -9,4 +9,4 @@ src: https://practicepaper.in/gate-cse/number-system?page_no=1
 ---
 #card/DLD/Number_System
 
-![[Pasted image 20231117010828.png]]::![[Pasted image 20231117010839.png]]
+![[Pasted image 20231117010828.png]]::![[Pasted image 20231117010839.png]] <!--SR:!2023-12-04,2,150-->

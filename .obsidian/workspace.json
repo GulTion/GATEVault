@@ -33,7 +33,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-02.md",
+                "file": "Revision/PYQ/COA/input-output - pyq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31fa42008bec4f4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#card/Full ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +130,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/MadeEasyTS/COA/2022/COMPUTER ORGANIZATION AND ARCHITECTURE-2 (GATE 2022).md",
+                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/MadeEasyTS/COA/2022/COMPUTER ORGANIZATION AND ARCHITECTURE-2 (GATE 2022).md",
+                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/MadeEasyTS/COA/2022/COMPUTER ORGANIZATION AND ARCHITECTURE-2 (GATE 2022).md"
+                "file": "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md"
               }
             }
           },
@@ -261,14 +274,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57f68d884e083c56",
+  "active": "31fa42008bec4f4e",
   "lastOpenFiles": [
+    "Revision/MicroNotes/DLD/Flip Flops.md",
+    "Revision/PYQ/COA/input-output - pyq.md",
+    "DialyStuff/2023-12-02.md",
+    "Revision/MadeEasyTS/COA/2022/COMPUTER ORGANIZATION AND ARCHITECTURE-2 (GATE 2022).md",
     "Revision/MadeEasyTS/COA/2022/media/Pasted image 20231202165759.png",
     "Revision/MadeEasyTS/COA/2022/media/Pasted image 20231202164316.png",
     "Revision/MadeEasyTS/COA/2022/media/Pasted image 20231202164046.png",
     "Revision/MadeEasyTS/COA/2022/media",
-    "DialyStuff/2023-12-02.md",
-    "Revision/MadeEasyTS/COA/2022/COMPUTER ORGANIZATION AND ARCHITECTURE-2 (GATE 2022).md",
     "Revision/MadeEasyTS/COA/2022",
     "Revision/MadeEasyTS/COA",
     "Revision/PYQ/DM/Graph Theory-pyq.md",
@@ -282,8 +297,6 @@
     "Revision/PYQ/C/media/Pasted image 20231202134138.png",
     "Revision/PYQ/C/media/Pasted image 20231202132944.png",
     "Revision/PYQ/C/media/Pasted image 20231202132929.png",
-    "Revision/PYQ/C/media/Pasted image 20231202130659.png",
-    "Revision/MicroNotes/DLD/Flip Flops.md",
     "Binary Operation Overflow stuff.md",
     "Revision/ZealTS/FULL/MOCK 1 2023.md",
     "Excalidraw/Drawing 2023-12-02 11.19.14.excalidraw.md",
