@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card/Full ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -250,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 365.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,6 +278,7 @@
   },
   "active": "31fa42008bec4f4e",
   "lastOpenFiles": [
+    "Revision/MadeEasyTS/FULL/media/Pasted image 20231202215824.png",
     "Revision/MicroNotes/DLD/Flip Flops.md",
     "Revision/PYQ/COA/input-output - pyq.md",
     "DialyStuff/2023-12-02.md",
@@ -315,7 +318,6 @@
     "Revision/zealWorkBook/DBMS/SQL - zeal.md",
     "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
-    "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/PracticeSet/media/Referential Constraint.pdf",
     "FlowChart.canvas",
     "Revision/PDF/11. Expression Analysis.pdf",
