@@ -18,13 +18,13 @@ PI: *include Don't_Care and treated as 1*
 EPI: *Don't include  Don't_Care and Treated as 0*
 
 
-![[Pasted image 20231117005602.png]]::D ![[Pasted image 20231117005620.png]]
+![[Pasted image 20231117005602.png]]::D ![[Pasted image 20231117005620.png]] <!--SR:!2023-12-04,2,150-->
 
-![[Pasted image 20231124235605.png]]::![[Pasted image 20231124235619.png]]
+![[Pasted image 20231124235605.png]]::![[Pasted image 20231124235619.png]] <!--SR:!2023-12-04,2,150-->
 
-![[Pasted image 20231125000327.png]]::D
+![[Pasted image 20231125000327.png]]::D <!--SR:!2023-12-04,2,150-->
 
 ![[Pasted image 20231125000726.png]]::![[Pasted image 20231125000743.png]]
 
-![[Pasted image 20231125001049.png]]::D ![[Pasted image 20231125001119.png]]
+![[Pasted image 20231125001049.png]]::D ![[Pasted image 20231125001119.png]] <!--SR:!2023-12-04,2,150-->
 

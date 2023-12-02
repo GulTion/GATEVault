@@ -8,10 +8,10 @@ atQ: 0
 ![[Pasted image 20231028231017.png]]::![[Pasted image 20231007214022.png]] <!--SR:!2023-12-18,37,290-->
 
 
-statment about the prime attribute![[Pasted image 20231007214323.png]]::![[Pasted image 20231007214348.png]] <!--SR:!2023-11-15,13,270-->
+statment about the prime attribute![[Pasted image 20231007214323.png]]::![[Pasted image 20231007214348.png]] <!--SR:!2024-01-22,51,290-->
 
 
-Check BCNF from the statement condition![[Pasted image 20231008095838.png]]::![[Pasted image 20231008095924.png]] <!--SR:!2023-11-28,18,250-->
+Check BCNF from the statement condition![[Pasted image 20231008095838.png]]::![[Pasted image 20231008095924.png]] <!--SR:!2024-02-02,62,270-->
 
 
 lossless join and dependecny preserving![[Pasted image 20231028231215.png]]::![[Pasted image 20231008101353.png]] <!--SR:!2023-12-14,33,290-->
@@ -26,10 +26,10 @@ lossless join and dependecny preserving![[Pasted image 20231028231215.png]]::![[
 BCNF defination![[Pasted image 20231008113937.png]]::![[Pasted image 20231008114000.png]] <!--SR:!2023-12-04,24,270-->
 
 
-![[Pasted image 20231008114221.png]]::![[Pasted image 20231008114242.png]] <!--SR:!2023-11-13,6,250-->
+![[Pasted image 20231008114221.png]]::![[Pasted image 20231008114242.png]] <!--SR:!2023-12-22,20,270-->
 
 
-- adequte=not more, not less![[Pasted image 20231028231459.png]]::D <!--SR:!2023-11-20,10,256-->
+- adequte=not more, not less![[Pasted image 20231028231459.png]]::D <!--SR:!2024-01-04,33,276-->
 
 #today ![[Pasted image 20231008120159.png]]::![[Pasted image 20231008120216.png]] <!--SR:!2023-11-11,1,231-->
 

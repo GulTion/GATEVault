@@ -9,7 +9,7 @@ src: https://practicepaper.in/gate-cse/combinational-circuit
 ---
 #card/DLD/Combinational_Circuit
 
-![[Pasted image 20231117021021.png]]::B
+![[Pasted image 20231117021021.png]]::B <!--SR:!2023-12-04,2,150-->
 
 ![[Pasted image 20231117021604.png]]::A
 
