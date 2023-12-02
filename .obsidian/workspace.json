@@ -92,6 +92,50 @@
             }
           },
           {
+            "id": "18e97ccd9ff9ff4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-12-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "644193e1465e48ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/ZealTS/FULL/MOCK 1 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "235d4303a7d9704b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-02 11.19.14.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "661ac49c71ae60d0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/media/Pasted Image 20231202111930_574.png"
+              }
+            }
+          },
+          {
             "id": "836f6d2d885359dd",
             "type": "leaf",
             "state": {
@@ -104,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -133,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#card/DSA/Dynamic_Programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +202,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -275,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -303,9 +348,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "836f6d2d885359dd",
+  "active": "644193e1465e48ea",
   "lastOpenFiles": [
+    "Revision/PYQ/DSA/Dynamic Programming - pyq.md",
+    "Revision/ZealTS/DSA/TEST ID-12 DSA-4.md",
     "DialyStuff/2023-12-02.md",
+    "Revision/ZealTS/FULL/MOCK 1 2023.md",
+    "Revision/ShortNotes/DSA/Dynamic - LCS, Knapsack,.md",
+    "Excalidraw/Drawing 2023-12-02 11.19.14.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-20 00.28.49.excalidraw.md",
+    "Excalidraw/media/Pasted Image 20231202111930_574.png",
+    "Revision/ShortNotes/DSA/media/Dynamic Programming.pdf",
     "Revision/zealWorkBook/DSA/Program design strategy.md",
     "Revision/zealWorkBook/DBMS/SQL - zeal.md",
     "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
@@ -314,7 +367,6 @@
     "Revision/zealWorkBook/DSA/media/Pasted image 20231202103237.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231202102232.png",
     "Revision/zealWorkBook/DSA/media/Pasted image 20231202101620.png",
-    "Revision/ZealTS/FULL/MOCK 1 2023.md",
     "Revision/MixQue/APTI/Vocu.md",
     "Revision/ShortNotes/DBMS/Difference between Generalization and Specialization in DBMS - shortNotes.md",
     "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
@@ -328,7 +380,6 @@
     "Revision/ZealTS/FULL/media/Pasted image 20231201222754.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231201222628.png",
     "Revision/ZealTS/FULL/media/Pasted image 20231201222623.png",
-    "Revision/ZealTS/FULL/media/Pasted image 20231201222526.png",
     "Revision/MixQue/APTI/Antonym Synonym.md",
     "DialyStuff/2023-12-01.md",
     "Revision/PYQ/COA/input-output - pyq.md",
@@ -339,11 +390,6 @@
     "Untitled.md",
     "Revision/PDF/11. Expression Analysis.pdf",
     "Revision/MicroNotes/TOC/Context Free Grammer and Language.md",
-    "DialyStuff/2023-11-30.md",
-    "Revision/PracticeSet/Expression Analysis.md",
-    "Revision/ShortNotes/DSA/Prog C GATEOMEDIA.md",
-    "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
-    "Binary Operation Overflow stuff.md",
     "Revision/PracticeSet/media/IO device.pdf",
     "templates/media",
     "Revision/MadeEasyTS/media",
@@ -351,7 +397,6 @@
     "Revision/MadeEasyTS/CN/media",
     "Revision/MadeEasyTS/CN",
     "Revision/PracticeSet/media/13. Pigeon hole principle.pdf",
-    "Revision/PracticeSet/media",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
