@@ -35,3 +35,15 @@ src: https://practicepaper.in/gate-cse/machine-instruction?page_no=1
 
 ![[Pasted image 20231102142759.png]]::B ![[Pasted image 20231102142820.png]] <!--SR:!2023-11-06,4,277-->
 
+![[Pasted image 20231203171733.png]]::![[Pasted image 20231203171754.png]]
+
+![[Pasted image 20231203171821.png]]::D
+
+![[Pasted image 20231203172627.png]]::B
+
+![[Pasted image 20231203172814.png]]::![[Pasted image 20231203173131.png]]
+
+![[Pasted image 20231203173059.png]]::![[Pasted image 20231203173240.png]]
+
+![[Pasted image 20231203174552.png]]::1024
+

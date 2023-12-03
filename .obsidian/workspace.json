@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQ/COA/Machine Instruction.md",
+                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/PYQ/COA/Machine Instruction.md",
+                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/PYQ/COA/Machine Instruction.md",
+                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/PYQ/COA/Machine Instruction.md"
+                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md"
               }
             }
           },
@@ -192,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,6 +218,17 @@
   },
   "active": "407c00b04389a4d6",
   "lastOpenFiles": [
+    "Revision/PYQ/COA/Machine Instruction.md",
+    "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
+    "Revision/PYQ/COA/media/Pasted image 20231203174552.png",
+    "Revision/PYQ/COA/media/Pasted image 20231203173240.png",
+    "Revision/PYQ/COA/media/Pasted image 20231203173131.png",
+    "Revision/PYQ/COA/media/Pasted image 20231203173059.png",
+    "Revision/PYQ/COA/media/Pasted image 20231203172814.png",
+    "Revision/PYQ/COA/media/Pasted image 20231203172627.png",
+    "Revision/PYQ/COA/media/Pasted image 20231203171821.png",
+    "Revision/PYQ/COA/media/Pasted image 20231203171754.png",
+    "Revision/PYQ/COA/media/Pasted image 20231203171733.png",
     "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
     "DialyStuff/2023-12-03.md",
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
@@ -228,21 +238,12 @@
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
     "Revision/MadeEasyTS/FULL/media/Pasted image 20231202215824.png",
     "Revision/MicroNotes/DLD/Flip Flops.md",
-    "Revision/MadeEasyTS/COA/2022/media/Pasted image 20231202165759.png",
-    "Revision/MadeEasyTS/COA/2022/media/Pasted image 20231202164316.png",
-    "Revision/MadeEasyTS/COA/2022/media/Pasted image 20231202164046.png",
     "Revision/MadeEasyTS/COA/2022/media",
     "Revision/MadeEasyTS/COA/2022",
     "Revision/MadeEasyTS/COA",
     "Revision/PYQ/DM/Graph Theory-pyq.md",
     "Cat (en-US).md",
     "Revision/PYQ/C/Loop - pyq.md",
-    "Revision/PYQ/C/media/Pasted image 20231202135549.png",
-    "Revision/PYQ/C/media/Pasted image 20231202135539.png",
-    "Revision/PYQ/C/media/Pasted image 20231202134236.png",
-    "Revision/PYQ/C/media/Pasted image 20231202134147.png",
-    "Revision/PYQ/C/media/Pasted image 20231202134138.png",
-    "Revision/PYQ/C/media/Pasted image 20231202132944.png",
     "Binary Operation Overflow stuff.md",
     "Revision/ZealTS/FULL/MOCK 1 2023.md",
     "Excalidraw/Drawing 2023-12-02 11.19.14.excalidraw.md",
@@ -257,8 +258,6 @@
     "Revision/ShortNotes/DSA/Dynamic - LCS, Knapsack,.md",
     "Excalidraw/Drawing 2023-11-20 00.28.49.excalidraw.md",
     "Revision/ShortNotes/DSA/media/Dynamic Programming.pdf",
-    "Revision/zealWorkBook/DSA/Program design strategy.md",
-    "Revision/zealWorkBook/DBMS/SQL - zeal.md",
     "Revision/PracticeSet/media/Referential Constraint.pdf",
     "FlowChart.canvas",
     "Revision/PDF/11. Expression Analysis.pdf",
