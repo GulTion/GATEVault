@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b243857c1a709964",
+        "id": "4ca4429fcc9fb936",
         "type": "tabs",
         "children": [
           {
-            "id": "407c00b04389a4d6",
+            "id": "99919432b8357321",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,11 +180,12 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 365.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,10 +209,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "407c00b04389a4d6",
+  "active": "99919432b8357321",
   "lastOpenFiles": [
-    "Revision/PYQ/COA/Machine Instruction.md",
     "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
+    "Revision/PYQ/COA/Machine Instruction.md",
     "Revision/PYQ/COA/media/Pasted image 20231203174552.png",
     "Revision/PYQ/COA/media/Pasted image 20231203173240.png",
     "Revision/PYQ/COA/media/Pasted image 20231203173131.png",

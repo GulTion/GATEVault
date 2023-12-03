@@ -18,7 +18,7 @@ src: https://practicepaper.in/gate-cse/network-layer-protocol?page_no=15
 
 ![[Pasted image 20231030163542.png]]::256![[Pasted image 20231030163555.png]] <!--SR:!2023-12-14,29,290-->
 
-#today ![[Pasted image 20231030163909.png]]:: <!--SR:!2023-11-04,4,270-->
+#today ![[Pasted image 20231030163909.png]]::A <!--SR:!2023-11-04,4,270-->
 
 #today ![[Pasted image 20231031163449.png]]50::https://gateoverflow.in/43317/gate-cse-2011-question-53#a_list
 
