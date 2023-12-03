@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
+                "file": "Revision/PYQ/COA/Machine Instruction.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
+                "file": "Revision/PYQ/COA/Machine Instruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
+                "file": "Revision/PYQ/COA/Machine Instruction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md"
+                "file": "Revision/PYQ/COA/Machine Instruction.md"
               }
             }
           },
@@ -219,6 +219,7 @@
   },
   "active": "407c00b04389a4d6",
   "lastOpenFiles": [
+    "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
     "DialyStuff/2023-12-03.md",
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
     "Revision/MadeEasyTS/COA/2022/COMPUTER ORGANIZATION AND ARCHITECTURE-2 (GATE 2022).md",
@@ -258,7 +259,6 @@
     "Revision/ShortNotes/DSA/media/Dynamic Programming.pdf",
     "Revision/zealWorkBook/DSA/Program design strategy.md",
     "Revision/zealWorkBook/DBMS/SQL - zeal.md",
-    "Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
     "Revision/PracticeSet/media/Referential Constraint.pdf",
     "FlowChart.canvas",
     "Revision/PDF/11. Expression Analysis.pdf",
