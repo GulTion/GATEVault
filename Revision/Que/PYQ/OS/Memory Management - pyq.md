@@ -9,34 +9,34 @@ startQ: 1
 ---
 #card/OS/Memory
 #notes/OS/Memory/TLB_hitMiss
-![[Pasted image 20231002125807.png]]::![[Pasted image 20231002125817.png]] <!--SR:!2023-11-26,5,252-->
+![[Pasted image 20231002125807.png]]::![[Pasted image 20231002125817.png]] <!--SR:!2023-12-21,17,272-->
 #notes/OS/Memory/Virtual_page_table
 ![[Pasted image 20231028232141.png]]::![[Pasted image 20231002131308.png]] <!--SR:!2023-12-23,30,270-->
 #notes/OS/Memory/TLB_hitMiss 
 ![[Pasted image 20231031184718.png]]::B. 155 ![[Pasted image 20231111000554.png]] <!--SR:!2023-12-30,39,292-->
 #notes/OS/Memory/Virtual_page_table 
-![[Pasted image 20231031185011.png]]::B![[Pasted image 20231031185040.png]] <!--SR:!2023-11-24,4,252-->
+![[Pasted image 20231031185011.png]]::B![[Pasted image 20231031185040.png]] <!--SR:!2023-12-19,15,272-->
 
-![[Pasted image 20231031185420.png]]::B <!--SR:!2023-11-25,5,252-->
+![[Pasted image 20231031185420.png]]::B <!--SR:!2023-12-20,16,272-->
 
 ![[Pasted image 20231031185603.png]]::B 1![[Pasted image 20231031185836.png]] <!--SR:!2024-01-03,41,292-->
 
 ![[Pasted image 20231031190230.png]]::C 22 <!--SR:!2023-11-26,6,252-->
 
-![[Pasted image 20231110215502.png]]::D ![[Pasted image 20231110215521.png]] <!--SR:!2023-11-30,10,279-->
+![[Pasted image 20231110215502.png]]::D ![[Pasted image 20231110215521.png]] <!--SR:!2024-01-11,38,299-->
 
-![[Pasted image 20231110221850.png]]::C ![[Pasted image 20231110222013.png]] <!--SR:!2023-11-28,8,259-->
+![[Pasted image 20231110221850.png]]::C ![[Pasted image 20231110222013.png]] <!--SR:!2024-01-03,30,279-->
 
 ![[Pasted image 20231110222047.png]]:: C  visit viswdeep goti coa lecture for virutal memeory around 2013 <!--SR:!2023-11-24,3,227-->
 
-![[Pasted image 20231115150053.png]]::B ![[Pasted image 20231115150112.png]] <!--SR:!2023-12-02,9,244-->
+![[Pasted image 20231115150053.png]]::B ![[Pasted image 20231115150112.png]] <!--SR:!2024-01-05,32,264-->
 
-![[Pasted image 20231115150658.png]]::![[Pasted image 20231115150707.png]] <!--SR:!2023-12-02,9,244-->
+![[Pasted image 20231115150658.png]]::![[Pasted image 20231115150707.png]] <!--SR:!2024-01-07,34,264-->
 
 
 ![[Pasted image 20231115151144.png]]::D ![[Pasted image 20231115151155.png]] <!--SR:!2023-11-28,5,224-->
 
-![[Pasted image 20231115153430.png]]::B ![[Pasted image 20231115153454.png]] <!--SR:!2023-12-02,9,244-->
+![[Pasted image 20231115153430.png]]::B ![[Pasted image 20231115153454.png]] <!--SR:!2024-01-08,35,264-->
 
 ![[Pasted image 20231115153711.png]]::C ![[Pasted image 20231115153729.png]] <!--SR:!2023-12-05,12,244-->
 
@@ -50,7 +50,7 @@ startQ: 1
 
 ![[Pasted image 20231120144155.png]]::![[Pasted image 20231120144209.png]] <!--SR:!2023-11-26,3,207-->
 
-![[Pasted image 20231120144458.png]]::D ![[Pasted image 20231120144521.png]] <!--SR:!2023-11-24,3,227-->
+![[Pasted image 20231120144458.png]]::D ![[Pasted image 20231120144521.png]] <!--SR:!2023-12-14,10,247-->
 
 ![[Pasted image 20231122180629.png]]::1260 ![[Pasted image 20231122180716.png]] <!--SR:!2023-11-26,3,229-->
 
