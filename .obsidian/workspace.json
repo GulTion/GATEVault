@@ -11,11 +11,10 @@
             "id": "8d6fc08ab8779049",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "Revision/Que/PYQ/OS/Memory Management - pyq.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               }
             }
           }
@@ -101,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/PYQ/OS/Memory Management - pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/PYQ/OS/Memory Management - pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Revision/Que/PYQ/OS/Memory Management - pyq.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,6 +212,9 @@
   },
   "active": "8d6fc08ab8779049",
   "lastOpenFiles": [
+    "Revision/TS/ZealTS/OS/Test ID - 21 OS Test - 3.md",
+    "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
+    "Revision/Que/PYQ/OS/Memory Management - pyq.md",
     "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231204223656.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231204223632.png",
@@ -253,8 +251,6 @@
     "DialyStuff/2023-12-03.md",
     "Revision/Notes/ShortNotes/CN/DHCP.md",
     "Revision/ShortNotes/DLD/Boolean Algbrea - ShortNotes.md",
-    "Revision/Notes/MicroNotes/DLD/Flip Flops.md",
-    "Revision/Notes/MicroNotes/COA/complements of number.md",
     "Revision/TS/MadeEasyTS/COA/2022/media",
     "Revision/TS/MadeEasyTS/COA/2022",
     "Revision/TS/MadeEasyTS/COA",

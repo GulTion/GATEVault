@@ -21,7 +21,10 @@ startQ: 1
 
 ![[Pasted image 20231031185603.png]]::B 1![[Pasted image 20231031185836.png]] <!--SR:!2024-01-03,41,292-->
 
-![[Pasted image 20231031190230.png]]::C 22 <!--SR:!2023-11-26,6,252-->
+![[Pasted image 20231031190230.png]]
+?
+- confusion in choose right method to solve
+C 22 <!--SR:!2023-12-25,20,272-->
 
 ![[Pasted image 20231110215502.png]]::D ![[Pasted image 20231110215521.png]] <!--SR:!2024-01-11,38,299-->
 
@@ -34,27 +37,39 @@ startQ: 1
 ![[Pasted image 20231115150658.png]]::![[Pasted image 20231115150707.png]] <!--SR:!2024-01-07,34,264-->
 
 
-![[Pasted image 20231115151144.png]]::D ![[Pasted image 20231115151155.png]] <!--SR:!2023-11-28,5,224-->
+![[Pasted image 20231115151144.png]]::D ![[Pasted image 20231115151155.png]] <!--SR:!2023-12-20,15,244-->
 
 ![[Pasted image 20231115153430.png]]::B ![[Pasted image 20231115153454.png]] <!--SR:!2024-01-08,35,264-->
 
-![[Pasted image 20231115153711.png]]::C ![[Pasted image 20231115153729.png]] <!--SR:!2023-12-05,12,244-->
+![[Pasted image 20231115153711.png]]::C ![[Pasted image 20231115153729.png]] <!--SR:!2024-01-16,42,264-->
 
-![[Pasted image 20231115155307.png]]::D go for vishwdeep gothi <!--SR:!2023-11-27,4,184-->
+![[Pasted image 20231115155307.png]]
+?
+- slow speed, silly mistake in calucation for 3rd level bit, and didn't understand the question completly, didn't think about that they r asking for the no. of bits. for page table entry, but i m calculating the no. of bits for each level using VA
 
-![[Pasted image 20231116221457.png]]::![[Pasted image 20231116221511.png]] <!--SR:!2023-12-05,12,244-->
+D go for vishwdeep gothi <!--SR:!2023-12-12,7,184-->
 
-![[Pasted image 20231120142109.png]]::C ![[Pasted image 20231120142121.png]] <!--SR:!2023-11-24,3,227-->
+![[Pasted image 20231116221457.png]]
+?
+- silly miskae , using 1+ p( ...) instead of (1-p)1 + p(...)
+
+![[Pasted image 20231116221511.png]] <!--SR:!2024-01-02,28,244-->
+
+![[Pasted image 20231120142109.png]]::C ![[Pasted image 20231120142121.png]] <!--SR:!2023-12-17,12,247-->
 
 #today ![[Pasted image 20231120143418.png]]::https://gateoverflow.in/3600/gate2006-it-56
 
-![[Pasted image 20231120144155.png]]::![[Pasted image 20231120144209.png]] <!--SR:!2023-11-26,3,207-->
+![[Pasted image 20231120144155.png]]::![[Pasted image 20231120144209.png]] <!--SR:!2023-12-13,8,227-->
 
 ![[Pasted image 20231120144458.png]]::D ![[Pasted image 20231120144521.png]] <!--SR:!2023-12-14,10,247-->
 
-![[Pasted image 20231122180629.png]]::1260 ![[Pasted image 20231122180716.png]] <!--SR:!2023-11-26,3,229-->
+![[Pasted image 20231122180629.png]]
+?
+- lack of understanding of question(i was thinking to calculate the time fetech the instruction and then execute it) + silly mistake while reading(forgetting about the two access for the instruction)
 
-![[Pasted image 20231122180920.png]]::![[Pasted image 20231122180944.png]] <!--SR:!2023-11-26,3,229-->
+1260 ![[Pasted image 20231122180716.png]] <!--SR:!2023-12-07,2,209-->
 
-![[Pasted image 20231122182752.png]]::_0.96(1+(0.9(1) + 0.1(10+1)))   +   0.04(1+ 2* (10) + (0.9(1) + 0.1(10+1))) = 3.8 ns..so 4ns_![[Pasted image 20231122182808.png]] <!--SR:!2023-11-26,3,229-->
+![[Pasted image 20231122180920.png]]::![[Pasted image 20231122180944.png]] <!--SR:!2023-12-14,9,249-->
+
+![[Pasted image 20231122182752.png]]::_0.96(1+(0.9(1) + 0.1(10+1)))   +   0.04(1+ 2* (10) + (0.9(1) + 0.1(10+1))) = 3.8 ns..so 4ns_![[Pasted image 20231122182808.png]] <!--SR:!2023-12-13,8,249-->
 
