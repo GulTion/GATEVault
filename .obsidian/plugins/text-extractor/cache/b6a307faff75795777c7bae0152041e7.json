@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/FULL/media/Pasted image 20231204223656.png","text":"Answer: 5242880 Solution: The number of bits for page is 32 — logz(16384) = 32 - 14 = 18 bits. All five page tables would require 5 * (2718 « 4) bytes = 5242880 Bytes.","libVersion":"0.2.3","langs":"eng"}
