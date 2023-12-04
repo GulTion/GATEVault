@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
+                "file": "DialyStuff/2023-12-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
+                "file": "DialyStuff/2023-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
+                "file": "DialyStuff/2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md"
+                "file": "DialyStuff/2023-12-04.md"
               }
             }
           },
@@ -219,6 +219,10 @@
   },
   "active": "99919432b8357321",
   "lastOpenFiles": [
+    "Revision/ShortNotes/DSA/Application of Greedy and Dynamic.md",
+    "Revision/ShortNotes/COA/Floating Point Tables.md",
+    "Revision/ShortNotes/COA/I O ShortNotes.md",
+    "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
     "Revision/PracticeSet/Referential Constraint - practice.md",
     "Revision/MicroNotes/APTI/Voca.md",
     "Revision/PracticeSet/Expression Analysis.md",
@@ -236,7 +240,6 @@
     "Revision/MicroNotes/DLD/Flip Flops.md",
     "Revision/MicroNotes/COA/complements of number.md",
     "templates/dailyNote Template.md",
-    "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
     "Revision/PYQ/COA/Machine Instruction.md",
     "Revision/PYQ/COA/media/Pasted image 20231203174552.png",
     "Revision/PYQ/COA/media/Pasted image 20231203173240.png",
@@ -255,9 +258,6 @@
     "Revision/MadeEasyTS/COA/2022/media",
     "Revision/MadeEasyTS/COA/2022",
     "Revision/MadeEasyTS/COA",
-    "Revision/PYQ/DM/Graph Theory-pyq.md",
-    "Cat (en-US).md",
-    "Revision/PYQ/C/Loop - pyq.md",
     "Revision/ShortNotes/DSA/media/Dynamic Programming.pdf",
     "Revision/PracticeSet/media/Referential Constraint.pdf",
     "FlowChart.canvas",
