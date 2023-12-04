@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b72c57ae2151952c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Revision/ShortNotes/CN/media/Pasted image 20231113230708.png"
+              }
+            }
           }
         ]
       }
@@ -219,21 +229,26 @@
   },
   "active": "99919432b8357321",
   "lastOpenFiles": [
+    "Revision/ShortNotes/f.md",
+    "Revision/ShortNotes/DSA/media/Pasted image 20231110075230.png",
+    "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md",
+    "Revision/ShortNotes/CN/media/Pasted image 20231113230708.png",
+    "Revision/PracticeSet/Input Output - note.md",
+    "Revision/PracticeSet/Referential Constraint - practice.md",
+    "DialyStuff/2023-12-04.md",
+    "DialyStuff/media/Pasted image 20231204173010.png",
     "Revision/ShortNotes/DSA/Application of Greedy and Dynamic.md",
     "Revision/ShortNotes/COA/Floating Point Tables.md",
     "Revision/ShortNotes/COA/I O ShortNotes.md",
     "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
-    "Revision/PracticeSet/Referential Constraint - practice.md",
     "Revision/MicroNotes/APTI/Voca.md",
     "Revision/PracticeSet/Expression Analysis.md",
-    "Revision/PracticeSet/Input Output - note.md",
     "Revision/MicroNotes/C- MicroNotes.md",
     "Revision/MicroNotes/DSA/Tree MicroNotes.md",
     "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
     "templates/Normal Task Template.md",
     "DialyStuff/2023-12-02.md",
     "DialyStuff/2023-12-03.md",
-    "DialyStuff/2023-12-04.md",
     "Revision/PracticeSet/media/Pasted image 20231203213839.png",
     "Revision/ShortNotes/CN/DHCP.md",
     "Revision/ShortNotes/DLD/Boolean Algbrea - ShortNotes.md",
@@ -247,14 +262,8 @@
     "Revision/PYQ/COA/media/Pasted image 20231203173059.png",
     "Revision/PYQ/COA/media/Pasted image 20231203172814.png",
     "Revision/PYQ/COA/media/Pasted image 20231203172627.png",
-    "Revision/PYQ/COA/media/Pasted image 20231203171821.png",
-    "Revision/PYQ/COA/media/Pasted image 20231203171754.png",
-    "Revision/PYQ/COA/media/Pasted image 20231203171733.png",
     "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
-    "Revision/MadeEasyTS/COA/2022/COMPUTER ORGANIZATION AND ARCHITECTURE-2 (GATE 2022).md",
-    "Revision/PYQ/COA/input-output - pyq.md",
-    "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
     "Revision/MadeEasyTS/COA/2022/media",
     "Revision/MadeEasyTS/COA/2022",
     "Revision/MadeEasyTS/COA",
