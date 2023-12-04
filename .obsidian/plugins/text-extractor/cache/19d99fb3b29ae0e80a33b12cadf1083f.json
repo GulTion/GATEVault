@@ -1,0 +1,1 @@
+{"path":"Revision/Que/PYQ/C/media 1/Pasted image 20231002011149.png","text":"Q67. Consider the following C Code: #include<stdio.h> int main() { inti=100; int *pl, *p2; pl = &i; p2 = ++pl; -pl; printf(\"diff : %u\\n\", p2-pl); return 0; } What is the output of above C code? (a) diff : 0 (b) diff :1 (o) diff : 2 (d) Garbage value Solution:","libVersion":"0.2.3","langs":"eng"}

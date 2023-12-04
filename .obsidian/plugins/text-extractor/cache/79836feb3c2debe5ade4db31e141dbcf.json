@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231028163820.png","text":"Answer - (d) S1:IF x is a strict superset of Y it means X contain more attribute, so if Y is a key so X will be super key not a candidate key (key). S2 : IF X is/a key then Y is a key as well False, because X is a superset of Y .Y may or may not be akey.","libVersion":"0.2.3","langs":"eng"}

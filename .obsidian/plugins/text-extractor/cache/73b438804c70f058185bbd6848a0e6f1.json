@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231028163059.png","text":"Solution:31 Leaf nodes will have a record pointer for each key value (because the file is not ordered on that field) plus one block pointer to the next leaf node, so pxV+pxPR+PB=512 9p + Tp +6 =512 p = floor[(512 — 6)/ (9 + 7)] p=31","libVersion":"0.2.3","langs":"eng"}

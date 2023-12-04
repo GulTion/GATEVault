@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/DSA/media/Pasted image 20231114021228.png","text":"Choose the correct alternative to replace the blank line (a) g=NULL; p->next=head; head =p ; (b) g->next=NULL; head =p; p->next = head; (c) head=p; p->next=q; q->next=NULL; (d) g->next=NULL; p->next=head; head=p;","libVersion":"0.2.3","langs":"eng"}

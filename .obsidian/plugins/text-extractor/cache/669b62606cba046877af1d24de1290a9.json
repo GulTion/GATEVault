@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/DSA/media/Pasted image 20231114015453.png","text":"Answer: B Solution: When a queue is made with 2 stacks to insert an element into the queue we empty the 1st stack = n dequeue push these into 274 stack = n enqueue push new into 1st stack = 1 enqueue Pop all from 224 & push into 1st = n enqueue, n dequeue","libVersion":"0.2.3","langs":"eng"}

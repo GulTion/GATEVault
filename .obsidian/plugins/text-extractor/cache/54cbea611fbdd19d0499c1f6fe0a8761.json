@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/CN/media/Pasted image 20231027155022.png","text":"Q15. | In the method, after the station finds the line idle, it sends its frame immediately. If the line is not idle, it continuously senses the line until it finds it idle. (a) non-persistent (b) 1-persistent (c) p-persistent (d) none of the above","libVersion":"0.2.3","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/CN/media/Pasted image 20231124132617.png","text":"Solution: The advertised window should be big enough to keep the pipe full. We want to be able to have one delay-bandwidth product in flight at a time. That's (100 ms * 100 Mbps) = 10 Mb = 1.25 MB. We need 21 bits to address 1.25 MB.","libVersion":"0.2.3","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/DSA/media/Pasted image 20231101164123.png","text":"Consider the following code: intk = 0; for (inti=0;i<2n;i=1i+2) { for (intj=0;j<i;j=j+2) { if(i%2==1) i=i+1; k++; } } What expression correctly gives the final value of k as a function of n? (@) kn)=nn+1)/2 (b)k(n) =(n2-n)/2 (c)k(n)=2n+1 (d)k(n)=n2","libVersion":"0.2.3","langs":"eng"}

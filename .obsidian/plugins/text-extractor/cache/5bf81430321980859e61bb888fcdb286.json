@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/FULL/media/Pasted image 20231122163848.png","text":"Answer: 9 Solution: 1 flip flop delay =21 ns Frequency = SMH Cycle Time = 0.2 ps = 200 ns n bits x 21ns = 200 ns n=9 as for ripple counter the frequency is (1/n*delay flip flop){n is no .of flip flop } SMHz = 1/n*21 ns N=9","libVersion":"0.2.3","langs":"eng"}

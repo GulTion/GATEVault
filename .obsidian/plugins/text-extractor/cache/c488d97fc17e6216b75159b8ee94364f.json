@@ -1,0 +1,1 @@
+{"path":"Revision/Notes/ShortNotes/DBMS/media/Pasted image 20231120224143.png","text":"5.18 Lost Update Problem Lost update problem occur if Tj write (x) which is already written by uncommitted transaction T;. T, T, w(x) : ; [ Update of T, will lost 1 w(x) — v Roll ! ' because fo failure of T, back i i Failure !","libVersion":"0.2.3","langs":"eng"}

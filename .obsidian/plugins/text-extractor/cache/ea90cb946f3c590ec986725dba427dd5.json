@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/COA/media/Pasted image 20231025224713.png","text":"Answer: (d) Solution: R3-[0+R1] Because g[0] address in R1. R3 = 65536+R3 A[0] = 65536+A[0] R3— OR1) so R3 stored in a[0] Then R1 increment by add now it point to 224 address. BER1 # R4 - Loop and so on.","libVersion":"0.2.3","langs":"eng"}

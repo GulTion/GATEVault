@@ -1,0 +1,1 @@
+{"path":"Revision/Que/PYQ/OS/media/Pasted image 20231115153729.png","text":"Effective access time = hit ratio x time during hit + miss ratio X time during miss In both cases TLB is accessed and assuming page table is accessed from memory only when TLB misses. =0.9 x (10 +50) + 0.1 x (10 + 50 + 50) =54+11=65 Correct Answer: C'","libVersion":"0.2.3","langs":"eng"}

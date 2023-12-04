@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/FULL/media/Pasted image 20231204185528.png","text":"Answer: 24 Solution: CT = 1/frequency sec = 500 ps The clock cycle time = largest stage delay + buffer delay 500 = 476 + buffer delay Therefore buffer delay = 24 ps","libVersion":"0.2.3","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231028163956.png","text":"Q55. | Consider the relation schema R (A, B, C, D) with set of FDs {AB—C, BC—»D, A—>B}. Which FD has an extraneous attribute on the left hand side? (a) AB»C (b) BC—D (c) Both (a) and (b) (d) None of the above","libVersion":"0.2.3","langs":"eng"}

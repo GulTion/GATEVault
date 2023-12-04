@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/DSA/media/Pasted image 20231202103237.png","text":"Q49. | void function (int n) { int i, j,s=1; for (i =1;i <= n; i++) { s=s+i; for(j =1; j <= s; j ++) printf(“*”); B (a) 6(n?) (b) 8(n” log n) (c) 6(nlog? n) (d) 6(n3)","libVersion":"0.2.3","langs":"eng"}

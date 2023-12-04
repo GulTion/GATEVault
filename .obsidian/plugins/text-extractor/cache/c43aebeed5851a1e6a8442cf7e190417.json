@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/CN/media/Pasted image 20231124132745.png","text":"Solution: The SequenceNumber should be big enough so that it doesn't wrap around during maximum segment lifetime . In 60 seconds we can send 6000 Mb 60x100 mbps =6000 Mb Bits for sequence numbers = [logz Ml Answer is 30 Answers :30 bits will be required .","libVersion":"0.2.3","langs":"eng"}

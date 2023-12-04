@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ca4429fcc9fb936",
+        "id": "4e3af6aa23e6c473",
         "type": "tabs",
         "children": [
           {
-            "id": "99919432b8357321",
+            "id": "8d6fc08ab8779049",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +16,6 @@
                 "file": "DialyStuff/2023-12-04.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b72c57ae2151952c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Revision/ShortNotes/CN/media/Pasted image 20231113230708.png"
               }
             }
           }
@@ -202,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,54 +216,55 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99919432b8357321",
+  "active": "8d6fc08ab8779049",
   "lastOpenFiles": [
-    "Revision/ShortNotes/f.md",
-    "Revision/ShortNotes/DSA/media/Pasted image 20231110075230.png",
-    "Revision/ShortNotes/TOC/Turning Machine - GateOmedia.md",
-    "Revision/ShortNotes/CN/media/Pasted image 20231113230708.png",
-    "Revision/PracticeSet/Input Output - note.md",
-    "Revision/PracticeSet/Referential Constraint - practice.md",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204191833.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204191345.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204191247.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204185528.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204185522.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204185359.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204185229.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204185215.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204185207.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204185137.png",
+    "Revision/TS/ZealTS/FULL/TEST ID 80 MOCK 4.md",
+    "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
+    "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
+    "Revision/Que/PracticeSet/Expression Analysis.md",
+    "Revision/Notes/ShortNotes/CN/media/Pasted image 20231113230708.png",
+    "Revision/Que",
     "DialyStuff/2023-12-04.md",
-    "DialyStuff/media/Pasted image 20231204173010.png",
-    "Revision/ShortNotes/DSA/Application of Greedy and Dynamic.md",
-    "Revision/ShortNotes/COA/Floating Point Tables.md",
-    "Revision/ShortNotes/COA/I O ShortNotes.md",
-    "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
-    "Revision/MicroNotes/APTI/Voca.md",
-    "Revision/PracticeSet/Expression Analysis.md",
-    "Revision/MicroNotes/C- MicroNotes.md",
-    "Revision/MicroNotes/DSA/Tree MicroNotes.md",
-    "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
+    "Revision/Notes",
+    "Revision/TS",
+    "Revision/ShortNotes/f.md",
+    "Revision/Notes/ShortNotes/TOC/Turning Machine - GateOmedia.md",
+    "Revision/Que/PracticeSet/Input Output - note.md",
+    "Revision/Que/PracticeSet/Referential Constraint - practice.md",
+    "Revision/Notes/ShortNotes/DSA/Application of Greedy and Dynamic.md",
+    "Revision/Notes/ShortNotes/COA/Floating Point Tables.md",
+    "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
+    "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
+    "Revision/Notes/MicroNotes/APTI/Voca.md",
+    "Revision/Notes/MicroNotes/C- MicroNotes.md",
+    "Revision/Notes/MicroNotes/DSA/Tree MicroNotes.md",
+    "Revision/Notes/ShortNotes/DBMS/relational algebera - gateOMedia.md",
     "templates/Normal Task Template.md",
     "DialyStuff/2023-12-02.md",
     "DialyStuff/2023-12-03.md",
-    "Revision/PracticeSet/media/Pasted image 20231203213839.png",
-    "Revision/ShortNotes/CN/DHCP.md",
+    "Revision/Notes/ShortNotes/CN/DHCP.md",
     "Revision/ShortNotes/DLD/Boolean Algbrea - ShortNotes.md",
-    "Revision/MicroNotes/DLD/Flip Flops.md",
-    "Revision/MicroNotes/COA/complements of number.md",
+    "Revision/Notes/MicroNotes/DLD/Flip Flops.md",
+    "Revision/Notes/MicroNotes/COA/complements of number.md",
     "templates/dailyNote Template.md",
-    "Revision/PYQ/COA/Machine Instruction.md",
-    "Revision/PYQ/COA/media/Pasted image 20231203174552.png",
-    "Revision/PYQ/COA/media/Pasted image 20231203173240.png",
-    "Revision/PYQ/COA/media/Pasted image 20231203173131.png",
-    "Revision/PYQ/COA/media/Pasted image 20231203173059.png",
-    "Revision/PYQ/COA/media/Pasted image 20231203172814.png",
-    "Revision/PYQ/COA/media/Pasted image 20231203172627.png",
-    "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
-    "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
-    "Revision/MadeEasyTS/COA/2022/media",
-    "Revision/MadeEasyTS/COA/2022",
-    "Revision/MadeEasyTS/COA",
-    "Revision/ShortNotes/DSA/media/Dynamic Programming.pdf",
-    "Revision/PracticeSet/media/Referential Constraint.pdf",
+    "Revision/TS/MadeEasyTS/COA/2022/media",
+    "Revision/TS/MadeEasyTS/COA/2022",
+    "Revision/TS/MadeEasyTS/COA",
+    "Revision/Notes/ShortNotes/DSA/media/Dynamic Programming.pdf",
+    "Revision/Que/PracticeSet/media/Referential Constraint.pdf",
     "FlowChart.canvas",
-    "Revision/PDF/11. Expression Analysis.pdf",
-    "Revision/PracticeSet/media/IO device.pdf",
-    "templates/media",
-    "Revision/MadeEasyTS/media",
-    "Revision/media/TSRevision/ZealTEST 2023 INDEX.pdf",
+    "Revision/Que/PracticeSet/media/11. Expression Analysis.pdf",
+    "Revision/Que/PracticeSet/media/IO device.pdf",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

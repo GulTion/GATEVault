@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/C/media/Pasted image 20231116152127.png","text":"What will be output of given C code? #include<stdio.h> void main() { int a[10]; printf(\"%d\", *a+1-*a+4); ] (a)4 (b)5 (c)Compilation error (d)Garbage value","libVersion":"0.2.3","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"Revision/Que/PYQ/C/media 1/Pasted image 20231001215133.png","text":"Q30. | What will be the output of the C program? #include<stdio.h> int main() { int s[3] = {\\0', \\0'}; int x[3] = {\\0, \\0%; int c = s[1] + x[0]; printf(\"%d\",c); return 0; } - (b) \"\\0’ (c)Garbage Error (d) Null","libVersion":"0.2.3","langs":"eng"}

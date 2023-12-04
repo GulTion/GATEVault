@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/DBMS/media/Pasted image 20231117230223.png","text":"Answer: 5 Solution: RedCar: 2017-12-25 After applying LEFT OUTER JOIN it will print RedCar date | RedCar-od Saly | o | Nl | Nl | Nl | 20171205 The number of rows returns by the above query is 5","libVersion":"0.2.3","langs":"eng"}

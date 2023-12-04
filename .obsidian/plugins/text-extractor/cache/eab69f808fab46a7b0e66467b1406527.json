@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231028163705.png","text":"Q22.| Consider a relation R(A, B, C, D, E) with the set of functional dependencies {A - BC, CD — E, B-D and E — A}. How many super keys are possible in R?","libVersion":"0.2.3","langs":"eng"}

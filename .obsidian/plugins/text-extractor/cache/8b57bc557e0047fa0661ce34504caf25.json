@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/DSA/media/Pasted image 20231102162814.png","text":"The following function takes 10 seconds to complete when n = 40. What is the expected time in seconds for the method to complete whenn=80? int fun (int n) { iffn==1]|n==2) return 1; else return fun (n / 2) + fun (n / 2); }","libVersion":"0.2.3","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/DBMS/media/Pasted image 20231117230730.png","text":"Answer: (a)and (c) Solution: (a) True; Delete is a DML command so it can be rolled back whereas TRUNCATE and DROP are DDL commands hence cannot be rolled back. (b) False; Same reason as option (a) (c) True; Same reason (d) False: Only DELETE is a DML command.","libVersion":"0.2.3","langs":"eng"}

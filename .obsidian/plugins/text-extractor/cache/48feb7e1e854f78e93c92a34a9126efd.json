@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/DSA/media/Pasted image 20231101162509.png","text":"Consider the following recurrence relation: Tn) = {T(n -+ Vi ifnz 1} 0; Otherwise What will be the solution of the given recurrence relation in terms of Big-oh notation (tightest upper bound)? () Tm) = O(v) (b) T(n) = O(logn) (¢) T(n) = 0(nvn) (d) T(n) = 0(n)","libVersion":"0.2.3","langs":"eng"}

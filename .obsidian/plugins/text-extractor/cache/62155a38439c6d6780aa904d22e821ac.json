@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/CN/media/Pasted image 20231124132722.png","text":"Data for the next two questions.You are hired to design a reliable byte-stream protocol that uses asliding window (like TCP). This protocol will run over a 100-Mbps network. The RTT of the network is 100 ms, and the maximum segmentlifetime is 60 seconds.","libVersion":"0.2.3","langs":"eng"}

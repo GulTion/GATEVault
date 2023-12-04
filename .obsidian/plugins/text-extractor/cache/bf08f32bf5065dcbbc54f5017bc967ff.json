@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/DSA/media/Pasted image 20231114021719.png","text":"Answer: A Explanation: Complexity to search an element in BST is O(Height). In worst case height of BST = number of nodes in tree i.e., skewed BST. So, option A is correct.","libVersion":"0.2.3","langs":"eng"}

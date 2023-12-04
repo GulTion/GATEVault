@@ -1,0 +1,1 @@
+{"path":"Revision/Notes/ShortNotes/DBMS/media/Pasted image 20231120224113.png","text":"5.16.3 Uncommitted Read (Dirty Read) Transaction T; reads data item ‘x” which is updated by uncommitted transaction. Ty T; i w(x) IAny R(x) between this 1=y it is dirty read Commit/ Rollback","libVersion":"0.2.3","langs":"eng"}

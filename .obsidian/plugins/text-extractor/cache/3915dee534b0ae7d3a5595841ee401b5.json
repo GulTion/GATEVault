@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/OS/media/Pasted image 20231122141906.png","text":"Answer: (a, b, c, d) Solution: Page table entry store all the things, its also store the location of page on disk so that it can bring page from the disk when it page fault.","libVersion":"0.2.3","langs":"eng"}

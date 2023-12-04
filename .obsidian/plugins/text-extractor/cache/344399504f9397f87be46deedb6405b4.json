@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/FULL/media/Pasted image 20231106005723.png","text":"Answer: 15 Solution: Tx = 0.01 milliseconds Tp = 100 milliseconds To achieve a link utilization of 100%, W = (tx + 2tp)/tx W = (0.01 + 200)/0.01 = 20001 In Go-Back-N, Window Size = MaxSeqNo = 2~ - 1 Therefore, N = 15.","libVersion":"0.2.3","langs":"eng"}

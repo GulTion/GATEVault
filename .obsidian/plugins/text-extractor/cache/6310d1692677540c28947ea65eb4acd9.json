@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/CN/media/Pasted image 20231022131235.png","text":"Solution: Tx=10ms 2tp = 200 ms Efficiency = w * tx/ (tx + 2tp) 1=w*10 / (10 + 200) W=210/10 W=21 In Go-Back-N, Window size = MaxSeq [.MaxSeq =2 -1] Therefore 21 = MaxSeq =2\" -1 n = Ceil(logz(22)) =5 Answer is 5","libVersion":"0.2.3","langs":"eng"}

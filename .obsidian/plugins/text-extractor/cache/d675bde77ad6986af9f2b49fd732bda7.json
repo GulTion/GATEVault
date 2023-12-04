@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/COA/media/Pasted image 20231020152012.png","text":"Answer: (c) Solution: Only I3 and 16 can be executed in delay slot without changing the effect, I1 and I2 can not place in delay slot because 13 need the result of I2 before the start of loop.","libVersion":"0.2.3","langs":"eng"}

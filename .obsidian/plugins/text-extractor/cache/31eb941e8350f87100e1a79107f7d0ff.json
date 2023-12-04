@@ -1,0 +1,1 @@
+{"path":"Revision/Que/PYQ/CN/media/Pasted image 20231124143826.png","text":"e D Each time an ACK is received by the sender, the congestion window is increased by 7 1 segment: CWND = CWND + 1. D CWND increases exponentially on every RTT'. Hence, correct answer is C. i https://www.utdallas.edu/~venky/acn/CongestionControl.pdf","libVersion":"0.2.3","langs":"eng"}

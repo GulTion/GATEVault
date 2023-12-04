@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/DSA/media/Pasted image 20231114021202.png","text":"typedef struct node; { int value; struct node* next; INode; Node* move_to_front (Node* head) { Node* p, *q; if((head==NULL) | | (head->next==NULL)) return head; q=NULL; p=head; while(p->next != NULL) { q=p; p=p->next; } . ]] (blank-line) return head; }","libVersion":"0.2.3","langs":"eng"}

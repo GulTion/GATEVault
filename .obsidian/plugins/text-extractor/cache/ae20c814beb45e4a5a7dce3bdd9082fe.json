@@ -1,0 +1,1 @@
+{"path":"Revision/Que/PYQ/DLD/media/Pasted image 20231125001119.png","text":"D P: ths=Y*Z =Y*(X*Y)=(Y*Y)*X=1*X=X=lhs so valid 1 (we can use the fact that X*Y IS EQUIV TO X XNOR Y which is associative AND commutative) D Q:rhs=X*Z =X*(X*Y)=(X*X)*Y=1*Y=Y=lhs so valid RIXFY*Z=XRY*(XFY) =(X*X)*(Y*Y)=1 so valid","libVersion":"0.2.3","langs":"eng"}
