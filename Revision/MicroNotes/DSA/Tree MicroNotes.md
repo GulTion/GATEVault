@@ -1,6 +1,9 @@
 ---
 subject: DSA
 type: MicroNotes
+sr-due: 2023-12-05
+sr-interval: 1
+sr-ease: 167
 ---
 #note
 #card/DSA/Tree

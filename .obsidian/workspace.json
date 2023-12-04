@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-04.md",
+                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-04.md",
+                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-04.md",
+                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-04.md"
+                "file": "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md"
               }
             }
           },
@@ -189,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -221,6 +220,15 @@
   "active": "99919432b8357321",
   "lastOpenFiles": [
     "Revision/PracticeSet/Referential Constraint - practice.md",
+    "Revision/MicroNotes/APTI/Voca.md",
+    "Revision/PracticeSet/Expression Analysis.md",
+    "Revision/PracticeSet/Input Output - note.md",
+    "Revision/MicroNotes/C- MicroNotes.md",
+    "Revision/MicroNotes/DSA/Tree MicroNotes.md",
+    "Revision/ShortNotes/DBMS/relational algebera - gateOMedia.md",
+    "templates/Normal Task Template.md",
+    "DialyStuff/2023-12-02.md",
+    "DialyStuff/2023-12-03.md",
     "DialyStuff/2023-12-04.md",
     "Revision/PracticeSet/media/Pasted image 20231203213839.png",
     "Revision/ShortNotes/CN/DHCP.md",
@@ -240,10 +248,8 @@
     "Revision/PYQ/COA/media/Pasted image 20231203171754.png",
     "Revision/PYQ/COA/media/Pasted image 20231203171733.png",
     "Revision/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
-    "DialyStuff/2023-12-03.md",
     "Revision/ShortNotes/DSA/Type of Edges in DFS.md",
     "Revision/MadeEasyTS/COA/2022/COMPUTER ORGANIZATION AND ARCHITECTURE-2 (GATE 2022).md",
-    "DialyStuff/2023-12-02.md",
     "Revision/PYQ/COA/input-output - pyq.md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
     "Revision/MadeEasyTS/COA/2022/media",
@@ -252,13 +258,6 @@
     "Revision/PYQ/DM/Graph Theory-pyq.md",
     "Cat (en-US).md",
     "Revision/PYQ/C/Loop - pyq.md",
-    "Binary Operation Overflow stuff.md",
-    "Revision/ZealTS/FULL/MOCK 1 2023.md",
-    "Excalidraw/Drawing 2023-12-02 11.19.14.excalidraw.md",
-    "Revision/zealWorkBook/DBMS/Nomalization.md",
-    "Revision/ShortNotes/DBMS/Difference between Generalization and Specialization in DBMS - shortNotes.md",
-    "DialyStuff/2023-11-30.md",
-    "Revision/PracticeSet/Expression Analysis.md",
     "Revision/ShortNotes/DSA/media/Dynamic Programming.pdf",
     "Revision/PracticeSet/media/Referential Constraint.pdf",
     "FlowChart.canvas",

@@ -2,6 +2,9 @@
 subject: C
 type: MicroNotes
 atQ: 0
+sr-due: 2023-12-06
+sr-interval: 2
+sr-ease: 165
 ---
 #note
 #card/C 
