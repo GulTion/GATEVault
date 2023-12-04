@@ -9,7 +9,10 @@ subject: DM
 
 ![[Pasted image 20230829180659.png]]::485
 
-![[Pasted image 20230829180728.png]]::116424
+![[Pasted image 20230829180728.png]]
+- forgetting the formula that must be used in indentical=>distinct
+?
+116424 <!--SR:!2023-12-05,2,150-->
 
 ![[Pasted image 20230829180815.png]]::24
 # Distinct to Distinct

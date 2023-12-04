@@ -2,5 +2,5 @@
 subject: DBMS
 type: Practice
 ---
-#note/DBMS
+![[Pasted image 20231203213839.png]]#note/DBMS
 ![[Referential Constraint.pdf]]

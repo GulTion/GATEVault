@@ -11,8 +11,12 @@
             "id": "99919432b8357321",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-12-04.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DialyStuff/2023-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DialyStuff/2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2023-12-04.md"
+              }
             }
           },
           {
@@ -211,6 +220,14 @@
   },
   "active": "99919432b8357321",
   "lastOpenFiles": [
+    "Revision/PracticeSet/Referential Constraint - practice.md",
+    "DialyStuff/2023-12-04.md",
+    "Revision/PracticeSet/media/Pasted image 20231203213839.png",
+    "Revision/ShortNotes/CN/DHCP.md",
+    "Revision/ShortNotes/DLD/Boolean Algbrea - ShortNotes.md",
+    "Revision/MicroNotes/DLD/Flip Flops.md",
+    "Revision/MicroNotes/COA/complements of number.md",
+    "templates/dailyNote Template.md",
     "Revision/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
     "Revision/PYQ/COA/Machine Instruction.md",
     "Revision/PYQ/COA/media/Pasted image 20231203174552.png",
@@ -229,8 +246,6 @@
     "DialyStuff/2023-12-02.md",
     "Revision/PYQ/COA/input-output - pyq.md",
     "Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
-    "Revision/MadeEasyTS/FULL/media/Pasted image 20231202215824.png",
-    "Revision/MicroNotes/DLD/Flip Flops.md",
     "Revision/MadeEasyTS/COA/2022/media",
     "Revision/MadeEasyTS/COA/2022",
     "Revision/MadeEasyTS/COA",
@@ -244,12 +259,6 @@
     "Revision/ShortNotes/DBMS/Difference between Generalization and Specialization in DBMS - shortNotes.md",
     "DialyStuff/2023-11-30.md",
     "Revision/PracticeSet/Expression Analysis.md",
-    "Revision/MixQue/APTI/Vocu.md",
-    "Revision/zealWorkBook/DSA/Asymptotic Complexity Basic Solution.md",
-    "Revision/PYQ/DSA/Dynamic Programming - pyq.md",
-    "Revision/ZealTS/DSA/TEST ID-12 DSA-4.md",
-    "Revision/ShortNotes/DSA/Dynamic - LCS, Knapsack,.md",
-    "Excalidraw/Drawing 2023-11-20 00.28.49.excalidraw.md",
     "Revision/ShortNotes/DSA/media/Dynamic Programming.pdf",
     "Revision/PracticeSet/media/Referential Constraint.pdf",
     "FlowChart.canvas",

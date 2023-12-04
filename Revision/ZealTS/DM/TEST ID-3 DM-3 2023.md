@@ -14,7 +14,10 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 
 ![[Pasted image 20231030190408.png]]5::A![[Pasted image 20231030190417.png]] <!--SR:!2023-12-26,23,270-->
 
-![[Pasted image 20231030191303.png]]8::C,D ![[Pasted image 20231030191315.png]] <!--SR:!2023-11-17,10,270-->
+![[Pasted image 20231030191303.png]]8
+- wrong tick A
+?
+C,D ![[Pasted image 20231030191315.png]] <!--SR:!2024-01-09,37,290-->
 
 ![[Pasted image 20231030193857.png]]9::A,B,C,D ![[Pasted image 20231030193909.png]] <!--SR:!2024-01-09,37,290-->
 
@@ -22,7 +25,7 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 
 
 
-![[Pasted image 20231031123053.png]]13::A, D![[Pasted image 20231031123116.png]] <!--SR:!2023-11-21,14,297-->
+![[Pasted image 20231031123053.png]]13::A, D![[Pasted image 20231031123116.png]] <!--SR:!2024-01-14,42,297-->
 
 ![[Pasted image 20231031125110.png]]16::A![[Pasted image 20231031125118.png]] <!--SR:!2024-01-12,40,297-->
 

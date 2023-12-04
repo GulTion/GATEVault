@@ -2,9 +2,9 @@
 type: MicroNotes
 subject: COA
 atQ: 0
-sr-due: 2023-12-03
-sr-interval: 13
-sr-ease: 170
+sr-due: 2024-01-04
+sr-interval: 32
+sr-ease: 190
 ---
 #note
 - **n's complement of number X**

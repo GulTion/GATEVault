@@ -1,3 +1,7 @@
+---
+subject: DLD
+type: ShortNotes
+---
 #note
 ![[Binary Operation Overflow stuff]]
 

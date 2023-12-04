@@ -1,6 +1,9 @@
 ---
 type: ShortNotes
 subject: CN
+sr-due: 2023-12-05
+sr-interval: 2
+sr-ease: 156
 ---
 #note
 #card/CN/ApplicationLayer/DHCP
