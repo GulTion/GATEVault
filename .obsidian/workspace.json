@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c3f68da744b8b41",
+        "id": "a4db727833316f3b",
         "type": "tabs",
         "children": [
           {
-            "id": "43eb273cd02d14c1",
+            "id": "35d7f5a9b62502c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md"
+                "file": "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md"
+                "file": "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md"
               }
             }
           }
@@ -226,20 +226,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "43eb273cd02d14c1",
+  "active": "35d7f5a9b62502c0",
   "lastOpenFiles": [
-    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231205151438.png",
-    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231205151417.png",
-    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231205151105.png",
-    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231205135409.png",
-    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231205135323.png",
-    "Revision/Que/PYQ/DBMS/ER Model - pyq.md",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205162850.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205162840.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205162546.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205162530.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205161940.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205161930.png",
+    "Revision/Que/PracticeSet/Entity Relationship Model - practice.md",
+    "Revision/Que/PracticeSet/media/5.ENTITY RELATIONSHIP MODEL.pdf",
     "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md",
+    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231205161249.png",
+    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231205161235.png",
+    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231205155756.png",
+    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231205155740.png",
+    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231205155720.png",
+    "Revision/Que/PYQ/DBMS/ER Model - pyq.md",
     "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205133207.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205133034.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205131951.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205131851.png",
     "DialyStuff/2023-12-05.md",
     "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
     "Revision/Que/PracticeSet/Expression Analysis.md",
@@ -251,8 +255,6 @@
     "Revision/Que/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
     "Revision/TS/ZealTS/OS/Test ID - 19 OS Test - 1.md",
     "Revision/Que/zealWorkBook/OS/Thread.md",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231022113219.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231022115055.png",
     "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
     "Revision/TS/ZealTS/OS/Test ID - 21 OS Test - 3.md",
@@ -266,7 +268,6 @@
     "Revision/ShortNotes/f.md",
     "Revision/Notes/ShortNotes/TOC/Turning Machine - GateOmedia.md",
     "Revision/Que/PracticeSet/Input Output - note.md",
-    "Revision/Que/PracticeSet/Referential Constraint - practice.md",
     "Revision/TS/MadeEasyTS/COA/2022/media",
     "Revision/TS/MadeEasyTS/COA/2022",
     "Revision/TS/MadeEasyTS/COA",
@@ -274,7 +275,6 @@
     "Revision/Que/PracticeSet/media/Referential Constraint.pdf",
     "FlowChart.canvas",
     "Revision/Que/PracticeSet/media/11. Expression Analysis.pdf",
-    "Revision/Que/PracticeSet/media/IO device.pdf",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

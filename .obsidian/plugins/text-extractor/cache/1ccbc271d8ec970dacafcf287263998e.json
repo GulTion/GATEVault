@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/FULL/media/Pasted image 20231205162850.png","text":"Answer: 12 Solution: To answer the query we need a total of 12 1/Os + 5 index page1/0s: A->B->F->G > H « 7 file page 1/Os to fetch records: 39, 44, 46, 52, 66, 67, 77","libVersion":"0.2.3","langs":"eng"}

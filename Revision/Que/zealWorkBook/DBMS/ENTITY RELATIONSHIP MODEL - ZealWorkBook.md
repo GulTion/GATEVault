@@ -16,3 +16,11 @@ src: zealWorkBook
 
 ![[Pasted image 20231205151417.png]]::![[Pasted image 20231205151438.png]]
 
+![[Pasted image 20231205155544.png]]::A
+
+
+![[Pasted image 20231205155720.png]]![[Pasted image 20231205155740.png]]::![[Pasted image 20231205155756.png]]
+
+
+![[Pasted image 20231205161235.png]]::![[Pasted image 20231205161249.png]]
+
