@@ -11,11 +11,28 @@
             "id": "50f7a74264d47e63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Revision/Que/PYQ/CN/Subnetting Supernetting - pyq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86d2fad51dc9333b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md"
+              }
             }
           },
           {
@@ -184,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md"
+              }
             }
           }
         ],
@@ -217,10 +240,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50f7a74264d47e63",
+  "active": "86d2fad51dc9333b",
   "lastOpenFiles": [
-    "Revision/Que/PYQ/COA/Number System.md",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205184227.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205184221.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205184027.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205184020.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205182133.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205182128.png",
+    "Revision/Que/PYQ/CN/Subnetting Supernetting - pyq.md",
+    "Revision/Que/PYQ/CN/media/Pasted image 20231205181941.png",
+    "Revision/Que/PYQ/CN/media/Pasted image 20231205181908.png",
+    "Revision/Que/PYQ/CN/media/Pasted image 20231205181839.png",
     "Revision/Que/PYQ/COA/Machine Instruction.md",
+    "Revision/Que/PYQ/COA/Number System.md",
     "Revision/Que/zealWorkBook/CN/TCP.md",
     "Revision/Que/zealWorkBook/CN/5 Network Layer Solutions.md",
     "Revision/Que/zealWorkBook/CN/Application Layer 1.md",
@@ -228,17 +261,9 @@
     "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231205165720.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231205165646.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205162850.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205162840.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205162546.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205162530.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205161940.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205161930.png",
     "Revision/Que/PracticeSet/Entity Relationship Model - practice.md",
     "Revision/Que/PracticeSet/media/5.ENTITY RELATIONSHIP MODEL.pdf",
     "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md",
-    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231205161249.png",
-    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231205161235.png",
     "Revision/Que/PYQ/DBMS/ER Model - pyq.md",
     "DialyStuff/2023-12-05.md",
     "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
@@ -254,8 +279,6 @@
     "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
     "Revision/TS/ZealTS/OS/Test ID - 21 OS Test - 3.md",
-    "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
-    "Revision/Que/PYQ/OS/Memory Management - pyq.md",
     "Revision/Que",
     "Revision/Notes",
     "Revision/TS",
