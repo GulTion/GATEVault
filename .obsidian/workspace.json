@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "990499b938d62040",
+        "id": "091c7bc6e3d2ae8a",
         "type": "tabs",
         "children": [
           {
-            "id": "50f7a74264d47e63",
+            "id": "b6c9a7b952f7fbb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/PYQ/CN/Subnetting Supernetting - pyq.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86d2fad51dc9333b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58953120f11e0e18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bhisandiya/OurLangBook/OurBook-index.md",
+                "file": "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 516.5114784240723
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -126,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bhisandiya/OurLangBook/OurBook-index.md",
+                "file": "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bhisandiya/OurLangBook/OurBook-index.md",
+                "file": "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bhisandiya/OurLangBook/OurBook-index.md"
+                "file": "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md"
               }
             }
           },
@@ -218,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bhisandiya/OurLangBook/OurBook-index.md"
+                "file": "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md"
               }
             }
           }
@@ -250,12 +225,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "58953120f11e0e18",
+  "active": "b6c9a7b952f7fbb4",
   "lastOpenFiles": [
+    "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
+    "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md",
+    "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
+    "DialyStuff/2023-12-05.md",
+    "Revision/Que/PYQ/CN/Subnetting Supernetting - pyq.md",
+    "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
+    "Bhisandiya/OurLangBook/OurBook-index.md",
     "Bhisandiya/OurLangBook",
     "Bhisandiya/Index.md",
-    "Bhisandiya/OurLangBook/OurBook-index.md",
-    "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
     "Revision/Que/zealWorkBook/DSA/Basic - Program design strategy.md",
     "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
     "Bhisandiya",
@@ -272,7 +252,6 @@
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231205185056.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231205185049.png",
     "Revision/Que/PYQ/COA/Memory Chip Design.md",
-    "Revision/Que/PYQ/CN/Subnetting Supernetting - pyq.md",
     "Revision/Que/PYQ/COA/Machine Instruction.md",
     "Revision/Que/zealWorkBook/CN/TCP.md",
     "Revision/Que/zealWorkBook/CN/5 Network Layer Solutions.md",
@@ -282,14 +261,11 @@
     "Revision/Que/PracticeSet/media/5.ENTITY RELATIONSHIP MODEL.pdf",
     "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md",
     "Revision/Que/PYQ/DBMS/ER Model - pyq.md",
-    "DialyStuff/2023-12-05.md",
     "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
     "Revision/Que/PracticeSet/Expression Analysis.md",
     "Revision/Notes/MicroNotes/APTI/Voca.md",
     "Revision/Notes/ShortNotes/DSA/Space Complexity.md",
     "Revision/Notes/ShortNotes/CN/DHCP.md",
-    "Revision/Notes/MicroNotes/DSA/Tree MicroNotes.md",
-    "Revision/Notes/ShortNotes/DSA/Application of Greedy and Dynamic.md",
     "Revision/Que",
     "Revision/Notes",
     "Revision/TS",
@@ -297,7 +273,6 @@
     "Revision/TS/MadeEasyTS/COA/2022",
     "Revision/TS/MadeEasyTS/COA",
     "Revision/Notes/ShortNotes/DSA/media/Dynamic Programming.pdf",
-    "Revision/Que/PracticeSet/media/Referential Constraint.pdf",
     "FlowChart.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
