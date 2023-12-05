@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
+                "file": "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58953120f11e0e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md"
+                "file": "Index.md"
               }
             }
           },
@@ -206,17 +218,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md"
+                "file": "Index.md"
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,15 +251,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b301f141e47d7da",
+  "active": "58953120f11e0e18",
   "lastOpenFiles": [
-    "Untitled",
+    "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
+    "Index.md",
+    "Revision/Que/zealWorkBook/DSA/Basic - Program design strategy.md",
+    "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
+    "Bhisandiya",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231205194007.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231205193856.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231205185914.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231205185907.png",
     "Revision/Que/PYQ/COA/pipline.md",
-    "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231205185346.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231205185336.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231205185315.png",
@@ -277,8 +291,6 @@
     "Revision/Notes/ShortNotes/DSA/Application of Greedy and Dynamic.md",
     "Revision/Que/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
     "Revision/TS/ZealTS/OS/Test ID - 19 OS Test - 1.md",
-    "Revision/Que/zealWorkBook/OS/Thread.md",
-    "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/Que",
     "Revision/Notes",
     "Revision/TS",
@@ -288,7 +300,6 @@
     "Revision/Notes/ShortNotes/DSA/media/Dynamic Programming.pdf",
     "Revision/Que/PracticeSet/media/Referential Constraint.pdf",
     "FlowChart.canvas",
-    "Revision/Que/PracticeSet/media/11. Expression Analysis.pdf",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
