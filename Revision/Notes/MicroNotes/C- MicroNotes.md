@@ -9,7 +9,7 @@ sr-ease: 165
 #note
 #card/C 
 
-![[Pasted image 20231028175219.png]]::![[Pasted image 20231028175237.png]] <!--SR:!2023-12-06,10,190-->
+![[Pasted image 20231028175219.png]]::![[Pasted image 20231028175237.png]] <!--SR:!2024-01-05,30,210-->
 
 ![[Pasted image 20231028175441.png]]::![[Pasted image 20231028175501.png]] <!--SR:!2024-01-08,48,270-->
 
