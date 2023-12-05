@@ -26,8 +26,4 @@ play of short term![[Pasted image 20231022104810.png]]::![[Pasted image 20231022
 
 ![[Pasted image 20231022113219.png]]::![[Pasted image 20231022113230.png]] <!--SR:!2023-12-11,20,270-->
 
-![[Pasted image 20231022115055.png]]::![[Pasted image 20231022115106.png]] <!--SR:!2024-01-23,63,310-->
-
-
-![[Pasted image 20231022115139.png]]::![[Pasted image 20231022115148.png]] <!--SR:!2024-01-21,61,310-->
 

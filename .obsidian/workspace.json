@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4e3af6aa23e6c473",
+        "id": "9c3f68da744b8b41",
         "type": "tabs",
         "children": [
           {
-            "id": "8d6fc08ab8779049",
+            "id": "43eb273cd02d14c1",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Revision/Que/PYQ/OS/Memory Management - pyq.md",
-                "staged": false
+                "file": "DialyStuff/2023-12-05.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DialyStuff/2023-12-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DialyStuff/2023-12-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2023-12-05.md"
+              }
             }
           },
           {
@@ -181,8 +186,19 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "7d7a4086ce4ec114",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "DialyStuff/2023-12-05.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -210,27 +226,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8d6fc08ab8779049",
+  "active": "43eb273cd02d14c1",
   "lastOpenFiles": [
+    "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
+    "DialyStuff/2023-12-05.md",
+    "Revision/Que/PracticeSet/Expression Analysis.md",
+    "Revision/Notes/MicroNotes/APTI/Voca.md",
+    "Revision/Notes/ShortNotes/DSA/Space Complexity.md",
+    "Revision/Notes/ShortNotes/CN/DHCP.md",
+    "Revision/Notes/MicroNotes/DSA/Tree MicroNotes.md",
+    "Revision/Notes/ShortNotes/DSA/Application of Greedy and Dynamic.md",
+    "Revision/Que/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
+    "Revision/TS/ZealTS/OS/Test ID - 19 OS Test - 1.md",
+    "Revision/Que/zealWorkBook/OS/Thread.md",
+    "Revision/TS/ZealTS/OS/media/Pasted image 20231022113219.png",
+    "Revision/TS/ZealTS/OS/media/Pasted image 20231022115055.png",
+    "Revision/TS/ZealTS/OS/media/Pasted image 20231022115139.png",
+    "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205011755.png",
+    "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
+    "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
     "Revision/TS/ZealTS/OS/Test ID - 21 OS Test - 3.md",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "Revision/Que/PYQ/OS/Memory Management - pyq.md",
-    "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231204223656.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231204223632.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231204222705.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231204222615.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231204193510.png",
-    "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
     "DialyStuff/2023-12-04.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231204191833.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204191345.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204191247.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204185528.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204185522.png",
     "Revision/TS/ZealTS/FULL/TEST ID 80 MOCK 4.md",
-    "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
-    "Revision/Que/PracticeSet/Expression Analysis.md",
     "Revision/Que",
     "Revision/Notes",
     "Revision/TS",
@@ -238,19 +264,9 @@
     "Revision/Notes/ShortNotes/TOC/Turning Machine - GateOmedia.md",
     "Revision/Que/PracticeSet/Input Output - note.md",
     "Revision/Que/PracticeSet/Referential Constraint - practice.md",
-    "Revision/Notes/ShortNotes/DSA/Application of Greedy and Dynamic.md",
     "Revision/Notes/ShortNotes/COA/Floating Point Tables.md",
-    "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
     "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
-    "Revision/Notes/MicroNotes/APTI/Voca.md",
     "Revision/Notes/MicroNotes/C- MicroNotes.md",
-    "Revision/Notes/MicroNotes/DSA/Tree MicroNotes.md",
-    "Revision/Notes/ShortNotes/DBMS/relational algebera - gateOMedia.md",
-    "templates/Normal Task Template.md",
-    "DialyStuff/2023-12-02.md",
-    "DialyStuff/2023-12-03.md",
-    "Revision/Notes/ShortNotes/CN/DHCP.md",
-    "Revision/ShortNotes/DLD/Boolean Algbrea - ShortNotes.md",
     "Revision/TS/MadeEasyTS/COA/2022/media",
     "Revision/TS/MadeEasyTS/COA/2022",
     "Revision/TS/MadeEasyTS/COA",
