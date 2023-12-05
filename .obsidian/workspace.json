@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-05.md",
+                "file": "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-05.md",
+                "file": "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-05.md",
+                "file": "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-05.md"
+                "file": "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-05.md"
+                "file": "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md"
               }
             }
           }
@@ -228,8 +228,17 @@
   },
   "active": "43eb273cd02d14c1",
   "lastOpenFiles": [
-    "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
+    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231205135409.png",
+    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231205135323.png",
+    "Revision/Que/PYQ/DBMS/ER Model - pyq.md",
+    "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md",
+    "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205133207.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205133034.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205131951.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205131851.png",
     "DialyStuff/2023-12-05.md",
+    "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
     "Revision/Que/PracticeSet/Expression Analysis.md",
     "Revision/Notes/MicroNotes/APTI/Voca.md",
     "Revision/Notes/ShortNotes/DSA/Space Complexity.md",
@@ -242,7 +251,6 @@
     "Revision/TS/ZealTS/OS/media/Pasted image 20231022113219.png",
     "Revision/TS/ZealTS/OS/media/Pasted image 20231022115055.png",
     "Revision/TS/ZealTS/OS/media/Pasted image 20231022115139.png",
-    "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231205011755.png",
     "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
@@ -250,12 +258,7 @@
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "Revision/Que/PYQ/OS/Memory Management - pyq.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231204223656.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204223632.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204222705.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204222615.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204193510.png",
     "DialyStuff/2023-12-04.md",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231204191833.png",
     "Revision/TS/ZealTS/FULL/TEST ID 80 MOCK 4.md",
     "Revision/Que",
     "Revision/Notes",
@@ -264,9 +267,6 @@
     "Revision/Notes/ShortNotes/TOC/Turning Machine - GateOmedia.md",
     "Revision/Que/PracticeSet/Input Output - note.md",
     "Revision/Que/PracticeSet/Referential Constraint - practice.md",
-    "Revision/Notes/ShortNotes/COA/Floating Point Tables.md",
-    "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
-    "Revision/Notes/MicroNotes/C- MicroNotes.md",
     "Revision/TS/MadeEasyTS/COA/2022/media",
     "Revision/TS/MadeEasyTS/COA/2022",
     "Revision/TS/MadeEasyTS/COA",
