@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bhisandiya/Index.md",
+                "file": "Bhisandiya/OurLangBook/OurBook-index.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bhisandiya/Index.md",
+                "file": "Bhisandiya/OurLangBook/OurBook-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bhisandiya/Index.md",
+                "file": "Bhisandiya/OurLangBook/OurBook-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bhisandiya/Index.md"
+                "file": "Bhisandiya/OurLangBook/OurBook-index.md"
               }
             }
           },
@@ -219,7 +218,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bhisandiya/Index.md"
+                "file": "Bhisandiya/OurLangBook/OurBook-index.md"
               }
             }
           }
@@ -253,8 +252,10 @@
   },
   "active": "58953120f11e0e18",
   "lastOpenFiles": [
-    "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
+    "Bhisandiya/OurLangBook",
     "Bhisandiya/Index.md",
+    "Bhisandiya/OurLangBook/OurBook-index.md",
+    "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
     "Revision/Que/zealWorkBook/DSA/Basic - Program design strategy.md",
     "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
     "Bhisandiya",
@@ -289,8 +290,6 @@
     "Revision/Notes/ShortNotes/CN/DHCP.md",
     "Revision/Notes/MicroNotes/DSA/Tree MicroNotes.md",
     "Revision/Notes/ShortNotes/DSA/Application of Greedy and Dynamic.md",
-    "Revision/Que/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
-    "Revision/TS/ZealTS/OS/Test ID - 19 OS Test - 1.md",
     "Revision/Que",
     "Revision/Notes",
     "Revision/TS",

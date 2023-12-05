@@ -308,3 +308,21 @@
 | Clean        | Saaf               | Limpyo           | Free from dirt or impurities               |
 | Dirty        | Ganda              | Hugaw            | Contaminated or soiled                     |
 
+
+# Use of Root Word in Form of Tenses and Verbs
+
+| ENGLISH     | HINGLISH           | BISAYA          | DESCRIPTION                                      |
+|-------------|---------------------|------------------|--------------------------------------------------|
+| Play        | Khelna             | Dula            | Present tense: I play, You play, He/She/It plays |
+| Played      | Khela              | Nidula          | Past tense: I played, You played, He/She/It played |
+| Playing     | Khel raha/rahi     | Nagdula         | Present continuous: I am playing, You are playing |
+| Will Play   | Khelunga/khelungi  | Moadula         | Future tense: I will play, You will play         |
+| Eat         | Khana              | Kaon            | Present tense: I eat, You eat, He/She/It eats    |
+| Ate         | Khaya              | Nagkaon         | Past tense: I ate, You ate, He/She/It ate         |
+| Eating      | Khana kha raha/rahi | Nagkaon         | Present continuous: I am eating, You are eating |
+| Will Eat    | Khaoonga/khaoongi  | Modlunon        | Future tense: I will eat, You will eat           |
+| Sing        | Gaana              | Kanta           | Present tense: I sing, You sing, He/She/It sings |
+| Sang        | Gaya               | Nagkanta        | Past tense: I sang, You sang, He/She/It sang     |
+| Singing     | Gaana ga raha/rahi | Nagkanta        | Present continuous: I am singing, You are singing |
+| Will Sing   | Gaaoonga/gaaoongi  | Mogkanta        | Future tense: I will sing, You will sing         |
+
