@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/FULL/media/Pasted image 20231206184203.png","text":"Answer: b, ¢, d Solution: (@) No computation in the code with only constants. So, there is no scope of constant folding. (b) Common sub-expression: “10%” () Scope of strength reduction: “8+” can be replace by i<<3. (d) Scope of dead code elimination: “r = 50”","libVersion":"0.2.3","langs":"eng"}
