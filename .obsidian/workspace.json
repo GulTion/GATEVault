@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md",
+                "file": "DialyStuff/2023-12-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md",
+                "file": "DialyStuff/2023-12-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md",
+                "file": "DialyStuff/2023-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md"
+                "file": "DialyStuff/2023-12-06.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md"
+                "file": "DialyStuff/2023-12-06.md"
               }
             }
           }
@@ -227,8 +227,9 @@
   },
   "active": "b6c9a7b952f7fbb4",
   "lastOpenFiles": [
-    "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
     "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md",
+    "DialyStuff/2023-12-06.md",
+    "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
     "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "DialyStuff/2023-12-05.md",
     "Revision/Que/PYQ/CN/Subnetting Supernetting - pyq.md",
@@ -265,7 +266,6 @@
     "Revision/Que/PracticeSet/Expression Analysis.md",
     "Revision/Notes/MicroNotes/APTI/Voca.md",
     "Revision/Notes/ShortNotes/DSA/Space Complexity.md",
-    "Revision/Notes/ShortNotes/CN/DHCP.md",
     "Revision/Que",
     "Revision/Notes",
     "Revision/TS",
