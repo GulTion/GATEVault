@@ -6,7 +6,7 @@ subject: CN
 type: zealWorkBook
 status: acquiring
 ---
-#card/CN/MacLaye4
+#card/CN/MacLayer
 
 # Pure Aloha 
 ![[Screenshot_2023_1021_153423.png]]::10.304 <!--SR:!2023-12-15,33,270-->

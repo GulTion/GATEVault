@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#card/CN/MacLaye4",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -85,12 +85,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 381.51147842407227
+    "width": 424.51147842407227
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -241,18 +240,21 @@
   },
   "active": "b6c9a7b952f7fbb4",
   "lastOpenFiles": [
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206165543.png",
-    "templates/Question Structure Template.md",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206175655.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206174637.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206173904.png",
+    "Revision/Que/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
     "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206165306.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206163506.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206163354.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206162508.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206162244.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206161323.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206173719.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206173114.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206173025.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206172820.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206172730.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206171756.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206171741.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206171308.png",
+    "templates/Question Structure Template.md",
     "Revision/Que/zealWorkBook/DBMS/TRANSACTION-zeal.md",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206161111.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206160423.png",
     "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
     "DialyStuff/2023-12-06.md",
     "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md",
@@ -267,8 +269,6 @@
     "Revision/Que/zealWorkBook/DSA/Basic - Program design strategy.md",
     "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
     "Bhisandiya",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205194007.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205193856.png",
     "Revision/Que/PYQ/COA/pipline.md",
     "Revision/Que/PYQ/COA/Number System.md",
     "Revision/Que/PYQ/COA/Memory Chip Design.md",
@@ -279,7 +279,6 @@
     "Revision/Notes/ShortNotes/DSA/Type of Edges in DFS.md",
     "Revision/Que/PracticeSet/Entity Relationship Model - practice.md",
     "Revision/Que/PracticeSet/media/5.ENTITY RELATIONSHIP MODEL.pdf",
-    "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md",
     "Revision/Que",
     "Revision/Notes",
     "Revision/TS",
