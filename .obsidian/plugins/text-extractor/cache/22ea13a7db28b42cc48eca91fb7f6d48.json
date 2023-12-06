@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/FULL/media/Pasted image 20231206163506.png","text":"Answer: 20000120 Solution: Total access time = TLB lookup time + page table lookup time (i.e., memory access time) + swap page out time + swap page in time =20ns + 100ns + 10000000 + 10000000 ns = 20000120 ns Correct answer is 20000120","libVersion":"0.2.3","langs":"eng"}

@@ -23,7 +23,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "templates/Iframe.md",
-    "templates/CallOut.md"
+    "templates/CallOut.md",
+    "templates/Question Structure Template.md"
   ],
   "startup_templates": [
     ""

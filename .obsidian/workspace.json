@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-06.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b32b1cfae06b0cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Question Structure Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,9 +62,9 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -73,11 +85,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 516.5114784240723
+    "width": 381.51147842407227
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-06.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-06.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-06.md"
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md"
               }
             }
           },
@@ -193,11 +206,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-06.md"
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -227,8 +241,21 @@
   },
   "active": "b6c9a7b952f7fbb4",
   "lastOpenFiles": [
-    "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206165543.png",
+    "templates/Question Structure Template.md",
+    "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206165306.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206163506.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206163354.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206162508.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206162244.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206161323.png",
+    "Revision/Que/zealWorkBook/DBMS/TRANSACTION-zeal.md",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206161111.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206160423.png",
+    "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
     "DialyStuff/2023-12-06.md",
+    "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md",
     "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
     "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "DialyStuff/2023-12-05.md",
@@ -242,16 +269,8 @@
     "Bhisandiya",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231205194007.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231205193856.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205185914.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205185907.png",
     "Revision/Que/PYQ/COA/pipline.md",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205185346.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205185336.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205185315.png",
     "Revision/Que/PYQ/COA/Number System.md",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205185300.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205185056.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231205185049.png",
     "Revision/Que/PYQ/COA/Memory Chip Design.md",
     "Revision/Que/PYQ/COA/Machine Instruction.md",
     "Revision/Que/zealWorkBook/CN/TCP.md",
@@ -261,11 +280,6 @@
     "Revision/Que/PracticeSet/Entity Relationship Model - practice.md",
     "Revision/Que/PracticeSet/media/5.ENTITY RELATIONSHIP MODEL.pdf",
     "Revision/Que/zealWorkBook/DBMS/ENTITY RELATIONSHIP MODEL - ZealWorkBook.md",
-    "Revision/Que/PYQ/DBMS/ER Model - pyq.md",
-    "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
-    "Revision/Que/PracticeSet/Expression Analysis.md",
-    "Revision/Notes/MicroNotes/APTI/Voca.md",
-    "Revision/Notes/ShortNotes/DSA/Space Complexity.md",
     "Revision/Que",
     "Revision/Notes",
     "Revision/TS",
