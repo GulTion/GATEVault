@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/FULL/media/Pasted image 20231206235826.png","text":"Consider the following code Linel a=0 Line2 c=b*a; Line3 b=a-1 Line4 c=c-b LineS5 a=b+2 Line6 P=2a-2 Line7 ifa <21 go to Line2 Line8 returnc After the completion of liveness analysis, the OUT set for Line 2 is (a) {a, b, c} (b) {a, o} () {a, b} (d) {b, ¢}","libVersion":"0.2.3","langs":"eng"}

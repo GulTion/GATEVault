@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/FULL/media/Pasted image 20231206235900.png","text":"Answer: (b) Solution: Since there is a loop from Line 2 to line 6, hence the variable ‘a’ and ‘¢’ is live because it is used after Line 2. While the variable ‘b’ is not live because after Line 2 it is modified (or killed).","libVersion":"0.2.3","langs":"eng"}
