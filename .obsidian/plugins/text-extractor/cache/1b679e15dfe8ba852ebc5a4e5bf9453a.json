@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/FULL/media/Pasted image 20231206233043.png","text":"Similarly, we can also check for CLR and LaLR. G isnot CLR because there is a shift-reduce conflict onlook-ahead ‘a’ in state 1,as shown above in DFA. Since G is not CLR, hence G is also not LaLR. So, (c) is False but (d) is true.","libVersion":"0.2.3","langs":"eng"}
