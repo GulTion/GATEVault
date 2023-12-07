@@ -213,7 +213,10 @@
     "card/MATH/probability": 3,
     "card/TOC/Decidable": 3,
     "card/TOC/DPDA": 4,
-    "card/OS/IPC_deadlock": 9
+    "card/OS/IPC_deadlock": 9,
+    "card/CD/FULL": 4,
+    "card/CD/Phase": 5,
+    "card/CD/Phases": 6
   },
   "_version": 2
 }
