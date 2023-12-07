@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-07.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da65601c01f4a2ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/Que/zealWorkBook/DBMS/TRANSACTION-zeal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mistake",
+                "query": "tag:#mistake/lack/UnderstandingOfQuestion",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.51147842407227
+    "width": 332.51147842407227
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-07.md",
+                "file": "Revision/Que/zealWorkBook/DBMS/TRANSACTION-zeal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-07.md",
+                "file": "Revision/Que/zealWorkBook/DBMS/TRANSACTION-zeal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-07.md"
+                "file": "Revision/Que/zealWorkBook/DBMS/TRANSACTION-zeal.md"
               }
             }
           },
@@ -193,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-07.md"
+                "file": "Revision/Que/zealWorkBook/DBMS/TRANSACTION-zeal.md"
               }
             }
           }
@@ -202,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,7 +239,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e09ea75481ca882",
+  "active": "da65601c01f4a2ad",
   "lastOpenFiles": [
     "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
     "DialyStuff/2023-12-07.md",
