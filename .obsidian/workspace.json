@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+                "file": "DialyStuff/2023-12-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+                "file": "DialyStuff/2023-12-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+                "file": "DialyStuff/2023-12-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md"
+                "file": "DialyStuff/2023-12-07.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md"
+                "file": "DialyStuff/2023-12-07.md"
               }
             }
           }
@@ -228,6 +228,8 @@
   },
   "active": "7e09ea75481ca882",
   "lastOpenFiles": [
+    "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+    "DialyStuff/2023-12-07.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231206235936.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231206235930.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231206235900.png",
@@ -238,12 +240,10 @@
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231206230006.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231206230000.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231206225627.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206225519.png",
     "Revision/TS/ZealTS/OS/Test ID - 21 OS Test - 3.md",
     "Bhisandiya/Index.md",
     "DialyStuff/2023-12-06.md",
     "templates/Question Structure Template.md",
-    "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
     "Revision/Que/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
     "Revision/Que/zealWorkBook/DBMS/TRANSACTION-zeal.md",
     "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
