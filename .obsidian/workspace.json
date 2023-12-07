@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "fe78217727925ee8",
+        "id": "272ae017d4637522",
         "type": "tabs",
         "children": [
           {
-            "id": "7e09ea75481ca882",
+            "id": "21c32b5294885d61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/Notes/MicroNotes/TOC/Context Free Grammer and Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67832ed3a483a03a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,69 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "37120be83922dbaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdcdc53cce51cf60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cc49db7378673c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb0908fca921e294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da65601c01f4a2ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/Que/zealWorkBook/DBMS/TRANSACTION-zeal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-02.md",
+                "file": "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-02.md",
+                "file": "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-02.md"
+                "file": "Revision/Que/PYQ/CD/CD-FULL_PYQ.md"
               }
             }
           },
@@ -254,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-02.md"
+                "file": "Revision/Que/PYQ/CD/CD-FULL_PYQ.md"
               }
             }
           }
@@ -287,13 +239,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb0908fca921e294",
+  "active": "67832ed3a483a03a",
   "lastOpenFiles": [
-    "DialyStuff/2023-12-03.md",
-    "DialyStuff/2023-12-04.md",
-    "DialyStuff/2023-12-05.md",
-    "DialyStuff/2023-12-06.md",
+    "Revision/Que/PYQ/CD/media/Pasted image 20231207221447.png",
+    "Revision/Que/PYQ/CD/media/Pasted image 20231207221420.png",
+    "Revision/Notes/MicroNotes/TOC/Context Free Grammer and Language.md",
+    "Revision/Notes/ShortNotes/CD/Parser CD notes.md",
+    "Revision/Notes/ShortNotes/CD/Introduction CD notes.md",
+    "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
+    "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
+    "Revision/Notes/ShortNotes/COA/Floating Point Tables.md",
+    "Revision/Notes/MicroNotes/C- MicroNotes.md",
+    "Revision/Notes/MicroNotes/APTI/Voca.md",
+    "Revision/Notes/ShortNotes/DBMS/TRANSACTIONS ANDCONCURRENCY CONTROL - GateOmedia.md",
+    "Revision/Que/PracticeSet/Referential Constraint - practice.md",
+    "Revision/Que/PracticeSet/Expression Analysis.md",
+    "Revision/Notes/ShortNotes/CN/IPV4 HEADER - GateOMedia.md",
+    "Revision/Notes/ShortNotes/DBMS/DATABASE DESIGN.md",
     "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
+    "Revision/Que/zealWorkBook/DBMS/TRANSACTION-zeal.md",
+    "DialyStuff/2023-12-02.md",
+    "DialyStuff/2023-12-03.md",
+    "DialyStuff/2023-12-05.md",
+    "DialyStuff/2023-12-04.md",
+    "DialyStuff/2023-12-06.md",
     "Revision/Que/PYQ/CD/media/Pasted image 20231207155654.png",
     "Revision/Que/PYQ/CD/media",
     "templates/Question Structure Template.md",
@@ -302,32 +271,15 @@
     "Revision/Que/zealWorkBook/CN/Application Layer 1.md",
     "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md",
     "Revision/Que/zealWorkBook/TOC/22. Check the Context Free Language.md",
-    "Revision/Que/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
-    "Revision/Que/zealWorkBook/CN/3 Data Link Layer Flow Control.md",
-    "Revision/Que/zealWorkBook/DBMS/TRANSACTION-zeal.md",
     "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231207125514.png",
     "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231207114941.png",
     "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231207114850.png",
     "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231207114830.png",
-    "DialyStuff/2023-12-07.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231206235936.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231206235930.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231206235900.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206235826.png",
-    "Revision/TS/ZealTS/OS/Test ID - 21 OS Test - 3.md",
-    "Bhisandiya/Index.md",
-    "Revision/Que/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
-    "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
-    "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
-    "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
-    "Revision/Que/PYQ/CN/Subnetting Supernetting - pyq.md",
-    "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
-    "Bhisandiya/OurLangBook/OurBook-index.md",
     "Bhisandiya/OurLangBook",
-    "Revision/Que/zealWorkBook/DSA/Basic - Program design strategy.md",
-    "Revision/TS/ZealTS/FULL/MOCK 2 2023 ID 76.md",
     "Bhisandiya",
-    "Revision/Que/PYQ/COA/pipline.md",
     "Revision/Que/PracticeSet/media/5.ENTITY RELATIONSHIP MODEL.pdf",
     "Revision/Que",
     "Revision/Notes",
