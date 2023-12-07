@@ -11,3 +11,5 @@ type: zealWorkBook
 
 ![[Pasted image 20231207114830.png]]::![[Pasted image 20231207114850.png]]![[Pasted image 20231207114941.png]]
 
+![[Pasted image 20231207125514.png]]::C
+
