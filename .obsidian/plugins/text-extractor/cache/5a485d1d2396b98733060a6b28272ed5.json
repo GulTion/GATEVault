@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/CD/media/Pasted image 20231208153308.png","text":"Q103.| We have a grammar with not epsilon and unit production (i.e. of type A—e and A — a) to parse a string, with 50 tokens. What the maximum number of reduces moves that can be taken by a bottom-up parser for this grammar?","libVersion":"0.2.3","langs":"eng"}

@@ -15,13 +15,13 @@ src: https://practicepaper.in/gate-cse/loop?page_no=1
 
 ![[Pasted image 20231122155457.png]]::C <!--SR:!2023-12-13,7,170-->
 
-![[Pasted image 20231202125832.png]]::![[Pasted image 20231202125843.png]] <!--SR:!2023-12-08,2,162-->
+![[Pasted image 20231202125832.png]]::![[Pasted image 20231202125843.png]] <!--SR:!2023-12-12,4,182-->
 
-![[Pasted image 20231202130643.png]]::![[Pasted image 20231202130659.png]] <!--SR:!2023-12-08,2,162-->
+![[Pasted image 20231202130643.png]]::![[Pasted image 20231202130659.png]] <!--SR:!2023-12-13,5,182-->
 
-![[Pasted image 20231202132929.png]]:: D![[Pasted image 20231202132944.png]] <!--SR:!2023-12-08,2,162-->
+![[Pasted image 20231202132929.png]]:: D![[Pasted image 20231202132944.png]] <!--SR:!2023-12-13,5,182-->
 
-![[Pasted image 20231202134147.png]]::A ![[Pasted image 20231202134236.png]] <!--SR:!2023-12-08,2,162-->
+![[Pasted image 20231202134147.png]]::A ![[Pasted image 20231202134236.png]] <!--SR:!2023-12-14,6,182-->
 
 ![[Pasted image 20231202135539.png]]::![[Pasted image 20231202135549.png]] <!--SR:!2023-12-09,2,150-->
 
