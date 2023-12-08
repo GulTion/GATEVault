@@ -7,7 +7,7 @@ atQ: 0
 
 #card/CN/DataLinkLayer 
 
-![[Screenshot_2023_1026_152637.jpg|center|700]]::![[Screenshot_2023_1026_152713.jpg]] <!--SR:!2023-12-05,26,272-->
+![[Screenshot_2023_1026_152637.jpg|center|700]]::![[Screenshot_2023_1026_152713.jpg]] <!--SR:!2024-03-15,98,292-->
 
 
 ![[Screenshot_20231026_152759.jpg]]::![[Screenshot_2023_1026_152831.jpg]] <!--SR:!2024-02-26,86,290-->
@@ -18,7 +18,10 @@ atQ: 0
 
 #today ![[Screenshot_2023_1026_160348.jpg]]::![[Screenshot_2023_1026_160411.jpg]]
 
-![[Screenshot_2023_1026_160918.jpg]]::5![[Screenshot_2023_1026_160930 1.jpg]] <!--SR:!2023-12-04,25,272-->
+![[Screenshot_2023_1026_160918.jpg]]
+?
+- ticked on wrong optino, bcz not have dry run the question on copy pen. sending six afer getting 3 ack
+5![[Screenshot_2023_1026_160930 1.jpg]] <!--SR:!2023-12-22,14,252-->
 
 #today ![[Screenshot_2023_1026_161058.jpg]]::![[Screenshot_2023_1026_161111.jpg]]
 

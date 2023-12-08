@@ -17,5 +17,5 @@ local DNS server function statement![[Pasted image 20231001084809.png]]::D <!--S
 
 ![[Pasted image 20231105120106.png]]::D![[Pasted image 20231105120125.png]] <!--SR:!2024-03-08,97,290-->
 
-DHCP discover message![[Pasted image 20231001100032.png]]::C <!--SR:!2023-12-07,22,290-->
+DHCP discover message![[Pasted image 20231001100032.png]]::C <!--SR:!2024-03-05,88,310-->
 
