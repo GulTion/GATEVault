@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "272ae017d4637522",
+        "id": "458e783e7abf6b1d",
         "type": "tabs",
         "children": [
           {
-            "id": "21c32b5294885d61",
+            "id": "042d3bfa8747eb4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Notes/MicroNotes/TOC/Context Free Grammer and Language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67832ed3a483a03a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-08.md",
+                "file": "Revision/Que/PYQ/CD/Runtime Environment - pyq.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-08.md",
+                "file": "Revision/Que/PYQ/CD/Runtime Environment - pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-08.md",
+                "file": "Revision/Que/PYQ/CD/Runtime Environment - pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-08.md"
+                "file": "Revision/Que/PYQ/CD/Runtime Environment - pyq.md"
               }
             }
           },
@@ -206,12 +193,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-08.md"
+                "file": "Revision/Que/PYQ/CD/Runtime Environment - pyq.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -239,22 +226,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "67832ed3a483a03a",
+  "active": "042d3bfa8747eb4c",
   "lastOpenFiles": [
-    "Revision/Que/zealWorkBook/CD/CD-FULL-zeal.md",
+    "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
+    "Revision/Notes/ShortNotes/CD/Parser CD notes.md",
     "DialyStuff/2023-12-08.md",
+    "Revision/Notes/MicroNotes/TOC/Context Free Grammer and Language.md",
+    "Revision/Que/zealWorkBook/CD/CD-FULL-zeal.md",
     "Revision/Que/zealWorkBook/CD/media/Pasted image 20231207231125.png",
     "Revision/Que/zealWorkBook/CD/media/Pasted image 20231207231108.png",
     "Revision/Que/zealWorkBook/CD/media/Pasted image 20231207231042.png",
     "Revision/Que/zealWorkBook/CD/media",
-    "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
     "Revision/Que/zealWorkBook/CD",
     "Revision/Que/PYQ/CD/media/Pasted image 20231207225917.png",
     "Revision/Que/PYQ/CD/media/Pasted image 20231207225854.png",
     "Revision/Que/PYQ/CD/media/Pasted image 20231207221447.png",
     "Revision/Que/PYQ/CD/media/Pasted image 20231207221420.png",
-    "Revision/Notes/MicroNotes/TOC/Context Free Grammer and Language.md",
-    "Revision/Notes/ShortNotes/CD/Parser CD notes.md",
     "Revision/Notes/ShortNotes/CD/Introduction CD notes.md",
     "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
     "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
