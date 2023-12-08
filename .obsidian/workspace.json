@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
+                "file": "DialyStuff/2023-12-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
+                "file": "DialyStuff/2023-12-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
+                "file": "DialyStuff/2023-12-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/PYQ/CD/CD-FULL_PYQ.md"
+                "file": "DialyStuff/2023-12-08.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/PYQ/CD/CD-FULL_PYQ.md"
+                "file": "DialyStuff/2023-12-08.md"
               }
             }
           }
@@ -241,6 +241,16 @@
   },
   "active": "67832ed3a483a03a",
   "lastOpenFiles": [
+    "Revision/Que/zealWorkBook/CD/CD-FULL-zeal.md",
+    "DialyStuff/2023-12-08.md",
+    "Revision/Que/zealWorkBook/CD/media/Pasted image 20231207231125.png",
+    "Revision/Que/zealWorkBook/CD/media/Pasted image 20231207231108.png",
+    "Revision/Que/zealWorkBook/CD/media/Pasted image 20231207231042.png",
+    "Revision/Que/zealWorkBook/CD/media",
+    "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
+    "Revision/Que/zealWorkBook/CD",
+    "Revision/Que/PYQ/CD/media/Pasted image 20231207225917.png",
+    "Revision/Que/PYQ/CD/media/Pasted image 20231207225854.png",
     "Revision/Que/PYQ/CD/media/Pasted image 20231207221447.png",
     "Revision/Que/PYQ/CD/media/Pasted image 20231207221420.png",
     "Revision/Notes/MicroNotes/TOC/Context Free Grammer and Language.md",
@@ -256,7 +266,6 @@
     "Revision/Que/PracticeSet/Expression Analysis.md",
     "Revision/Notes/ShortNotes/CN/IPV4 HEADER - GateOMedia.md",
     "Revision/Notes/ShortNotes/DBMS/DATABASE DESIGN.md",
-    "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
     "Revision/Que/zealWorkBook/DBMS/TRANSACTION-zeal.md",
     "DialyStuff/2023-12-02.md",
     "DialyStuff/2023-12-03.md",
@@ -270,14 +279,7 @@
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231207134936.png",
     "Revision/Que/zealWorkBook/CN/Application Layer 1.md",
     "Revision/TS/MadeEasyTS/FULL/ADVANCE LEVEL FULL SYLLABUS TEST -1 (GATE 2023).md",
-    "Revision/Que/zealWorkBook/TOC/22. Check the Context Free Language.md",
     "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231207125514.png",
-    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231207114941.png",
-    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231207114850.png",
-    "Revision/Que/zealWorkBook/DBMS/media/Pasted image 20231207114830.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206235936.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206235930.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206235900.png",
     "Bhisandiya/OurLangBook",
     "Bhisandiya",
     "Revision/Que/PracticeSet/media/5.ENTITY RELATIONSHIP MODEL.pdf",
@@ -285,8 +287,6 @@
     "Revision/Notes",
     "Revision/TS",
     "Revision/TS/MadeEasyTS/COA/2022/media",
-    "Revision/TS/MadeEasyTS/COA/2022",
-    "Revision/TS/MadeEasyTS/COA",
     "FlowChart.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
