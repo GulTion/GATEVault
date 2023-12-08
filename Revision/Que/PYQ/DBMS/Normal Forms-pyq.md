@@ -23,7 +23,7 @@ lossless join and dependecny preserving![[Pasted image 20231028231215.png]]::![[
 #today FD and MVD![[Pasted image 20231008113134.png]]::B![[Pasted image 20231008113156.png]]
 
 
-BCNF defination![[Pasted image 20231008113937.png]]::![[Pasted image 20231008114000.png]] <!--SR:!2023-12-04,24,270-->
+BCNF defination![[Pasted image 20231008113937.png]]::![[Pasted image 20231008114000.png]] <!--SR:!2024-03-10,93,290-->
 
 
 ![[Pasted image 20231008114221.png]]::![[Pasted image 20231008114242.png]] <!--SR:!2023-12-22,20,270-->
