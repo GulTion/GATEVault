@@ -16,15 +16,7 @@ If System crash/failure happen, required operation to recover are
 > [!NOTE] Number of possible serial Schedules `n`
 > transactions is `n!`
 
-![[Pasted image 20231120223652.png]]
-
-![[Pasted image 20231120224054.png]]
-
 ![[Pasted image 20231120224113.png]]
 
 ![[Pasted image 20231120224143.png]]
 ![[Pasted image 20231120224316.png]]
-
-![[Pasted image 20231120224339.png]]
-
-

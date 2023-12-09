@@ -1,8 +1,8 @@
 ---
 subject: COA
 type: Practice
-sr-due: 2023-12-06
-sr-interval: 2
+sr-due: 2023-12-13
+sr-interval: 4
 sr-ease: 150
 ---
 

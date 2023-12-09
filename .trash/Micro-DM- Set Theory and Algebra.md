@@ -9,7 +9,7 @@ sr-ease: 199
 #note
 #card/DM/Set_Theory
 
-what is **equivalent set**::![[Pasted image 20231026130726.png]] <!--SR:!2024-02-03,62,310-->
+
 
 when will u say two set are **compareable**::![[Pasted image 20231026131050.png]] <!--SR:!2023-12-27,24,241-->
 

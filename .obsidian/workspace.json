@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-09.md",
+                "file": "TimeTable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f57d86cd2e2e031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/Notes/ShortNotes/COA/IO ShortNotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.51147842407227
+    "width": 307.51147842407227
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-09.md",
+                "file": "TimeTable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-09.md",
+                "file": "TimeTable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-09.md"
+                "file": "TimeTable.md"
               }
             }
           },
@@ -193,17 +205,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-09.md"
+                "file": "TimeTable.md"
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,13 +240,35 @@
   },
   "active": "9773383b0fa0baab",
   "lastOpenFiles": [
-    "Revision/Que/MixQue/COA/Type of Questions in Pipeline.md",
-    "Revision/Que/MixQue/DM/Combintories.md",
+    "index.md",
+    "TimeTable.md",
+    "fromWhereSubject.md",
+    "Rules_at_First.md",
+    "DaskBoard Back.md",
+    "Revision/Notes/ShortNotes/COA/Binary Operation Overflow stuff.md",
+    "Bhisandiya/Hinduism.md",
+    "Revision/Notes/ShortNotes/COA/Modes of Transfer.md",
+    "MicroNoteArrage.md",
+    "Question for Trick.md",
+    "Revision/Notes/ShortNotes/COA/DMA Modes.md",
+    "Revision/Notes/ShortNotes/COA/IO ShortNotes.md",
+    "Interrupts Based Prioirty.md",
+    "DMA.md",
+    "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
+    "Revision/Que/PracticeSet/Expression Analysis.md",
+    "Revision/Que/PracticeSet/Input Output - note.md",
+    "Revision/Notes/MicroNotes/APTI/Voca.md",
+    "Revision/Notes/ShortNotes/DSA/Prog C GATEOMEDIA.md",
+    "Revision/Notes/ShortNotes/DSA/Application of Greedy and Dynamic.md",
+    "Revision/Notes/ShortNotes/CN/IPV4 HEADER - GateOMedia.md",
+    "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
+    "Revision/Notes/ShortNotes/DSA/Space Complexity.md",
+    "Revision/Notes/ShortNotes/CN/DHCP.md",
+    "Revision/Notes/ShortNotes/DBMS/TRANSACTIONS ANDCONCURRENCY CONTROL - GateOmedia.md",
+    "Revision/Notes/MicroNotes/DM/Micro-DM- Set Theory and Algebra.md",
     "Revision/Que/MixQue/DM/media/Pasted image 20231209164300.png",
     "Revision/Que/MixQue/DM/media/Pasted image 20231209164248.png",
     "Revision/Que/MixQue/DM/media",
-    "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
-    "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20231209142837.png",
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20231209142829.png",
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20231209140041.png",
@@ -243,34 +276,12 @@
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20231209125922.png",
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20231209125918.png",
     "Revision/TS/ZealTS/COA/2022/media",
-    "DialyStuff/2023-12-09.md",
     "Revision/TS/ZealTS/COA/2022",
-    "DialyStuff/2023-12-08.md",
-    "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
-    "Revision/Que/zealWorkBook/CD/CD-FULL-zeal.md",
     "Revision/Que/zealWorkBook/CD/media/Pasted image 20231208153322.png",
     "Revision/Que/zealWorkBook/CD/media/Pasted image 20231208153308.png",
     "Revision/Que/PracticeSet/media/9. Intermediate Representation.pdf",
-    "Revision/Que/PYQ/CD/Runtime Environment - pyq.md",
-    "Revision/Que/PracticeSet/Intermediate Representation - workbook.md",
-    "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
-    "Revision/Notes/ShortNotes/CD/Parser CD notes.md",
-    "Revision/Notes/MicroNotes/TOC/Context Free Grammer and Language.md",
     "Revision/Que/zealWorkBook/CD/media",
     "Revision/Que/zealWorkBook/CD",
-    "Revision/Notes/ShortNotes/CD/Introduction CD notes.md",
-    "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
-    "Revision/Notes/ShortNotes/COA/Floating Point Tables.md",
-    "Revision/Notes/MicroNotes/C- MicroNotes.md",
-    "Revision/Notes/MicroNotes/APTI/Voca.md",
-    "Revision/Notes/ShortNotes/DBMS/TRANSACTIONS ANDCONCURRENCY CONTROL - GateOmedia.md",
-    "Revision/Que/PracticeSet/Referential Constraint - practice.md",
-    "Revision/Que/PracticeSet/Expression Analysis.md",
-    "Revision/Notes/ShortNotes/CN/IPV4 HEADER - GateOMedia.md",
-    "Revision/Notes/ShortNotes/DBMS/DATABASE DESIGN.md",
-    "Revision/Que/zealWorkBook/DBMS/TRANSACTION-zeal.md",
-    "DialyStuff/2023-12-02.md",
-    "DialyStuff/2023-12-03.md",
     "Revision/Que/PYQ/CD/media",
     "Bhisandiya/OurLangBook",
     "Bhisandiya",
