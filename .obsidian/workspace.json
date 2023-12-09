@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/PYQ/FULL/GATE 2020.md",
+                "file": "Revision/Que/PYQ/FULL/GATE 2021 SET-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6341fa70c481ff21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/PYQ/FULL/GATE 2020.md",
+                "file": "English/Phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/PYQ/FULL/GATE 2020.md",
+                "file": "English/Phrases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/PYQ/FULL/GATE 2020.md"
+                "file": "English/Phrases.md"
               }
             }
           },
@@ -218,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/PYQ/FULL/GATE 2020.md"
+                "file": "English/Phrases.md"
               }
             }
           }
@@ -251,8 +263,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9773383b0fa0baab",
+  "active": "6341fa70c481ff21",
   "lastOpenFiles": [
+    "Untitled.md",
+    "English/Phrases.md",
+    "Revision/Que/PYQ/FULL/GATE 2021 SET-2.md",
+    "English",
+    "Revision/Que/PYQ/FULL/GATE 2020.md",
     "Revision/Que/PYQ/OS/CPU Scheduling - pyq.md",
     "Revision/Que/PYQ/TOC/Context Free Language - pyq.md",
     "Revision/Que/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
@@ -275,10 +292,6 @@
     "Rules_at_First.md",
     "DaskBoard Back.md",
     "Revision/Notes/ShortNotes/COA/Binary Operation Overflow stuff.md",
-    "Bhisandiya/Hinduism.md",
-    "MicroNoteArrage.md",
-    "Question for Trick.md",
-    "Revision/Que/PracticeSet/Input Output - note.md",
     "Revision/Que/MixQue/DM/media/Pasted image 20231209164300.png",
     "Revision/Que/MixQue/DM/media/Pasted image 20231209164248.png",
     "Revision/Que/MixQue/DM/media",
@@ -298,7 +311,6 @@
     "Revision/Que/PYQ/CD/media",
     "Bhisandiya/OurLangBook",
     "Bhisandiya",
-    "Revision/Que/PracticeSet/media/5.ENTITY RELATIONSHIP MODEL.pdf",
     "FlowChart.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
