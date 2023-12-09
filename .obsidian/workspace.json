@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "458e783e7abf6b1d",
+        "id": "2eca7a65088cf2d3",
         "type": "tabs",
         "children": [
           {
-            "id": "042d3bfa8747eb4c",
+            "id": "9773383b0fa0baab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
+                "file": "DialyStuff/2023-12-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
+                "file": "DialyStuff/2023-12-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
+                "file": "DialyStuff/2023-12-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md"
+                "file": "DialyStuff/2023-12-09.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md"
+                "file": "DialyStuff/2023-12-09.md"
               }
             }
           }
@@ -227,8 +227,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "042d3bfa8747eb4c",
+  "active": "9773383b0fa0baab",
   "lastOpenFiles": [
+    "Revision/Que/MixQue/COA/Type of Questions in Pipeline.md",
+    "Revision/Que/MixQue/DM/Combintories.md",
+    "Revision/Que/MixQue/DM/media/Pasted image 20231209164300.png",
+    "Revision/Que/MixQue/DM/media/Pasted image 20231209164248.png",
+    "Revision/Que/MixQue/DM/media",
+    "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
+    "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20231209142837.png",
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20231209142829.png",
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20231209140041.png",
@@ -237,27 +244,22 @@
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20231209125918.png",
     "Revision/TS/ZealTS/COA/2022/media",
     "DialyStuff/2023-12-09.md",
-    "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
     "Revision/TS/ZealTS/COA/2022",
     "DialyStuff/2023-12-08.md",
     "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
     "Revision/Que/zealWorkBook/CD/CD-FULL-zeal.md",
     "Revision/Que/zealWorkBook/CD/media/Pasted image 20231208153322.png",
     "Revision/Que/zealWorkBook/CD/media/Pasted image 20231208153308.png",
-    "Revision/Que/zealWorkBook/CD/media/Pasted image 20231208153147.png",
     "Revision/Que/PracticeSet/media/9. Intermediate Representation.pdf",
     "Revision/Que/PYQ/CD/Runtime Environment - pyq.md",
     "Revision/Que/PracticeSet/Intermediate Representation - workbook.md",
     "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
     "Revision/Notes/ShortNotes/CD/Parser CD notes.md",
     "Revision/Notes/MicroNotes/TOC/Context Free Grammer and Language.md",
-    "Revision/Que/zealWorkBook/CD/media/Pasted image 20231207231125.png",
-    "Revision/Que/zealWorkBook/CD/media/Pasted image 20231207231108.png",
     "Revision/Que/zealWorkBook/CD/media",
     "Revision/Que/zealWorkBook/CD",
     "Revision/Notes/ShortNotes/CD/Introduction CD notes.md",
     "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
-    "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
     "Revision/Notes/ShortNotes/COA/Floating Point Tables.md",
     "Revision/Notes/MicroNotes/C- MicroNotes.md",
     "Revision/Notes/MicroNotes/APTI/Voca.md",
@@ -269,12 +271,10 @@
     "Revision/Que/zealWorkBook/DBMS/TRANSACTION-zeal.md",
     "DialyStuff/2023-12-02.md",
     "DialyStuff/2023-12-03.md",
-    "DialyStuff/2023-12-05.md",
     "Revision/Que/PYQ/CD/media",
     "Bhisandiya/OurLangBook",
     "Bhisandiya",
     "Revision/Que/PracticeSet/media/5.ENTITY RELATIONSHIP MODEL.pdf",
-    "Revision/Que",
     "FlowChart.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",

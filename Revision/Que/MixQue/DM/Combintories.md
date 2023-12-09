@@ -23,3 +23,5 @@ subject: DM
 
 ![[Pasted image 20230902080828.png]]::![[Pasted image 20230902080846.png]] <!--SR:!2023-12-11,2,152-->
 
+![[Pasted image 20231209164248.png]]::![[Pasted image 20231209164300.png]]
+
