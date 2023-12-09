@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-09.md",
+                "file": "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.51147842407227,
-    "collapsed": true
+    "width": 332.51147842407227
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-09.md",
+                "file": "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-09.md",
+                "file": "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-09.md"
+                "file": "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md"
               }
             }
           },
@@ -194,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-09.md"
+                "file": "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md"
               }
             }
           }
@@ -230,8 +229,13 @@
   },
   "active": "042d3bfa8747eb4c",
   "lastOpenFiles": [
-    "DialyStuff/2023-12-08.md",
+    "Revision/TS/ZealTS/COA/2022/media/Pasted image 20231209125922.png",
+    "Revision/TS/ZealTS/COA/2022/media/Pasted image 20231209125918.png",
+    "Revision/TS/ZealTS/COA/2022/media",
     "DialyStuff/2023-12-09.md",
+    "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
+    "Revision/TS/ZealTS/COA/2022",
+    "DialyStuff/2023-12-08.md",
     "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
     "Revision/Que/zealWorkBook/CD/CD-FULL-zeal.md",
     "Revision/Que/zealWorkBook/CD/media/Pasted image 20231208153322.png",
@@ -251,7 +255,6 @@
     "Revision/Que/PYQ/CD/media/Pasted image 20231207225917.png",
     "Revision/Que/PYQ/CD/media/Pasted image 20231207225854.png",
     "Revision/Que/PYQ/CD/media/Pasted image 20231207221447.png",
-    "Revision/Que/PYQ/CD/media/Pasted image 20231207221420.png",
     "Revision/Notes/ShortNotes/CD/Introduction CD notes.md",
     "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
     "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
@@ -267,15 +270,11 @@
     "DialyStuff/2023-12-02.md",
     "DialyStuff/2023-12-03.md",
     "DialyStuff/2023-12-05.md",
-    "DialyStuff/2023-12-04.md",
-    "DialyStuff/2023-12-06.md",
     "Revision/Que/PYQ/CD/media",
     "Bhisandiya/OurLangBook",
     "Bhisandiya",
     "Revision/Que/PracticeSet/media/5.ENTITY RELATIONSHIP MODEL.pdf",
     "Revision/Que",
-    "Revision/Notes",
-    "Revision/TS",
     "FlowChart.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
