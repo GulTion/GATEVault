@@ -40,6 +40,6 @@ some properties**
 
 **what is definition of bijection function and number of bijection function when |A|=|B|**
 ?
-![[Pasted image 20231026132455.png]] <!--SR:!2023-12-05,14,294-->
+![[Pasted image 20231026132455.png]] <!--SR:!2024-02-03,56,314-->
 
 

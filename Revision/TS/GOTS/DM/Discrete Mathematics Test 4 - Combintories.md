@@ -10,7 +10,7 @@ endQ: 25
 
 #card/DM/combintories 
 ![[Pasted image 20231014085619.png]]::![[Pasted image 20231014085701.png]]other method![[Pasted image 20231014093432.png]] <!--SR:!2024-02-09,68,310-->
-![[Pasted image 20231018223000.png]]::![[Pasted image 20231018223016.png]] <!--SR:!2023-11-13,15,290-->
+![[Pasted image 20231018223000.png]]::![[Pasted image 20231018223016.png]] <!--SR:!2023-12-18,9,270-->
 
 ![[Pasted image 20231018223257.png]]::![[Pasted image 20231018223308.png]] <!--SR:!2024-01-12,61,318-->
 

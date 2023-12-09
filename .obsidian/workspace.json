@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+                "file": "DialyStuff/2023-12-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+                "file": "DialyStuff/2023-12-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+                "file": "DialyStuff/2023-12-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md"
+                "file": "DialyStuff/2023-12-09.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md"
+                "file": "DialyStuff/2023-12-09.md"
               }
             }
           }
@@ -228,11 +228,13 @@
   },
   "active": "042d3bfa8747eb4c",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-08.md",
+    "DialyStuff/2023-12-09.md",
+    "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
     "Revision/Que/zealWorkBook/CD/CD-FULL-zeal.md",
     "Revision/Que/zealWorkBook/CD/media/Pasted image 20231208153322.png",
     "Revision/Que/zealWorkBook/CD/media/Pasted image 20231208153308.png",
     "Revision/Que/zealWorkBook/CD/media/Pasted image 20231208153147.png",
-    "DialyStuff/2023-12-08.md",
     "Revision/Que/PracticeSet/media/9. Intermediate Representation.pdf",
     "Revision/Que/PYQ/CD/Runtime Environment - pyq.md",
     "Revision/Que/PracticeSet/Intermediate Representation - workbook.md",
@@ -266,7 +268,6 @@
     "DialyStuff/2023-12-04.md",
     "DialyStuff/2023-12-06.md",
     "Revision/Que/PYQ/CD/media",
-    "templates/Question Structure Template.md",
     "Bhisandiya/OurLangBook",
     "Bhisandiya",
     "Revision/Que/PracticeSet/media/5.ENTITY RELATIONSHIP MODEL.pdf",
