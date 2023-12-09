@@ -10,3 +10,11 @@ type: ZealTS
 ![[Pasted image 20231209125922.png]]
 
 
+![[Pasted image 20231209140025.png]]
+?
+- no clue unable to understand concept
+![[Pasted image 20231209140041.png]]
+
+
+![[Pasted image 20231209142829.png]]::![[Pasted image 20231209142837.png]]
+

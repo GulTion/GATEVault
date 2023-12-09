@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/COA/2022/media/Pasted image 20231209142837.png","text":"Answer: 30 Solution: Let H = hit time of the cache. Using the AMAT equation, we can write: 2 +20% x (15 +25% x (H + 30% x 100)) <8 Solving for H, we find that H < 30. So the largest hit time is 30 cycles.","libVersion":"0.2.3","langs":"eng"}
