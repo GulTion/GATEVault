@@ -43,9 +43,9 @@ status: acquiring
 
 
 # Manchester Encoding
-#today ![[Pasted image 20231103203048.png]]::A ![[Pasted image 20231103203121.png]]
+![[Pasted image 20231103203048.png]]::A ![[Pasted image 20231103203121.png]]
 
-#today![[Pasted image 20231103203157.png]]::![[Pasted image 20231103203206.png]]
+![[Pasted image 20231103203157.png]]::![[Pasted image 20231103203206.png]]
 
 
 # CSMA/CD
