@@ -16,7 +16,7 @@
 		{"id":"1ba8ed20a56212c5","x":634,"y":360,"width":250,"height":100,"type":"text","text":" Handles and Viable Prefixes | Easiest Explanation | Compiler Design | GATE 2005 | Parser"},
 		{"id":"7350f022cf21d255","type":"text","text":"Process Sync.","x":634,"y":-25,"width":134,"height":90,"color":"1"},
 		{"id":"731d7245044f4ed2","type":"text","text":"Memory-PYQ","x":634,"y":-115,"width":183,"height":60},
-		{"id":"47a80e6358a5f26f","x":634,"y":520,"width":250,"height":60,"color":"4","type":"text","text":"Countability"},
+		{"id":"47a80e6358a5f26f","x":634,"y":520,"width":250,"height":60,"type":"text","text":"Countability"},
 		{"id":"f18f78647b662f58","type":"text","text":"GO-FULL-MOCK1 Q3","x":192,"y":350,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
@@ -32,7 +32,7 @@
 		{"id":"afded9a5fd501b3a","fromNode":"f18f78647b662f58","fromSide":"right","toNode":"ead6528afa86bb4d","toSide":"left"},
 		{"id":"e3a128dd5145d392","fromNode":"ead6528afa86bb4d","fromSide":"right","toNode":"ea0958ce41edd81d","toSide":"left"},
 		{"id":"570d21a3c3e59e25","fromNode":"f18f78647b662f58","fromSide":"right","toNode":"01aa0b682a51094b","toSide":"left"},
-		{"id":"bd3bee3176cf2c70","fromNode":"f18f78647b662f58","fromSide":"right","toNode":"1ba8ed20a56212c5","toSide":"left","color":"4"},
-		{"id":"ff52de672898c472","fromNode":"f18f78647b662f58","fromSide":"right","toNode":"47a80e6358a5f26f","toSide":"left","color":"4"}
+		{"id":"bd3bee3176cf2c70","fromNode":"f18f78647b662f58","fromSide":"right","toNode":"1ba8ed20a56212c5","toSide":"left"},
+		{"id":"ff52de672898c472","fromNode":"f18f78647b662f58","fromSide":"right","toNode":"47a80e6358a5f26f","toSide":"left"}
 	]
 }

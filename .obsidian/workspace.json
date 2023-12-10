@@ -59,9 +59,9 @@
               "state": {
                 "file": "FlowWork.canvas",
                 "viewState": {
-                  "x": 759,
-                  "y": 798.3971875000002,
-                  "zoom": 0
+                  "x": 325,
+                  "y": 132.43493670886076,
+                  "zoom": -0.6833885024884008
                 }
               }
             }
@@ -269,18 +269,23 @@
       "omnisearch:Omnisearch": false,
       "obsidian-projects:Open projects": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "4e6ef4dc688303fc",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-10.md",
     "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
+    "Revision/TS/GOTS/FULL/media/Pasted image 20231210205722.png",
+    "Revision/TS/GOTS/FULL/media/Pasted image 20231210205314.png",
+    "Revision/TS/GOTS/FULL/media/Pasted image 20231210205240.png",
+    "Revision/TS/GOTS/FULL/media/Pasted image 20231210205215.png",
+    "FlowWork.canvas",
     "Revision/TS/GOTS/FULL/media/Pasted image 20231210200728.png",
     "Revision/TS/GOTS/FULL/media/Pasted image 20231210200718.png",
-    "FlowWork.canvas",
     "Revision/TS/GOTS/FULL/media/Pasted image 20231210162850.png",
     "Revision/TS/GOTS/FULL/media/Pasted image 20231210162820.png",
     "Revision/TS/GOTS/FULL/media",
@@ -294,15 +299,10 @@
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "Revision/Que/PYQ/FULL/GATE 2021 SET-2.md",
     "Revision/TS/ZealTS/OS/media/Pasted image 20231210152118.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210152112.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210152102.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210152056.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210151918.png",
     "InterProcess Communication.md",
     "Revision/TS/ZealTS/OS/Test ID - 21 OS Test - 3.md",
     "Revision/media/Notes Revision/DLD/media/Drawing 2023-11-18 01.18.50.excalidraw.md",
     "Revision/Notes/ShortNotes/DLD/carry look a head.md",
-    "DialyStuff/2023-12-10.md",
     "English/Phrases.md",
     "Untitled.md",
     "English",
