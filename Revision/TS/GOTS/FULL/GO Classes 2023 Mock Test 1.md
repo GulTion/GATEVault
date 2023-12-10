@@ -14,3 +14,5 @@ mistake
 - #mistake/lack/TermAndConcept 
 ![[Pasted image 20231210162850.png]] 
 
+![[Pasted image 20231210200718.png]]::![[Pasted image 20231210200728.png]]
+

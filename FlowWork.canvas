@@ -10,13 +10,14 @@
 		{"id":"8c2e23b0a2c9a192","type":"text","text":"TEST 20 OS 2","x":250,"y":-290,"width":250,"height":60},
 		{"id":"d6a245510d10d299","type":"text","text":"TEST 19 OS 1","x":250,"y":-205,"width":250,"height":60},
 		{"id":"577ab25fca35d11c","type":"text","text":"OS-PYQ","x":250,"y":-85,"width":134,"height":60,"color":"1"},
-		{"id":"f18f78647b662f58","type":"text","text":"GO-FULL-MOCK1 Q3","x":250,"y":194,"width":250,"height":60,"color":"4"},
 		{"id":"ea0958ce41edd81d","x":940,"y":-15,"width":250,"height":60,"type":"text","text":"YouTUbe Vidoe"},
 		{"id":"ead6528afa86bb4d","x":634,"y":130,"width":250,"height":94,"type":"text","text":"https://www.indiabix.com/aptitude/time-and-distance/"},
 		{"id":"01aa0b682a51094b","x":634,"y":254,"width":250,"height":60,"type":"text","text":"Disk Schudling Algo CSCAN, LOOK "},
-		{"id":"1ba8ed20a56212c5","x":634,"y":360,"width":250,"height":100,"color":"4","type":"text","text":" Handles and Viable Prefixes | Easiest Explanation | Compiler Design | GATE 2005 | Parser"},
+		{"id":"1ba8ed20a56212c5","x":634,"y":360,"width":250,"height":100,"type":"text","text":" Handles and Viable Prefixes | Easiest Explanation | Compiler Design | GATE 2005 | Parser"},
 		{"id":"7350f022cf21d255","type":"text","text":"Process Sync.","x":634,"y":-25,"width":134,"height":90,"color":"1"},
-		{"id":"731d7245044f4ed2","type":"text","text":"Memory-PYQ","x":634,"y":-115,"width":183,"height":60}
+		{"id":"731d7245044f4ed2","type":"text","text":"Memory-PYQ","x":634,"y":-115,"width":183,"height":60},
+		{"id":"47a80e6358a5f26f","x":634,"y":520,"width":250,"height":60,"color":"4","type":"text","text":"Countability"},
+		{"id":"f18f78647b662f58","type":"text","text":"GO-FULL-MOCK1 Q3","x":192,"y":350,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"09060f2f56739258","fromNode":"5dac1d939c750b3b","fromSide":"right","toNode":"074ede84acc085b1","toSide":"left","color":"1"},
@@ -31,6 +32,7 @@
 		{"id":"afded9a5fd501b3a","fromNode":"f18f78647b662f58","fromSide":"right","toNode":"ead6528afa86bb4d","toSide":"left"},
 		{"id":"e3a128dd5145d392","fromNode":"ead6528afa86bb4d","fromSide":"right","toNode":"ea0958ce41edd81d","toSide":"left"},
 		{"id":"570d21a3c3e59e25","fromNode":"f18f78647b662f58","fromSide":"right","toNode":"01aa0b682a51094b","toSide":"left"},
-		{"id":"bd3bee3176cf2c70","fromNode":"f18f78647b662f58","fromSide":"right","toNode":"1ba8ed20a56212c5","toSide":"left","color":"4"}
+		{"id":"bd3bee3176cf2c70","fromNode":"f18f78647b662f58","fromSide":"right","toNode":"1ba8ed20a56212c5","toSide":"left","color":"4"},
+		{"id":"ff52de672898c472","fromNode":"f18f78647b662f58","fromSide":"right","toNode":"47a80e6358a5f26f","toSide":"left","color":"4"}
 	]
 }
