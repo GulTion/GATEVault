@@ -1,24 +1,30 @@
 {
 	"nodes":[
-		{"id":"5dac1d939c750b3b","x":-540,"y":-40,"width":180,"height":50,"color":"4","type":"text","text":" SHORTNOTS"},
-		{"id":"7ca2f59cc81d79c5","x":-520,"y":-345,"width":140,"height":60,"color":"1","type":"text","text":"Ready"},
+		{"id":"5dac1d939c750b3b","type":"text","text":" SHORTNOTS","x":-540,"y":-40,"width":180,"height":50,"color":"4"},
+		{"id":"7ca2f59cc81d79c5","type":"text","text":"Ready","x":-520,"y":-345,"width":140,"height":60,"color":"1"},
 		{"id":"d85214dde6834a59","type":"text","text":"Running","x":-520,"y":-260,"width":140,"height":60,"color":"4"},
 		{"id":"5c22451bbd006a9e","type":"text","text":"End","x":-520,"y":-170,"width":140,"height":60},
-		{"id":"074ede84acc085b1","x":-280,"y":-135,"width":100,"height":50,"color":"1","type":"text","text":"DSA"},
-		{"id":"abe273ad98888fd3","x":-247,"y":-20,"width":134,"height":60,"color":"4","type":"text","text":"Project"},
-		{"id":"a8c478a39aa9006d","x":-60,"y":-100,"width":134,"height":60,"color":"4","type":"text","text":"OS"},
-		{"id":"577ab25fca35d11c","type":"text","text":"OS-PYQ","x":220,"y":10,"width":134,"height":60,"color":"4"},
-		{"id":"7350f022cf21d255","type":"text","text":"Process Sync.","x":410,"y":-50,"width":134,"height":60,"color":"4"},
-		{"id":"8c2e23b0a2c9a192","x":250,"y":-290,"width":250,"height":60,"type":"text","text":"TEST 20 OS 2"},
-		{"id":"d6a245510d10d299","type":"text","text":"TEST 19 OS 1","x":250,"y":-205,"width":250,"height":60}
+		{"id":"074ede84acc085b1","type":"text","text":"DSA","x":-280,"y":-135,"width":100,"height":50,"color":"1"},
+		{"id":"abe273ad98888fd3","type":"text","text":"Project","x":-247,"y":-20,"width":134,"height":60,"color":"4"},
+		{"id":"a8c478a39aa9006d","type":"text","text":"OS","x":-60,"y":-100,"width":134,"height":60,"color":"4"},
+		{"id":"8c2e23b0a2c9a192","type":"text","text":"TEST 20 OS 2","x":250,"y":-290,"width":250,"height":60},
+		{"id":"d6a245510d10d299","type":"text","text":"TEST 19 OS 1","x":250,"y":-205,"width":250,"height":60},
+		{"id":"577ab25fca35d11c","type":"text","text":"OS-PYQ","x":200,"y":-85,"width":134,"height":60,"color":"1"},
+		{"id":"f18f78647b662f58","type":"text","text":"GO-FULL-MOCK1 Q2","x":200,"y":60,"width":250,"height":60,"color":"4"},
+		{"id":"7350f022cf21d255","type":"text","text":"Process Sync.","x":500,"y":0,"width":134,"height":90,"color":"1"},
+		{"id":"731d7245044f4ed2","type":"text","text":"Memory-PYQ","x":450,"y":-115,"width":183,"height":60},
+		{"id":"ead6528afa86bb4d","x":542,"y":160,"width":250,"height":94,"color":"4","type":"text","text":"https://www.indiabix.com/aptitude/time-and-distance/"}
 	],
 	"edges":[
 		{"id":"09060f2f56739258","fromNode":"5dac1d939c750b3b","fromSide":"right","toNode":"074ede84acc085b1","toSide":"left","color":"1"},
 		{"id":"b9e3ab9501170c05","fromNode":"5dac1d939c750b3b","fromSide":"right","toNode":"abe273ad98888fd3","toSide":"left","color":"4"},
 		{"id":"891bb2e5683e4993","fromNode":"abe273ad98888fd3","fromSide":"right","toNode":"a8c478a39aa9006d","toSide":"left","color":"4"},
 		{"id":"e073146838175bd7","fromNode":"a8c478a39aa9006d","fromSide":"right","toNode":"8c2e23b0a2c9a192","toSide":"left"},
-		{"id":"0d98d86b01dd89c5","fromNode":"a8c478a39aa9006d","fromSide":"right","toNode":"577ab25fca35d11c","toSide":"left","color":"4"},
-		{"id":"6885f7e8f568f244","fromNode":"577ab25fca35d11c","fromSide":"right","toNode":"7350f022cf21d255","toSide":"left"},
-		{"id":"c46acc7d55b136f9","fromNode":"a8c478a39aa9006d","fromSide":"right","toNode":"d6a245510d10d299","toSide":"left"}
+		{"id":"0d98d86b01dd89c5","fromNode":"a8c478a39aa9006d","fromSide":"right","toNode":"577ab25fca35d11c","toSide":"left","color":"1"},
+		{"id":"6885f7e8f568f244","fromNode":"577ab25fca35d11c","fromSide":"right","toNode":"7350f022cf21d255","toSide":"left","color":"1"},
+		{"id":"c46acc7d55b136f9","fromNode":"a8c478a39aa9006d","fromSide":"right","toNode":"d6a245510d10d299","toSide":"left"},
+		{"id":"53aa0615bd2c5e7a","fromNode":"a8c478a39aa9006d","fromSide":"right","toNode":"f18f78647b662f58","toSide":"left","color":"4"},
+		{"id":"40838e9db2acdee7","fromNode":"577ab25fca35d11c","fromSide":"right","toNode":"731d7245044f4ed2","toSide":"left"},
+		{"id":"afded9a5fd501b3a","fromNode":"f18f78647b662f58","fromSide":"right","toNode":"ead6528afa86bb4d","toSide":"left","color":"4"}
 	]
 }

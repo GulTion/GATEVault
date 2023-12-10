@@ -11,14 +11,11 @@
             "id": "6341fa70c481ff21",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "FlowWork.canvas",
-                "viewState": {
-                  "x": 223.0082812499999,
-                  "y": -20,
-                  "zoom": 0
-                }
+                "file": "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -53,9 +50,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e6ef4dc688303fc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "FlowWork.canvas",
+                "viewState": {
+                  "x": 517.3291060126576,
+                  "y": 109.59985561708862,
+                  "zoom": -0.2235845466252802
+                }
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.51147842407227,
-    "collapsed": true
+    "width": 307.51147842407227
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -138,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/PYQ/OS/Memory Management - pyq.md",
+                "file": "FlowWork.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/PYQ/OS/Memory Management - pyq.md",
+                "file": "FlowWork.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/PYQ/OS/Memory Management - pyq.md"
+                "file": "FlowWork.canvas"
               }
             }
           },
@@ -230,7 +241,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/PYQ/OS/Memory Management - pyq.md"
+                "file": "FlowWork.canvas"
               }
             }
           }
@@ -264,10 +275,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad6aaffd04425c22",
+  "active": "4e6ef4dc688303fc",
   "lastOpenFiles": [
-    "Revision/Que/PYQ/OS/Process - pyq.md",
+    "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
+    "Revision/TS/GOTS/FULL/media/Pasted image 20231210162850.png",
+    "Revision/TS/GOTS/FULL/media/Pasted image 20231210162820.png",
+    "Revision/TS/GOTS/FULL/media",
     "FlowWork.canvas",
+    "Revision/TS/GOTS/FULL",
+    "Revision/Que/PYQ/OS/Memory Management - pyq.md",
+    "Revision/Que/PYQ/OS/Process - pyq.md",
     "Revision/Que/PYQ/OS/Process Synchronization - pyq.md",
     "Revision/Que/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
     "Revision/TS/ZealTS/OS/Test ID - 19 OS Test - 1.md",
@@ -281,8 +298,6 @@
     "Revision/TS/ZealTS/OS/media/Pasted image 20231210151918.png",
     "Revision/TS/ZealTS/OS/media/Pasted image 20231210151910.png",
     "Revision/TS/ZealTS/OS/media/Pasted image 20231210151859.png",
-    "media/Pasted image 20231210151124.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210124914.png",
     "InterProcess Communication.md",
     "Revision/TS/ZealTS/OS/Test ID - 21 OS Test - 3.md",
     "Revision/media/Notes Revision/DLD/media/Drawing 2023-11-18 01.18.50.excalidraw.md",
@@ -301,9 +316,6 @@
     "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
     "Revision/Notes/ShortNotes/COA/DMA.md",
     "Revision/Notes/ShortNotes/DBMS/DATABASE DESIGN.md",
-    "Revision/Notes/ShortNotes/COA/Interrupts Based Prioirty.md",
-    "Revision/Notes/ShortNotes/COA/DMA Modes.md",
-    "Revision/Notes/ShortNotes/COA/Modes of Transfer.md",
     "Revision/Que/MixQue/DM/media",
     "Revision/TS/ZealTS/COA/2022/media",
     "Revision/TS/ZealTS/COA/2022",
@@ -311,8 +323,6 @@
     "Revision/Que/zealWorkBook/CD/media",
     "Revision/Que/zealWorkBook/CD",
     "Revision/Que/PYQ/CD/media",
-    "Bhisandiya/OurLangBook",
-    "Bhisandiya",
     "FlowChart.canvas",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
