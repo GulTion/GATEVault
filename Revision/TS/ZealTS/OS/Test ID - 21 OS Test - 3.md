@@ -6,6 +6,7 @@ src:
 atQ: 25
 startQ: 1
 endQ: 25
+completed: true
 ---
 #card/OS/Memory 
 ![[Pasted image 20231122141854.png]]::![[Pasted image 20231122141906.png]] <!--SR:!2023-12-09,4,170-->

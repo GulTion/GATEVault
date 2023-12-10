@@ -321,20 +321,28 @@
               "completed",
               "status"
             ],
-            "groupByField": "type"
+            "groupByField": "subject"
           },
           "filter": {
             "conditions": [
               {
                 "field": "subject",
                 "operator": "is",
-                "enabled": true,
+                "enabled": false,
                 "value": "DSA"
               }
             ]
           },
           "colors": {
             "conditions": [
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "completed",
+                  "operator": "is-checked",
+                  "enabled": true
+                }
+              },
               {
                 "color": "#6bff84",
                 "condition": {

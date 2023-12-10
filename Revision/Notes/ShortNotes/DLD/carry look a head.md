@@ -1,3 +1,9 @@
+---
+subject: DLD
+type: ShortNotes
+---
+#note
+
 The time complexity of carry look ahead adder = Θ (logn).
  
 
