@@ -10,10 +10,12 @@
 		{"id":"8c2e23b0a2c9a192","type":"text","text":"TEST 20 OS 2","x":250,"y":-290,"width":250,"height":60},
 		{"id":"d6a245510d10d299","type":"text","text":"TEST 19 OS 1","x":250,"y":-205,"width":250,"height":60},
 		{"id":"577ab25fca35d11c","type":"text","text":"OS-PYQ","x":200,"y":-85,"width":134,"height":60,"color":"1"},
-		{"id":"f18f78647b662f58","type":"text","text":"GO-FULL-MOCK1 Q2","x":200,"y":60,"width":250,"height":60,"color":"4"},
 		{"id":"7350f022cf21d255","type":"text","text":"Process Sync.","x":500,"y":0,"width":134,"height":90,"color":"1"},
 		{"id":"731d7245044f4ed2","type":"text","text":"Memory-PYQ","x":450,"y":-115,"width":183,"height":60},
-		{"id":"ead6528afa86bb4d","x":542,"y":160,"width":250,"height":94,"color":"4","type":"text","text":"https://www.indiabix.com/aptitude/time-and-distance/"}
+		{"id":"f18f78647b662f58","type":"text","text":"GO-FULL-MOCK1 Q3","x":180,"y":194,"width":250,"height":60,"color":"4"},
+		{"id":"ead6528afa86bb4d","x":542,"y":130,"width":250,"height":94,"type":"text","text":"https://www.indiabix.com/aptitude/time-and-distance/"},
+		{"id":"ea0958ce41edd81d","x":720,"y":0,"width":250,"height":60,"type":"text","text":"YouTUbe Vidoe"},
+		{"id":"01aa0b682a51094b","x":542,"y":360,"width":250,"height":60,"color":"4","type":"text","text":"Disk Schudling Algo CSCAN, LOOK "}
 	],
 	"edges":[
 		{"id":"09060f2f56739258","fromNode":"5dac1d939c750b3b","fromSide":"right","toNode":"074ede84acc085b1","toSide":"left","color":"1"},
@@ -25,6 +27,8 @@
 		{"id":"c46acc7d55b136f9","fromNode":"a8c478a39aa9006d","fromSide":"right","toNode":"d6a245510d10d299","toSide":"left"},
 		{"id":"53aa0615bd2c5e7a","fromNode":"a8c478a39aa9006d","fromSide":"right","toNode":"f18f78647b662f58","toSide":"left","color":"4"},
 		{"id":"40838e9db2acdee7","fromNode":"577ab25fca35d11c","fromSide":"right","toNode":"731d7245044f4ed2","toSide":"left"},
-		{"id":"afded9a5fd501b3a","fromNode":"f18f78647b662f58","fromSide":"right","toNode":"ead6528afa86bb4d","toSide":"left","color":"4"}
+		{"id":"afded9a5fd501b3a","fromNode":"f18f78647b662f58","fromSide":"right","toNode":"ead6528afa86bb4d","toSide":"left"},
+		{"id":"e3a128dd5145d392","fromNode":"ead6528afa86bb4d","fromSide":"right","toNode":"ea0958ce41edd81d","toSide":"left"},
+		{"id":"570d21a3c3e59e25","fromNode":"f18f78647b662f58","fromSide":"right","toNode":"01aa0b682a51094b","toSide":"left","color":"4"}
 	]
 }
