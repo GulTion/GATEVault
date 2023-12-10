@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/OS/media/Pasted image 20231210151918.png","text":"Solution: R R R R4 So, there is a cycle between P2, P3, and P5 So, system is in unsafe state for P2, P3 and PS. Answer is A","libVersion":"0.2.3","langs":"eng"}

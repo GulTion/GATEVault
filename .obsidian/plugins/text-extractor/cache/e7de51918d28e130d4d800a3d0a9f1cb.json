@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/OS/media/Pasted image 20231210152056.png","text":"Consider a system that has p processes and r identical resources. Each process needs a maximum of m resources. What condition must hold to make the system deadlock-free? @pxm-1)sr (b)(p-1)xmsr ©px(-1)<m dpxm-1)<r","libVersion":"0.2.3","langs":"eng"}

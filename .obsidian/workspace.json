@@ -8,27 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9773383b0fa0baab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/Que/PYQ/FULL/GATE 2021 SET-2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6341fa70c481ff21",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "FlowWork.canvas",
                 "viewState": {
-                  "x": -28.803750000000015,
-                  "y": 1.4548437499999833,
+                  "x": 223.0082812499999,
+                  "y": -20,
                   "zoom": 0
                 }
               }
@@ -43,19 +31,31 @@
             }
           },
           {
-            "id": "f6fc2e9cf24596c9",
+            "id": "ad6aaffd04425c22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
+                "file": "Revision/Que/PYQ/OS/Memory Management - pyq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03e8ac4817a43c65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/Que/PYQ/OS/Process - pyq.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
+                "file": "Revision/Que/PYQ/OS/Memory Management - pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
+                "file": "Revision/Que/PYQ/OS/Memory Management - pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md"
+                "file": "Revision/Que/PYQ/OS/Memory Management - pyq.md"
               }
             }
           },
@@ -230,12 +230,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md"
+                "file": "Revision/Que/PYQ/OS/Memory Management - pyq.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -264,29 +264,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f6fc2e9cf24596c9",
+  "active": "ad6aaffd04425c22",
   "lastOpenFiles": [
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210124845.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210124838.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210124641.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210124543.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210124502.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210123308.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210122846.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210122517.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210122251.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210122204.png",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210122157.png",
-    "InterProcess Communication.md",
+    "Revision/Que/PYQ/OS/Process - pyq.md",
+    "FlowWork.canvas",
+    "Revision/Que/PYQ/OS/Process Synchronization - pyq.md",
+    "Revision/Que/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
+    "Revision/TS/ZealTS/OS/Test ID - 19 OS Test - 1.md",
+    "Revision/TS/ZealTS/OS/media/Pasted image 20231210121721.png",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
+    "Revision/Que/PYQ/FULL/GATE 2021 SET-2.md",
+    "Revision/TS/ZealTS/OS/media/Pasted image 20231210152118.png",
+    "Revision/TS/ZealTS/OS/media/Pasted image 20231210152112.png",
+    "Revision/TS/ZealTS/OS/media/Pasted image 20231210152102.png",
+    "Revision/TS/ZealTS/OS/media/Pasted image 20231210152056.png",
+    "Revision/TS/ZealTS/OS/media/Pasted image 20231210151918.png",
+    "Revision/TS/ZealTS/OS/media/Pasted image 20231210151910.png",
+    "Revision/TS/ZealTS/OS/media/Pasted image 20231210151859.png",
+    "media/Pasted image 20231210151124.png",
+    "Revision/TS/ZealTS/OS/media/Pasted image 20231210124914.png",
+    "InterProcess Communication.md",
     "Revision/TS/ZealTS/OS/Test ID - 21 OS Test - 3.md",
     "Revision/media/Notes Revision/DLD/media/Drawing 2023-11-18 01.18.50.excalidraw.md",
     "Revision/Notes/ShortNotes/DLD/carry look a head.md",
-    "Untitled.canvas",
     "DialyStuff/2023-12-10.md",
     "English/Phrases.md",
     "Untitled.md",
-    "Revision/Que/PYQ/FULL/GATE 2021 SET-2.md",
     "English",
     "Revision/Que/PYQ/FULL/GATE 2020.md",
     "Revision/Que/PYQ/OS/CPU Scheduling - pyq.md",
@@ -301,9 +304,6 @@
     "Revision/Notes/ShortNotes/COA/Interrupts Based Prioirty.md",
     "Revision/Notes/ShortNotes/COA/DMA Modes.md",
     "Revision/Notes/ShortNotes/COA/Modes of Transfer.md",
-    "Revision/Notes/ShortNotes/COA/IO ShortNotes.md",
-    "Revision/Notes/MicroNotes/COA/Disk Memory in Input output.md",
-    "Revision/Que/PracticeSet/Expression Analysis.md",
     "Revision/Que/MixQue/DM/media",
     "Revision/TS/ZealTS/COA/2022/media",
     "Revision/TS/ZealTS/COA/2022",

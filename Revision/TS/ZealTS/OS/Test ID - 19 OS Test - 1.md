@@ -3,9 +3,7 @@ status: Revision
 subject: OS
 type: ZealTS
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=6285ec386a69976a898c3c9a&test_id=26
-atQ: 1
-startQ: 1
-endQ: 25
+completed: true
 ---
 #card/OS/process 
 

@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/OS/media/Pasted image 20231210152118.png","text":"Answer: 6 Solution: Ren(k-1)+1 where, R is total identical resources n is no. of process completing for resources k is maximum need of each process. 21>n(3)+1 3n <20 n<?® 3 n<6.67 n = 6 answer.","libVersion":"0.2.3","langs":"eng"}

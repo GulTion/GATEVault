@@ -1,9 +1,10 @@
 ---
 subject: OS
 type: ZealTS
-status: Analysis
+status: Revision
 atQ: 8
 endQ: 25
+completed: true
 ---
 #card/OS/IPC_deadlock
 # Stack
@@ -56,4 +57,11 @@ endQ: 25
 
 ![[Pasted image 20231210124543.png]]::![[Pasted image 20231210124641.png]]
 
-![[Pasted image 20231210124838.png]]::![[Pasted image 20231210124845.png]]
+![[Pasted image 20231210124838.png]]::![[Pasted image 20231210124858.png]]![[Pasted image 20231210124845.png]]![[Pasted image 20231210124914.png]]
+
+![[Pasted image 20231210151910.png]]::![[Pasted image 20231210151918.png]]
+
+![[Pasted image 20231210152056.png]]::![[Pasted image 20231210152102.png]]
+
+![[Pasted image 20231210152112.png]]::![[Pasted image 20231210152118.png]]
+
