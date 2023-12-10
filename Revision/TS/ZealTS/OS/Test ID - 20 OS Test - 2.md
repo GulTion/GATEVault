@@ -11,8 +11,6 @@ endQ: 25
 - Must Practice on the All IPC problem of ZealWorkbook and Test Series
 - Must Practice on the All IPC problem of PYQ
 
-# Zeal Workbook
-[[InterProcess Communication]]
 
 
 # Test Series Anlaysis
@@ -44,5 +42,18 @@ endQ: 25
 
 ![[Pasted image 20231123120739.png]]::4 ![[Pasted image 20231123120745.png]]
 
-![[Pasted image 20231123122350.png]]::B
+![[Pasted image 20231123122350.png]]::C
 
+![[Pasted image 20231210121721.png]]::![[Pasted image 20231210121734.png]]
+
+![[Pasted image 20231210121806.png]]::![[Pasted image 20231210121814.png]]
+
+![[Pasted image 20231210122157.png]]::![[Pasted image 20231210122204.png]]
+
+![[Pasted image 20231210122251.png]]::![[Pasted image 20231210122517.png]]
+
+![[Pasted image 20231210122846.png]]::![[Pasted image 20231210123308.png]]
+
+![[Pasted image 20231210124543.png]]::![[Pasted image 20231210124641.png]]
+
+![[Pasted image 20231210124838.png]]::![[Pasted image 20231210124845.png]]
