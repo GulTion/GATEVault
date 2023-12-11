@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Phrases.md",
+                "file": "DialyStuff/2023-12-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Phrases.md",
+                "file": "DialyStuff/2023-12-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Phrases.md",
+                "file": "DialyStuff/2023-12-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Phrases.md"
+                "file": "DialyStuff/2023-12-11.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "English/Phrases.md"
+                "file": "DialyStuff/2023-12-11.md"
               }
             }
           }
@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,6 +237,11 @@
   },
   "active": "505055cd15cf3048",
   "lastOpenFiles": [
+    "Revision/Que/PYQ/TOC/media/Pasted image 20231124004617.png",
+    "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206225627.png",
+    "DialyStuff/2023-12-11.md",
+    "English/Phrases.md",
     "Untitled 1.md",
     "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
     "Revision/Que/PYQ/OS/Process - pyq.md",
@@ -261,12 +265,10 @@
     "Revision/TS/ZealTS/OS/media/Pasted image 20231210121721.png",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "Revision/Que/PYQ/FULL/GATE 2021 SET-2.md",
-    "Revision/TS/ZealTS/OS/media/Pasted image 20231210152118.png",
     "InterProcess Communication.md",
     "Revision/TS/ZealTS/OS/Test ID - 21 OS Test - 3.md",
     "Revision/media/Notes Revision/DLD/media/Drawing 2023-11-18 01.18.50.excalidraw.md",
     "Revision/Notes/ShortNotes/DLD/carry look a head.md",
-    "English/Phrases.md",
     "Untitled.md",
     "English",
     "Revision/Que/PYQ/FULL/GATE 2020.md",
@@ -275,9 +277,6 @@
     "Revision/Que/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md",
     "DialyStuff/2023-11-04.md",
     "Revision/Notes/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md",
-    "Revision/Que/PracticeSet/Referential Constraint - practice.md",
-    "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
-    "Revision/Notes/ShortNotes/COA/DMA.md",
     "Revision/Que/MixQue/DM/media",
     "Revision/TS/ZealTS/COA/2022/media",
     "Revision/TS/ZealTS/COA/2022",
