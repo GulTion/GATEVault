@@ -20,4 +20,3 @@ For a host machine that uses the token bucket algorithm for congestion control, 
 
 ![[Pasted image 20231120233841.png]]
 
-![[Pasted image 20231202215824.png]]
