@@ -21,3 +21,4 @@ atQ: 24
 
 ![[Pasted image 20231212160407.png]]::A![[Pasted image 20231212160447.png]]
 
+![[Pasted image 20231212184809.png]]::A,C,D
