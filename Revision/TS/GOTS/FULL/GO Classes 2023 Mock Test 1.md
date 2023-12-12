@@ -30,3 +30,19 @@ mistake
 
 ![[Pasted image 20231212133143.png]]::B,C, D ![[Pasted image 20231212133213.png]]
 
+
+
+![[Pasted image 20231212160407.png]]::A![[Pasted image 20231212160447.png]]
+
+![[Pasted image 20231212184809.png]]::A,C,D
+
+![[Pasted image 20231212185831.png]]::C
+
+![[Pasted image 20231212190523.png]]::![[Pasted image 20231212190533.png]]![[Pasted image 20231212190539.png]]
+
+![[Pasted image 20231212191118.png]]::![[Pasted image 20231212191131.png]]
+
+![[Pasted image 20231212192018.png]]::![[Pasted image 20231212192001.png]]
+
+![[Pasted image 20231212192438.png]]::A,B,C,D
+

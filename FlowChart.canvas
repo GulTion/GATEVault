@@ -1,6 +1,7 @@
 {
 	"nodes":[
 		{"id":"25f1971564ebd3b3","type":"group","x":-600,"y":-404,"width":220,"height":332,"label":"Status"},
+		{"id":"7bb6ec49544e2248","x":391,"y":-219,"width":250,"height":60,"type":"text","text":"\n\n![[Pasted image 20231212160407.png]]::A![[Pasted image 20231212160447.png]]\n\n![[Pasted image 20231212184809.png]]::A,C,D\n\n![[Pasted image 20231212185831.png]]::C\n\n![[Pasted image 20231212190523.png]]::![[Pasted image 20231212190533.png]]![[Pasted image 20231212190539.png]]\n\n![[Pasted image 20231212191118.png]]::![[Pasted image 20231212191131.png]]\n\n![[Pasted image 20231212192018.png]]::![[Pasted image 20231212192001.png]]\n\n![[Pasted image 20231212192438.png]]::A,B,C,D\n\n"},
 		{"id":"7418965a3b4522c6","type":"text","text":"","x":-580,"y":-384,"width":180,"height":292},
 		{"id":"5c22451bbd006a9e","type":"text","text":"End","x":-560,"y":-180,"width":140,"height":58},
 		{"id":"d85214dde6834a59","type":"text","text":"Running","x":-560,"y":-360,"width":140,"height":60,"color":"4"},
