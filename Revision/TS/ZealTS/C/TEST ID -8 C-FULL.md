@@ -8,7 +8,7 @@ startQ: 1
 endQ: 40
 ---
 #card/C 
-![[Pasted image 20231116142615.png]]::A, B ![[Pasted image 20231116142629.png]] <!--SR:!2023-12-09,13,201-->
+![[Pasted image 20231116142615.png]]::A, B ![[Pasted image 20231116142629.png]] <!--SR:!2024-01-17,36,221-->
 
 ![[Pasted image 20231116142700.png]]::D ![[Pasted image 20231116142710.png]] <!--SR:!2024-01-10,33,216-->
 
@@ -16,7 +16,7 @@ endQ: 40
 
 ![[Pasted image 20231116152127.png]]::![[Pasted image 20231116152136.png]] <!--SR:!2023-12-13,15,201-->
 
-![[Pasted image 20231116152156.png]]::22![[Pasted image 20231116152205.png]] <!--SR:!2023-12-12,5,170-->
+![[Pasted image 20231116152156.png]]::22![[Pasted image 20231116152205.png]] <!--SR:!2023-12-23,11,190-->
 
 ![[Pasted image 20231116152329.png]]::![[Pasted image 20231116152337.png]] <!--SR:!2024-01-02,27,216-->
 
