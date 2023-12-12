@@ -2,7 +2,7 @@
 type: zealWorkBook
 subject: DM
 status: acquiring
-atQ: 1
+atQ: 24
 ---
 #card/DM/combintories/factorial
 ![[Pasted image 20231212133633.png]]::![[Pasted image 20231212133643.png]]
@@ -18,4 +18,6 @@ atQ: 1
 
 ![[Pasted image 20231212142600.png]]::![[Pasted image 20231212142610.png]]
 
+
+![[Pasted image 20231212160407.png]]::A![[Pasted image 20231212160447.png]]
 
