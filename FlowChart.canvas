@@ -1,11 +1,16 @@
 {
 	"nodes":[
-		{"id":"25f1971564ebd3b3","x":-600,"y":-404,"width":220,"height":332,"type":"group","label":"Status"},
-		{"id":"7418965a3b4522c6","x":-580,"y":-384,"width":180,"height":292,"type":"text","text":""},
+		{"id":"25f1971564ebd3b3","type":"group","x":-600,"y":-404,"width":220,"height":332,"label":"Status"},
+		{"id":"7418965a3b4522c6","type":"text","text":"","x":-580,"y":-384,"width":180,"height":292},
 		{"id":"5c22451bbd006a9e","type":"text","text":"End","x":-560,"y":-180,"width":140,"height":58},
 		{"id":"d85214dde6834a59","type":"text","text":"Running","x":-560,"y":-360,"width":140,"height":60,"color":"4"},
 		{"id":"7ca2f59cc81d79c5","type":"text","text":"Ready","x":-560,"y":-268,"width":140,"height":60,"color":"1"},
-		{"id":"d6387e5de77f8673","x":-360,"y":-438,"width":400,"height":478,"type":"file","file":"DialyStuff/2023-12-11.md"}
+		{"id":"2e2ea8a2f3f58100","x":-340,"y":-438,"width":400,"height":400,"color":"4","type":"file","file":"DialyStuff/2023-12-12.md"},
+		{"id":"fbee7590666a3e4c","x":180,"y":-420,"width":200,"height":60,"color":"4","type":"text","text":"GO MOCK 1"},
+		{"id":"d0fd0601d1332e9c","x":500,"y":-340,"width":250,"height":60,"color":"4","type":"text","text":"ZEal- Combintories"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"92a4187aacb646d7","fromNode":"2e2ea8a2f3f58100","fromSide":"right","toNode":"fbee7590666a3e4c","toSide":"left","color":"4"},
+		{"id":"03dc6c500aa59117","fromNode":"fbee7590666a3e4c","fromSide":"right","toNode":"d0fd0601d1332e9c","toSide":"left","color":"4"}
+	]
 }

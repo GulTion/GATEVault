@@ -34,16 +34,43 @@
             "id": "af7b8dac6ea83cd5",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "FlowChart.canvas",
+                "viewState": {
+                  "x": 515.5423437500001,
+                  "y": -188.92984375,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "8cda9557123253d9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-12.md",
+                "file": "Revision/Que/zealWorkBook/MATH/Permutation and Combination.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fea43989355c6da7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-12.md",
+                "file": "Revision/Que/zealWorkBook/MATH/Permutation and Combination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-12.md",
+                "file": "Revision/Que/zealWorkBook/MATH/Permutation and Combination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-12.md"
+                "file": "Revision/Que/zealWorkBook/MATH/Permutation and Combination.md"
               }
             }
           },
@@ -217,7 +244,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-12.md"
+                "file": "Revision/Que/zealWorkBook/MATH/Permutation and Combination.md"
               }
             }
           }
@@ -250,31 +277,34 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "af7b8dac6ea83cd5",
+  "active": "8cda9557123253d9",
   "lastOpenFiles": [
+    "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231212134426.png",
+    "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231212134415.png",
+    "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231212133717.png",
+    "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231212133712.png",
+    "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231212133643.png",
+    "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231212133633.png",
+    "Revision/Que/zealWorkBook/MATH/media",
+    "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
+    "Revision/Que/zealWorkBook/MATH/Permutation and Combination.md",
     "FlowChart.canvas",
-    "DialyStuff/2023-12-11.md",
+    "Revision/TS/GOTS/FULL/media/Pasted image 20231212133213.png",
+    "Revision/TS/GOTS/FULL/media/Pasted image 20231212133143.png",
+    "Revision/TS/GOTS/FULL/media/Pasted image 20231212124812.png",
+    "Revision/TS/GOTS/FULL/media/Pasted image 20231212124731.png",
+    "Revision/TS/GOTS/FULL/media/Pasted image 20231212111347.png",
     "DialyStuff/2023-12-12.md",
+    "DialyStuff/2023-12-11.md",
     "DialyStuff/2023-12-10.md",
     "Revision/Que/PracticeSet/Referential Constraint - practice.md",
     "templates/Normal Task Template.md",
     "templates/Drawing 2023-12-11 20.56.24.excalidraw.md",
-    "Revision/Que/PYQ/TOC/media/Pasted image 20231124004617.png",
     "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206225627.png",
     "English/Phrases.md",
     "Untitled 1.md",
-    "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
     "Revision/Que/PYQ/OS/Process - pyq.md",
     "Revision/Notes/MicroNotes/DLD/Flip Flops.md",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20231210205722.png",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20231210205314.png",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20231210205240.png",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20231210205215.png",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20231210200728.png",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20231210200718.png",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20231210162850.png",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20231210162820.png",
     "Revision/TS/GOTS/FULL/media",
     "Revision/TS/GOTS/FULL",
     "Revision/Que/PYQ/OS/Memory Management - pyq.md",
@@ -290,14 +320,12 @@
     "Untitled.md",
     "English",
     "Revision/Que/PYQ/FULL/GATE 2020.md",
-    "Revision/Que/PYQ/OS/CPU Scheduling - pyq.md",
     "Revision/Que/MixQue/DM/media",
     "Revision/TS/ZealTS/COA/2022/media",
     "Revision/TS/ZealTS/COA/2022",
     "Revision/Que/PracticeSet/media/9. Intermediate Representation.pdf",
     "Revision/Que/zealWorkBook/CD/media",
     "Revision/Que/zealWorkBook/CD",
-    "Revision/Que/PYQ/CD/media",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
