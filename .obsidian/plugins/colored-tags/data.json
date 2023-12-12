@@ -219,7 +219,9 @@
     "card/CD/Phases": 6,
     "ENGLISH": 18,
     "english": 19,
-    "ENGLISH/PHRASES": 1
+    "ENGLISH/PHRASES": 1,
+    "card/DM/combintories/factorial": 1,
+    "card/DM/combintories/Permutation": 2
   },
   "_version": 2
 }
