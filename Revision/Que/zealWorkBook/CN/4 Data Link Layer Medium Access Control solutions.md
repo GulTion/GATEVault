@@ -17,7 +17,7 @@ status: acquiring
 ![[Pasted image 20231027153956.png]]![[Pasted image 20231027153855.png]]::B![[Pasted image 20231027153905.png]] <!--SR:!2023-12-19,34,270-->
 
 
-![[Pasted image 20231027154001.png]]![[Pasted image 20231027153923.png]]::D![[Pasted image 20231027153938.png]] <!--SR:!2023-12-10,19,270-->
+![[Pasted image 20231027154001.png]]![[Pasted image 20231027153923.png]]::D![[Pasted image 20231027153938.png]] <!--SR:!2024-02-21,71,290-->
 
 
 ![[Pasted image 20231027154551.png]]::A, sent by anyone, in which only one sucess and other get fail so![[Pasted image 20231027154608.png]] <!--SR:!2024-01-15,48,290-->

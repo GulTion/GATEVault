@@ -9,7 +9,7 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ---
 #card/COA
  <!--SR:!2023-11-04,10,270-->
-![[Pasted image 20231015145834.png]]::![[Pasted image 20231015145841.png]] <!--SR:!2023-12-12,32,270-->
+![[Pasted image 20231015145834.png]]::![[Pasted image 20231015145841.png]] <!--SR:!2023-12-30,18,250-->
  <!--SR:!2023-11-11,5,230-->
 ![[Pasted image 20231015152624.png]]::![[Pasted image 20231015152632.png]] <!--SR:!2024-01-11,48,250-->
  <!--SR:!2023-11-26,15,270-->
