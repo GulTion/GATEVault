@@ -2,10 +2,8 @@
 subject: DM
 type: ZealTS
 status: Revision
-atQ: 17
-startQ: 1
-endQ: 25
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=622c73577342fb74544c4c68&test_id=30
+completed: true
 ---
 #card/DM/Group_Theory 
 
@@ -21,6 +19,7 @@ C,D ![[Pasted image 20231030191315.png]] <!--SR:!2024-01-09,37,290-->
 
 ![[Pasted image 20231030193857.png]]9::A,B,C,D ![[Pasted image 20231030193909.png]] <!--SR:!2024-01-09,37,290-->
 
+#star/⭐ 
 ![[Pasted image 20231031121144.png]]11::2![[Pasted image 20231031121158.png]]![[Pasted image 20231031121215.png]] <!--SR:!2023-12-20,17,277-->
 
 
@@ -32,6 +31,7 @@ C,D ![[Pasted image 20231030191315.png]] <!--SR:!2024-01-09,37,290-->
 ![[Pasted image 20231101132849.png]]17::6![[Pasted image 20231101132904.png]] <!--SR:!2023-12-12,9,261-->
 
 ![[Pasted image 20231101133550.png]]18
-#bug ::b![[Pasted image 20231101133613.png]]
+?
+b![[Pasted image 20231101133613.png]]
 
 ![[Pasted image 20231101134001.png]]::![[Pasted image 20231101134007.png]] <!--SR:!2024-02-06,66,321-->
