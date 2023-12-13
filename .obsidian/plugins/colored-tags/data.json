@@ -241,7 +241,12 @@
     "card/CN/NetworkLayer/Fragentation": 6,
     "card/CN/NetworkLayer/Fragmentation": 7,
     "card/CN/ApplicationLayer/DNS": 2,
-    "card/CN/NetworkLayer/NetworkDevice/Bridge": 1
+    "card/CN/NetworkLayer/NetworkDevice/Bridge": 1,
+    "card/DSA/Graph": 10,
+    "card/DSA/Tree/Tra": 1,
+    "card/DSA/Tree/Traversal": 2,
+    "card/DSA/Hash": 11,
+    "card/DSA/HashTable": 12
   },
   "_version": 2
 }

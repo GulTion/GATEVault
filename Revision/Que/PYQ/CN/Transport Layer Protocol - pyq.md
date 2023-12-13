@@ -9,7 +9,7 @@ src: https://practicepaper.in/gate-cse/transport-layer-protocol
 
 ![[Pasted image 20231128143037.png]]::B <!--SR:!2023-12-20,8,190-->
 
-![[Pasted image 20231124143346.png]]::44 <!--SR:!2023-12-06,4,170-->
+![[Pasted image 20231124143346.png]]::44 <!--SR:!2023-12-23,10,190-->
 
 ![[Pasted image 20231124143802.png]]::C ![[Pasted image 20231124143826.png]] <!--SR:!2023-12-24,12,198-->
 
@@ -17,7 +17,7 @@ src: https://practicepaper.in/gate-cse/transport-layer-protocol
 
 ![[Pasted image 20231125004137.png]]::B ![[Pasted image 20231125004203.png]] <!--SR:!2023-12-03,1,138-->
 
-![[Pasted image 20231125012533.png]]::11 ![[Pasted image 20231125012606.png]] <!--SR:!2023-12-06,4,170-->
+![[Pasted image 20231125012533.png]]::11 ![[Pasted image 20231125012606.png]] <!--SR:!2023-12-22,9,190-->
 
 ![[Pasted image 20231127152436.png]]::7 and sequence = 2,4,8,9,10,1,2,4,5,6,7 <!--SR:!2023-12-24,12,190-->
 

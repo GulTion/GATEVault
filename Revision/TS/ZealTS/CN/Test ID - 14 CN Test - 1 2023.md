@@ -7,7 +7,7 @@ atQ: 0
 ---
 #card/CN/DataLinkLayer/FlowControl 
 
-![[Pasted image 20231024190110.png]]::2![[Pasted image 20231024190117.png]] <!--SR:!2023-12-13,5,250-->
+![[Pasted image 20231024190110.png]]::2![[Pasted image 20231024190117.png]] <!--SR:!2024-01-01,19,270-->
 
 
 ![[Pasted image 20231024191739.png]]::![[Pasted image 20231024191751.png]] <!--SR:!2024-03-25,108,290-->

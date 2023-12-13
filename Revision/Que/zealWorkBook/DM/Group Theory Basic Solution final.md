@@ -15,9 +15,9 @@ src: zealWorkBook
 ![[Pasted image 20231030105434.png]]::C![[Pasted image 20231030105543.png]] <!--SR:!2024-01-31,59,310-->
 
 ![[Pasted image 20231030112414.png]]
-- forget formula 
+- forget formula
 ?
-![[Pasted image 20231030112436.png]] <!--SR:!2023-12-09,6,250-->
+![[Pasted image 20231030112436.png]] <!--SR:!2024-01-04,22,270-->
 
 
 ![[Pasted image 20231030112604.png]]
