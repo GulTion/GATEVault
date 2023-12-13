@@ -7,12 +7,15 @@
 		{"id":"7ca2f59cc81d79c5","type":"text","text":"Ready","x":-560,"y":-268,"width":140,"height":60,"color":"1"},
 		{"id":"af676d44ca608acb","type":"text","text":" at 9 TEST ID 78 ","x":-260,"y":-268,"width":250,"height":60,"color":"4"},
 		{"id":"8a726fc110b5b26b","type":"text","text":"CN NETWORK PYQ","x":160,"y":-268,"width":250,"height":60},
-		{"id":"9beea8d16fd4851e","x":-260,"y":-122,"width":400,"height":342,"color":"4","type":"file","file":"Revision/TS/ZealTS/DM/TEST ID-3 DM-3 2023.md"},
-		{"id":"e49a31b5777eeb9a","x":285,"y":-122,"width":250,"height":262,"type":"text","text":"https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=622c73577342fb74544c4c68&test_id=30"}
+		{"id":"9beea8d16fd4851e","x":-260,"y":-122,"width":400,"height":50,"type":"file","file":"Revision/TS/ZealTS/DM/TEST ID-3 DM-3 2023.md"},
+		{"id":"e49a31b5777eeb9a","x":285,"y":-122,"width":250,"height":262,"type":"text","text":"https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=622c73577342fb74544c4c68&test_id=30"},
+		{"id":"7cf0235a9151c8c6","x":340,"y":400,"width":250,"height":60,"type":"text","text":"Process Synchronization - pyq"},
+		{"id":"b80aa73c9dd5f44e","x":-260,"y":140,"width":400,"height":100,"type":"file","file":"Revision/Que/PYQ/OS/Process Synchronization - pyq.md"}
 	],
 	"edges":[
 		{"id":"b7411010ea25d279","fromNode":"af676d44ca608acb","fromSide":"right","toNode":"8a726fc110b5b26b","toSide":"left"},
 		{"id":"61707bc5ced66445","fromNode":"9beea8d16fd4851e","fromSide":"right","toNode":"e49a31b5777eeb9a","toSide":"left"},
-		{"id":"3610d2c4b2b7964a","fromNode":"af676d44ca608acb","fromSide":"bottom","toNode":"9beea8d16fd4851e","toSide":"top","color":"4"}
+		{"id":"efd394b1950fdf69","fromNode":"25f1971564ebd3b3","fromSide":"right","toNode":"af676d44ca608acb","toSide":"left"},
+		{"id":"6b511648fe227c0a","fromNode":"b80aa73c9dd5f44e","fromSide":"right","toNode":"7cf0235a9151c8c6","toSide":"left"}
 	]
 }

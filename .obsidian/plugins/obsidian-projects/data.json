@@ -318,8 +318,7 @@
               }
             },
             "includeFields": [
-              "completed",
-              "status"
+              "type"
             ],
             "groupByField": "subject"
           },
@@ -355,7 +354,13 @@
             ]
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "type",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
           },
           "id": "3139e979-be22-45e2-95e0-4ba1ddf11abd",
           "name": "Multi",
