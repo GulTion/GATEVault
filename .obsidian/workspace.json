@@ -23,12 +23,8 @@
             "id": "6228f1b446bd34a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-13.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "obsidian-projects",
+              "state": {}
             }
           },
           {
@@ -105,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.51147842407227
+    "width": 307.51147842407227,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -129,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DialyStuff/2023-12-13.md"
-              }
+              "state": {}
             }
           },
           {
@@ -220,16 +213,16 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "DialyStuff/2023-12-13.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,8 +243,8 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "advanced-random-note:Open random note modal": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "advanced-random-note:Open random note modal": false
     }
   },
   "active": "6228f1b446bd34a5",
