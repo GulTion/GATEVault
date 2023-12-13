@@ -138,7 +138,6 @@
         },
         {
           "config": {
-            "groupByField": "subject",
             "columns": {
               "TOC": {
                 "weight": 0
@@ -175,11 +174,10 @@
               }
             },
             "includeFields": [
-              "status",
-              "atQ",
-              "endQ",
-              "type"
-            ]
+              "type",
+              "subject"
+            ],
+            "groupByField": "type"
           },
           "filter": {
             "conditions": [
@@ -192,7 +190,7 @@
               {
                 "field": "status",
                 "operator": "is",
-                "enabled": true,
+                "enabled": false,
                 "value": "Analysis"
               },
               {
@@ -329,6 +327,12 @@
                 "operator": "is",
                 "enabled": false,
                 "value": "DSA"
+              },
+              {
+                "field": "type",
+                "operator": "is",
+                "enabled": true,
+                "value": "PYQ"
               }
             ]
           },
