@@ -230,7 +230,16 @@
     "card/COA/Cache_Memory/Hit_Miss_Ratio": 3,
     "mistake/con": 3,
     "mistake/lack/TimeOut": 7,
-    "card/CN/MacLayer/Pure_Aloha": 2
+    "card/CN/MacLayer/Pure_Aloha": 2,
+    "card/CN/Ne": 9,
+    "card/CN/NetworkLayer/SubNetting": 3,
+    "card/CN/NetworkLayer/SubNetting/Forwarding": 1,
+    "mistake/dee": 4,
+    "card/sub": 16,
+    "card/CN/NetworkLayer/Routhing": 4,
+    "card/CN/NetworkLayer/Routing": 5,
+    "card/CN/NetworkLayer/Fragentation": 6,
+    "card/CN/NetworkLayer/Fragmentation": 7
   },
   "_version": 2
 }
