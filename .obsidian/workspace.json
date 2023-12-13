@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/PYQ/CN/Network Layer Protocol.md",
+                "file": "Revision/Notes/ShortNotes/COA/Modes of Transfer.md",
                 "mode": "source",
                 "source": false
               }
@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "03af0948c715ca28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TS/ZealTS/DM/TEST ID-3 DM-3 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "af7b8dac6ea83cd5",
             "type": "leaf",
             "state": {
@@ -39,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#today",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.51147842407227
+    "width": 307.51147842407227,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -121,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/PYQ/CN/Network Layer Protocol.md",
+                "file": "Revision/TS/ZealTS/DM/TEST ID-3 DM-3 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/PYQ/CN/Network Layer Protocol.md",
+                "file": "Revision/TS/ZealTS/DM/TEST ID-3 DM-3 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/PYQ/CN/Network Layer Protocol.md"
+                "file": "Revision/TS/ZealTS/DM/TEST ID-3 DM-3 2023.md"
               }
             }
           },
@@ -213,7 +227,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/PYQ/CN/Network Layer Protocol.md"
+                "file": "Revision/TS/ZealTS/DM/TEST ID-3 DM-3 2023.md"
               }
             }
           }
@@ -222,7 +236,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,11 +258,28 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "advanced-random-note:Open random note modal": false
     }
   },
-  "active": "cc081504fa4681c0",
+  "active": "03af0948c715ca28",
   "lastOpenFiles": [
+    "Revision/Notes/ShortNotes/COA/Modes of Transfer.md",
+    "Revision/Notes/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md",
+    "DialyStuff/2023-12-05.md",
+    "Excalidraw/Drawing 2023-11-18 01.18.14.excalidraw.md",
+    "Revision/Que/zealWorkBook/DSA/Program design strategy.md",
+    "Revision/Que/zealWorkBook/CN/TCP.md",
+    "Revision/Notes/ShortNotes/MATH/LU decomosition.md",
+    "Revision/TS/GOTS/CN/GO Classes Test Series 2023 Computer Networks Test 1.md",
+    "Revision/Que/PYQ/TOC/Context Free Language - pyq.md",
+    "Bhisandiya/OurLangBook/OurBook-index.md",
+    "Revision/Notes/ShortNotes/DSA/BFS DFS properties.md",
+    "Revision/Que/PYQ/DBMS/Normal Forms-pyq.md",
+    "Revision/Que/PYQ/CN/Network Layer Protocol.md",
+    "Revision/Notes/MicroNotes/APTI/Voca.md",
+    "Revision/Que/PYQ/CN/media/Pasted image 20231213131713.png",
+    "Revision/Que/PYQ/CN/media/Pasted image 20231213131657.png",
     "Revision/Que/PYQ/CN/media/Pasted image 20231213124009.png",
     "Revision/Que/PYQ/CN/media/Pasted image 20231213123957.png",
     "Revision/Que/PYQ/CN/media/Pasted image 20231213123848.png",
@@ -258,9 +290,6 @@
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231213114207.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231213114158.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231213113636.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231213113630.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231213100654.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231213100645.png",
     "DialyStuff/2023-12-13.md",
     "Revision/Que/zealWorkBook/MATH/Permutation and Combination.md",
     "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
@@ -273,21 +302,8 @@
     "templates/Drawing 2023-12-11 20.56.24.excalidraw.md",
     "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
     "English/Phrases.md",
-    "Untitled 1.md",
-    "Revision/Que/PYQ/OS/Process - pyq.md",
-    "Revision/Notes/MicroNotes/DLD/Flip Flops.md",
     "Revision/TS/GOTS/FULL/media",
     "Revision/TS/GOTS/FULL",
-    "Revision/Que/PYQ/OS/Memory Management - pyq.md",
-    "Revision/Que/PYQ/OS/Process Synchronization - pyq.md",
-    "Revision/Que/zealWorkBook/OS/2. FORK SYSTEM CALL.md",
-    "Revision/TS/ZealTS/OS/Test ID - 19 OS Test - 1.md",
-    "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
-    "Revision/Que/PYQ/FULL/GATE 2021 SET-2.md",
-    "InterProcess Communication.md",
-    "Revision/TS/ZealTS/OS/Test ID - 21 OS Test - 3.md",
-    "Revision/media/Notes Revision/DLD/media/Drawing 2023-11-18 01.18.50.excalidraw.md",
-    "Revision/Notes/ShortNotes/DLD/carry look a head.md",
     "English",
     "Revision/Que/MixQue/DM/media",
     "Revision/TS/ZealTS/COA/2022/media",

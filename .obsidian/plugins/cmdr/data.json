@@ -52,6 +52,12 @@
       "icon": "lucide-navigation",
       "name": "Files: Reveal current file in navigation",
       "mode": "any"
+    },
+    {
+      "id": "advanced-random-note:open-random-note",
+      "icon": "dice-3",
+      "name": "Advanced Random Note: Open random note",
+      "mode": "any"
     }
   ],
   "macros": [],
