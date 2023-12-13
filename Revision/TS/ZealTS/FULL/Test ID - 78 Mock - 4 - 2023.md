@@ -2,7 +2,7 @@
 type: ZealTS
 subject: FULL
 status: acquiring
-startQ: 1
+startQ: 9
 ---
 #card/FULL 
 
@@ -26,4 +26,25 @@ mistake
 mistake 
 - #mistake/lack/TimeOut #mistake/lack/ShortCutMethod 
 ![[Pasted image 20231213100654.png]] 
+
+#card/CN/MacLayer/Pure_Aloha
+![[Pasted image 20231213113630.png]]
+?
+mistake 
+- #mistake
+![[Pasted image 20231213113636.png]] 
+
+#card/CN/DataLinkLayer/FlowControl/SelctiveRepeat 
+![[Pasted image 20231213114158.png]]
+?
+mistake 
+- #mistake/lack/TermAndConcept 
+![[Pasted image 20231213114207.png]] 
+
+#card/CN/MacLayer/CSMA_CD 
+![[Pasted image 20231213114745.png]]
+?
+mistake 
+- #mistake/lack/TermAndConcept 
+![[Pasted image 20231213114751.png]] 
 

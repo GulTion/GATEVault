@@ -229,7 +229,8 @@
     "card/COA/Cache_Memory/Hit_Miss": 2,
     "card/COA/Cache_Memory/Hit_Miss_Ratio": 3,
     "mistake/con": 3,
-    "mistake/lack/TimeOut": 7
+    "mistake/lack/TimeOut": 7,
+    "card/CN/MacLayer/Pure_Aloha": 2
   },
   "_version": 2
 }

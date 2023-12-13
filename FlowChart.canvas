@@ -5,12 +5,10 @@
 		{"id":"5c22451bbd006a9e","type":"text","text":"End","x":-560,"y":-180,"width":140,"height":58},
 		{"id":"d85214dde6834a59","type":"text","text":"Running","x":-560,"y":-360,"width":140,"height":60,"color":"4"},
 		{"id":"7ca2f59cc81d79c5","type":"text","text":"Ready","x":-560,"y":-268,"width":140,"height":60,"color":"1"},
-		{"id":"2e2ea8a2f3f58100","x":-340,"y":-438,"width":400,"height":400,"color":"4","type":"file","file":"DialyStuff/2023-12-12.md"},
-		{"id":"fbee7590666a3e4c","x":180,"y":-420,"width":200,"height":60,"color":"4","type":"text","text":"GO MOCK 1"},
-		{"id":"d0fd0601d1332e9c","x":480,"y":-580,"width":250,"height":60,"type":"text","text":"ZEal- Combintories"}
+		{"id":"af676d44ca608acb","x":-260,"y":-268,"width":250,"height":60,"color":"4","type":"text","text":" at 9 TEST ID 78 "},
+		{"id":"8a726fc110b5b26b","x":160,"y":-268,"width":250,"height":60,"color":"4","type":"text","text":"CN NETWORK PYQ"}
 	],
 	"edges":[
-		{"id":"92a4187aacb646d7","fromNode":"2e2ea8a2f3f58100","fromSide":"right","toNode":"fbee7590666a3e4c","toSide":"left","color":"4"},
-		{"id":"03dc6c500aa59117","fromNode":"fbee7590666a3e4c","fromSide":"right","toNode":"d0fd0601d1332e9c","toSide":"left"}
+		{"id":"b7411010ea25d279","fromNode":"af676d44ca608acb","fromSide":"right","toNode":"8a726fc110b5b26b","toSide":"left","color":"4"}
 	]
 }
