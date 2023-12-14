@@ -254,7 +254,9 @@
     "card/COA/p": 10,
     "mist": 20,
     "card/DLD/Combinational_Circuit/Ripple_Carry_Adder": 1,
-    "un": 21
+    "un": 21,
+    "card/DLD/Combinational_Circuit/Full_Adder": 2,
+    "card/DLD/Combinational_Circuit/Half_Adder": 3
   },
   "_version": 2
 }

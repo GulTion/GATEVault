@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Normal Task Template.md",
+                "file": "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Normal Task Template.md",
+                "file": "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Normal Task Template.md",
+                "file": "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Normal Task Template.md"
+                "file": "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/Normal Task Template.md"
+                "file": "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md"
               }
             }
           }
@@ -261,6 +261,14 @@
   },
   "active": "ad1ccca32ca54611",
   "lastOpenFiles": [
+    "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203446.png",
+    "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203423.png",
+    "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203204.png",
+    "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203135.png",
+    "Revision/Que/zealWorkBook/DLD/media",
+    "templates/Normal Task Template.md",
+    "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md",
+    "Revision/Que/zealWorkBook/DLD",
     "DialyStuff/2023-12-14.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214154730.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214154712.png",
@@ -270,9 +278,6 @@
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214150703.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214150656.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214131218.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214131212.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214130837.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214130829.png",
     "templates/Question Structure Template.md",
     "FlowChart.canvas",
     "Revision/Notes/ShortNotes/COA/Modes of Transfer.md",
@@ -295,8 +300,6 @@
     "Bhisandiya/OurLangBook/OurBook-index.md",
     "Revision/Notes/ShortNotes/DSA/BFS DFS properties.md",
     "Revision/Que/PYQ/DBMS/Normal Forms-pyq.md",
-    "Revision/Que/PYQ/CN/Network Layer Protocol.md",
-    "Revision/Notes/MicroNotes/APTI/Voca.md",
     "Revision/Que/zealWorkBook/MATH/media",
     "Revision/TS/GOTS/FULL/media",
     "Revision/TS/GOTS/FULL",
@@ -305,8 +308,6 @@
     "Revision/TS/ZealTS/COA/2022/media",
     "Revision/TS/ZealTS/COA/2022",
     "Revision/Que/PracticeSet/media/9. Intermediate Representation.pdf",
-    "Revision/Que/zealWorkBook/CD/media",
-    "Revision/Que/zealWorkBook/CD",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
