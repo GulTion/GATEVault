@@ -35,3 +35,22 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ![[Pasted image 20231214131218.png]] 
 
 
+#card/DLD/Combinational_Circuit/Ripple_Carry_Adder
+![[Pasted image 20231214150656.png]]
+?
+- #mistake/lack/TermAndConcept 
+![[Pasted image 20231214150703.png]] 
+
+#card/DLD/Sequential_Circuit
+![[Pasted image 20231214150844.png]]
+?
+- #mistake/lack/TermAndConcept 
+![[Pasted image 20231214150850.png]] 
+
+#card/COA/Cache_Memory/Effective_Access_Time 
+![[Pasted image 20231214154712.png]]
+?
+- #mistake/lack/TimeOut #mistake/lack/UnderstandingOfQuestion 
+![[Pasted image 20231214154730.png]] 
+
+
