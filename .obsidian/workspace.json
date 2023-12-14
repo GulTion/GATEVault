@@ -4,50 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d4f83e74a32258ff",
+        "id": "199d2e7d31cf4fce",
         "type": "tabs",
         "children": [
           {
-            "id": "cc081504fa4681c0",
+            "id": "e52a548e1111579b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Notes/ShortNotes/COA/Modes of Transfer.md",
+                "file": "DialyStuff/2023-12-14.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6228f1b446bd34a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fd50d27695d0825",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "FlowChart.canvas",
-                "viewState": {
-                  "x": -120.73484375000027,
-                  "y": -55.618281250000074,
-                  "zoom": 0
-                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.51147842407227
+    "width": 333.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -129,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-13.md",
+                "file": "DialyStuff/2023-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-13.md",
+                "file": "DialyStuff/2023-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-13.md"
+                "file": "DialyStuff/2023-12-14.md"
               }
             }
           },
@@ -221,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-13.md"
+                "file": "DialyStuff/2023-12-14.md"
               }
             }
           }
@@ -253,8 +225,12 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "6228f1b446bd34a5",
+  "active": "e52a548e1111579b",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-14.md",
+    "FlowChart.canvas",
+    "Revision/Notes/ShortNotes/COA/Modes of Transfer.md",
+    "Bhisandiya/Index.md",
     "DialyStuff/2023-12-13.md",
     "Revision/TS/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
     "Revision/TS/MadeEasyTS/media/Pasted image 20231213171523.png",
@@ -265,14 +241,12 @@
     "Revision/TS/MadeEasyTS/media/Pasted image 20231213162147.png",
     "Revision/TS/MadeEasyTS/media/Pasted image 20231213161904.png",
     "Revision/TS/GOTS/DM/GO Classes Test Series 2023 - Discrete Mathematics - Test 1.md",
-    "FlowChart.canvas",
     "Revision/Que/PYQ/OS/Process Synchronization - pyq.md",
     "Revision/Que/PYQ/OS/media/Pasted image 20231213153625.png",
     "Revision/Que/PYQ/OS/media/Pasted image 20231213153556.png",
     "Revision/TS/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/TS/ZealTS/DM/TEST ID-3 DM-3 2023.md",
     "Revision/TS/ZealTS/FULL/Test ID - 78 Mock - 4 - 2023.md",
-    "Revision/Notes/ShortNotes/COA/Modes of Transfer.md",
     "Revision/Notes/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md",
     "DialyStuff/2023-12-05.md",
     "Excalidraw/Drawing 2023-11-18 01.18.14.excalidraw.md",
@@ -291,8 +265,6 @@
     "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
     "Revision/Que/zealWorkBook/MATH/media",
     "DialyStuff/2023-12-12.md",
-    "DialyStuff/2023-12-11.md",
-    "DialyStuff/2023-12-10.md",
     "Revision/TS/GOTS/FULL/media",
     "Revision/TS/GOTS/FULL",
     "English",
