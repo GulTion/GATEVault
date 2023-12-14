@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-14.md",
+                "file": "DialyStuff/2023-12-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d5ceb4ad99dc4cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-12-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b73d38b525cc0a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20231215.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DialyStuff/2023-12-14.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,14 +189,6 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "5a6383856fdf9623",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
               "state": {}
             }
           },
@@ -192,13 +205,25 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "DialyStuff/2023-12-14.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
+      },
+      {
+        "id": "f071d5e04122db82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "280c1fd963d36bdb",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,7 +241,6 @@
       "audio-recorder:Start/stop recording": false,
       "dbfolder:Create a new database table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Timeline": false,
       "omnisearch:Omnisearch": false,
       "obsidian-projects:Open projects": false,
       "obsidian-spaced-repetition:Review flashcards": false,
@@ -226,8 +250,15 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "e37d470a0e2be2cc",
+  "active": "280c1fd963d36bdb",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20231215.md",
+    "DialyStuff/2023-12-15.md",
+    "Day Planners",
+    "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214231657.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214231650.png",
+    "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "DialyStuff/2023-12-14.md",
     "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214205425.png",
@@ -241,9 +272,6 @@
     "Revision/Que/zealWorkBook/DLD",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214154730.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214154712.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214150850.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214150844.png",
-    "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "templates/Question Structure Template.md",
     "FlowChart.canvas",
     "Revision/Notes/ShortNotes/COA/Modes of Transfer.md",
@@ -264,8 +292,6 @@
     "Revision/TS/GOTS/CN/GO Classes Test Series 2023 Computer Networks Test 1.md",
     "Revision/Que/PYQ/TOC/Context Free Language - pyq.md",
     "Bhisandiya/OurLangBook/OurBook-index.md",
-    "Revision/Notes/ShortNotes/DSA/BFS DFS properties.md",
-    "Revision/Que/PYQ/DBMS/Normal Forms-pyq.md",
     "Revision/Que/zealWorkBook/MATH/media",
     "Revision/TS/GOTS/FULL/media",
     "Revision/TS/GOTS/FULL",
@@ -273,7 +299,6 @@
     "Revision/Que/MixQue/DM/media",
     "Revision/TS/ZealTS/COA/2022/media",
     "Revision/TS/ZealTS/COA/2022",
-    "Revision/Que/PracticeSet/media/9. Intermediate Representation.pdf",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

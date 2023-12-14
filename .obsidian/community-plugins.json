@@ -7,7 +7,6 @@
   "obsidian-kanban",
   "cmdr",
   "obsidian-image-toolkit",
-  "obsidian-day-planner",
   "obsidian-dictionary-plugin",
   "omnisearch",
   "text-extractor",
@@ -23,5 +22,6 @@
   "emoji-shortcodes",
   "colored-tags",
   "note-refactor-obsidian",
-  "advanced-random-note"
+  "advanced-random-note",
+  "day-planner-og"
 ]

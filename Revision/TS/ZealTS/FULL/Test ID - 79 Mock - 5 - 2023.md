@@ -53,4 +53,9 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 - #mistake/lack/TimeOut #mistake/lack/UnderstandingOfQuestion
 ![[Pasted image 20231214154730.png]] <!--SR:!2023-12-16,2,150-->
 
+#card
+![[Pasted image 20231214231650.png]]
+?
+- #mistake/lack/TermAndConcept 
+![[Pasted image 20231214231657.png]] 
 
