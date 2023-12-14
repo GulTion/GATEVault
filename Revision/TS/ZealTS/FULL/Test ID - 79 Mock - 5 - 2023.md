@@ -21,7 +21,17 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ![[Pasted image 20231214110609.png]] 
 
 
+#card/COA/pipeline/Branch_hazard 
+![[Pasted image 20231214130829.png]]
+?
+- #mistake/lack/UnderstandingOfQuestion 
+![[Pasted image 20231214130837.png]] 
 
-
+#card/COA/Cache_Memory/Effective_Access_Time 
+![[Pasted image 20231214131212.png]]
+?
+- #mistake/lack/FormulaError i didn't consider 60% of instruction for I-cache
+- #mistake/lack/TimeOut taken 7min
+![[Pasted image 20231214131218.png]] 
 
 

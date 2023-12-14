@@ -250,7 +250,9 @@
     "card/CN/Tr": 10,
     "card/CN/Transport_Layer/Con": 1,
     "card/CN/Transport_Layer/Congestion": 2,
-    "card/CN/cont": 11
+    "card/CN/cont": 11,
+    "card/COA/p": 10,
+    "mist": 20
   },
   "_version": 2
 }
