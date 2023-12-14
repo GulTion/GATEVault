@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "199d2e7d31cf4fce",
+        "id": "cdd41951fb6fed0f",
         "type": "tabs",
         "children": [
           {
-            "id": "e52a548e1111579b",
+            "id": "700ef34272337aab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "217d9a8e125ca81d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-14.md",
+                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-14.md",
+                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-14.md"
+                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md"
               }
             }
           },
@@ -193,15 +205,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-14.md"
+                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,9 +238,15 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "e52a548e1111579b",
+  "active": "700ef34272337aab",
   "lastOpenFiles": [
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214110609.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214110604.png",
     "DialyStuff/2023-12-14.md",
+    "templates/Question Structure Template.md",
+    "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214105300.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214105119.png",
     "FlowChart.canvas",
     "Revision/Notes/ShortNotes/COA/Modes of Transfer.md",
     "Bhisandiya/Index.md",
@@ -242,8 +261,6 @@
     "Revision/TS/MadeEasyTS/media/Pasted image 20231213161904.png",
     "Revision/TS/GOTS/DM/GO Classes Test Series 2023 - Discrete Mathematics - Test 1.md",
     "Revision/Que/PYQ/OS/Process Synchronization - pyq.md",
-    "Revision/Que/PYQ/OS/media/Pasted image 20231213153625.png",
-    "Revision/Que/PYQ/OS/media/Pasted image 20231213153556.png",
     "Revision/TS/ZealTS/DSA/TEST ID-9  DSA-1.md",
     "Revision/TS/ZealTS/DM/TEST ID-3 DM-3 2023.md",
     "Revision/TS/ZealTS/FULL/Test ID - 78 Mock - 4 - 2023.md",
@@ -260,11 +277,7 @@
     "Revision/Que/PYQ/DBMS/Normal Forms-pyq.md",
     "Revision/Que/PYQ/CN/Network Layer Protocol.md",
     "Revision/Notes/MicroNotes/APTI/Voca.md",
-    "Revision/Que/PYQ/CN/media/Pasted image 20231213131713.png",
-    "Revision/Que/zealWorkBook/MATH/Permutation and Combination.md",
-    "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
     "Revision/Que/zealWorkBook/MATH/media",
-    "DialyStuff/2023-12-12.md",
     "Revision/TS/GOTS/FULL/media",
     "Revision/TS/GOTS/FULL",
     "English",

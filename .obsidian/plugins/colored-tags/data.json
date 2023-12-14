@@ -246,7 +246,11 @@
     "card/DSA/Tree/Tra": 1,
     "card/DSA/Tree/Traversal": 2,
     "card/DSA/Hash": 11,
-    "card/DSA/HashTable": 12
+    "card/DSA/HashTable": 12,
+    "card/CN/Tr": 10,
+    "card/CN/Transport_Layer/Con": 1,
+    "card/CN/Transport_Layer/Congestion": 2,
+    "card/CN/cont": 11
   },
   "_version": 2
 }
