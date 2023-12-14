@@ -30,9 +30,9 @@ mistake
 #card/CN/MacLayer/Pure_Aloha
 ![[Pasted image 20231213113630.png]]
 ?
-mistake 
+mistake
 - #mistake
-![[Pasted image 20231213113636.png]] 
+![[Pasted image 20231213113636.png]] <!--SR:!2023-12-16,2,156-->
 
 #card/CN/DataLinkLayer/FlowControl/SelctiveRepeat
 ![[Pasted image 20231213114158.png]]
@@ -41,10 +41,10 @@ mistake
 - #mistake/lack/TermAndConcept
 ![[Pasted image 20231213114207.png]] <!--SR:!2023-12-15,2,150-->
 
-#card/CN/MacLayer/CSMA_CD 
+#card/CN/MacLayer/CSMA_CD
 ![[Pasted image 20231213114745.png]]
 ?
-mistake 
-- #mistake/lack/TermAndConcept 
-![[Pasted image 20231213114751.png]] 
+mistake
+- #mistake/lack/TermAndConcept
+![[Pasted image 20231213114751.png]] <!--SR:!2023-12-16,2,156-->
 

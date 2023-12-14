@@ -13,12 +13,12 @@ completed: true
 ![[Pasted image 20231030144316.png]]::A,C ![[Pasted image 20231030144359.png]] <!--SR:!2023-12-19,6,250-->
 
 #card/CN/NetworkLayer/SuperNetting
-#star/⭐⭐ 
+#star/⭐⭐
 ![[Pasted image 20231213123848.png]]
 ?
-mistake 
-- #mistake/lack/ImportantPoint 
-B,D ![[Pasted image 20231213123957.png]]![[Pasted image 20231213124009.png]]
+mistake
+- #mistake/lack/ImportantPoint
+B,D ![[Pasted image 20231213123957.png]]![[Pasted image 20231213124009.png]] <!--SR:!2023-12-17,3,253-->
 
 #card/CN/NetworkLayer/SuperNetting
 ![[Pasted image 20231030150411.png]]Q 8
@@ -71,7 +71,7 @@ C![[Pasted image 20231102181325.png]] <!--SR:!2024-03-21,100,298-->
 #card/CN/ApplicationLayer/DNS
 ![[Pasted image 20231102190240.png]]
 ?
-C![[Pasted image 20231102190342.png]] <!--SR:!2023-12-14,23,275-->
+C![[Pasted image 20231102190342.png]] <!--SR:!2024-03-10,87,295-->
 
 #card/CN/NetworkLayer/SubNetting
 ![[Pasted image 20231102190713.png]]

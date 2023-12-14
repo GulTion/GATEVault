@@ -12,13 +12,13 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ![[Pasted image 20231214105119.png]]
 ?
 - #mistake/lack/TermAndConcept forget that, we must add 1 RTT for TCP connection as well, but, i didn't
-![[Pasted image 20231214105300.png]]
+![[Pasted image 20231214105300.png]] <!--SR:!2023-12-16,2,150-->
 
-#card/CN/Transport_Layer/Congestion 
+#card/CN/Transport_Layer/Congestion
 ![[Pasted image 20231214110604.png]]
 ?
 - #mistake/silly/UnitConversion 😢
-![[Pasted image 20231214110609.png]] 
+![[Pasted image 20231214110609.png]] <!--SR:!2023-12-16,2,150-->
 
 
 #card/COA/pipeline/Branch_hazard 

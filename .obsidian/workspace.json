@@ -8,51 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "700ef34272337aab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e37d470a0e2be2cc",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
               "state": {}
             }
-          },
-          {
-            "id": "217d9a8e125ca81d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad1ccca32ca54611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 266.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -134,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -259,25 +216,24 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "ad1ccca32ca54611",
+  "active": "e37d470a0e2be2cc",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-14.md",
+    "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md",
+    "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214205425.png",
+    "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214205412.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203446.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203423.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203204.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203135.png",
     "Revision/Que/zealWorkBook/DLD/media",
     "templates/Normal Task Template.md",
-    "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md",
     "Revision/Que/zealWorkBook/DLD",
-    "DialyStuff/2023-12-14.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214154730.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214154712.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214150850.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214150844.png",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214150703.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214150656.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214131218.png",
     "templates/Question Structure Template.md",
     "FlowChart.canvas",
     "Revision/Notes/ShortNotes/COA/Modes of Transfer.md",
