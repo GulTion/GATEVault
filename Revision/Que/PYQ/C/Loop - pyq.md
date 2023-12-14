@@ -21,7 +21,7 @@ src: https://practicepaper.in/gate-cse/loop?page_no=1
 
 ![[Pasted image 20231202132929.png]]:: D![[Pasted image 20231202132944.png]] <!--SR:!2023-12-25,12,202-->
 
-![[Pasted image 20231202134147.png]]::A ![[Pasted image 20231202134236.png]] <!--SR:!2023-12-14,6,182-->
+![[Pasted image 20231202134147.png]]::A ![[Pasted image 20231202134236.png]] <!--SR:!2023-12-29,15,202-->
 
 ![[Pasted image 20231202135539.png]]::![[Pasted image 20231202135549.png]] <!--SR:!2023-12-16,4,170-->
 
