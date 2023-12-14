@@ -9,7 +9,7 @@ src: https://practicepaper.in/gate-cse/sql
 ---
 #card/DBMS/sql 
 
-![[Pasted image 20231114155332.png]]::![[Pasted image 20231114155414.png]] <!--SR:!2023-12-14,2,152-->
+![[Pasted image 20231114155332.png]]::![[Pasted image 20231114155414.png]] <!--SR:!2023-12-18,4,172-->
 
 ![[Pasted image 20231114164002.png]]::2 <!--SR:!2023-12-16,4,170-->
 

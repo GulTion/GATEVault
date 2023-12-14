@@ -21,18 +21,18 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ![[Pasted image 20231214110609.png]] <!--SR:!2023-12-16,2,150-->
 
 
-#card/COA/pipeline/Branch_hazard 
+#card/COA/pipeline/Branch_hazard
 ![[Pasted image 20231214130829.png]]
 ?
-- #mistake/lack/UnderstandingOfQuestion 
-![[Pasted image 20231214130837.png]] 
+- #mistake/lack/UnderstandingOfQuestion
+![[Pasted image 20231214130837.png]] <!--SR:!2023-12-16,2,150-->
 
-#card/COA/Cache_Memory/Effective_Access_Time 
+#card/COA/Cache_Memory/Effective_Access_Time
 ![[Pasted image 20231214131212.png]]
 ?
 - #mistake/lack/FormulaError i didn't consider 60% of instruction for I-cache
 - #mistake/lack/TimeOut taken 7min
-![[Pasted image 20231214131218.png]] 
+![[Pasted image 20231214131218.png]] <!--SR:!2023-12-16,2,150-->
 
 
 #card/DLD/Combinational_Circuit/Ripple_Carry_Adder
@@ -47,10 +47,10 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 - #mistake/lack/TermAndConcept 
 ![[Pasted image 20231214150850.png]] 
 
-#card/COA/Cache_Memory/Effective_Access_Time 
+#card/COA/Cache_Memory/Effective_Access_Time
 ![[Pasted image 20231214154712.png]]
 ?
-- #mistake/lack/TimeOut #mistake/lack/UnderstandingOfQuestion 
-![[Pasted image 20231214154730.png]] 
+- #mistake/lack/TimeOut #mistake/lack/UnderstandingOfQuestion
+![[Pasted image 20231214154730.png]] <!--SR:!2023-12-16,2,150-->
 
 

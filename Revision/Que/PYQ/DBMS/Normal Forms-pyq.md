@@ -14,7 +14,7 @@ statment about the prime attribute![[Pasted image 20231007214323.png]]::![[Paste
 Check BCNF from the statement condition![[Pasted image 20231008095838.png]]::![[Pasted image 20231008095924.png]] <!--SR:!2024-02-02,62,270-->
 
 
-lossless join and dependecny preserving![[Pasted image 20231028231215.png]]::![[Pasted image 20231008101353.png]] <!--SR:!2023-12-14,33,290-->
+lossless join and dependecny preserving![[Pasted image 20231028231215.png]]::![[Pasted image 20231008101353.png]] <!--SR:!2024-04-24,132,310-->
 
 
 #today FD and MVD ![[Pasted image 20231008102802.png]]::![[Pasted image 20231008102813.png]]

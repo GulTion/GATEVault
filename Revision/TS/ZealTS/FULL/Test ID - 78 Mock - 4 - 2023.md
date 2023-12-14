@@ -20,12 +20,12 @@ mistake
 - #mistake/lack/TermAndConcept
 ![[Pasted image 20231213100525.png]] <!--SR:!2023-12-15,2,150-->
 
-#card/COA/Cache_Memory/Hit_Miss_Ratio/ #star/⭐⭐ 
+#card/COA/Cache_Memory/Hit_Miss_Ratio #star/⭐⭐
 ![[Pasted image 20231213100645.png]]
 ?
-mistake 
-- #mistake/lack/TimeOut #mistake/lack/ShortCutMethod 
-![[Pasted image 20231213100654.png]] 
+mistake
+- #mistake/lack/TimeOut #mistake/lack/ShortCutMethod
+![[Pasted image 20231213100654.png]] <!--SR:!2023-12-16,2,156-->
 
 #card/CN/MacLayer/Pure_Aloha
 ![[Pasted image 20231213113630.png]]
