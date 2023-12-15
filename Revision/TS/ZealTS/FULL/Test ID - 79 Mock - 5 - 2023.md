@@ -56,6 +56,6 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 #card
 ![[Pasted image 20231214231650.png]]
 ?
-- #mistake/lack/TermAndConcept 
-![[Pasted image 20231214231657.png]] 
+- #mistake/lack/TermAndConcept
+![[Pasted image 20231214231657.png]] <!--SR:!2023-12-17,2,158-->
 

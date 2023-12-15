@@ -7,7 +7,7 @@ atQ: 0
 ---
 #card/COA
 
-![[Pasted image 20231025223548.png]]::![[Pasted image 20231025223601.png]] <!--SR:!2023-12-15,34,270-->
+![[Pasted image 20231025223548.png]]::![[Pasted image 20231025223601.png]] <!--SR:!2024-04-20,127,290-->
 
 ![[Pasted image 20231025224149.png]]::![[Pasted image 20231025224208.png]] <!--SR:!2023-12-23,41,290-->
 

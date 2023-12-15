@@ -9,7 +9,7 @@ status: acquiring
 #card/CN/MacLayer
 
 # Pure Aloha 
-![[Screenshot_2023_1021_153423.png]]::10.304 <!--SR:!2023-12-15,33,270-->
+![[Screenshot_2023_1021_153423.png]]::10.304 <!--SR:!2024-04-16,123,290-->
 
 # Slotted Aloha
 ![[Pasted image 20231026142944.png]]::C, this method for first time succeed![[Pasted image 20231026143016.png]] <!--SR:!2024-01-28,68,310-->
@@ -39,7 +39,7 @@ status: acquiring
 
  <!--SR:!2023-11-06,3,262-->
 
-![[Pasted image 20231103202943.png]]::64![[Pasted image 20231103203001.png]] <!--SR:!2023-12-15,24,280-->
+![[Pasted image 20231103202943.png]]::64![[Pasted image 20231103203001.png]] <!--SR:!2024-03-17,93,300-->
 
 
 # Manchester Encoding

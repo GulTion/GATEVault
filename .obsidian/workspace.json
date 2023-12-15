@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e032ffb7a88cb4ce",
+        "id": "7269a41afa2ec332",
         "type": "tabs",
         "children": [
           {
-            "id": "2d68741a8f4cd17c",
+            "id": "faf98d4ee8565db6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules_at_First.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88e4b4a9bc0022ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Demo.md",
+                "file": "Revision/Notes/ShortNotes/DSA/Type of Edges in DFS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#card/MATH/Calculus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -114,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demo.md",
+                "file": "Revision/Notes/ShortNotes/DSA/Type of Edges in DFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demo.md",
+                "file": "Revision/Notes/ShortNotes/DSA/Type of Edges in DFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Demo.md"
+                "file": "Revision/Notes/ShortNotes/DSA/Type of Edges in DFS.md"
               }
             }
           },
@@ -198,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demo.md"
+                "file": "Revision/Notes/ShortNotes/DSA/Type of Edges in DFS.md"
               }
             }
           },
@@ -238,55 +227,55 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "88e4b4a9bc0022ec",
+  "active": "faf98d4ee8565db6",
   "lastOpenFiles": [
+    "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
+    "Revision/Notes/ShortNotes/CN/ICMP - GateOMedia.md",
+    "Revision/Que/PracticeSet/Expression Analysis.md",
+    "Revision/Notes/ShortNotes/COA/DMA.md",
+    "Revision/Que/PracticeSet/Referential Constraint - practice.md",
+    "Revision/Que/PracticeSet/media/Referential Constraint.pdf",
+    "DialyStuff/2023-12-15.md",
+    "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+    "templates/Normal Task Template.md",
+    "Rules_at_First.md",
+    "TimeTable.md",
+    "FlowChart.canvas",
+    "DialyStuff/2023-10-11.md",
+    "DaskBoard Back.md",
+    "Revision/TS/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
+    "templates/Question Structure Template.md",
     "Demo.sync-conflict-20231215-185152-B6HVX6C.md",
     "Demo.sync-conflict-20231215-185134-6DIXJSL.md",
-    "Demo.sync-conflict-20231215-185114-6DIXJSL.md",
-    "Rules_at_First.md",
     "Demo.md",
-    "TimeTable.md",
+    "Demo.sync-conflict-20231215-185114-6DIXJSL.md",
+    "templates/dailyNote Template..md",
+    "templates/dailyNote Template.md",
     "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231215150035.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231215145654.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231215145020.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231215144955.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231215144943.png",
-    "DialyStuff/2023-12-15.md",
     "DialyStuff/2023-12-14.md",
     "English/Phrases.md",
     "Untitled 1.md",
     "20201103.md",
     "stignore",
-    "FlowChart.canvas",
     "DialyStuff/2023-12-08.md",
-    "DialyStuff/2023-12-06.md",
-    "DialyStuff/2023-12-01.md",
-    "DialyStuff/2023-11-30.md",
-    "DialyStuff/2023-12-02.md",
-    "DialyStuff/2023-12-03.md",
-    "templates/Normal Task Template.md",
-    "Day Planners/Day Planner-20231215.md",
     "Day Planners",
-    "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214231657.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214231650.png",
-    "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
-    "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214205425.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214205412.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203446.png",
     "Revision/Que/zealWorkBook/DLD/media",
     "Revision/Que/zealWorkBook/DLD",
-    "templates/Question Structure Template.md",
-    "Revision/Notes/ShortNotes/COA/Modes of Transfer.md",
-    "Bhisandiya/Index.md",
     "Revision/Que/zealWorkBook/MATH/media",
     "Revision/TS/GOTS/FULL/media",
     "Revision/TS/GOTS/FULL",
     "English",
     "Revision/Que/MixQue/DM/media",
-    "Revision/TS/ZealTS/COA/2022/media",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

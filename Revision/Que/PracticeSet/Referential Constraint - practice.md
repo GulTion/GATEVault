@@ -1,9 +1,9 @@
 ---
 subject: DBMS
 type: Practice
-sr-due: 2023-12-06
-sr-interval: 2
-sr-ease: 150
+sr-due: 2024-01-07
+sr-interval: 23
+sr-ease: 170
 ---
 #note/DBMS
 ![[Referential Constraint.pdf]]

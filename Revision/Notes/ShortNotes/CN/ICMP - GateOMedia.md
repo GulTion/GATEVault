@@ -2,9 +2,9 @@
 subject: CN
 type: ShortNotes
 src: GateOMedia
-sr-due: 2023-12-11
-sr-interval: 12
-sr-ease: 150
+sr-due: 2024-01-19
+sr-interval: 35
+sr-ease: 170
 ---
 #note/CN
 ![[Pasted image 20231113230708.png]]

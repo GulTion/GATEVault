@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demo.md",
+                "file": "Bhisandiya/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Demo.md",
+            "file": "Bhisandiya/Index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Demo.md",
+            "file": "Bhisandiya/Index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -193,7 +193,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Demo.md"
+            "file": "Bhisandiya/Index.md"
           }
         }
       },
@@ -205,8 +205,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 3
+    ]
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,13 +228,18 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "73cb8939be768d1a",
+  "active": "2803188bd8c0f921",
   "lastOpenFiles": [
+    "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md",
+    "TimeTable.md",
+    "templates/dailyNote Template.md",
+    "templates/dailyNote Template..md",
+    "templates/dailyNote Template.sync-conflict-20231215-185946-6DIXJSL.md",
+    "Demo.md",
     "DialyStuff/2023-12-15.md",
     "Demo.sync-conflict-20231215-185152-B6HVX6C.md",
     "Demo.sync-conflict-20231215-185134-6DIXJSL.md",
     "Demo.sync-conflict-20231215-185114-6DIXJSL.md",
-    "TimeTable.md",
     "Untitled 1.md",
     "Rules_at_First.md",
     "FlowChart.canvas",
@@ -253,11 +257,7 @@
     "/PYQRevision/CD/Parser/Untitled.md",
     "MESHORT Notes Revision/C.md",
     "Untitled.md",
-    "shortNotesList.md",
-    "2023-09-15.md",
-    "2023-09-14.md",
     "media/Pasted image 20230923112915.png",
-    "/media/Pasted image 20230923112915.png",
-    "/Untitled.md"
+    "/media/Pasted image 20230923112915.png"
   ]
 }

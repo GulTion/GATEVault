@@ -1,7 +1,7 @@
 {
-  "chroma": 16,
-  "lightness": 87,
-  "palette": 8,
+  "chroma": 32,
+  "lightness": 100,
+  "palette": 4,
   "seed": 0,
   "knownTags": {
     "note": 1,

@@ -1,9 +1,9 @@
 ---
 type: ShortNotes
 subject: COA
-sr-due: 2023-12-11
-sr-interval: 2
-sr-ease: 150
+sr-due: 2023-12-28
+sr-interval: 13
+sr-ease: 170
 ---
 #note
 ![Untitled](Revision/media/Notes%20Revision/media/Untitled%2013.png)
