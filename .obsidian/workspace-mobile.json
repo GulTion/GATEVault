@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-15.md",
+                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DialyStuff/2023-12-15.md",
+            "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DialyStuff/2023-12-15.md",
+            "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -193,7 +193,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "DialyStuff/2023-12-15.md"
+            "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md"
           }
         }
       },
@@ -231,9 +231,9 @@
   },
   "active": "2803188bd8c0f921",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-15.md",
     "TimeTable.md",
     "Untitled 1.md",
-    "DialyStuff/2023-12-15.md",
     "Rules_at_First.md",
     "FlowChart.canvas",
     "Revision/PYQRevision/COA/COA.md",
