@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/PYQRevision/COA/Number Syst!em.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,6 +140,16 @@
           "type": "mk-file-view",
           "state": {}
         }
+      },
+      {
+        "id": "4907a2b0eea2de59",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -154,7 +164,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Revision/PYQRevision/COA/Number Syst!em.md",
+            "file": "Untitled 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,7 +181,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Revision/PYQRevision/COA/Number Syst!em.md",
+            "file": "Untitled 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -183,7 +193,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Revision/PYQRevision/COA/Number Syst!em.md"
+            "file": "Untitled 1.md"
           }
         }
       },
@@ -194,6 +204,14 @@
           "type": "full-calendar-sidebar-view",
           "state": {}
         }
+      },
+      {
+        "id": "324edb2ee56c326f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
       }
     ],
     "currentTab": 3
@@ -202,20 +220,26 @@
     "hiddenItems": {
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "dbfolder:Create a new database table": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "dbfolder:Create a new database table": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Timeline": false,
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
   "active": "2803188bd8c0f921",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-15.md",
     "Revision/PYQRevision/COA/COA.md",
     "Revision/PYQRevision/COA/Number Syst!em.md",
     "Revision/PYQRevision/PYQ.md",

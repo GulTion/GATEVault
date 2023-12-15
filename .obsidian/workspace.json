@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cdd41951fb6fed0f",
+        "id": "c383104315c2b60e",
         "type": "tabs",
         "children": [
           {
-            "id": "e37d470a0e2be2cc",
+            "id": "f9328bd35f629f1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DialyStuff/2023-12-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d5ceb4ad99dc4cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b73d38b525cc0a28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/Day Planner-20231215.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DialyStuff/2023-12-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DialyStuff/2023-12-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,22 +154,6 @@
             }
           },
           {
-            "id": "f04a4b71d95ce53a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "51eb1b79b28a577b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "dc91799fe505ea6a",
             "type": "leaf",
             "state": {
@@ -205,25 +166,39 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2023-12-15.md"
+              }
             }
-          }
-        ],
-        "currentTab": 7
-      },
-      {
-        "id": "f071d5e04122db82",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "280c1fd963d36bdb",
+            "id": "017c9485fa5146ad",
             "type": "leaf",
             "state": {
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "7cb3577752eb4a1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DialyStuff/2023-12-15.md"
+              }
+            }
+          },
+          {
+            "id": "4babd50fd5c7bb25",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -246,20 +221,28 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "advanced-random-note:Open random note modal": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "280c1fd963d36bdb",
+  "active": "f9328bd35f629f1f",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20231215.md",
+    "DialyStuff/2023-12-14.md",
+    "DialyStuff/2023-12-08.md",
+    "DialyStuff/2023-12-06.md",
+    "DialyStuff/2023-12-01.md",
+    "DialyStuff/2023-11-30.md",
+    "DialyStuff/2023-12-02.md",
+    "DialyStuff/2023-12-03.md",
+    "templates/Normal Task Template.md",
     "DialyStuff/2023-12-15.md",
+    "20201103.md",
+    "Day Planners/Day Planner-20231215.md",
     "Day Planners",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214231657.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214231650.png",
     "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
-    "DialyStuff/2023-12-14.md",
     "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214205425.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214205412.png",
@@ -268,7 +251,6 @@
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203204.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203135.png",
     "Revision/Que/zealWorkBook/DLD/media",
-    "templates/Normal Task Template.md",
     "Revision/Que/zealWorkBook/DLD",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214154730.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214154712.png",
@@ -285,13 +267,6 @@
     "Revision/TS/ZealTS/FULL/Test ID - 78 Mock - 4 - 2023.md",
     "Revision/Notes/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md",
     "DialyStuff/2023-12-05.md",
-    "Excalidraw/Drawing 2023-11-18 01.18.14.excalidraw.md",
-    "Revision/Que/zealWorkBook/DSA/Program design strategy.md",
-    "Revision/Que/zealWorkBook/CN/TCP.md",
-    "Revision/Notes/ShortNotes/MATH/LU decomosition.md",
-    "Revision/TS/GOTS/CN/GO Classes Test Series 2023 Computer Networks Test 1.md",
-    "Revision/Que/PYQ/TOC/Context Free Language - pyq.md",
-    "Bhisandiya/OurLangBook/OurBook-index.md",
     "Revision/Que/zealWorkBook/MATH/media",
     "Revision/TS/GOTS/FULL/media",
     "Revision/TS/GOTS/FULL",

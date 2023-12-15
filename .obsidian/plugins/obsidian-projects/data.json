@@ -331,7 +331,7 @@
               {
                 "field": "type",
                 "operator": "is",
-                "enabled": true,
+                "enabled": false,
                 "value": "PYQ"
               }
             ]

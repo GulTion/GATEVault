@@ -257,7 +257,12 @@
     "un": 21,
     "card/DLD/Combinational_Circuit/Full_Adder": 2,
     "card/DLD/Combinational_Circuit/Half_Adder": 3,
-    "card/DLD/Combinational_Circuit/Priority_Encoders": 4
+    "card/DLD/Combinational_Circuit/Priority_Encoders": 4,
+    "article": 22,
+    "sql": 23,
+    "relati": 24,
+    "card/re": 17,
+    "has": 25
   },
   "_version": 2
 }
