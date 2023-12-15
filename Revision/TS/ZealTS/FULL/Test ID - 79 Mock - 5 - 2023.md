@@ -59,3 +59,40 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 - #mistake/lack/TermAndConcept
 ![[Pasted image 20231214231657.png]] <!--SR:!2023-12-17,2,158-->
 
+#card/DSA/HashTable 
+22 ![[Pasted image 20231216002043.png]]
+?
+- #mistake
+![[Pasted image 20231216002059.png]] 
+
+#card/DBMS/Transaction/CheckPoint
+24
+![[Pasted image 20231216002211.png]]
+?
+- #mistake/lack/TermAndConcept 
+![[Pasted image 20231216002217.png]] 
+
+#card/DSA/Greedy/Dijkastra 
+![[Pasted image 20231216005919.png]]
+?
+- #mistake
+![[Pasted image 20231216005926.png]] 
+
+#card/DM/graph_theory/Chromatic_Number
+![[Pasted image 20231216010001.png]]
+?
+- #mistake
+![[Pasted image 20231216010008.png]] 
+
+#card/DM/graph_theory/Chromatic_Number 
+![[Pasted image 20231216010148.png]]
+?
+- #mistake
+![[Pasted image 20231216010208.png]]![[Pasted image 20231216010155.png]]
+
+#card/DM/set_Theory/Equivalence_Class 
+![[Pasted image 20231216010306.png]]
+?
+- #mistake/silly/CrossCheckingOfOption 
+![[Pasted image 20231216010319.png]] 
+

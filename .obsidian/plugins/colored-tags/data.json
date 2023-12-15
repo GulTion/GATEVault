@@ -263,7 +263,12 @@
     "relati": 24,
     "card/re": 17,
     "has": 25,
-    "card/DLD/S": 7
+    "card/DLD/S": 7,
+    "card/DBMS/Transaction/CheckPoint": 2,
+    "card/gra": 18,
+    "card/DM/graph_theory/Chromatic_Number": 2,
+    "card/DM/Se": 8,
+    "card/DM/set_Theory/Equivalence_Class": 4
   },
   "_version": 2
 }
