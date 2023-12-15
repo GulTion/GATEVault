@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Phrases.md",
+                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Phrases.md",
+                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Phrases.md",
+                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "English/Phrases.md"
+                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Phrases.md"
+                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -227,13 +227,19 @@
   },
   "active": "2d68741a8f4cd17c",
   "lastOpenFiles": [
+    "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231215145654.png",
+    "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231215145020.png",
+    "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231215144955.png",
+    "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231215144943.png",
     "DialyStuff/2023-12-15.md",
+    "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
+    "DialyStuff/2023-12-14.md",
+    "English/Phrases.md",
     "Untitled 1.md",
     "20201103.md",
     "stignore",
     "FlowChart.canvas",
     "Untitled.md",
-    "DialyStuff/2023-12-14.md",
     "DialyStuff/2023-12-08.md",
     "DialyStuff/2023-12-06.md",
     "DialyStuff/2023-12-01.md",
@@ -253,11 +259,8 @@
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203446.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203423.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203204.png",
-    "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203135.png",
     "Revision/Que/zealWorkBook/DLD/media",
     "Revision/Que/zealWorkBook/DLD",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214154730.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231214154712.png",
     "templates/Question Structure Template.md",
     "Revision/Notes/ShortNotes/COA/Modes of Transfer.md",
     "Bhisandiya/Index.md",
@@ -265,8 +268,6 @@
     "Revision/TS/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
     "Revision/TS/GOTS/DM/GO Classes Test Series 2023 - Discrete Mathematics - Test 1.md",
     "Revision/Que/PYQ/OS/Process Synchronization - pyq.md",
-    "Revision/TS/ZealTS/DSA/TEST ID-9  DSA-1.md",
-    "Revision/TS/ZealTS/DM/TEST ID-3 DM-3 2023.md",
     "Revision/Que/zealWorkBook/MATH/media",
     "Revision/TS/GOTS/FULL/media",
     "Revision/TS/GOTS/FULL",
