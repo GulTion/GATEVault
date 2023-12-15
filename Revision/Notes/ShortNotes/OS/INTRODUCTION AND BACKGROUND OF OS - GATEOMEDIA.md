@@ -2,9 +2,9 @@
 type: ShortNotes
 subject: OS
 atQ: 0
-sr-due: 2023-12-08
-sr-interval: 17
-sr-ease: 189
+sr-due: 2024-02-18
+sr-interval: 65
+sr-ease: 209
 ---
 #note
 #card/OS/introduction
@@ -39,6 +39,7 @@ Short-term scheduler::![[Pasted image 20231021221119.png]] <!--SR:!2024-01-18,58
 - user address space,
 - files,
 - signal and
+- semaphore
 - signal handlers etc. <!--SR:!2023-11-24,3,230-->
 
 
@@ -51,3 +52,5 @@ Short-term scheduler::![[Pasted image 20231021221119.png]] <!--SR:!2024-01-18,58
 
 
 User level threads versus kernel level threads::![[Pasted image 20231021221810.png]] <!--SR:!2024-01-17,55,310-->
+
+![[Pasted image 20231215200908.png]]

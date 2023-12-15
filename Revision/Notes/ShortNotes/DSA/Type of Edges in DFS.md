@@ -2,9 +2,9 @@
 subject: DSA
 type: ShortNotes
 status: Revision
-sr-due: 2023-12-15
-sr-interval: 15
-sr-ease: 175
+sr-due: 2023-12-27
+sr-interval: 12
+sr-ease: 155
 ---
 #note
 
@@ -33,4 +33,3 @@ sr-ease: 175
 - DFS (undirected)
 	- Backward
 	- Tree
-
