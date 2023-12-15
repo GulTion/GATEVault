@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
+                "file": "Rules_at_First.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88e4b4a9bc0022ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
+                "file": "Demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
+                "file": "Demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md"
+                "file": "Demo.md"
               }
             }
           },
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md"
+                "file": "Demo.md"
               }
             }
           },
@@ -225,22 +238,27 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2d68741a8f4cd17c",
+  "active": "88e4b4a9bc0022ec",
   "lastOpenFiles": [
+    "Demo.sync-conflict-20231215-185152-B6HVX6C.md",
+    "Demo.sync-conflict-20231215-185134-6DIXJSL.md",
+    "Demo.sync-conflict-20231215-185114-6DIXJSL.md",
+    "Rules_at_First.md",
+    "Demo.md",
+    "TimeTable.md",
+    "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231215150035.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231215145654.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231215145020.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231215144955.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231215144943.png",
     "DialyStuff/2023-12-15.md",
-    "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
     "DialyStuff/2023-12-14.md",
     "English/Phrases.md",
     "Untitled 1.md",
     "20201103.md",
     "stignore",
     "FlowChart.canvas",
-    "Untitled.md",
     "DialyStuff/2023-12-08.md",
     "DialyStuff/2023-12-06.md",
     "DialyStuff/2023-12-01.md",
@@ -258,16 +276,11 @@
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214205425.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214205412.png",
     "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203446.png",
-    "Revision/Que/zealWorkBook/DLD/media/Pasted image 20231214203423.png",
     "Revision/Que/zealWorkBook/DLD/media",
     "Revision/Que/zealWorkBook/DLD",
     "templates/Question Structure Template.md",
     "Revision/Notes/ShortNotes/COA/Modes of Transfer.md",
     "Bhisandiya/Index.md",
-    "DialyStuff/2023-12-13.md",
-    "Revision/TS/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
-    "Revision/TS/GOTS/DM/GO Classes Test Series 2023 - Discrete Mathematics - Test 1.md",
-    "Revision/Que/PYQ/OS/Process Synchronization - pyq.md",
     "Revision/Que/zealWorkBook/MATH/media",
     "Revision/TS/GOTS/FULL/media",
     "Revision/TS/GOTS/FULL",

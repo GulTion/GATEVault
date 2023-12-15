@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
+                "file": "Demo.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
+            "file": "Demo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
+            "file": "Demo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -193,7 +193,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md"
+            "file": "Demo.md"
           }
         }
       },
@@ -229,9 +229,12 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "2803188bd8c0f921",
+  "active": "73cb8939be768d1a",
   "lastOpenFiles": [
     "DialyStuff/2023-12-15.md",
+    "Demo.sync-conflict-20231215-185152-B6HVX6C.md",
+    "Demo.sync-conflict-20231215-185134-6DIXJSL.md",
+    "Demo.sync-conflict-20231215-185114-6DIXJSL.md",
     "TimeTable.md",
     "Untitled 1.md",
     "Rules_at_First.md",
