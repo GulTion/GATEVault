@@ -460,7 +460,7 @@ Examples:
    2. Let's **catch up on** the emails after the long weekend.
    3. She spent the weekend **catching up on** her favorite TV shows.
    4. It's essential to **catch up on** sleep after a busy week.
-   5. I plan to **catch up on** my reading during the vacation? <!--SR:!2023-12-11,1,130-->
+   5. I plan to **catch up on** my reading during the vacation? <!--SR:!2023-12-16,1,130-->
 
 23.
 Definition: To complete a form or document by providing necessary information.

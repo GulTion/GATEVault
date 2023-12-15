@@ -13,5 +13,5 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "showInlineTitle": true,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": true
 }

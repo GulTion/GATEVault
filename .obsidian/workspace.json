@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c383104315c2b60e",
+        "id": "e032ffb7a88cb4ce",
         "type": "tabs",
         "children": [
           {
-            "id": "f9328bd35f629f1f",
+            "id": "2d68741a8f4cd17c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-15.md",
+                "file": "English/Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-15.md",
+                "file": "English/Phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-15.md",
+                "file": "English/Phrases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-15.md"
+                "file": "English/Phrases.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-15.md"
+                "file": "English/Phrases.md"
               }
             }
           },
@@ -225,13 +225,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f9328bd35f629f1f",
+  "active": "2d68741a8f4cd17c",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-15.md",
+    "Untitled 1.md",
+    "20201103.md",
     "stignore",
     "FlowChart.canvas",
-    "Untitled 1.md",
     "Untitled.md",
-    "DialyStuff/2023-12-15.md",
     "DialyStuff/2023-12-14.md",
     "DialyStuff/2023-12-08.md",
     "DialyStuff/2023-12-06.md",
@@ -240,7 +241,6 @@
     "DialyStuff/2023-12-02.md",
     "DialyStuff/2023-12-03.md",
     "templates/Normal Task Template.md",
-    "20201103.md",
     "Day Planners/Day Planner-20231215.md",
     "Day Planners",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
@@ -273,7 +273,6 @@
     "English",
     "Revision/Que/MixQue/DM/media",
     "Revision/TS/ZealTS/COA/2022/media",
-    "Revision/TS/ZealTS/COA/2022",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

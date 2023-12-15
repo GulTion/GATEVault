@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "DialyStuff/2023-12-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "DialyStuff/2023-12-15.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "DialyStuff/2023-12-15.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -193,16 +193,8 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled 1.md"
+            "file": "DialyStuff/2023-12-15.md"
           }
-        }
-      },
-      {
-        "id": "3443c465eac3346c",
-        "type": "leaf",
-        "state": {
-          "type": "full-calendar-sidebar-view",
-          "state": {}
         }
       },
       {

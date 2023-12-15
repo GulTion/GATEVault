@@ -8,7 +8,8 @@
   "showViewHeader": true,
   "enabledCssSnippets": [
     "imageCenter",
-    "Folder & File Icons"
+    "Folder & File Icons",
+    "Highlight Current paragraph"
   ],
   "textFontFamily": "Ubuntu",
   "interfaceFontFamily": ""
