@@ -20,6 +20,21 @@
             }
           },
           {
+            "id": "fd15290b1c009930",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "StateFull/DLD.canvas",
+                "viewState": {
+                  "x": 1138.418750000002,
+                  "y": -81.53984375,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
             "id": "e50fd2658fa68a81",
             "type": "leaf",
             "state": {
@@ -31,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card/EM/probability",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-16.md",
+                "file": "StateFull/DLD.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-16.md",
+                "file": "StateFull/DLD.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-16.md"
+                "file": "StateFull/DLD.canvas"
               }
             }
           },
@@ -197,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-16.md"
+                "file": "StateFull/DLD.canvas"
               }
             }
           },
@@ -210,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -237,8 +253,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5f07a43296c666d3",
+  "active": "fd15290b1c009930",
   "lastOpenFiles": [
+    "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
+    "StateFull/DLD.canvas",
+    "StateFull/Untitled.md",
+    "StateFull",
     "DialyStuff/2023-12-16.md",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "DialyStuff/2023-12-15.md",
@@ -274,9 +294,6 @@
     "Rules_at_First.md",
     "TimeTable.md",
     "DialyStuff/2023-10-11.md",
-    "DaskBoard Back.md",
-    "Revision/TS/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
-    "templates/Question Structure Template.md",
     "stignore",
     "Day Planners",
     "Revision/Que/zealWorkBook/DLD/media",
@@ -285,7 +302,6 @@
     "Revision/TS/GOTS/FULL/media",
     "Revision/TS/GOTS/FULL",
     "English",
-    "Revision/Que/MixQue/DM/media",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
