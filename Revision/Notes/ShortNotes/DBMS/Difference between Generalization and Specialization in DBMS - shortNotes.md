@@ -1,9 +1,9 @@
 ---
 subject: DBMS
 type: ShortNotes
-sr-due: 2023-12-16
-sr-interval: 1
-sr-ease: 130
+sr-due: 2023-12-18
+sr-interval: 2
+sr-ease: 150
 ---
 #note/DBMS
 Generalization and specialization are the **Enhanced Entity Relationship diagram** (EER-diagram)

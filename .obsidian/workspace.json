@@ -23,14 +23,11 @@
             "id": "fd15290b1c009930",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "StateFull/DLD.canvas",
-                "viewState": {
-                  "x": -35.90896911621166,
-                  "y": 120.55724365234384,
-                  "zoom": 0
-                }
+                "file": "Revision/Que/zealWorkBook/MATH/Calculus - ZealWorkBook.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -40,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
+                "file": "Revision/Que/PracticeSet/Intermediate Representation - workbook.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
+                "file": "Revision/Que/zealWorkBook/MATH/Calculus - ZealWorkBook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
+                "file": "Revision/Que/zealWorkBook/MATH/Calculus - ZealWorkBook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md"
+                "file": "Revision/Que/zealWorkBook/MATH/Calculus - ZealWorkBook.md"
               }
             }
           },
@@ -213,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md"
+                "file": "Revision/Que/zealWorkBook/MATH/Calculus - ZealWorkBook.md"
               }
             }
           },
@@ -253,13 +250,25 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "06eb726ddbbadb71",
+  "active": "fd15290b1c009930",
   "lastOpenFiles": [
     "StateFull/DLD.canvas",
-    "Revision/Que/PracticeSet/Sequential Circuit - PracticrSet.md",
-    "Revision/Que/PracticeSet/media/3. Sequential Circuit.pdf",
+    "Revision/Que/zealWorkBook/MATH/Calculus - ZealWorkBook.md",
     "DialyStuff/2023-12-16.md",
+    "Revision/Que/PracticeSet/Intermediate Representation - workbook.md",
+    "Revision/Notes/ShortNotes/DSA/BFS DFS properties.md",
+    "Revision/Notes/ShortNotes/CD/Parser CD notes.md",
+    "Revision/Que/PracticeSet/Sequential Circuit - PracticrSet.md",
+    "Revision/Notes/ShortNotes/DLD/carry look a head.md",
+    "Revision/Que/PracticeSet/Pigeon Hole Principle.md",
+    "Revision/Que/PracticeSet/media/13. Pigeon hole principle.pdf",
+    "Revision/Notes/MicroNotes/DLD/Invalid State in binary code representation.md",
+    "Revision/Notes/ShortNotes/DBMS/Difference between Generalization and Specialization in DBMS - shortNotes.md",
+    "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
+    "Revision/Notes/ShortNotes/CD/Introduction CD notes.md",
+    "Revision/Notes/ShortNotes/DSA/DAC - GateOmedia.md",
     "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
+    "Revision/Que/PracticeSet/media/3. Sequential Circuit.pdf",
     "StateFull/Untitled.md",
     "StateFull",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
@@ -278,30 +287,18 @@
     "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
     "FlowChart.canvas",
     "Revision/TS/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
-    "Revision/Notes/ShortNotes/DLD/carry look a head.md",
-    "Revision/Notes/ShortNotes/DBMS/Difference between Generalization and Specialization in DBMS - shortNotes.md",
     "Revision/Que/PracticeSet/Entity Relationship Model - practice.md",
-    "Revision/Notes/ShortNotes/CD/Introduction CD notes.md",
     "Revision/Notes/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md",
     "Revision/Que/PracticeSet/Input Output - note.md",
     "Revision/Notes/ShortNotes/DSA/Type of Edges in DFS.md",
     "Revision/Notes/MicroNotes/DLD/Flip Flops.md",
-    "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
-    "Revision/Notes/ShortNotes/CN/ICMP - GateOMedia.md",
-    "Revision/Que/PracticeSet/Expression Analysis.md",
-    "Revision/Notes/ShortNotes/COA/DMA.md",
-    "Revision/Que/PracticeSet/Referential Constraint - practice.md",
     "Revision/Que/PracticeSet/media/Referential Constraint.pdf",
-    "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
-    "Rules_at_First.md",
-    "TimeTable.md",
     "stignore",
     "Day Planners",
     "Revision/Que/zealWorkBook/DLD/media",
     "Revision/Que/zealWorkBook/DLD",
     "Revision/Que/zealWorkBook/MATH/media",
     "Revision/TS/GOTS/FULL/media",
-    "Revision/TS/GOTS/FULL",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"

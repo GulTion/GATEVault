@@ -1,6 +1,9 @@
 ---
 type: MicroNotes
 subject: DLD
+sr-due: 2023-12-17
+sr-interval: 1
+sr-ease: 130
 ---
 #note
 - **BCD Code**
