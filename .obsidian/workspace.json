@@ -27,8 +27,8 @@
               "state": {
                 "file": "StateFull/DLD.canvas",
                 "viewState": {
-                  "x": 1138.418750000002,
-                  "y": -81.53984375,
+                  "x": 859.216030883788,
+                  "y": 153.0055249023439,
                   "zoom": 0
                 }
               }
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StateFull/DLD.canvas",
+                "file": "DialyStuff/2023-12-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StateFull/DLD.canvas",
+                "file": "DialyStuff/2023-12-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "StateFull/DLD.canvas"
+                "file": "DialyStuff/2023-12-16.md"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StateFull/DLD.canvas"
+                "file": "DialyStuff/2023-12-16.md"
               }
             }
           },
@@ -253,13 +253,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "fd15290b1c009930",
+  "active": "e50fd2658fa68a81",
   "lastOpenFiles": [
-    "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
+    "DialyStuff/2023-12-16.md",
     "StateFull/DLD.canvas",
+    "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
     "StateFull/Untitled.md",
     "StateFull",
-    "DialyStuff/2023-12-16.md",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "DialyStuff/2023-12-15.md",
     "templates/Normal Task Template.md",
