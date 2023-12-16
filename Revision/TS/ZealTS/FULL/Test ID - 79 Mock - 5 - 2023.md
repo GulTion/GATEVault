@@ -1,7 +1,7 @@
 ---
 subject: FULL
 type: ZealTS
-atQ: 18
+atQ: 42
 endQ: 55
 status: acquiring
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=63bffdc7ea7189f77e2d84b2&test_id=1
