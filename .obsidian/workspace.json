@@ -23,9 +23,36 @@
             "id": "fd15290b1c009930",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "StateFull/DLD.canvas",
+                "viewState": {
+                  "x": 740.6119683837875,
+                  "y": 390.2136499023448,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "615fb2601489cae8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Revision/Que/zealWorkBook/MATH/Calculus - ZealWorkBook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff9c1f976b355873",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,9 +277,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "fd15290b1c009930",
+  "active": "615fb2601489cae8",
   "lastOpenFiles": [
+    "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231216203553.png",
+    "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231216203548.png",
+    "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231216203542.png",
+    "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231216200344.png",
+    "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231216200337.png",
+    "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231216195841.png",
+    "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231216195834.png",
     "StateFull/DLD.canvas",
+    "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "Revision/Que/zealWorkBook/MATH/Calculus - ZealWorkBook.md",
     "DialyStuff/2023-12-16.md",
     "Revision/Que/PracticeSet/Intermediate Representation - workbook.md",
@@ -271,19 +306,12 @@
     "Revision/Que/PracticeSet/media/3. Sequential Circuit.pdf",
     "StateFull/Untitled.md",
     "StateFull",
-    "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "DialyStuff/2023-12-15.md",
     "templates/Normal Task Template.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231216010319.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231216010309.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231216010306.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231216010301.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231216010225.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231216010208.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231216010155.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231216010148.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231216010008.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231216010001.png",
     "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2023).md",
     "FlowChart.canvas",
     "Revision/TS/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",

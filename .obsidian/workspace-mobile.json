@@ -20,11 +20,14 @@
             "id": "2803188bd8c0f921",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Bhisandiya/Index.md",
-                "mode": "source",
-                "source": false
+                "file": "StateFull/DLD.canvas",
+                "viewState": {
+                  "x": -437.67248259905415,
+                  "y": 147.67746411914078,
+                  "zoom": -0.5124858705526628
+                }
               }
             }
           }
@@ -164,7 +167,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bhisandiya/Index.md",
+            "file": "StateFull/DLD.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,7 +184,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Bhisandiya/Index.md",
+            "file": "StateFull/DLD.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -193,7 +196,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Bhisandiya/Index.md"
+            "file": "StateFull/DLD.canvas"
           }
         }
       },
@@ -230,6 +233,7 @@
   },
   "active": "2803188bd8c0f921",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-16.md",
     "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md",
     "TimeTable.md",
     "templates/dailyNote Template.md",
@@ -256,7 +260,6 @@
     "MESHORT Notes Revision/Untitled database.md",
     "/PYQRevision/CD/Parser/Untitled.md",
     "MESHORT Notes Revision/C.md",
-    "Untitled.md",
     "media/Pasted image 20230923112915.png",
     "/media/Pasted image 20230923112915.png"
   ]
