@@ -6,7 +6,6 @@ atQ: 67
 endQ: 85
 startQ: 1
 ---
-#silly/DSA/huffman_coding priorities of nodes while merging must be ascending order
 
 
 #card/DSA/program_design_strategy

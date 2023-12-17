@@ -1,7 +1,6 @@
 ---
 type: MicroNotes
 subject: COA
-atQ: 0
 sr-due: 2024-01-04
 sr-interval: 32
 sr-ease: 190
@@ -17,7 +16,7 @@ sr-ease: 190
 		432 = Z
 	3. add 1 in Z then u will get **n's complement**
 
-- #imp **self complementry**
+-  **self complementry**
 	- rule: ==add all value of MSB to LSB==
 		- e.g.: 8421 BCD code = 8+4+2+1 = 15
 		  this is not equal to 9 so not self complement
