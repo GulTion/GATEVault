@@ -1,9 +1,38 @@
+# 4 hr Daily Dose
+| MATHS **ODD**     | DM **EVEN**     |
+| ----------------- | --------------- |
+| 30 Linear Algebra | 40 Graph Theory |
+| 30 Probability    |                 |
+| 30 Combinatorics  |                 |
+| 30 Calculus       |                 |
+|                   |                 |
+
+- Aptitude
+	- 40 Data Interpretation
+	- 40 English
+	- 40 Numerical Analysis 
+
+# 4hr Practice Session
+- 40 CN
+- 40 COA
+- 40 DS &C
+- 20 **NAP**
+- 40 ALGO
+- 40 DBMS
+- 40 TOC
+  
 # TimeTable 
-- [ ] 9:00-10:00 DLD WORKBOOK
-- [ ] 11:00-12:00 ADA Test – 2
-- [ ] 10:00-11:00 ENGG MATH #card/EM/probability #card/MATH/linear_algebra #card/MATH/Calculus 
-- [ ] 11:00-12:00 #card/DBMS/Relational_Scheme #card/DBMS/sql 
-- [ ] 13:00 - 14:00 #card/DLD/Combinational_Circuit/Ripple_Carry_Adder 
-- [ ] 14:00 - 15:00 #card/DLD/Sequential_Circuit 
-- [ ] 15:00-16:00 #card/DSA/HashTable 
-- [ ] 20:20 - 20:50 #card/DLD/Combinational_Circuit/Full_Adder 
+- [ ] 08:00 - 08:30 #card/MATH/linear_algebra 
+- [ ] 08:30 - 09:00 #card/EM/probability 
+- [ ] 09:00 - 09:30 #card/DM/combintories 
+- [ ] 09:30 - 10:00 #card/MATH/Calculus 
+- [ ] 10:00 - 10:40 DI
+- [ ] 11:00 - 11:40 ENGLISH
+- [ ] 11:40 - 12:20 Numerical Analysis
+- [ ] 13:00 - 13:40 #card/CN 
+- [ ] 13:40 - 14:20 #card/COA 
+- [ ] 14:20 - 15:00 #card/DSA DS & C
+- [ ] 15:00 - 15:20 **NAP**
+- [ ] 15:20 - 16:00 #card/DSA ALGO
+- [ ] 16:00 - 16:40 #card/DBMS 
+- [ ] 16:40 - 17:20 #card/TOC 

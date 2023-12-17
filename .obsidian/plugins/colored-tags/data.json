@@ -280,7 +280,9 @@
     "card/DSA/Tree/MaxHeap": 3,
     "card/DSA/Tree/MaxHeap/Comparision": 1,
     "card/DSA/Asymtotic_Complexity/Run_Time": 1,
-    "card/M": 19
+    "card/M": 19,
+    "combin": 29,
+    "AL": 30
   },
   "_version": 2
 }

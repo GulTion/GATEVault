@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-16.md",
+                "file": "templates/Normal Task Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-16.md",
+                "file": "templates/Normal Task Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-16.md",
+                "file": "templates/Normal Task Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,20 +229,12 @@
             }
           },
           {
-            "id": "017c9485fa5146ad",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "7cb3577752eb4a1c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-16.md"
+                "file": "templates/Normal Task Template.md"
               }
             }
           },
@@ -260,12 +252,20 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-16.md"
+                "file": "templates/Normal Task Template.md"
               }
+            }
+          },
+          {
+            "id": "54cea90d36e9f72c",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -292,8 +292,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e920c9d081657eaa",
+  "active": "54cea90d36e9f72c",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-16.md",
+    "Revision/Notes/MicroNotes/DLD/Invalid State in binary code representation.md",
     "templates/Normal Task Template.md",
     "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
     "Revision/TS/ZealTS/MATH/TEST ID-41 Maths-1.md",
@@ -302,7 +304,6 @@
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231217214843.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231217214833.png",
     "Revision/TS/ZealTS/MATH/media",
-    "DialyStuff/2023-12-16.md",
     "Revision/TS/ZealTS/MATH",
     "DialyStuff/2023-12-15.md",
     "StateFull/DSA.canvas",
@@ -333,7 +334,6 @@
     "Revision/Notes/ShortNotes/DLD/carry look a head.md",
     "Revision/Que/PracticeSet/Pigeon Hole Principle.md",
     "Revision/Que/PracticeSet/media/13. Pigeon hole principle.pdf",
-    "Revision/Notes/MicroNotes/DLD/Invalid State in binary code representation.md",
     "Revision/Notes/ShortNotes/DBMS/Difference between Generalization and Specialization in DBMS - shortNotes.md",
     "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
     "Revision/Notes/ShortNotes/CD/Introduction CD notes.md",
