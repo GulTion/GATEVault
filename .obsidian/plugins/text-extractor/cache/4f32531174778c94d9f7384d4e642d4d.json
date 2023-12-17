@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/DSA/media/Pasted image 20231217161622.png","text":"Let f(n) = % and g(n) =n? (1) f(n)+g(n) = O[fog(n)] % +n2# O[niz] .. False (2) fn)+g(n) = O[gof(n)] % +n2# O[niz] .. False (3)_f(n) g(n) = O[ f(n) .g(n) ] (5 wof- ] n = O(n) always true. ..Option (c) is correct. Answer : C","libVersion":"0.2.3","langs":"eng"}

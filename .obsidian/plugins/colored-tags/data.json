@@ -268,7 +268,13 @@
     "card/gra": 18,
     "card/DM/graph_theory/Chromatic_Number": 2,
     "card/DM/Se": 8,
-    "card/DM/set_Theory/Equivalence_Class": 4
+    "card/DM/set_Theory/Equivalence_Class": 4,
+    "sortin": 26,
+    "card/DSA/Sorting/Insertion_Sort": 1,
+    "card/DSA/Sorting/Insertion_Sort/Comparisons": 1,
+    "card/DSA/Sorting/Selection_Sort": 2,
+    "card/DSA/Sorting/Selection_Sort/Comparisons": 1,
+    "card/DSA/Asymtotic_Notation": 13
   },
   "_version": 2
 }

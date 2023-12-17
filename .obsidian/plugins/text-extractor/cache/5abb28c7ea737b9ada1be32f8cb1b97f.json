@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/DSA/media/Pasted image 20231217160112.png","text":"Solution: Array of size k—> number of comparison 5000 we know it complexity is O(x2) ..If we double the input number of comparison will be four times of itself. i.e for k this number of comparison 4*5000 =20000 ~.Option ( ¢) is correct. Answer: C","libVersion":"0.2.3","langs":"eng"}
