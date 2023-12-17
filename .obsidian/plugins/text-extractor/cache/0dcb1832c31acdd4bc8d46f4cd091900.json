@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/DSA/media/Pasted image 20231217162523.png","text":"Q12. What is the tightest time complexity of the following code? void mystery2(int N) { for (inti=N;i>0;i=1/2){ for (intj=0;j<i*2;j+=1){ printf(\"Hello World\"); } } } (a)O(nlogn) (b)O(n?) (©)O(n) (d)O(logn)","libVersion":"0.2.3","langs":"eng"}

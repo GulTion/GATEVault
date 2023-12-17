@@ -274,7 +274,12 @@
     "card/DSA/Sorting/Insertion_Sort/Comparisons": 1,
     "card/DSA/Sorting/Selection_Sort": 2,
     "card/DSA/Sorting/Selection_Sort/Comparisons": 1,
-    "card/DSA/Asymtotic_Notation": 13
+    "card/DSA/Asymtotic_Notation": 13,
+    "as": 27,
+    "dsa": 28,
+    "card/DSA/Tree/MaxHeap": 3,
+    "card/DSA/Tree/MaxHeap/Comparision": 1,
+    "card/DSA/Asymtotic_Complexity/Run_Time": 1
   },
   "_version": 2
 }

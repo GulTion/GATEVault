@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/DSA/media/Pasted image 20231217172112.png","text":"Solution: Let array 1, 2, 3,4, 5,6, 7 the building heap. There are 0 swaps TA STRUCTURES AND ALGORITHMS Page 17 S And every element will only be compared to its parent. .. O(n) comparisons. ~.Option D is correct.","libVersion":"0.2.3","langs":"eng"}

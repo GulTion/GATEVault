@@ -23,3 +23,22 @@ status: acquiring
 ?
 ![[Pasted image 20231217161622.png]]
 
+#card/DSA/Asymtotic_Complexity 
+![[Pasted image 20231217162523.png]]
+?
+![[Pasted image 20231217162540.png]]
+
+#card/DSA/Tree/MaxHeap/Comparision
+![[Pasted image 20231217165409.png]]
+?
+![[Pasted image 20231217165420.png]]![[Pasted image 20231217165432.png]]
+
+#card/DSA/Asymtotic_Complexity/Run_Time
+![[Pasted image 20231217171118.png]]
+?
+![[Pasted image 20231217171135.png]]
+
+![[Pasted image 20231217172046.png]]
+?
+![[Pasted image 20231217172112.png]]
+

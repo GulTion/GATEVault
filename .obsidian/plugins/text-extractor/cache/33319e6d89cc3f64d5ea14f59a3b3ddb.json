@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/DSA/media/Pasted image 20231217171407.png","text":"Q24. Consider an array A of n distinct positive integers. We are designing an algorithm to search whether there exist an integer x>10 in array A . What is the worst case time complexity of above algorithm? (2)O(n) (b)O(nlogn) (9)O(1) (d)O(logn)","libVersion":"0.2.3","langs":"eng"}
