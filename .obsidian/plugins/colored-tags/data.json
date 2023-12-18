@@ -305,7 +305,10 @@
     "card/COA/ControlUnit/MicroprogrammedControlUnit": 2,
     "card/dma": 22,
     "mistake/lack/Practice": 8,
-    "card/COA/io_device/DMA": 1
+    "card/COA/io_device/DMA": 1,
+    "card/OS/CPU_scheduling/RoundRobin": 1,
+    "card/CN/Switching/T": 1,
+    "card/CN/Switching/TDM": 2
   },
   "_version": 2
 }

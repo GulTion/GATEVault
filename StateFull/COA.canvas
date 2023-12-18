@@ -1,10 +1,11 @@
 {
 	"nodes":[
-		{"id":"4f832676d1493b91","x":120,"y":-60,"width":250,"height":60,"type":"text","text":""},
-		{"id":"eb086a2554d9121a","x":-120,"y":-60,"width":160,"height":60,"color":"4","type":"text","text":"# COA"},
-		{"id":"535f0b00a83b4526","x":100,"y":-260,"width":250,"height":100,"type":"text","text":"# DMA practice"}
+		{"id":"535f0b00a83b4526","x":100,"y":-260,"width":250,"height":100,"color":"1","type":"text","text":"# DMA practice"},
+		{"id":"8922b1fb9e85dcd8","x":100,"y":20,"width":360,"height":60,"color":"1","type":"text","text":"# MicroProgrammed"},
+		{"id":"eb086a2554d9121a","x":-140,"y":-120,"width":160,"height":60,"color":"4","type":"text","text":"# COA"}
 	],
 	"edges":[
-		{"id":"e7bbcd1b21031a2d","fromNode":"eb086a2554d9121a","fromSide":"right","toNode":"535f0b00a83b4526","toSide":"left"}
+		{"id":"e7bbcd1b21031a2d","fromNode":"eb086a2554d9121a","fromSide":"right","toNode":"535f0b00a83b4526","toSide":"left"},
+		{"id":"0f5878ec11c0978d","fromNode":"eb086a2554d9121a","fromSide":"right","toNode":"8922b1fb9e85dcd8","toSide":"left"}
 	]
 }

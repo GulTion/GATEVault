@@ -5,6 +5,8 @@ status: acquiring
 ---
 #card/FULL 
 
+# COA
+
 #card/COA/ControlUnit/MicroprogrammedControlUnit 
 ![[Pasted image 20231218210641.png]]
 ?
@@ -23,3 +25,28 @@ status: acquiring
 ?
 - #mistake/lack/FormulaError 
 ![[Pasted image 20231218211419.png]] 
+
+# OS
+
+#card/OS/Disk_Scheduling 
+![[Pasted image 20231218213045.png]]
+?
+- #mistake/lack/Practice 
+![[Pasted image 20231218213117.png]] 
+
+#card/OS/CPU_scheduling/RoundRobin
+![[Pasted image 20231218213949.png]]
+?
+- #mistake/lack/ImportantPoint 
+![[Pasted image 20231218214045.png]] 
+
+
+
+# CN
+
+#card/CN/Switching/TDM
+![[Pasted image 20231218215353.png]]
+?
+- #mistake/lack/TermAndConcept 
+![[Pasted image 20231218215411.png]] 
+

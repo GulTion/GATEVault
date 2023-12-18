@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"30495a52ddb8469d","x":-340,"y":-160,"width":160,"height":60,"color":"1","type":"text","text":"# ALGO"},
+		{"id":"1f879eac9da63ca3","x":-60,"y":-360,"width":200,"height":80,"color":"1","type":"text","text":"**Practice Bellman Ford**"}
+	],
+	"edges":[
+		{"id":"70efce3f1e2f0a77","fromNode":"30495a52ddb8469d","fromSide":"right","toNode":"1f879eac9da63ca3","toSide":"left"}
+	]
+}

@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "StateFull/MATH.canvas",
+                "file": "StateFull/OS.canvas",
                 "viewState": {
-                  "x": -180,
-                  "y": -80,
-                  "zoom": -1.6460276519068882
+                  "x": 128.1159375,
+                  "y": -81.69203125000021,
+                  "zoom": 0
                 }
               }
             }
@@ -26,19 +26,31 @@
             "id": "bd5fb956e7385324",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/Que/PYQ/APTI/Numerical Ability-pyq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06905b286b80da87",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
-                "file": "StateFull/COA.canvas",
+                "file": "StateFull/APTI.canvas",
                 "viewState": {
-                  "x": 158.88468750000004,
-                  "y": -81.1795553588867,
+                  "x": -310,
+                  "y": -25,
                   "zoom": 0
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StateFull/COA.canvas",
+                "file": "Revision/Que/PYQ/APTI/Numerical Ability-pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StateFull/COA.canvas",
+                "file": "Revision/Que/PYQ/APTI/Numerical Ability-pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StateFull/COA.canvas"
+                "file": "Revision/Que/PYQ/APTI/Numerical Ability-pyq.md"
               }
             }
           },
@@ -204,7 +216,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "StateFull/COA.canvas"
+                "file": "Revision/Que/PYQ/APTI/Numerical Ability-pyq.md"
               }
             }
           },
@@ -244,31 +256,39 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "bd5fb956e7385324",
+  "active": "06905b286b80da87",
   "lastOpenFiles": [
+    "Revision/Que/PYQ/APTI/Numerical Ability-pyq.md",
+    "Revision/Que/PYQ/APTI/media/Pasted image 20231218231906.png",
+    "Revision/Que/PYQ/APTI/media/Pasted image 20231218231846.png",
+    "Revision/Que/PYQ/APTI/media",
+    "StateFull/APTI.canvas",
+    "Revision/Que/PYQ/APTI",
+    "DialyStuff/2023-12-18.md",
+    "StateFull/TOC.canvas",
+    "StateFull/DBMS.canvas",
+    "StateFull/ALGO.canvas",
     "Revision/TS/UA/All India Mock Test - 1.md",
+    "StateFull/A.md",
+    "Revision/TS/UA/media/Pasted image 20231218215411.png",
+    "Revision/TS/UA/media/Pasted image 20231218215353.png",
+    "StateFull/OS.canvas",
+    "Revision/TS/UA/media/Pasted image 20231218214045.png",
+    "Revision/TS/UA/media/Pasted image 20231218213949.png",
+    "StateFull/MATH.canvas",
+    "Revision/TS/UA/media/Pasted image 20231218213117.png",
+    "Revision/TS/UA/media/Pasted image 20231218213045.png",
+    "StateFull/DLD.canvas",
+    "StateFull/DSA.canvas",
     "StateFull/COA.canvas",
     "StateFull/COA.md",
     "Revision/TS/UA/media/Pasted image 20231218211419.png",
     "Revision/TS/UA/media/Pasted image 20231218211355.png",
-    "Revision/TS/UA/media/Pasted image 20231218211105.png",
-    "Revision/TS/UA/media/Pasted image 20231218211050.png",
-    "Revision/TS/UA/media/Pasted image 20231218210658.png",
-    "Revision/TS/UA/media/Pasted image 20231218210641.png",
     "Revision/TS/UA/media",
-    "DialyStuff/2023-12-18.md",
     "Revision/TS/UA",
-    "StateFull/MATH.canvas",
     "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
     "Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218200552.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218200546.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218195905.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218195844.png",
     "Revision/TS/ZealTS/MATH/TEST ID-41 Maths-1.md",
-    "StateFull/DLD.canvas",
-    "StateFull/DSA.canvas",
-    "StateFull/OS.canvas",
     "Revision/Que/MixQue/DM/Combintories.md",
     "Revision/Que/zealWorkBook/DSA/ADA Test – 1 -zealworkbook.md",
     "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
@@ -289,16 +309,9 @@
     "Revision/TS/ZealTS/MATH/media",
     "Revision/TS/ZealTS/MATH",
     "FlowChart.canvas",
-    "Revision/Que/zealWorkBook/DSA/ADA Test – 2 -zealworkbook 2.md",
-    "StateFull/Drawing 2023-12-17 18.09.46.excalidraw.md",
     "Tricks",
     "Revision/Que/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/Que/PracticeSet/media/3. Sequential Circuit.pdf",
-    "StateFull",
-    "Revision/Que/PracticeSet/media/Referential Constraint.pdf",
-    "stignore",
-    "Revision/media/Notes Revision/OS/Message Passing.canvas",
-    "Test Canvas.canvas",
-    "Untitled 1.canvas"
+    "StateFull"
   ]
 }
