@@ -2,6 +2,7 @@
 type: ZealTS
 status: acquiring
 subject: MATH
+atQ: 6
 ---
 #card/MATH/Calculus 
 
@@ -15,4 +16,10 @@ subject: MATH
 ?
 - #mistake
 ![[Pasted image 20231218195905.png]]
+
+#card/MATH/Calculus/Limits/OneExpInf 
+![[Pasted image 20231218200546.png]]
+?
+- #mistake
+![[Pasted image 20231218200552.png]] 
 

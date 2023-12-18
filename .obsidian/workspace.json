@@ -11,15 +11,34 @@
             "id": "e296341bdc0173cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
-                "mode": "source",
-                "source": true
+                "file": "StateFull/MATH.canvas",
+                "viewState": {
+                  "x": -180,
+                  "y": -80,
+                  "zoom": -1.6460276519068882
+                }
+              }
+            }
+          },
+          {
+            "id": "bd5fb956e7385324",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "StateFull/COA.canvas",
+                "viewState": {
+                  "x": 158.88468750000004,
+                  "y": -81.1795553588867,
+                  "zoom": 0
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
+                "file": "StateFull/COA.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
+                "file": "StateFull/COA.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md"
+                "file": "StateFull/COA.canvas"
               }
             }
           },
@@ -185,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md"
+                "file": "StateFull/COA.canvas"
               }
             }
           },
@@ -225,22 +244,28 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e296341bdc0173cd",
+  "active": "bd5fb956e7385324",
   "lastOpenFiles": [
+    "Revision/TS/UA/All India Mock Test - 1.md",
+    "StateFull/COA.canvas",
+    "StateFull/COA.md",
+    "Revision/TS/UA/media/Pasted image 20231218211419.png",
+    "Revision/TS/UA/media/Pasted image 20231218211355.png",
+    "Revision/TS/UA/media/Pasted image 20231218211105.png",
+    "Revision/TS/UA/media/Pasted image 20231218211050.png",
+    "Revision/TS/UA/media/Pasted image 20231218210658.png",
+    "Revision/TS/UA/media/Pasted image 20231218210641.png",
+    "Revision/TS/UA/media",
+    "DialyStuff/2023-12-18.md",
+    "Revision/TS/UA",
+    "StateFull/MATH.canvas",
+    "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
+    "Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md",
+    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218200552.png",
+    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218200546.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231218195905.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231218195844.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218195842.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218195135.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218195128.png",
     "Revision/TS/ZealTS/MATH/TEST ID-41 Maths-1.md",
-    "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
-    "DialyStuff/2023-12-18.md",
-    "Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218173618.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218173608.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218172111.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218172105.png",
-    "StateFull/MATH.canvas",
     "StateFull/DLD.canvas",
     "StateFull/DSA.canvas",
     "StateFull/OS.canvas",
@@ -254,8 +279,6 @@
     "Revision/TS/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
     "DialyStuff/2023-12-17.md",
     "DialyStuff/2023-12-15.md",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218163835.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218163828.png",
     "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
     "Revision/Que/zealWorkBook/MATH/Proba-zeal.md",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.sync-conflict-20231218-012122-B6HVX6C.md",
@@ -268,16 +291,12 @@
     "FlowChart.canvas",
     "Revision/Que/zealWorkBook/DSA/ADA Test – 2 -zealworkbook 2.md",
     "StateFull/Drawing 2023-12-17 18.09.46.excalidraw.md",
-    "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
-    "Tricks/Find Number of Comparison in Insertion Sort.md",
     "Tricks",
     "Revision/Que/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/Que/PracticeSet/media/3. Sequential Circuit.pdf",
     "StateFull",
     "Revision/Que/PracticeSet/media/Referential Constraint.pdf",
     "stignore",
-    "Day Planners",
-    "Revision/Que/zealWorkBook/DLD/media",
     "Revision/media/Notes Revision/OS/Message Passing.canvas",
     "Test Canvas.canvas",
     "Untitled 1.canvas"
