@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"09fed89cdf64b005","type":"file","file":"Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md","x":-20,"y":-460,"width":400,"height":400,"color":"4"},
+		{"id":"1b103600aef3e89d","type":"text","text":"# Linear Algbera","x":-380,"y":-320,"width":250,"height":120,"color":"4"},
+		{"id":"9a4152ba24e323cc","type":"text","text":"# Probability","x":-380,"y":120,"width":250,"height":60,"color":"4"},
+		{"id":"7659a28fe9f471a0","type":"file","file":"Revision/TS/ZealTS/MATH/TEST ID-44 Maths-4.md","x":-20,"y":40,"width":400,"height":400,"color":"4"},
+		{"id":"ad71c4b7ab0d841d","x":-740,"y":-100,"width":160,"height":70,"color":"4","type":"text","text":"# MATH"},
+		{"id":"067d44064f90598b","x":-380,"y":620,"width":280,"height":60,"color":"4","type":"text","text":"# Combintories"}
+	],
+	"edges":[
+		{"id":"28712b032031a8f4","fromNode":"1b103600aef3e89d","fromSide":"right","toNode":"09fed89cdf64b005","toSide":"left"},
+		{"id":"dc6869ec127474c8","fromNode":"9a4152ba24e323cc","fromSide":"right","toNode":"7659a28fe9f471a0","toSide":"left"},
+		{"id":"033b1de4e0420dd2","fromNode":"ad71c4b7ab0d841d","fromSide":"right","toNode":"1b103600aef3e89d","toSide":"left"},
+		{"id":"5a64b7d6fe432223","fromNode":"ad71c4b7ab0d841d","fromSide":"right","toNode":"9a4152ba24e323cc","toSide":"left"}
+	]
+}

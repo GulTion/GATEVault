@@ -287,7 +287,15 @@
     "pro": 32,
     "prob": 33,
     "card/MATH/probability/Inclusion_Exclusion": 1,
-    "card/MATH/probability/Conditional": 2
+    "card/MATH/probability/Conditional": 2,
+    "card/comb": 20,
+    "card/DM/combintories/NumbersOfDigits": 3,
+    "card/com": 21,
+    "card/DM/combintories/Se": 4,
+    "card/DM/combintories/Selection": 5,
+    "card/DM/combintories/Selection/Indenty": 1,
+    "card/DM/combintories/Selection/Indentical": 2,
+    "card/DM/combintories/Selection/Identical": 3
   },
   "_version": 2
 }
