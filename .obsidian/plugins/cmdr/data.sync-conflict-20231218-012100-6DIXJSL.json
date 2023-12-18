@@ -24,6 +24,24 @@
       "mode": "any"
     },
     {
+      "id": "obsidian-spaced-repetition:srs-note-review-easy",
+      "icon": "battery-full",
+      "name": "Spaced Repetition: Review note as easy",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-spaced-repetition:srs-note-review-good",
+      "icon": "battery-medium",
+      "name": "Spaced Repetition: Review note as good",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-spaced-repetition:srs-note-review-hard",
+      "icon": "battery-low",
+      "name": "Spaced Repetition: Review note as hard",
+      "mode": "any"
+    },
+    {
       "id": "obsidian-spaced-repetition:srs-cram-flashcards-in-note",
       "icon": "album",
       "name": "Spaced Repetition: Cram flashcards in this note",
@@ -33,6 +51,12 @@
       "id": "file-explorer:reveal-active-file",
       "icon": "lucide-navigation",
       "name": "Files: Reveal current file in navigation",
+      "mode": "any"
+    },
+    {
+      "id": "advanced-random-note:open-random-note",
+      "icon": "dice-3",
+      "name": "Advanced Random Note: Open random note",
       "mode": "any"
     }
   ],

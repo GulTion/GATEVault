@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2e681b8892322f23","x":-153,"y":-128,"width":133,"height":68,"color":"1","type":"text","text":"# OS"},
+		{"id":"6b246e7b1283ee9a","x":100,"y":-244,"width":260,"height":300,"color":"1","type":"text","text":"**DeadLock**\n1. Resources Allocation Graph\n2. Bankers Algorithm \n3. Number of Process and Resources for Deadlock "}
+	],
+	"edges":[
+		{"id":"19186831d07b00ba","fromNode":"2e681b8892322f23","fromSide":"right","toNode":"6b246e7b1283ee9a","toSide":"left"}
+	]
+}

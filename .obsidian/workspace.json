@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Normal Task Template.md",
+                "file": "DialyStuff/2023-12-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Normal Task Template.md",
+                "file": "DialyStuff/2023-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Normal Task Template.md",
+                "file": "DialyStuff/2023-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Normal Task Template.md"
+                "file": "DialyStuff/2023-12-18.md"
               }
             }
           },
@@ -252,7 +252,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/Normal Task Template.md"
+                "file": "DialyStuff/2023-12-18.md"
               }
             }
           },
@@ -292,8 +292,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "54cea90d36e9f72c",
+  "active": "e920c9d081657eaa",
   "lastOpenFiles": [
+    "StateFull/DSA.canvas",
+    "StateFull/OS.canvas",
+    "StateFull/Untitled.canvas",
+    "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.sync-conflict-20231218-012122-B6HVX6C.md",
+    "Revision/Que/PYQ/OS/File System - pyq.sync-conflict-20231218-012114-B6HVX6C.md",
+    "Revision/Que/PYQ/OS/CPU Scheduling - pyq.sync-conflict-20231218-012108-B6HVX6C.md",
+    "DialyStuff/2023-12-18.md",
     "DialyStuff/2023-12-16.md",
     "Revision/Notes/MicroNotes/DLD/Invalid State in binary code representation.md",
     "templates/Normal Task Template.md",
@@ -306,7 +313,6 @@
     "Revision/TS/ZealTS/MATH/media",
     "Revision/TS/ZealTS/MATH",
     "DialyStuff/2023-12-15.md",
-    "StateFull/DSA.canvas",
     "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
     "StateFull/DLD.canvas",
     "FlowChart.canvas",
@@ -331,12 +337,7 @@
     "Revision/Notes/ShortNotes/DSA/BFS DFS properties.md",
     "Revision/Notes/ShortNotes/CD/Parser CD notes.md",
     "Revision/Que/PracticeSet/Sequential Circuit - PracticrSet.md",
-    "Revision/Notes/ShortNotes/DLD/carry look a head.md",
-    "Revision/Que/PracticeSet/Pigeon Hole Principle.md",
     "Revision/Que/PracticeSet/media/13. Pigeon hole principle.pdf",
-    "Revision/Notes/ShortNotes/DBMS/Difference between Generalization and Specialization in DBMS - shortNotes.md",
-    "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
-    "Revision/Notes/ShortNotes/CD/Introduction CD notes.md",
     "Revision/Que/PracticeSet/media/3. Sequential Circuit.pdf",
     "StateFull",
     "Revision/Que/PracticeSet/media/Referential Constraint.pdf",

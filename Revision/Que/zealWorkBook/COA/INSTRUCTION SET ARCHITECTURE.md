@@ -2,6 +2,7 @@
 subject: COA
 type: zealWorkBook
 atQ: 0
+completed: true
 ---
 
 #card/COA/INSTRUCTION_SET_ARCHITECTURE

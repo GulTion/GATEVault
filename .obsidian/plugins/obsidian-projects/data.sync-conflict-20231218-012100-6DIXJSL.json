@@ -138,165 +138,6 @@
         },
         {
           "config": {
-            "includeFields": [
-              "atQ",
-              "endQ"
-            ],
-            "groupByField": "subject"
-          },
-          "filter": {
-            "conditions": [
-              {
-                "field": "type",
-                "operator": "is",
-                "enabled": true,
-                "value": "zealWorkBook"
-              }
-            ]
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "6955c2b9-f212-426b-80b8-88955af230bf",
-          "name": "ZealWorkBook",
-          "type": "board"
-        },
-        {
-          "config": {
-            "groupByField": "subject",
-            "includeFields": [
-              "type"
-            ]
-          },
-          "filter": {
-            "conditions": [
-              {
-                "field": "type",
-                "operator": "contains",
-                "enabled": true,
-                "value": "Notes"
-              },
-              {
-                "field": "subject",
-                "operator": "is",
-                "enabled": false,
-                "value": "DM"
-              }
-            ]
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "554ea0d1-1d52-41a5-bf44-d8febfdd9685",
-          "name": "Notes",
-          "type": "board"
-        },
-        {
-          "config": {
-            "columns": {
-              "OS": {
-                "weight": 0
-              },
-              "DM": {
-                "weight": 2
-              },
-              "DSA": {
-                "weight": 3
-              },
-              "COA": {
-                "weight": 4
-              },
-              "CD": {
-                "weight": 5
-              },
-              "DLD": {
-                "weight": 6
-              },
-              "APTI": {
-                "weight": 7
-              },
-              "TOC": {
-                "weight": 8
-              },
-              "MATH": {
-                "weight": 9
-              },
-              "C": {
-                "weight": 10
-              },
-              "DBMS": {
-                "weight": 11
-              },
-              "CN": {
-                "weight": 12
-              },
-              "FULL": {
-                "weight": 13
-              }
-            },
-            "includeFields": [
-              "type"
-            ],
-            "groupByField": "subject"
-          },
-          "filter": {
-            "conditions": [
-              {
-                "field": "subject",
-                "operator": "is",
-                "enabled": false,
-                "value": "DSA"
-              },
-              {
-                "field": "type",
-                "operator": "is",
-                "enabled": false,
-                "value": "PYQ"
-              }
-            ]
-          },
-          "colors": {
-            "conditions": [
-              {
-                "color": "#ff0000",
-                "condition": {
-                  "field": "completed",
-                  "operator": "is-checked",
-                  "enabled": true
-                }
-              },
-              {
-                "color": "#6bff84",
-                "condition": {
-                  "field": "status",
-                  "operator": "is",
-                  "enabled": true,
-                  "value": "Revision"
-                }
-              }
-            ]
-          },
-          "sort": {
-            "criteria": [
-              {
-                "field": "type",
-                "order": "asc",
-                "enabled": true
-              }
-            ]
-          },
-          "id": "3139e979-be22-45e2-95e0-4ba1ddf11abd",
-          "name": "Multi",
-          "type": "board"
-        },
-        {
-          "config": {
             "columns": {
               "TOC": {
                 "weight": 0
@@ -368,6 +209,165 @@
           },
           "id": "04bb88e8-206a-4978-a5ca-07e1133c1076",
           "name": "Test Series",
+          "type": "board"
+        },
+        {
+          "config": {
+            "includeFields": [
+              "atQ",
+              "endQ"
+            ],
+            "groupByField": "subject"
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "type",
+                "operator": "is",
+                "enabled": true,
+                "value": "zealWorkBook"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6955c2b9-f212-426b-80b8-88955af230bf",
+          "name": "ZealWorkBook",
+          "type": "board"
+        },
+        {
+          "config": {
+            "groupByField": "subject",
+            "includeFields": [
+              "type"
+            ]
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "type",
+                "operator": "contains",
+                "enabled": true,
+                "value": "Notes"
+              },
+              {
+                "field": "subject",
+                "operator": "is",
+                "enabled": false,
+                "value": "DM"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "554ea0d1-1d52-41a5-bf44-d8febfdd9685",
+          "name": "Notes",
+          "type": "board"
+        },
+        {
+          "config": {
+            "columns": {
+              "OS": {
+                "weight": 0
+              },
+              "DM": {
+                "weight": 1
+              },
+              "DSA": {
+                "weight": 2
+              },
+              "COA": {
+                "weight": 3
+              },
+              "CD": {
+                "weight": 4
+              },
+              "DLD": {
+                "weight": 5
+              },
+              "APTI": {
+                "weight": 6
+              },
+              "TOC": {
+                "weight": 7
+              },
+              "MATH": {
+                "weight": 8
+              },
+              "C": {
+                "weight": 9
+              },
+              "DBMS": {
+                "weight": 10
+              },
+              "CN": {
+                "weight": 11
+              },
+              "FULL": {
+                "weight": 12
+              }
+            },
+            "includeFields": [
+              "type"
+            ],
+            "groupByField": "subject"
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "subject",
+                "operator": "is",
+                "enabled": false,
+                "value": "DSA"
+              },
+              {
+                "field": "type",
+                "operator": "is",
+                "enabled": false,
+                "value": "PYQ"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "completed",
+                  "operator": "is-checked",
+                  "enabled": true
+                }
+              },
+              {
+                "color": "#6bff84",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Revision"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "type",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "3139e979-be22-45e2-95e0-4ba1ddf11abd",
+          "name": "Multi",
           "type": "board"
         }
       ],
