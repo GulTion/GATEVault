@@ -84,9 +84,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97c2b8cdc733763c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-18.md",
+                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-18.md",
+                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-18.md"
+                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md"
               }
             }
           },
@@ -252,7 +264,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-18.md"
+                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md"
               }
             }
           },
@@ -292,10 +304,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e920c9d081657eaa",
+  "active": "97c2b8cdc733763c",
   "lastOpenFiles": [
-    "DialyStuff/2023-12-17.md",
     "DialyStuff/2023-12-18.md",
+    "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
+    "DialyStuff/2023-12-17.md",
     "templates/Normal Task Template.md",
     "StateFull/DSA.canvas",
     "StateFull/OS.canvas",
@@ -305,7 +318,6 @@
     "Revision/Que/PYQ/OS/CPU Scheduling - pyq.sync-conflict-20231218-012108-B6HVX6C.md",
     "DialyStuff/2023-12-16.md",
     "Revision/Notes/MicroNotes/DLD/Invalid State in binary code representation.md",
-    "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
     "Revision/TS/ZealTS/MATH/TEST ID-41 Maths-1.md",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231217215126.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231217215113.png",

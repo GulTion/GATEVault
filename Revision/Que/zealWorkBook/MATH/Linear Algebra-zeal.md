@@ -2,6 +2,9 @@
 type: zealWorkBook
 subject: MATH
 status: acquiring
-atQ: 1
+atQ: 201
 endQ: 215
 ---
+#card/MATH/linear_algebra 
+reverse
+
