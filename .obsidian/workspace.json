@@ -42,8 +42,8 @@
               "state": {
                 "file": "StateFull/APTI.canvas",
                 "viewState": {
-                  "x": -310,
-                  "y": -25,
+                  "x": -201.46609375,
+                  "y": 43.25328124999983,
                   "zoom": 0
                 }
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/PYQ/APTI/Numerical Ability-pyq.md",
+                "file": "StateFull/APTI.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/PYQ/APTI/Numerical Ability-pyq.md",
+                "file": "StateFull/APTI.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/PYQ/APTI/Numerical Ability-pyq.md"
+                "file": "StateFull/APTI.canvas"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/PYQ/APTI/Numerical Ability-pyq.md"
+                "file": "StateFull/APTI.canvas"
               }
             }
           },
