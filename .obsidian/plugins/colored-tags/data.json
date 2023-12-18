@@ -308,7 +308,9 @@
     "card/COA/io_device/DMA": 1,
     "card/OS/CPU_scheduling/RoundRobin": 1,
     "card/CN/Switching/T": 1,
-    "card/CN/Switching/TDM": 2
+    "card/CN/Switching/TDM": 2,
+    "card/p": 23,
+    "card/pr": 24
   },
   "_version": 2
 }

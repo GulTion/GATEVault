@@ -48,9 +48,29 @@
                 }
               }
             }
+          },
+          {
+            "id": "5877e21b84d940b9",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6daa6b2e4c27852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TS/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -132,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StateFull/APTI.canvas",
+                "file": "Revision/TS/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StateFull/APTI.canvas",
+                "file": "Revision/TS/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StateFull/APTI.canvas"
+                "file": "Revision/TS/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md"
               }
             }
           },
@@ -216,7 +237,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "StateFull/APTI.canvas"
+                "file": "Revision/TS/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md"
               }
             }
           },
@@ -233,7 +254,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,13 +278,18 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "06905b286b80da87",
+  "active": "d6daa6b2e4c27852",
   "lastOpenFiles": [
+    "Revision/TS/GOTS/MATH/media/Pasted image 20231219012459.png",
+    "Revision/TS/GOTS/MATH/media/Pasted image 20231219011727.png",
+    "Revision/TS/GOTS/MATH/media/Pasted image 20231219011709.png",
+    "Revision/TS/GOTS/MATH/media/Pasted image 20231219011416.png",
+    "Revision/TS/GOTS/MATH/media/Pasted image 20231219011141.png",
+    "StateFull/APTI.canvas",
     "Revision/Que/PYQ/APTI/Numerical Ability-pyq.md",
     "Revision/Que/PYQ/APTI/media/Pasted image 20231218231906.png",
     "Revision/Que/PYQ/APTI/media/Pasted image 20231218231846.png",
     "Revision/Que/PYQ/APTI/media",
-    "StateFull/APTI.canvas",
     "Revision/Que/PYQ/APTI",
     "DialyStuff/2023-12-18.md",
     "StateFull/TOC.canvas",
@@ -276,14 +303,10 @@
     "Revision/TS/UA/media/Pasted image 20231218214045.png",
     "Revision/TS/UA/media/Pasted image 20231218213949.png",
     "StateFull/MATH.canvas",
-    "Revision/TS/UA/media/Pasted image 20231218213117.png",
-    "Revision/TS/UA/media/Pasted image 20231218213045.png",
     "StateFull/DLD.canvas",
     "StateFull/DSA.canvas",
     "StateFull/COA.canvas",
     "StateFull/COA.md",
-    "Revision/TS/UA/media/Pasted image 20231218211419.png",
-    "Revision/TS/UA/media/Pasted image 20231218211355.png",
     "Revision/TS/UA/media",
     "Revision/TS/UA",
     "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",

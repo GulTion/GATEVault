@@ -28,6 +28,7 @@
               "name",
               "path",
               "type",
+              "completed",
               "atQ",
               "endQ",
               "startQ",
