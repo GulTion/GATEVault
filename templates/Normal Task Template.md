@@ -23,7 +23,7 @@
   
 # TimeTable 
 - [ ] 08:00 - 08:30 #card/MATH/linear_algebra 
-- [ ] 08:30 - 09:00 #card/EM/probability 
+- [ ] 08:30 - 09:00 #card/MATH/probability 
 - [ ] 09:00 - 09:30 #card/DM/combintories 
 - [ ] 09:30 - 10:00 #card/MATH/Calculus 
 - [ ] 10:00 - 10:40 DI
