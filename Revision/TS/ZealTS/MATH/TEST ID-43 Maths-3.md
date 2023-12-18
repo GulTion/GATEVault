@@ -2,7 +2,7 @@
 type: ZealTS
 status: acquiring
 subject: DM
-atQ: 0
+atQ: 12
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=62cea4de176fa70fc2706afb
 ---
 #card/DM/combintories 

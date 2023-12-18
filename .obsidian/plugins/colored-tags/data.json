@@ -295,7 +295,11 @@
     "card/DM/combintories/Selection": 5,
     "card/DM/combintories/Selection/Indenty": 1,
     "card/DM/combintories/Selection/Indentical": 2,
-    "card/DM/combintories/Selection/Identical": 3
+    "card/DM/combintories/Selection/Identical": 3,
+    "card/MATH/Calculus/Limits": 1,
+    "card/MATH/Calculus/Limits/OneExpInf": 1,
+    "card/MATH/Calculus/Limits/Trignometry": 2,
+    "card/MATH/Calculus/Limits/Trigonometry": 3
   },
   "_version": 2
 }

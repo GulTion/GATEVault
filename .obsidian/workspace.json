@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md",
+                "file": "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card/DM/combintories",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md",
+                "file": "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md",
+                "file": "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md"
+                "file": "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md"
               }
             }
           },
@@ -186,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md"
+                "file": "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md"
               }
             }
           },
@@ -199,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -226,19 +225,26 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f05219de2c216c2d",
+  "active": "e296341bdc0173cd",
   "lastOpenFiles": [
+    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218195905.png",
+    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218195844.png",
+    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218195842.png",
+    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218195135.png",
+    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218195128.png",
+    "Revision/TS/ZealTS/MATH/TEST ID-41 Maths-1.md",
+    "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
+    "DialyStuff/2023-12-18.md",
+    "Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231218173618.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231218173608.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231218172111.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231218172105.png",
     "StateFull/MATH.canvas",
-    "Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md",
     "StateFull/DLD.canvas",
     "StateFull/DSA.canvas",
     "StateFull/OS.canvas",
     "Revision/Que/MixQue/DM/Combintories.md",
-    "DialyStuff/2023-12-18.md",
     "Revision/Que/zealWorkBook/DSA/ADA Test – 1 -zealworkbook.md",
     "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
     "Revision/Que/PracticeSet/Intermediate Representation - workbook.md",
@@ -250,10 +256,6 @@
     "DialyStuff/2023-12-15.md",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231218163835.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231218163828.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218163825.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218162837.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231218162822.png",
-    "Revision/TS/ZealTS/MATH/TEST ID-41 Maths-1.md",
     "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
     "Revision/Que/zealWorkBook/MATH/Proba-zeal.md",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.sync-conflict-20231218-012122-B6HVX6C.md",
@@ -261,8 +263,6 @@
     "Revision/Que/PYQ/OS/CPU Scheduling - pyq.sync-conflict-20231218-012108-B6HVX6C.md",
     "DialyStuff/2023-12-16.md",
     "Revision/Notes/MicroNotes/DLD/Invalid State in binary code representation.md",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231217215126.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231217215113.png",
     "Revision/TS/ZealTS/MATH/media",
     "Revision/TS/ZealTS/MATH",
     "FlowChart.canvas",
@@ -271,7 +271,6 @@
     "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
     "Tricks/Find Number of Comparison in Insertion Sort.md",
     "Tricks",
-    "Revision/Notes/MicroNotes/COA/complements of number.md",
     "Revision/Que/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/Que/PracticeSet/media/3. Sequential Circuit.pdf",
     "StateFull",
