@@ -16,14 +16,41 @@
             }
           },
           {
-            "id": "4ff9f14e67ac8b44",
+            "id": "565351f3ead63d3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+                "file": "Revision/Que/zealWorkBook/DSA/ADA Test – 2 -zealworkbook 2.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e451c8097abdb861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-12-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea4a426ce955c119",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "StateFull/DSA.canvas",
+                "viewState": {
+                  "x": -13.2202027184014,
+                  "y": 54.583939184479554,
+                  "zoom": -0.8175852202824092
+                }
               }
             }
           },
@@ -48,14 +75,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/MixQue/COA/Type of Questions in Pipeline.md",
+                "file": "DialyStuff/2023-12-19.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StateFull/COA.canvas",
+                "file": "Revision/Que/zealWorkBook/DSA/ADA Test – 2 -zealworkbook 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StateFull/COA.canvas",
+                "file": "Revision/Que/zealWorkBook/DSA/ADA Test – 2 -zealworkbook 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StateFull/COA.canvas"
+                "file": "Revision/Que/zealWorkBook/DSA/ADA Test – 2 -zealworkbook 2.md"
               }
             }
           },
@@ -221,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "StateFull/COA.canvas"
+                "file": "Revision/Que/zealWorkBook/DSA/ADA Test – 2 -zealworkbook 2.md"
               }
             }
           },
@@ -234,7 +261,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -261,25 +288,26 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "61ea55d62dc3ca25",
+  "active": "565351f3ead63d3b",
   "lastOpenFiles": [
-    "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
-    "StateFull/COA.canvas",
+    "DialyStuff/2023-12-19.md",
+    "StateFull/DSA.canvas",
     "Revision/Que/MixQue/COA/Type of Questions in Pipeline.md",
+    "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+    "Revision/TS/ZealTS/COA/media/Pasted image 20231219174520.png",
+    "Revision/TS/ZealTS/COA/media/Pasted image 20231219174510.png",
+    "StateFull/COA.canvas",
     "Revision/media/PYQRevision/COA/media/Untitled 6.png",
     "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/TS/MadeEasyTS/FULL/media/Pasted image 20231125222948.png",
     "Revision/media/PYQRevision/COA/media/Untitled 10.png",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231214130837.png",
-    "DialyStuff/2023-12-19.md",
     "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231219145202.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231219145148.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231219144519.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231219144512.png",
-    "Revision/TS/ZealTS/CN/media/Pasted image 20231219144024.png",
-    "Revision/TS/ZealTS/CN/media/Pasted image 20231219144014.png",
     "Revision/TS/ZealTS/CN/Test ID - 17 CN Test - 4.md",
     "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
     "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
@@ -308,7 +336,6 @@
     "StateFull/A.md",
     "StateFull/OS.canvas",
     "StateFull/DLD.canvas",
-    "StateFull/DSA.canvas",
     "Revision/TS/UA/media",
     "Revision/TS/UA",
     "Revision/TS/ZealTS/MATH/media",

@@ -1,5 +1,5 @@
 ---
-atQ: 15
+atQ: 16
 type: ZealTS
 subject: COA
 startQ: 1
@@ -19,3 +19,10 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ?
 this will not provide the opretor forwarding bcz, for forwading the data of register must be flow from WB=>PO(EX). but in question the gave WB=>ID, so that's why, this will create extra stall
 ![[Pasted image 20231020145400.png]] <!--SR:!2023-12-29,29,290-->
+
+#card/COA/pipeline/Data_Hazards 
+![[Pasted image 20231219174510.png]]
+15
+?
+![[Pasted image 20231219174520.png]] 
+
