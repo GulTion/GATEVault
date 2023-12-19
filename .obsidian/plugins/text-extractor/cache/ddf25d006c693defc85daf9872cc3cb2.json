@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/CN/media/Pasted image 20231219144519.png","text":"Answer: 145 Solution: Total length = 420 Actual length = 420 - 4*15 =360 Fragment offset of last packet is 100 = 100*8 = 800 (sequence number) So, address of the first byte of the last packet is 800 + 360 = 1160 1160/8 = 145 is fragment offset and it is last packet.","libVersion":"0.2.3","langs":"eng"}

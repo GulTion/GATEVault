@@ -90,15 +90,6 @@
                   "enabled": true,
                   "value": "Revision"
                 }
-              },
-              {
-                "color": "#80f0ff",
-                "condition": {
-                  "field": "status",
-                  "operator": "contains",
-                  "enabled": true,
-                  "value": "acquiring"
-                }
               }
             ]
           },
