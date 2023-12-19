@@ -19,8 +19,7 @@ C,D ![[Pasted image 20231030191315.png]] <!--SR:!2024-01-09,37,290-->
 
 ![[Pasted image 20231030193857.png]]9::A,B,C,D ![[Pasted image 20231030193909.png]] <!--SR:!2024-01-09,37,290-->
 
-#star/⭐ 
-![[Pasted image 20231031121144.png]]11::2![[Pasted image 20231031121158.png]]![[Pasted image 20231031121215.png]] <!--SR:!2023-12-20,17,277-->
+#star/⭐ ![[Pasted image 20231031121144.png]]11::2![[Pasted image 20231031121158.png]]![[Pasted image 20231031121215.png]] <!--SR:!2023-12-20,17,277-->
 
 
 

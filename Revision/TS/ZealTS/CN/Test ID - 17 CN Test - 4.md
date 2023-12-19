@@ -13,12 +13,19 @@ atQ: 0
 
 # Test Series Questions
 
-![[Pasted image 20231001151238.png]]::![[Pasted image 20231001151248.png]] <!--SR:!2024-02-02,66,288-->
+#card/CN/NetworkLayer/IPV4_Header
+![[Pasted image 20231001151238.png]]
+?
+![[Pasted image 20231001151248.png]] <!--SR:!2024-02-02,66,288-->
 
-#today ![[Pasted image 20231001163534.png]]::![[Pasted image 20231001163542.png]]
+![[Pasted image 20231001163534.png]]::![[Pasted image 20231001163542.png]]
 
 
-#today ![[Pasted image 20231001164339.png]]::![[Pasted image 20231001164345.png]]
+#card/CN/TCP
+#star/⭐⭐ 
+![[Pasted image 20231001164339.png]]
+?
+![[Pasted image 20231001164345.png]]
 
 ![[Pasted image 20231001165040.png]]::![[Pasted image 20231001165045.png]] <!--SR:!2023-12-23,42,290-->
 

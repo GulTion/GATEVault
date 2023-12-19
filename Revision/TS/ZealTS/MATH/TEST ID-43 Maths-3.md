@@ -1,8 +1,7 @@
 ---
 type: ZealTS
-status: acquiring
+status: Revision
 subject: DM
-atQ: 12
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=62cea4de176fa70fc2706afb
 ---
 #card/DM/combintories 
@@ -23,4 +22,36 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ?
 - #mistake/lack/TermAndConcept 
 ![[Pasted image 20231219120907.png]] 
+
+#card
+![[Pasted image 20231219121847.png]]
+?
+- #mistake
+![[Pasted image 20231219121851.png]] 
+
+#card/DM/combintories/Distribution/Dearrangement
+![[Pasted image 20231219122350.png]]
+?
+- #mistake
+![[Pasted image 20231219122358.png]] 
+
+#card/DM/combintories 
+![[Pasted image 20231219122707.png]]
+?
+![[Pasted image 20231219122716.png]] 
+
+#card/DM/combintories/Arrangement
+![[Pasted image 20231219123200.png]]
+?
+![[Pasted image 20231219123205.png]] 
+
+#card/DM/combintories 
+![[Pasted image 20231219123410.png]]
+?
+![[Pasted image 20231219123416.png]] 
+
+#card
+![[Pasted image 20231219123949.png]]
+?
+![[Pasted image 20231219124025.png]] 
 

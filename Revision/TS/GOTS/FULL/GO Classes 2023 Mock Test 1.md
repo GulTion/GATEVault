@@ -19,8 +19,9 @@ mistake
 A,B,C
 ![[Pasted image 20231210200728.png]]
 
-#star/⭐⭐ 
+
 #card/DM/set_Theory/Countable
+#star/⭐⭐ 
 ![[Pasted image 20231210205215.png]]
 ?
 B https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/resources/discussion/387831.html ![[Pasted image 20231210205240.png]]

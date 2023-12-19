@@ -1,6 +1,5 @@
 #card
 QUESTION
 ?
-- #mistake
 ANSWER 
 

@@ -75,6 +75,14 @@
           "colors": {
             "conditions": [
               {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "completed",
+                  "operator": "is-checked",
+                  "enabled": true
+                }
+              },
+              {
                 "color": "#04ff00",
                 "condition": {
                   "field": "status",
@@ -84,15 +92,7 @@
                 }
               },
               {
-                "color": "#ff0000",
-                "condition": {
-                  "field": "completed",
-                  "operator": "is-checked",
-                  "enabled": true
-                }
-              },
-              {
-                "color": "#fffb80",
+                "color": "#80f0ff",
                 "condition": {
                   "field": "status",
                   "operator": "contains",

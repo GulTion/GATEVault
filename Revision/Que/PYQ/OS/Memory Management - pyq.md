@@ -1,7 +1,7 @@
 ---
 subject: OS
 type: PYQ
-status: acquiring
+status: Revision
 atQ: 83
 src: https://practicepaper.in/gate-cse/memory-management?page_no=17
 endQ: 107

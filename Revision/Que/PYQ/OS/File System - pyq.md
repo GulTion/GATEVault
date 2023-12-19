@@ -1,7 +1,7 @@
 ---
 type: PYQ
 subject: OS
-status: acquiring
+status: Revision
 startQ: 12
 endQ: 12
 atQ: 1
