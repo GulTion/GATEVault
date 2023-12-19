@@ -1,9 +1,8 @@
 ---
 type: GOTS
 subject: FULL
-atQ: 30
-endQ: 65
-status: Analysis
+status: Revision
+completed:
 ---
 #card/FULL 
 
@@ -14,9 +13,17 @@ mistake
 - #mistake/lack/TermAndConcept 
 ![[Pasted image 20231210162850.png]] 
 
-![[Pasted image 20231210200718.png]]::![[Pasted image 20231210200728.png]]
+#card/CD/Parser/BottomUp
+![[Pasted image 20231210200718.png]]
+?
+A,B,C
+![[Pasted image 20231210200728.png]]
 
-![[Pasted image 20231210205215.png]]::B https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/resources/discussion/387831.html ![[Pasted image 20231210205240.png]]
+#star/⭐⭐ 
+#card/DM/set_Theory/Countable
+![[Pasted image 20231210205215.png]]
+?
+B https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/resources/discussion/387831.html ![[Pasted image 20231210205240.png]]
 
 
 

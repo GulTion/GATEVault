@@ -1,10 +1,8 @@
 ---
 subject: MATH
 type: GOTS
-startQ: 1
-endQ: 20
-atQ: 8
-status: acquiring
+status: Revision
+completed: true
 ---
 #card/MATH/probability 
 
@@ -26,7 +24,9 @@ A
 ![[Pasted image 20231219011727.png]]
 
 
-![[Pasted image 20231219012459.png]]::
+![[Pasted image 20231219012459.png]]::![[Pasted image 20231219012516.png]]
+
+
 
 
 
