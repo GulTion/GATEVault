@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"535f0b00a83b4526","x":100,"y":-260,"width":250,"height":100,"color":"1","type":"text","text":"# DMA practice"},
-		{"id":"8922b1fb9e85dcd8","x":100,"y":20,"width":360,"height":60,"color":"1","type":"text","text":"# MicroProgrammed"},
-		{"id":"eb086a2554d9121a","x":-140,"y":-120,"width":160,"height":60,"color":"4","type":"text","text":"# COA"}
+		{"id":"535f0b00a83b4526","type":"text","text":"# DMA practice","x":100,"y":-260,"width":250,"height":100,"color":"1"},
+		{"id":"8922b1fb9e85dcd8","type":"text","text":"# MicroProgrammed","x":100,"y":20,"width":360,"height":60,"color":"1"},
+		{"id":"eb086a2554d9121a","type":"text","text":"# COA","x":-140,"y":-120,"width":160,"height":60,"color":"4"},
+		{"id":"899ebe6de899aecd","x":80,"y":120,"width":400,"height":400,"color":"4","type":"file","file":"Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md"},
+		{"id":"a286aedb8cfce7d1","x":540,"y":140,"width":250,"height":100,"type":"text","text":"**Learning to Draw Data Hazard PipleLIne Chart**"}
 	],
 	"edges":[
 		{"id":"e7bbcd1b21031a2d","fromNode":"eb086a2554d9121a","fromSide":"right","toNode":"535f0b00a83b4526","toSide":"left"},
-		{"id":"0f5878ec11c0978d","fromNode":"eb086a2554d9121a","fromSide":"right","toNode":"8922b1fb9e85dcd8","toSide":"left"}
+		{"id":"0f5878ec11c0978d","fromNode":"eb086a2554d9121a","fromSide":"right","toNode":"8922b1fb9e85dcd8","toSide":"left"},
+		{"id":"40dd4e10e090fa74","fromNode":"eb086a2554d9121a","fromSide":"right","toNode":"899ebe6de899aecd","toSide":"left"},
+		{"id":"0f53e2b84c0f2d4d","fromNode":"899ebe6de899aecd","fromSide":"right","toNode":"a286aedb8cfce7d1","toSide":"left"}
 	]
 }
