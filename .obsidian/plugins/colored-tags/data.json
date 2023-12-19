@@ -313,7 +313,12 @@
     "card/pr": 24,
     "card/CD/Parser/BottomUp": 1,
     "set": 34,
-    "card/DM/set_Theory/Countable": 5
+    "card/DM/set_Theory/Countable": 5,
+    "card/Comb": 25,
+    "card/DM/combintories/Division": 6,
+    "card/DM/combintories/Division/DistinctInto": 1,
+    "card/DM/combintories/Division/DistinctIntoIdentical": 2,
+    "card/DM/combintories/Division/Distinct_Into_Identical": 3
   },
   "_version": 2
 }

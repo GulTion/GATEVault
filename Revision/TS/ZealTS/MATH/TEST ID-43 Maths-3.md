@@ -18,3 +18,9 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ?
 ![[Pasted image 20231218173618.png]] 
 
+#card/DM/combintories/Division/Distinct_Into_Identical
+![[Pasted image 20231219120902.png]]
+?
+- #mistake/lack/TermAndConcept 
+![[Pasted image 20231219120907.png]] 
+

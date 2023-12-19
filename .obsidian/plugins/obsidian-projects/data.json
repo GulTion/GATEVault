@@ -29,12 +29,12 @@
               "path",
               "type",
               "completed",
+              "subject",
               "atQ",
               "endQ",
               "startQ",
               "src",
               "status",
-              "subject",
               "sr-due",
               "sr-ease",
               "sr-interval"
@@ -48,6 +48,24 @@
               },
               "endQ": {
                 "width": 112
+              },
+              "completed": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              },
+              "src": {
+                "hide": true
+              },
+              "sr-due": {
+                "hide": true
+              },
+              "sr-ease": {
+                "hide": true
+              },
+              "sr-interval": {
+                "hide": true
               }
             }
           },
@@ -55,12 +73,39 @@
             "conditions": []
           },
           "colors": {
-            "conditions": []
+            "conditions": [
+              {
+                "color": "#04ff00",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Revision"
+                }
+              },
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "completed",
+                  "operator": "is-checked",
+                  "enabled": true
+                }
+              },
+              {
+                "color": "#fffb80",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "acquiring"
+                }
+              }
+            ]
           },
           "sort": {
             "criteria": [
               {
-                "field": "type",
+                "field": "subject",
                 "order": "asc",
                 "enabled": true
               }
