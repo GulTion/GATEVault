@@ -1,0 +1,1 @@
+{"path":"Revision/Que/zealWorkBook/DSA/media/Pasted image 20231219194542.png","text":"\" ie. O(logn), but outer loop will run n times .. complexity ©(n) Option (A) is correct, because program will run for i=1 to n , and while loop run logn time in total. Answer:A","libVersion":"0.2.3","langs":"eng"}
