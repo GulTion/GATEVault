@@ -371,7 +371,8 @@
             },
             "includeFields": [
               "type",
-              "subject"
+              "subject",
+              "status"
             ],
             "groupByField": "type"
           },
@@ -398,7 +399,26 @@
             ]
           },
           "colors": {
-            "conditions": []
+            "conditions": [
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Revision"
+                }
+              },
+              {
+                "color": "#0ac743",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "acquiring"
+                }
+              }
+            ]
           },
           "sort": {
             "criteria": []
