@@ -1,9 +1,9 @@
 ---
 subject: CN
 type: ZealTS
-status: Analysis
+status: Revision
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=628f2d8bc16c33657a586c8d&test_id=37
-atQ: 15
+atQ: 25
 ---
 #card/CN/NetworkLayer 
 

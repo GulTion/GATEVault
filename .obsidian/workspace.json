@@ -40,18 +40,6 @@
             }
           },
           {
-            "id": "e7d7afbd26d6ad07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8bfb0e92ab60fd95",
             "type": "leaf",
             "state": {
@@ -154,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -360,9 +348,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "8bfb0e92ab60fd95",
+  "active": "aaa82fc2dfef95cf",
   "lastOpenFiles": [
     "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
+    "DialyStuff/2023-12-20.md",
     "StateFull/CN.canvas",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220161115.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220161109.png",
@@ -373,7 +362,6 @@
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220154354.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220154341.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220154019.png",
-    "DialyStuff/2023-12-20.md",
     "Bhisandiya/1 Month Plan Suggestions.md",
     "Untitled.md",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220143015.png",
