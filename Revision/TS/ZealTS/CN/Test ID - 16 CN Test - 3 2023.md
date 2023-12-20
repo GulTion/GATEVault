@@ -43,8 +43,18 @@ A,B
 ?
 ![[Pasted image 20231220154354.png]] 
 
-#card
+#card/CN/NetworkLayer/NAT 
 ![[Pasted image 20231220155819.png]]
 ?
 ![[Pasted image 20231220155825.png]] 
+
+#card/CN/NetworkLayer/ICMP
+![[Pasted image 20231220160821.png]]
+?
+![[Pasted image 20231220160829.png]] 
+
+#card
+![[Pasted image 20231220161109.png]]
+?
+![[Pasted image 20231220161115.png]] 
 

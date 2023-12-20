@@ -40,27 +40,24 @@
             }
           },
           {
-            "id": "379bcc9fa961e4b4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "StateFull/CN.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "e7d7afbd26d6ad07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bfb0e92ab60fd95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-12-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -239,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
+                "file": "DialyStuff/2023-12-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
+                "file": "DialyStuff/2023-12-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md"
+                "file": "DialyStuff/2023-12-20.md"
               }
             }
           },
@@ -323,7 +320,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md"
+                "file": "DialyStuff/2023-12-20.md"
               }
             }
           },
@@ -363,10 +360,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e7d7afbd26d6ad07",
+  "active": "8bfb0e92ab60fd95",
   "lastOpenFiles": [
-    "StateFull/CN.canvas",
     "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
+    "StateFull/CN.canvas",
+    "Revision/TS/ZealTS/CN/media/Pasted image 20231220161115.png",
+    "Revision/TS/ZealTS/CN/media/Pasted image 20231220161109.png",
+    "Revision/TS/ZealTS/CN/media/Pasted image 20231220160829.png",
+    "Revision/TS/ZealTS/CN/media/Pasted image 20231220160821.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220155825.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220155819.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220154354.png",
@@ -376,10 +377,6 @@
     "Bhisandiya/1 Month Plan Suggestions.md",
     "Untitled.md",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220143015.png",
-    "Revision/TS/ZealTS/CN/media/Pasted image 20231220143010.png",
-    "Revision/TS/ZealTS/CN/media/Pasted image 20231220142713.png",
-    "Revision/TS/ZealTS/CN/media/Pasted image 20231220142707.png",
-    "Revision/TS/ZealTS/CN/media/Pasted image 20231220142705.png",
     "Index.md",
     "StateFull/OS.canvas",
     "Revision/TS/ZealTS/FULL/Test ID - 78 Mock - 4 - 2023.md",
