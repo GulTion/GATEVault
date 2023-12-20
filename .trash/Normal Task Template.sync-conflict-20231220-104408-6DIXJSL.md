@@ -23,7 +23,7 @@
   
 # TimeTable 
 - [ ] 08:00 - 08:30 #card/MATH/linear_algebra 
-- [ ] 08:30 - 09:00 #card/EM/probability 
+- [ ] 08:30 - 09:00 #card/MATH/probability 
 - [ ] 09:00 - 09:30 #card/DM/combintories 
 - [ ] 09:30 - 10:00 #card/MATH/Calculus 
 - [ ] 10:00 - 10:40 DI
@@ -33,6 +33,6 @@
 - [ ] 13:40 - 14:20 #card/COA 
 - [ ] 14:20 - 15:00 #card/DSA DS & C
 - [ ] 15:00 - 15:20 **NAP**
-- [ ] 15:20 - 16:00 #card/DSA ALGO - Practice on DP and Greedy Problems 
+- [ ] 15:20 - 16:00 #card/DSA ALGO
 - [ ] 16:00 - 16:40 #card/DBMS 
 - [ ] 16:40 - 17:20 #card/TOC 

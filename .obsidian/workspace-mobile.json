@@ -26,8 +26,12 @@
             "id": "fcf8c36750a92567",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/Normal Task Template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -104,7 +108,8 @@
           }
         }
       }
-    ]
+    ],
+    "currentTab": 4
   },
   "right": {
     "id": "5bb7b552f39a4ae7",
@@ -116,6 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "templates/Normal Task Template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,6 +138,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "templates/Normal Task Template.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -142,7 +149,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "templates/Normal Task Template.md"
+          }
         }
       },
       {
@@ -176,8 +185,10 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "fc2c6d8e2d697297",
+  "active": "589707dc29387caa",
   "lastOpenFiles": [
+    "StateFull/DSA.canvas",
+    "DialyStuff/2023-12-20.md",
     "StateFull/OS.canvas",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.sync-conflict-20231218-012122-B6HVX6C.md",
@@ -191,7 +202,6 @@
     "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231217172046.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231217215113.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231217214833.png",
-    "StateFull/DSA.canvas",
     "Revision/Que/PYQ/OS/File System - pyq.sync-conflict-20231218-012114-B6HVX6C.md",
     "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231217171135.png",
     "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231217160045.png",
@@ -218,7 +228,6 @@
     "DialyStuff/2023-12-15.md",
     "Demo.sync-conflict-20231215-185152-B6HVX6C.md",
     "Demo.sync-conflict-20231215-185134-6DIXJSL.md",
-    "Demo.sync-conflict-20231215-185114-6DIXJSL.md",
     "FlowChart.canvas"
   ]
 }
