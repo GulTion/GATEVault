@@ -21,14 +21,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bhisandiya/1 Month Plan Suggestions.md",
+                "file": "templates/Normal Task Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.50436401367188,
-    "collapsed": true
+    "width": 252.50436401367188
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -111,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bhisandiya/1 Month Plan Suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bhisandiya/1 Month Plan Suggestions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bhisandiya/1 Month Plan Suggestions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,9 +188,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Bhisandiya/1 Month Plan Suggestions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,8 +227,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "be943a241134c0db",
+  "active": "5877e21b84d940b9",
   "lastOpenFiles": [
+    "templates/Normal Task Template.md",
+    "Bhisandiya/1 Month Plan Suggestions.md",
     "Bhisandiya/Hinduism.md",
     "Bhisandiya/Index.md",
     "DialyStuff/2023-12-20.md",
@@ -255,7 +248,6 @@
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220154354.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220154341.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220154019.png",
-    "Bhisandiya/1 Month Plan Suggestions.md",
     "Untitled.md",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220143015.png",
     "Index.md",
@@ -268,7 +260,6 @@
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.sync-conflict-20231220-104556-B6HVX6C.md",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.sync-conflict-20231218-012122-B6HVX6C.md",
     "Revision/Que/PYQ/OS/CPU Scheduling - pyq.md",
-    "templates/Normal Task Template.md",
     "Revision/Que/PYQ/OS/CPU Scheduling - pyq.sync-conflict-20231218-012108-B6HVX6C.md",
     "templates/Normal Task Template.sync-conflict-20231220-104408-6DIXJSL.md",
     "Revision/Que/zealWorkBook/DSA/ADA Test – 2 -zealworkbook 2.md",

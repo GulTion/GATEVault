@@ -33,6 +33,6 @@
 - [ ] 13:40 - 14:20 #card/COA 
 - [ ] 14:20 - 15:00 #card/DSA DS & C
 - [ ] 15:00 - 15:20 **NAP**
-- [ ] 15:20 - 16:00 #card/DSA ALGO - Practice on DP and Greedy Problems 
+- [ ] 15:20 - 16:00 #card/DSA ALGO 
 - [ ] 16:00 - 16:40 #card/DBMS 
 - [ ] 16:40 - 17:20 #card/TOC 
