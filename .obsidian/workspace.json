@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-20.md",
+                "file": "Bhisandiya/1 Month Plan Suggestions.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.50436401367188
+    "width": 252.50436401367188,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-20.md",
+                "file": "Bhisandiya/1 Month Plan Suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-20.md",
+                "file": "Bhisandiya/1 Month Plan Suggestions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-20.md"
+                "file": "Bhisandiya/1 Month Plan Suggestions.md"
               }
             }
           },
@@ -194,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-20.md"
+                "file": "Bhisandiya/1 Month Plan Suggestions.md"
               }
             }
           },
@@ -211,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 361.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,10 +238,12 @@
   },
   "active": "be943a241134c0db",
   "lastOpenFiles": [
+    "Bhisandiya/Hinduism.md",
+    "Bhisandiya/Index.md",
+    "DialyStuff/2023-12-20.md",
     "StateFull/COA.canvas",
     "StateFull/DSA.canvas",
     "DialyStuff/2023-12-19.md",
-    "DialyStuff/2023-12-20.md",
     "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
     "StateFull/CN.canvas",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220161115.png",
@@ -274,7 +278,6 @@
     "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/TS/ZealTS/CN/Test ID - 17 CN Test - 4.md",
     "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
-    "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
     "StateFull/MATH.canvas",
     "StateFull/APTI.canvas",
     "Revision/Que/PYQ/APTI/media",
