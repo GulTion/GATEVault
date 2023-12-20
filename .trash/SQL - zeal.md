@@ -1,4 +1,0 @@
----
-subject: DBMS
-type: zealWorkBook
----
