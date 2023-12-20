@@ -21,6 +21,45 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Bhisandiya/1 Month Plan Suggestions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaa82fc2dfef95cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-12-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "379bcc9fa961e4b4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "StateFull/CN.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "e7d7afbd26d6ad07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
                 "mode": "source",
                 "source": false
@@ -118,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -324,12 +363,25 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0d821f4ced1135b0",
+  "active": "e7d7afbd26d6ad07",
   "lastOpenFiles": [
+    "StateFull/CN.canvas",
+    "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
+    "Revision/TS/ZealTS/CN/media/Pasted image 20231220155825.png",
+    "Revision/TS/ZealTS/CN/media/Pasted image 20231220155819.png",
+    "Revision/TS/ZealTS/CN/media/Pasted image 20231220154354.png",
+    "Revision/TS/ZealTS/CN/media/Pasted image 20231220154341.png",
+    "Revision/TS/ZealTS/CN/media/Pasted image 20231220154019.png",
+    "DialyStuff/2023-12-20.md",
+    "Bhisandiya/1 Month Plan Suggestions.md",
+    "Untitled.md",
+    "Revision/TS/ZealTS/CN/media/Pasted image 20231220143015.png",
+    "Revision/TS/ZealTS/CN/media/Pasted image 20231220143010.png",
+    "Revision/TS/ZealTS/CN/media/Pasted image 20231220142713.png",
+    "Revision/TS/ZealTS/CN/media/Pasted image 20231220142707.png",
+    "Revision/TS/ZealTS/CN/media/Pasted image 20231220142705.png",
     "Index.md",
     "StateFull/OS.canvas",
-    "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
-    "DialyStuff/2023-12-20.md",
     "Revision/TS/ZealTS/FULL/Test ID - 78 Mock - 4 - 2023.md",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
@@ -343,27 +395,15 @@
     "templates/Normal Task Template.sync-conflict-20231220-104408-6DIXJSL.md",
     "DialyStuff/2023-12-19.md",
     "Revision/Que/zealWorkBook/DSA/ADA Test – 2 -zealworkbook 2.md",
-    "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231219194542.png",
-    "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231219194526.png",
-    "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231219194437.png",
-    "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231219194356.png",
-    "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231219194341.png",
     "TimeTable.md",
     "StateFull/DSA.canvas",
     "Revision/Que/MixQue/COA/Type of Questions in Pipeline.md",
     "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
-    "Revision/TS/ZealTS/COA/media/Pasted image 20231219174520.png",
-    "Revision/TS/ZealTS/COA/media/Pasted image 20231219174510.png",
     "StateFull/COA.canvas",
-    "Revision/media/PYQRevision/COA/media/Untitled 6.png",
     "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
-    "Revision/TS/MadeEasyTS/FULL/media/Pasted image 20231125222948.png",
-    "Revision/media/PYQRevision/COA/media/Untitled 10.png",
     "Revision/TS/ZealTS/CN/Test ID - 17 CN Test - 4.md",
     "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
     "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
-    "Revision/TS/ZealTS/DSA/TEST ID-9  DSA-1.md",
-    "Revision/TS/ZealTS/DM/TEST ID-3 DM-3 2023.md",
     "StateFull/MATH.canvas",
     "StateFull/APTI.canvas",
     "Revision/Que/PYQ/APTI/media",
@@ -376,7 +416,6 @@
     "Revision/TS/UA",
     "Revision/TS/ZealTS/MATH/media",
     "Revision/TS/ZealTS/MATH",
-    "FlowChart.canvas",
     "Tricks",
     "Revision/Que/PracticeSet/media/13. Pigeon hole principle.pdf",
     "Revision/Que/PracticeSet/media/3. Sequential Circuit.pdf",

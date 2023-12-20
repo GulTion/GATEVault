@@ -23,3 +23,28 @@ atQ: 15
 ?
 ![[Pasted image 20231219145202.png]] 
 
+#card/CN/NetworkLayer/SuperNetting 
+![[Pasted image 20231220142707.png]]
+?
+![[Pasted image 20231220142713.png]] 
+
+#card/CN/NetworkLayer/NAT 
+![[Pasted image 20231220143010.png]]
+?
+![[Pasted image 20231220143015.png]] 
+
+#card/CN/NetworkLayer/ARP
+![[Pasted image 20231220154019.png]]
+?
+A,B
+
+#card/CN/NetworkLayer/ARP 
+![[Pasted image 20231220154341.png]]
+?
+![[Pasted image 20231220154354.png]] 
+
+#card
+![[Pasted image 20231220155819.png]]
+?
+![[Pasted image 20231220155825.png]] 
+
