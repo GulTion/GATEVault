@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "29517801fd5bb089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "be943a241134c0db",
             "type": "leaf",
             "state": {
@@ -36,6 +48,21 @@
                 "file": "DialyStuff/2023-12-21.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a757a2a9b1143533",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "StateFull/CN.canvas",
+                "viewState": {
+                  "x": -145.77171874999974,
+                  "y": 49.79312500000036,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -67,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
+                "file": "DialyStuff/2023-12-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
+                "file": "DialyStuff/2023-12-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md"
+                "file": "DialyStuff/2023-12-21.md"
               }
             }
           },
@@ -233,7 +260,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md"
+                "file": "DialyStuff/2023-12-21.md"
               }
             }
           },
@@ -246,7 +273,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -273,10 +300,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "480ef6d21c032346",
+  "active": "36ca259aa3499500",
   "lastOpenFiles": [
-    "StateFull/MATH.canvas",
+    "StateFull/CN.canvas",
+    "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
     "DialyStuff/2023-12-21.md",
+    "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
+    "StateFull/MATH.canvas",
     "templates/Normal Task Template.md",
     "Bhisandiya/1 Month Plan Suggestions.md",
     "Bhisandiya/Hinduism.md",
@@ -285,8 +315,6 @@
     "StateFull/COA.canvas",
     "StateFull/DSA.canvas",
     "DialyStuff/2023-12-19.md",
-    "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
-    "StateFull/CN.canvas",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220161115.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220161109.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220160829.png",
@@ -314,7 +342,6 @@
     "Revision/Que/MixQue/COA/Type of Questions in Pipeline.md",
     "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
-    "Revision/TS/ZealTS/CN/Test ID - 17 CN Test - 4.md",
     "StateFull/APTI.canvas",
     "Revision/Que/PYQ/APTI/media",
     "Revision/Que/PYQ/APTI",
