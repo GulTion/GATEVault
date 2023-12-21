@@ -277,9 +277,7 @@
                 "weight": 13
               }
             },
-            "includeFields": [
-              "type"
-            ],
+            "includeFields": [],
             "groupByField": "subject"
           },
           "filter": {
@@ -299,7 +297,7 @@
               {
                 "field": "completed",
                 "operator": "is-empty",
-                "enabled": true
+                "enabled": false
               }
             ]
           },

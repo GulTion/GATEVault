@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "039ddc6a12c011f8",
+        "id": "453237f1e933030c",
         "type": "tabs",
         "children": [
           {
-            "id": "0e98d9138cf815fb",
+            "id": "879a1b36cf0a7f1b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,22 +16,7 @@
             }
           },
           {
-            "id": "812867e75e9e2c82",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "StateFull/DBMS.canvas",
-                "viewState": {
-                  "x": -15,
-                  "y": -110,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "482d4bd9eb20040d",
+            "id": "9ce1609854947244",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
@@ -39,31 +24,46 @@
             }
           },
           {
-            "id": "523257d4cff40464",
+            "id": "18d106e6451da8b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "de49b8df4f197bb1",
+            "id": "9328b9a031095a97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/PracticeSet/Referential Constraint - practice.md",
+                "file": "Revision/Que/PYQ/DSA/Hashing.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "13c47ecc21c16371",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "StateFull/ALGO.canvas",
+                "viewState": {
+                  "x": -100,
+                  "y": -230,
+                  "zoom": 0
+                }
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mistake/lack/TermAndConcept",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,13 +117,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 428.5043640136719,
-    "collapsed": true
+    "width": 301.5043640136719
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -147,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md"
+                "file": "Revision/TS/ZealTS/FULL/MOCK 1 2023.md"
               }
             }
           },
@@ -231,7 +229,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md"
+                "file": "Revision/TS/ZealTS/FULL/MOCK 1 2023.md"
               }
             }
           },
@@ -272,8 +270,22 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "523257d4cff40464",
+  "active": "18d106e6451da8b3",
   "lastOpenFiles": [
+    "Revision/TS/ZealTS/FULL/TEST ID 80 MOCK 4.md",
+    "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
+    "Revision/Que/PYQ/ALGO/Greedy Technique.md",
+    "Revision/Que/PYQ/ALGO",
+    "Revision/Que/PYQ/DSA/Hashing.md",
+    "StateFull/ALGO.canvas",
+    "Revision/Que/PracticeSet/Entity Relationship Model - practice.md",
+    "Revision/Que/PracticeSet/Pigeon Hole Principle.md",
+    "Revision/Que/PracticeSet/Input Output - note.md",
+    "Excalidraw/Drawing 2023-11-18 01.18.14.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-21 23.05.24.excalidraw.md",
+    "StateFull/DBMS.canvas",
+    "Revision/TS/MadeEasyTS/MATH/ENGINEERING MATHEMATICS-1 (GATE 2023).md",
+    "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
     "Revision/TS/UA/All India Mock Test - 1.md",
     "Revision/TS/ZealTS/FULL/Test ID - 78 Mock - 4 - 2023.md",
     "Revision/TS/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
@@ -283,7 +295,6 @@
     "Revision/Que/PracticeSet/Referential Constraint - practice.md",
     "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
     "Revision/Que/PracticeSet/media/Referential Constraint.pdf.part",
-    "StateFull/DBMS.canvas",
     "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
     "StateFull/MATH.canvas",
     "StateFull/CN.canvas",
@@ -297,14 +308,7 @@
     "Revision/Que/zealWorkBook/TOC/media/Pasted image 20231221195859.png",
     "Revision/Que/zealWorkBook/TOC/media/Pasted image 20231221195822.png",
     "Revision/Que/zealWorkBook/TOC/34. Check String in TM - zealworkbook.md",
-    "Revision/Que/zealWorkBook/TOC/22. Check the Context Free Language.md",
-    "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
-    "Bhisandiya/1 Month Plan Suggestions.md",
-    "Bhisandiya/Hinduism.md",
-    "Bhisandiya/Index.md",
-    "DialyStuff/2023-12-20.md",
     "StateFull/DSA.canvas",
-    "DialyStuff/2023-12-19.md",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220161115.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220161109.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220160829.png",
@@ -313,22 +317,16 @@
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220155819.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220154354.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220154341.png",
-    "Untitled.md",
-    "Index.md",
     "StateFull/OS.canvas",
-    "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
-    "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "StateFull/APTI.canvas",
     "Revision/Que/PYQ/APTI/media",
     "Revision/Que/PYQ/APTI",
-    "StateFull/ALGO.canvas",
     "StateFull/DLD.canvas",
     "Revision/TS/UA/media",
     "Revision/TS/UA",
     "Revision/TS/ZealTS/MATH/media",
     "Revision/TS/ZealTS/MATH",
     "Tricks",
-    "Revision/Que/PracticeSet/media/13. Pigeon hole principle.pdf",
-    "Revision/Que/PracticeSet/media/3. Sequential Circuit.pdf"
+    "Revision/Que/PracticeSet/media/13. Pigeon hole principle.pdf"
   ]
 }
