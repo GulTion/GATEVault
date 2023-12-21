@@ -16,6 +16,45 @@
             }
           },
           {
+            "id": "85bee3f7e19de50d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c559eefc2730f4bc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "StateFull/COA.canvas",
+                "viewState": {
+                  "x": 435.17170527343774,
+                  "y": 212.986479296875,
+                  "zoom": -0.3547342399706042
+                }
+              }
+            }
+          },
+          {
+            "id": "2244b90b346652dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "29517801fd5bb089",
             "type": "leaf",
             "state": {
@@ -176,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-21.md",
+                "file": "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-21.md",
+                "file": "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-21.md"
+                "file": "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md"
               }
             }
           },
@@ -260,7 +299,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-21.md"
+                "file": "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md"
               }
             }
           },
@@ -273,7 +312,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -300,11 +339,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "36ca259aa3499500",
+  "active": "2244b90b346652dc",
   "lastOpenFiles": [
-    "StateFull/CN.canvas",
+    "StateFull/COA.canvas",
+    "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
+    "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
     "DialyStuff/2023-12-21.md",
+    "StateFull/CN.canvas",
     "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
     "StateFull/MATH.canvas",
     "templates/Normal Task Template.md",
@@ -312,7 +354,6 @@
     "Bhisandiya/Hinduism.md",
     "Bhisandiya/Index.md",
     "DialyStuff/2023-12-20.md",
-    "StateFull/COA.canvas",
     "StateFull/DSA.canvas",
     "DialyStuff/2023-12-19.md",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220161115.png",
@@ -340,8 +381,6 @@
     "Revision/Que/zealWorkBook/DSA/ADA Test – 2 -zealworkbook 2.md",
     "TimeTable.md",
     "Revision/Que/MixQue/COA/Type of Questions in Pipeline.md",
-    "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
-    "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "StateFull/APTI.canvas",
     "Revision/Que/PYQ/APTI/media",
     "Revision/Que/PYQ/APTI",
