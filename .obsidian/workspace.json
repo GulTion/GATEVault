@@ -26,8 +26,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36ca259aa3499500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-12-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2afc9aab557ac6d5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "StateFull/MATH.canvas",
+                "viewState": {
+                  "x": 325.4578124999996,
+                  "y": -236.50296875000004,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "480ef6d21c032346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +214,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md"
+              }
             }
           },
           {
@@ -188,7 +232,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md"
+              }
             }
           },
           {
@@ -200,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -227,8 +273,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5877e21b84d940b9",
+  "active": "480ef6d21c032346",
   "lastOpenFiles": [
+    "StateFull/MATH.canvas",
+    "DialyStuff/2023-12-21.md",
     "templates/Normal Task Template.md",
     "Bhisandiya/1 Month Plan Suggestions.md",
     "Bhisandiya/Hinduism.md",
@@ -255,7 +303,6 @@
     "Revision/TS/ZealTS/FULL/Test ID - 78 Mock - 4 - 2023.md",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
-    "DialyStuff/2023-12-21.md",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.sync-conflict-20231220-104556-B6HVX6C.md",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.sync-conflict-20231218-012122-B6HVX6C.md",
@@ -268,8 +315,6 @@
     "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
     "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
     "Revision/TS/ZealTS/CN/Test ID - 17 CN Test - 4.md",
-    "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
-    "StateFull/MATH.canvas",
     "StateFull/APTI.canvas",
     "Revision/Que/PYQ/APTI/media",
     "Revision/Que/PYQ/APTI",
