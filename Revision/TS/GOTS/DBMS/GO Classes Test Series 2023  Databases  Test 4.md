@@ -2,9 +2,6 @@
 subject: DBMS
 type: GOTS
 status: Revision
-atQ: 15
-startQ: 1
-endQ: 15
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/results.html?exam_id=386
 ---
 
@@ -16,4 +13,4 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 
 ![[Pasted image 20231017183846.png]]::![[Pasted image 20231017183936.png]] <!--SR:!2024-04-02,112,290-->
 
-#today ![[Pasted image 20231017200225.png]]:: ![[Pasted image 20231017200242.png]] <!--SR:!2023-10-28,3,252-->
+![[Pasted image 20231017200225.png]]:: ![[Pasted image 20231017200242.png]] <!--SR:!2023-10-28,3,252-->

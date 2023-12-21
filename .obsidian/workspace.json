@@ -4,11 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "9a81e85addbaf878",
+        "id": "039ddc6a12c011f8",
         "type": "tabs",
         "children": [
           {
-            "id": "5877e21b84d940b9",
+            "id": "0e98d9138cf815fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "812867e75e9e2c82",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "StateFull/DBMS.canvas",
+                "viewState": {
+                  "x": -15,
+                  "y": -110,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "482d4bd9eb20040d",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
@@ -16,166 +39,31 @@
             }
           },
           {
-            "id": "1a4fca7b0f0e7c99",
+            "id": "523257d4cff40464",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/zealWorkBook/TOC/TOC -1 - workbook.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "85bee3f7e19de50d",
+            "id": "de49b8df4f197bb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c559eefc2730f4bc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "StateFull/COA.canvas",
-                "viewState": {
-                  "x": 435.17170527343774,
-                  "y": 212.986479296875,
-                  "zoom": -0.3547342399706042
-                }
-              }
-            }
-          },
-          {
-            "id": "2244b90b346652dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9da1c73f4af4c0da",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "StateFull/COA.canvas",
-                "viewState": {
-                  "x": 121.82620585937507,
-                  "y": 765.3702069469904,
-                  "zoom": -0.3547342399706042
-                }
-              }
-            }
-          },
-          {
-            "id": "29517801fd5bb089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be943a241134c0db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Normal Task Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36ca259aa3499500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "322c104190ed7318",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "StateFull/TOC.canvas",
-                "viewState": {
-                  "x": -100,
-                  "y": -90,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "a757a2a9b1143533",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "StateFull/CN.canvas",
-                "viewState": {
-                  "x": -145.77171874999974,
-                  "y": 49.79312500000036,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "2afc9aab557ac6d5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "StateFull/MATH.canvas",
-                "viewState": {
-                  "x": 325.4578124999996,
-                  "y": -236.50296875000004,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "480ef6d21c032346",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
+                "file": "Revision/Que/PracticeSet/Referential Constraint - practice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sync",
+                "query": "tag:#mistake/lack/TermAndConcept",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,11 +117,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 252.50436401367188
+    "width": 428.5043640136719,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -257,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/zealWorkBook/TOC/TOC -1 - workbook.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/zealWorkBook/TOC/TOC -1 - workbook.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -323,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/zealWorkBook/TOC/TOC -1 - workbook.md"
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md"
               }
             }
           },
@@ -341,7 +231,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/zealWorkBook/TOC/TOC -1 - workbook.md"
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md"
               }
             }
           },
@@ -354,11 +244,12 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 361.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -381,21 +272,33 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1a4fca7b0f0e7c99",
+  "active": "523257d4cff40464",
   "lastOpenFiles": [
-    "Revision/Que/zealWorkBook/TOC/34. Check String in TM - zealworkbook.md",
-    "Revision/Que/zealWorkBook/TOC/TOC -1 - workbook.md",
-    "Revision/Que/zealWorkBook/TOC/22. Check the Context Free Language.md",
-    "StateFull/TOC.canvas",
-    "DialyStuff/2023-12-21.md",
-    "StateFull/COA.canvas",
-    "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
-    "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
-    "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
-    "StateFull/CN.canvas",
+    "Revision/TS/UA/All India Mock Test - 1.md",
+    "Revision/TS/ZealTS/FULL/Test ID - 78 Mock - 4 - 2023.md",
+    "Revision/TS/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
+    "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
+    "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
+    "Revision/TS/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
+    "Revision/Que/PracticeSet/Referential Constraint - practice.md",
+    "Revision/Notes/ShortNotes/COA/Pin diagram of 8085 microprocessor.md",
+    "Revision/Que/PracticeSet/media/Referential Constraint.pdf.part",
+    "StateFull/DBMS.canvas",
     "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
     "StateFull/MATH.canvas",
+    "StateFull/CN.canvas",
+    "DialyStuff/2023-12-21.md",
     "templates/Normal Task Template.md",
+    "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
+    "StateFull/COA.canvas",
+    "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
+    "Revision/Que/zealWorkBook/TOC/TOC -1 - workbook.md",
+    "StateFull/TOC.canvas",
+    "Revision/Que/zealWorkBook/TOC/media/Pasted image 20231221195859.png",
+    "Revision/Que/zealWorkBook/TOC/media/Pasted image 20231221195822.png",
+    "Revision/Que/zealWorkBook/TOC/34. Check String in TM - zealworkbook.md",
+    "Revision/Que/zealWorkBook/TOC/22. Check the Context Free Language.md",
+    "Revision/TS/ZealTS/COA/2022/TESTID -27- CSO-2.md",
     "Bhisandiya/1 Month Plan Suggestions.md",
     "Bhisandiya/Hinduism.md",
     "Bhisandiya/Index.md",
@@ -410,25 +313,14 @@
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220155819.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220154354.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220154341.png",
-    "Revision/TS/ZealTS/CN/media/Pasted image 20231220154019.png",
     "Untitled.md",
-    "Revision/TS/ZealTS/CN/media/Pasted image 20231220143015.png",
     "Index.md",
     "StateFull/OS.canvas",
-    "Revision/TS/ZealTS/FULL/Test ID - 78 Mock - 4 - 2023.md",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
-    "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
-    "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.sync-conflict-20231220-104556-B6HVX6C.md",
-    "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.sync-conflict-20231218-012122-B6HVX6C.md",
-    "Revision/Que/PYQ/OS/CPU Scheduling - pyq.md",
-    "Revision/Que/PYQ/OS/CPU Scheduling - pyq.sync-conflict-20231218-012108-B6HVX6C.md",
-    "templates/Normal Task Template.sync-conflict-20231220-104408-6DIXJSL.md",
-    "Revision/Que/zealWorkBook/DSA/ADA Test – 2 -zealworkbook 2.md",
     "StateFull/APTI.canvas",
     "Revision/Que/PYQ/APTI/media",
     "Revision/Que/PYQ/APTI",
-    "StateFull/DBMS.canvas",
     "StateFull/ALGO.canvas",
     "StateFull/DLD.canvas",
     "Revision/TS/UA/media",
@@ -437,7 +329,6 @@
     "Revision/TS/ZealTS/MATH",
     "Tricks",
     "Revision/Que/PracticeSet/media/13. Pigeon hole principle.pdf",
-    "Revision/Que/PracticeSet/media/3. Sequential Circuit.pdf",
-    "StateFull"
+    "Revision/Que/PracticeSet/media/3. Sequential Circuit.pdf"
   ]
 }

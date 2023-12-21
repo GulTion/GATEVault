@@ -302,7 +302,10 @@
     "card/MATH/probability/Conditional": 2,
     "card/CN/NetworkLayer/NAT": 9,
     "card/CN/NetworkLayer/ARP": 10,
-    "card/CN/NetworkLayer/ICMP": 11
+    "card/CN/NetworkLayer/ICMP": 11,
+    "card/TOC/DFA": 5,
+    "card/TOC/DFA/CombinationDFA": 1,
+    "card/TOC/DFA/CombinationDFAStates": 2
   },
   "_version": 2
 }

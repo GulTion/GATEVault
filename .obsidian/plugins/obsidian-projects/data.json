@@ -295,6 +295,11 @@
                 "operator": "is",
                 "enabled": false,
                 "value": "PYQ"
+              },
+              {
+                "field": "completed",
+                "operator": "is-empty",
+                "enabled": true
               }
             ]
           },
