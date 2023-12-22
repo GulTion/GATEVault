@@ -28,6 +28,21 @@
             }
           },
           {
+            "id": "9851f75f8d08f4ee",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "StateFull/COA.canvas",
+                "viewState": {
+                  "x": 325,
+                  "y": 552.8816317991638,
+                  "zoom": -0.5585648106565487
+                }
+              }
+            }
+          },
+          {
             "id": "a8bf79675e80ed79",
             "type": "leaf",
             "state": {
@@ -35,9 +50,9 @@
               "state": {
                 "file": "StateFull/MATH.canvas",
                 "viewState": {
-                  "x": -180,
-                  "y": -80,
-                  "zoom": -1.6460276519068882
+                  "x": 132.97265624999994,
+                  "y": -693.503406524657,
+                  "zoom": 0
                 }
               }
             }
@@ -82,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
+                "file": "StateFull/COA.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
+                "file": "StateFull/COA.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md"
+                "file": "StateFull/COA.canvas"
               }
             }
           },
@@ -248,7 +263,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md"
+                "file": "StateFull/COA.canvas"
               }
             }
           },
@@ -287,12 +302,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f7274c30eedb3c13",
+  "active": "9851f75f8d08f4ee",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-22.md",
+    "StateFull/MATH.canvas",
+    "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231222094459.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231222094447.png",
-    "StateFull/MATH.canvas",
-    "DialyStuff/2023-12-22.md",
     "ToDo/MicroSoftTODO LIST.md",
     "2022-07-16.md",
     "ToDo",
@@ -322,7 +338,6 @@
     "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
     "StateFull/CN.canvas",
     "DialyStuff/2023-12-21.md",
-    "templates/Normal Task Template.md",
     "StateFull/COA.canvas",
     "StateFull/TOC.canvas",
     "Revision/Que/zealWorkBook/TOC/media/Pasted image 20231221195859.png",
@@ -334,7 +349,6 @@
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220160821.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220155825.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220155819.png",
-    "Revision/TS/ZealTS/CN/media/Pasted image 20231220154354.png",
     "StateFull/OS.canvas",
     "StateFull/APTI.canvas",
     "Revision/Que/PYQ/APTI/media",

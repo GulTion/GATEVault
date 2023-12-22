@@ -2,7 +2,7 @@
 type: ZealTS
 status: acquiring
 subject: MATH
-atQ: 6
+atQ: 11
 tags:
 ---
 #card/MATH/Calculus 
