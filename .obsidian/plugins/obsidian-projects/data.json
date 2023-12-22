@@ -297,7 +297,7 @@
               {
                 "field": "completed",
                 "operator": "is-empty",
-                "enabled": false
+                "enabled": true
               }
             ]
           },

@@ -2,8 +2,10 @@
 type: MicroNotes
 subject: TOC
 atQ: 0
+completed: true
 ---
-- [ ] 00:00 - 00:30 Write **Type of Error in C** including Linker https://unstop.com/blog/types-of-errors-in-cInday#note
+- [ ] 00:00 - 00:30 Write **Type of Error in C** including Linker https://unstop.com/blog/types-of-errors-in-cInday
+#note
 # Closure Properties Trick of CFL #notes/TOC/Closure_properties/CFG
 
 ^fc8cae

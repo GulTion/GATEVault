@@ -2,6 +2,7 @@
 type: MixQue
 src: https://unacademy.com/quiz/all-india-mock-test-1/BBXM6YETVD/solutions/SP_WEE3WDNNL5NF8DRWU
 status: acquiring
+subject: FULL
 ---
 #card/FULL 
 
