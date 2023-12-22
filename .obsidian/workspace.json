@@ -20,6 +20,21 @@
             }
           },
           {
+            "id": "923701987a6e1c08",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "StateFull/DBMS.canvas",
+                "viewState": {
+                  "x": -15,
+                  "y": -10.417343749999983,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
             "id": "723e948eb957aeed",
             "type": "leaf",
             "state": {
@@ -31,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-22.md",
+                "file": "StateFull/DBMS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-22.md",
+                "file": "StateFull/DBMS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-22.md"
+                "file": "StateFull/DBMS.canvas"
               }
             }
           },
@@ -180,14 +196,6 @@
             "type": "leaf",
             "state": {
               "type": "timeline",
-              "state": {}
-            }
-          },
-          {
-            "id": "94694aee29203cbb",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
               "state": {}
             }
           }
@@ -218,14 +226,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "7a464e9dc1b8d6b9",
+  "active": "923701987a6e1c08",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-22.md",
     "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "Revision/TS/ZealTS/FULL/Test ID - 78 Mock - 4 - 2023.md",
     "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
     "StateFull/ALGO.canvas",
-    "DialyStuff/2023-12-22.md",
     "Revision/Que/PYQ/DSA/Hashing.md",
     "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
     "StateFull/MATH.canvas",

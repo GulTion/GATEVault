@@ -26,7 +26,7 @@ lossless join and dependecny preserving![[Pasted image 20231028231215.png]]::![[
 BCNF defination![[Pasted image 20231008113937.png]]::![[Pasted image 20231008114000.png]] <!--SR:!2024-03-10,93,290-->
 
 
-![[Pasted image 20231008114221.png]]::![[Pasted image 20231008114242.png]] <!--SR:!2023-12-22,20,270-->
+![[Pasted image 20231008114221.png]]::![[Pasted image 20231008114242.png]] <!--SR:!2024-03-05,74,290-->
 
 
 - adequte=not more, not less![[Pasted image 20231028231459.png]]::D <!--SR:!2024-01-04,33,276-->

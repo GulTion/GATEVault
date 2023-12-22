@@ -17,7 +17,7 @@ atQ: 0
 - #today/week 14. lack of concept #r2![[Pasted image 20231015160348.png]]::![[Pasted image 20231015160407.png]] <!--SR:!2023-12-29,38,298-->
 - #today/daily 21 statemwnts ![[Pasted image 20231015164115.png]]:: ![[Pasted image 20231015164119.png]] <!--SR:!2023-12-28,20,285-->
 
-- #today/day 24 lack of practice ![[Pasted image 20231015164857.png]]::![[Pasted image 20231015164902.png]] <!--SR:!2023-12-20,29,285-->
+24 lack of practice ![[Pasted image 20231015164857.png]]::![[Pasted image 20231015164902.png]] <!--SR:!2024-04-14,114,305-->
 - 25 lack of practice ![[Pasted image 20231015164923.png]]::![[Pasted image 20231015164928.png]] <!--SR:!2023-12-24,42,290-->
 - 5. silly mistake![[Pasted image 20231014135910.png]]::![[Pasted image 20231014135917.png]] <!--SR:!2024-01-26,55,310-->
 - 6. silly mistake ![[Pasted image 20231014140029.png]]::![[Pasted image 20231014140040.png]] <!--SR:!2024-01-28,68,310-->
