@@ -25,7 +25,7 @@ mistake
 ?
 mistake
 - #mistake/lack/TimeOut #mistake/lack/ShortCutMethod
-![[Pasted image 20231213100654.png]] <!--SR:!2023-12-16,2,156-->
+![[Pasted image 20231213100654.png]] <!--SR:!2023-12-28,6,176-->
 
 #card/CN/MacLayer/Pure_Aloha
 ![[Pasted image 20231213113630.png]]

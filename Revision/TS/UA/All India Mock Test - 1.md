@@ -7,12 +7,12 @@ status: acquiring
 
 # COA
 
-#card/COA/ControlUnit/MicroprogrammedControlUnit 
+#card/COA/ControlUnit/MicroprogrammedControlUnit
 ![[Pasted image 20231218210641.png]]
 ?
-- #mistake/lack/TermAndConcept 
+- #mistake/lack/TermAndConcept
 3
-![[Pasted image 20231218210658.png]]
+![[Pasted image 20231218210658.png]] <!--SR:!2023-12-23,1,130-->
 
 #card/COA/io_device/DMA 
 ![[Pasted image 20231218211050.png]]
@@ -20,11 +20,11 @@ status: acquiring
 - #mistake/lack/Practice
 ![[Pasted image 20231218211105.png]] 
 
-#card/COA/Cache_Memory 
+#card/COA/Cache_Memory
 ![[Pasted image 20231218211355.png]]
 ?
-- #mistake/lack/FormulaError 
-![[Pasted image 20231218211419.png]] 
+- #mistake/lack/FormulaError
+![[Pasted image 20231218211419.png]] <!--SR:!2023-12-24,2,150-->
 
 # OS
 

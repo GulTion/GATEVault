@@ -97,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StateFull/COA.canvas",
+                "file": "DialyStuff/2023-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StateFull/COA.canvas",
+                "file": "DialyStuff/2023-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StateFull/COA.canvas"
+                "file": "DialyStuff/2023-12-22.md"
               }
             }
           },
@@ -263,7 +263,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "StateFull/COA.canvas"
+                "file": "DialyStuff/2023-12-22.md"
               }
             }
           },
@@ -302,8 +302,9 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "9851f75f8d08f4ee",
+  "active": "9ce1609854947244",
   "lastOpenFiles": [
+    "StateFull/COA.canvas",
     "DialyStuff/2023-12-22.md",
     "StateFull/MATH.canvas",
     "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
@@ -338,7 +339,6 @@
     "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
     "StateFull/CN.canvas",
     "DialyStuff/2023-12-21.md",
-    "StateFull/COA.canvas",
     "StateFull/TOC.canvas",
     "Revision/Que/zealWorkBook/TOC/media/Pasted image 20231221195859.png",
     "Revision/Que/zealWorkBook/TOC/media/Pasted image 20231221195822.png",

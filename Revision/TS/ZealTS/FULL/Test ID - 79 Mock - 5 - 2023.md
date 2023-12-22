@@ -28,11 +28,13 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ![[Pasted image 20231214130837.png]] <!--SR:!2023-12-16,2,150-->
 
 #card/COA/Cache_Memory/Effective_Access_Time
+#star/⭐⭐
 ![[Pasted image 20231214131212.png]]
 ?
 - #mistake/lack/FormulaError i didn't consider 60% of instruction for I-cache
 - #mistake/lack/TimeOut taken 7min
-![[Pasted image 20231214131218.png]] <!--SR:!2023-12-16,2,150-->
+- considering the miss penley double, but it not must be in fr
+![[Pasted image 20231214131218.png]] <!--SR:!2023-12-25,3,150-->
 
 
 #card/DLD/Combinational_Circuit/Ripple_Carry_Adder
