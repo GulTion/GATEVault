@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StateFull/MATH.canvas",
+                "file": "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StateFull/MATH.canvas",
+                "file": "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StateFull/MATH.canvas"
+                "file": "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "StateFull/MATH.canvas"
+                "file": "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md"
               }
             }
           }
@@ -257,10 +257,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "90aee2b4b259921e",
+  "active": "693ae07b5d161938",
   "lastOpenFiles": [
-    "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md",
+    "Revision/Que/PYQ/MATH/media/Pasted image 20231222201015.png",
+    "Revision/Que/PYQ/MATH/media/Pasted image 20231222201004.png",
     "StateFull/MATH.canvas",
+    "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md",
     "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
     "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231222190813.png",
     "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231222190741.png",
@@ -295,7 +297,6 @@
     "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
     "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
     "Revision/TS/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md",
-    "Revision/Que/PracticeSet/Referential Constraint - practice.md",
     "Revision/Que/PracticeSet/media/Referential Constraint.pdf.part",
     "StateFull/CN.canvas",
     "StateFull/TOC.canvas",
@@ -304,7 +305,6 @@
     "StateFull/DSA.canvas",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220161115.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220161109.png",
-    "Revision/TS/ZealTS/CN/media/Pasted image 20231220160829.png",
     "StateFull/OS.canvas",
     "StateFull/APTI.canvas",
     "Revision/Que/PYQ/APTI/media",
