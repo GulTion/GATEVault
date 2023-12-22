@@ -6,6 +6,7 @@
     "atQ": "number",
     "sr-interval": "number",
     "sr-ease": "number",
-    "completed": "checkbox"
+    "completed": "checkbox",
+    "location": "multitext"
   }
 }

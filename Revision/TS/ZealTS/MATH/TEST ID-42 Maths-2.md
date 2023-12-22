@@ -3,6 +3,7 @@ type: ZealTS
 status: acquiring
 subject: MATH
 atQ: 6
+tags:
 ---
 #card/MATH/Calculus 
 
@@ -22,4 +23,11 @@ atQ: 6
 ?
 - #mistake
 ![[Pasted image 20231218200552.png]] 
+
+#card/MATH/Calculus/Integration 
+![[Pasted image 20231222094447.png]]
+?
+![[Pasted image 20231222094459.png]]
+
+ 
 
