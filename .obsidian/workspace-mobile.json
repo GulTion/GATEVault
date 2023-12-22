@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Normal Task Template.md",
+                "file": "DialyStuff/2023-12-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "templates/Normal Task Template.md",
+            "file": "DialyStuff/2023-12-22.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "templates/Normal Task Template.md",
+            "file": "DialyStuff/2023-12-22.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "templates/Normal Task Template.md"
+            "file": "DialyStuff/2023-12-22.md"
           }
         }
       },
@@ -166,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -185,11 +186,12 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "589707dc29387caa",
+  "active": "fcf8c36750a92567",
   "lastOpenFiles": [
+    "StateFull/OS.canvas",
+    "DialyStuff/2023-12-22.md",
     "StateFull/DSA.canvas",
     "DialyStuff/2023-12-20.md",
-    "StateFull/OS.canvas",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.sync-conflict-20231218-012122-B6HVX6C.md",
     "DialyStuff/2023-12-18.md",
@@ -227,7 +229,6 @@
     "Demo.md",
     "DialyStuff/2023-12-15.md",
     "Demo.sync-conflict-20231215-185152-B6HVX6C.md",
-    "Demo.sync-conflict-20231215-185134-6DIXJSL.md",
     "FlowChart.canvas"
   ]
 }

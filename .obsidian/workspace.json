@@ -19,17 +19,9 @@
             "id": "9ce1609854947244",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "18d106e6451da8b3",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
+                "file": "DialyStuff/2023-12-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
+                "file": "DialyStuff/2023-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
+                "file": "DialyStuff/2023-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 1 2023.md"
+                "file": "DialyStuff/2023-12-22.md"
               }
             }
           },
@@ -229,7 +221,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 1 2023.md"
+                "file": "DialyStuff/2023-12-22.md"
               }
             }
           },
@@ -264,14 +256,17 @@
       "omnisearch:Omnisearch": false,
       "obsidian-projects:Open projects": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "18d106e6451da8b3",
+  "active": "9ce1609854947244",
   "lastOpenFiles": [
+    "ToDo/MicroSoftTODO LIST.md",
+    "DialyStuff/2023-12-22.md",
+    "2022-07-16.md",
+    "ToDo",
     "Revision/TS/ZealTS/FULL/TEST ID 80 MOCK 4.md",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "Revision/Que/PYQ/ALGO/Greedy Technique.md",
@@ -302,12 +297,9 @@
     "templates/Normal Task Template.md",
     "Revision/TS/ZealTS/CN/Test ID - 16 CN Test - 3 2023.md",
     "StateFull/COA.canvas",
-    "Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md",
-    "Revision/Que/zealWorkBook/TOC/TOC -1 - workbook.md",
     "StateFull/TOC.canvas",
     "Revision/Que/zealWorkBook/TOC/media/Pasted image 20231221195859.png",
     "Revision/Que/zealWorkBook/TOC/media/Pasted image 20231221195822.png",
-    "Revision/Que/zealWorkBook/TOC/34. Check String in TM - zealworkbook.md",
     "StateFull/DSA.canvas",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220161115.png",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220161109.png",
@@ -326,7 +318,6 @@
     "Revision/TS/UA",
     "Revision/TS/ZealTS/MATH/media",
     "Revision/TS/ZealTS/MATH",
-    "Tricks",
-    "Revision/Que/PracticeSet/media/13. Pigeon hole principle.pdf"
+    "Tricks"
   ]
 }
