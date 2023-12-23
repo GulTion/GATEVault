@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md",
+                "file": "DialyStuff/2023-12-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md",
+                "file": "DialyStuff/2023-12-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md",
+                "file": "DialyStuff/2023-12-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md"
+                "file": "DialyStuff/2023-12-23.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md"
+                "file": "DialyStuff/2023-12-23.md"
               }
             }
           }
@@ -259,10 +259,11 @@
   },
   "active": "693ae07b5d161938",
   "lastOpenFiles": [
+    "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md",
+    "DialyStuff/2023-12-23.md",
     "Revision/Que/PYQ/MATH/media/Pasted image 20231222201015.png",
     "Revision/Que/PYQ/MATH/media/Pasted image 20231222201004.png",
     "StateFull/MATH.canvas",
-    "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md",
     "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
     "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231222190813.png",
     "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231222190741.png",
@@ -304,7 +305,6 @@
     "Revision/Que/zealWorkBook/TOC/media/Pasted image 20231221195822.png",
     "StateFull/DSA.canvas",
     "Revision/TS/ZealTS/CN/media/Pasted image 20231220161115.png",
-    "Revision/TS/ZealTS/CN/media/Pasted image 20231220161109.png",
     "StateFull/OS.canvas",
     "StateFull/APTI.canvas",
     "Revision/Que/PYQ/APTI/media",
