@@ -20,3 +20,19 @@ src: /host/COLLECTION/GATE2023/WorkBooks/zealWorkBook/basic/DSAlgo/Solutions Top
 
 ![[Pasted image 20231112014059.png]]::20 ![[Pasted image 20231112014129.png]] <!--SR:!2023-12-02,8,222-->
 
+#card/DSA/Graph/BFS_DFS
+![[Pasted image 20231223154059.png]]
+?
+C
+![[Pasted image 20231223154113.png]]
+
+#card/DSA/Graph/BFS_DFS 
+![[Pasted image 20231223154633.png]]
+?
+B
+
+#card/DSA/Graph/BFS_DFS 
+![[Pasted image 20231223155502.png]]
+?
+![[Pasted image 20231223155516.png]]
+

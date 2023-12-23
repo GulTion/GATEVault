@@ -311,7 +311,12 @@
     "card/MATH/Calculus/Intef": 2,
     "card/MATH/Calculus/Integration": 3,
     "card/MATH/linear_algebra/trace": 2,
-    "card/MATH/linear_algebra/SystemOfEquation": 3
+    "card/MATH/linear_algebra/SystemOfEquation": 3,
+    "card/tree": 20,
+    "card/DSA/Graph/Traver": 1,
+    "card/DSA/Graph/BFS": 2,
+    "card/DSA/Graph/BFS_": 3,
+    "card/DSA/Graph/BFS_DFS": 4
   },
   "_version": 2
 }
