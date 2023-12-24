@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/5. EIGENVALUES AND EIGENVECTORS 146.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/5. EIGENVALUES AND EIGENVECTORS 146.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/5. EIGENVALUES AND EIGENVECTORS 146.md",
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/5. EIGENVALUES AND EIGENVECTORS 146.md"
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/5. EIGENVALUES AND EIGENVECTORS 146.md"
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md"
               }
             }
           }
@@ -231,11 +231,14 @@
   },
   "active": "1ea7b3517313f24a",
   "lastOpenFiles": [
-    "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/5. EIGENVALUES AND EIGENVECTORS 146.md",
+    "DialyStuff/2023-12-24.md",
+    "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media/Pasted image 20231224115305.png",
+    "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media/Pasted image 20231224115256.png",
+    "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
+    "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra",
     "StateFull/MATH.canvas",
-    "DialyStuff/2023-12-24.md",
     "DialyStuff/2023-12-23.md",
     "StateFull/ALGO.canvas",
     "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
@@ -249,8 +252,6 @@
     "Revision/Que/PYQ/MATH/media/Pasted image 20231222201015.png",
     "Revision/Que/PYQ/MATH/media/Pasted image 20231222201004.png",
     "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231222190813.png",
-    "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231222190741.png",
-    "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231222190732.png",
     "DialyStuff/2023-12-22.md",
     "Revision/Notes/MicroNotes/TOC/Context Free Grammer and Language.md",
     "Revision/TS/UA/All India Mock Test - 1.md",
@@ -273,7 +274,6 @@
     "Excalidraw/Drawing 2023-11-18 01.18.14.excalidraw.md",
     "Excalidraw/Drawing 2023-12-21 23.05.24.excalidraw.md",
     "Revision/TS/MadeEasyTS/MATH/ENGINEERING MATHEMATICS-1 (GATE 2023).md",
-    "Revision/TS/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
     "Revision/Que/PracticeSet/media/Referential Constraint.pdf.part",
     "StateFull/CN.canvas",
     "StateFull/TOC.canvas",
@@ -285,7 +285,6 @@
     "StateFull/DLD.canvas",
     "Revision/TS/UA/media",
     "Revision/TS/UA",
-    "Revision/TS/ZealTS/MATH/media",
-    "Revision/TS/ZealTS/MATH"
+    "Revision/TS/ZealTS/MATH/media"
   ]
 }
