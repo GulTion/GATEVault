@@ -1,0 +1,1 @@
+{"path":"Revision/TS/UA/media/Pasted image 20231224190659.png","text":"© solution Hide S-1is true a BST can be formed in O(n) expected time S-2 is false . Deletion on an ordinary binary search tree of height h takes ©(h) time in worst case, and h can be Q(n) if the tree with n nodes is unbalanced","libVersion":"0.2.3","langs":"eng"}
