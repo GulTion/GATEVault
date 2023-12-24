@@ -3,6 +3,7 @@ type: MixQue
 src: https://unacademy.com/quiz/all-india-mock-test-2/R2HNYWH33A/solutions/SP_PO1Z7ZZ2KS9HDERN6
 status: acquiring
 subject: FULL
+atQ: 27
 ---
 #card/FULL 
 

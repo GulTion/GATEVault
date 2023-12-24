@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-24.md",
+                "file": "Revision/TS/UA/All India Mock Test - 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-24.md",
+                "file": "Revision/TS/UA/All India Mock Test - 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-24.md"
+                "file": "Revision/TS/UA/All India Mock Test - 2.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-24.md"
+                "file": "Revision/TS/UA/All India Mock Test - 2.md"
               }
             }
           }
@@ -229,10 +229,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c6232149688f0f9b",
+  "active": "1ea7b3517313f24a",
   "lastOpenFiles": [
-    "Revision/TS/UA/All India Mock Test - 2.md",
     "DialyStuff/2023-12-24.md",
+    "Revision/TS/UA/All India Mock Test - 2.md",
     "Revision/TS/UA/media/Pasted image 20231224203941.png",
     "Revision/TS/UA/media/Pasted image 20231224203925.png",
     "Revision/TS/UA/media/Pasted image 20231224203724.png",
