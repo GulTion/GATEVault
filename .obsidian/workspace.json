@@ -48,34 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b008757efa5e47c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "StateFull/ALGO.canvas",
-                "viewState": {
-                  "x": 231.19625000000002,
-                  "y": 46.36984375000003,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "89bb811c9227d8b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
+                "file": "DialyStuff/2023-12-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -176,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
+                "file": "DialyStuff/2023-12-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
+                "file": "DialyStuff/2023-12-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md"
+                "file": "DialyStuff/2023-12-24.md"
               }
             }
           },
@@ -252,7 +225,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md"
+                "file": "DialyStuff/2023-12-24.md"
               }
             }
           }
@@ -283,17 +256,18 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "89bb811c9227d8b6",
+  "active": "693ae07b5d161938",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-23.md",
+    "DialyStuff/2023-12-24.md",
+    "StateFull/ALGO.canvas",
+    "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
     "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231223155516.png",
     "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231223155502.png",
     "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231223154633.png",
     "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231223154113.png",
     "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231223154059.png",
     "Revision/Notes/ShortNotes/DSA/Type of Edges in DFS.md",
-    "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
-    "StateFull/ALGO.canvas",
-    "DialyStuff/2023-12-23.md",
     "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md",
     "Revision/Que/PYQ/MATH/media/Pasted image 20231222201015.png",
     "Revision/Que/PYQ/MATH/media/Pasted image 20231222201004.png",
@@ -312,7 +286,6 @@
     "Revision/Que/PYQ/DSA/Hashing.md",
     "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
     "StateFull/COA.canvas",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231222094459.png",
     "ToDo/MicroSoftTODO LIST.md",
     "2022-07-16.md",
     "ToDo",
