@@ -16,34 +16,7 @@
             }
           },
           {
-            "id": "da46893c6414ca4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90aee2b4b259921e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "StateFull/MATH.canvas",
-                "viewState": {
-                  "x": 1361.6604799202025,
-                  "y": -364.83454253727905,
-                  "zoom": -1.0042187499999977
-                }
-              }
-            }
-          },
-          {
-            "id": "693ae07b5d161938",
+            "id": "c6232149688f0f9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,19 +28,19 @@
             }
           },
           {
-            "id": "a0b0b1c634a36269",
+            "id": "1ea7b3517313f24a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
+                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/5. EIGENVALUES AND EIGENVECTORS 146.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-24.md",
+                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/5. EIGENVALUES AND EIGENVECTORS 146.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-24.md",
+                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/5. EIGENVALUES AND EIGENVECTORS 146.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-24.md"
+                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/5. EIGENVALUES AND EIGENVECTORS 146.md"
               }
             }
           },
@@ -225,12 +198,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-24.md"
+                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/5. EIGENVALUES AND EIGENVECTORS 146.md"
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -256,10 +229,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "693ae07b5d161938",
+  "active": "1ea7b3517313f24a",
   "lastOpenFiles": [
-    "DialyStuff/2023-12-23.md",
+    "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
+    "Revision/Que/zealWorkBook/MATH/LinearAlgebra/5. EIGENVALUES AND EIGENVECTORS 146.md",
+    "Revision/Que/zealWorkBook/MATH/LinearAlgebra",
+    "StateFull/MATH.canvas",
     "DialyStuff/2023-12-24.md",
+    "DialyStuff/2023-12-23.md",
     "StateFull/ALGO.canvas",
     "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
     "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231223155516.png",
@@ -271,8 +248,6 @@
     "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md",
     "Revision/Que/PYQ/MATH/media/Pasted image 20231222201015.png",
     "Revision/Que/PYQ/MATH/media/Pasted image 20231222201004.png",
-    "StateFull/MATH.canvas",
-    "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
     "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231222190813.png",
     "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231222190741.png",
     "Revision/Que/zealWorkBook/MATH/media/Pasted image 20231222190732.png",
@@ -299,7 +274,6 @@
     "Excalidraw/Drawing 2023-12-21 23.05.24.excalidraw.md",
     "Revision/TS/MadeEasyTS/MATH/ENGINEERING MATHEMATICS-1 (GATE 2023).md",
     "Revision/TS/MadeEasyTS/PROGRAMMING AND DATA STRUCTURES (GATE 2022).md",
-    "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
     "Revision/Que/PracticeSet/media/Referential Constraint.pdf.part",
     "StateFull/CN.canvas",
     "StateFull/TOC.canvas",
@@ -312,7 +286,6 @@
     "Revision/TS/UA/media",
     "Revision/TS/UA",
     "Revision/TS/ZealTS/MATH/media",
-    "Revision/TS/ZealTS/MATH",
-    "Tricks"
+    "Revision/TS/ZealTS/MATH"
   ]
 }
