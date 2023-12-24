@@ -30,3 +30,18 @@ C
 ?
 ![[Pasted image 20231224190904.png]]  ^482495
 
+#card/DSA/hashing 
+![[Pasted image 20231224202120.png]]
+?
+![[Pasted image 20231224202135.png]] 
+
+#card/TOC/Decidable 
+![[Pasted image 20231224203708.png]]
+?
+![[Pasted image 20231224203724.png]] 
+
+#card/MATH/linear_algebra/SystemOfEquation 
+![[Pasted image 20231224203925.png]]
+?
+![[Pasted image 20231224203941.png]] 
+

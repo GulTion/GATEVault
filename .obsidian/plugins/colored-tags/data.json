@@ -322,7 +322,8 @@
     "card/OS/process/Thread": 2,
     "card/hash": 21,
     "card/DSA/Hashing": 14,
-    "card/DSA/hashing": 15
+    "card/DSA/hashing": 15,
+    "card/D": 22
   },
   "_version": 2
 }
