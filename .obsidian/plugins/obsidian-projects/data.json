@@ -98,6 +98,11 @@
               {
                 "field": "subject",
                 "order": "asc",
+                "enabled": false
+              },
+              {
+                "field": "completed",
+                "order": "asc",
                 "enabled": true
               }
             ]

@@ -4,6 +4,7 @@ type: ZealTS
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=62b1b55b45b9ff36f6109f0c&test_id=4
 status: Revision
 atQ: 0
+completed: true
 ---
 [LINK](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=62b1b55b45b9ff36f6109f0c&test_id=4)
 #card/TOC
@@ -13,6 +14,7 @@ atQ: 0
 - 3 grammer to regex ![[Pasted image 20231007114736.png]]::![[Pasted image 20231007114747.png]] <!--SR:!2024-01-30,68,310-->
 - 7 check L is regular or not![[Pasted image 20231007115406.png]]::![[Pasted image 20231007115438.png]] <!--SR:!2024-01-29,67,312-->
 - 10 ![[Pasted image 20231007120106.png]]::![[Pasted image 20231007120113.png]] <!--SR:!2023-12-10,17,293-->
+#star
 Non Regular Closure ![[Pasted image 20231007121844.png]]::![[Pasted image 20231007121851.png]]![[Pasted image 20231007121905.png]] <!--SR:!2023-11-24,1,212-->
 18 ![[Pasted image 20231007122032.png]]::![[Pasted image 20231007122040.png]] <!--SR:!2024-02-16,56,312-->
 - 19 Kleen Star of L is Regular?![[Pasted image 20231007122112.png]]::![[Pasted image 20231007122117.png]] <!--SR:!2023-12-01,8,252-->
