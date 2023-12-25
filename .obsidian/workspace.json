@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-24.md",
+                "file": "DialyStuff/2023-12-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/UA/All India Mock Test - 2.md",
+                "file": "DialyStuff/2023-12-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/UA/All India Mock Test - 2.md",
+                "file": "DialyStuff/2023-12-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/UA/All India Mock Test - 2.md"
+                "file": "DialyStuff/2023-12-25.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/UA/All India Mock Test - 2.md"
+                "file": "DialyStuff/2023-12-25.md"
               }
             }
           }
@@ -207,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 572.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,8 +229,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1ea7b3517313f24a",
+  "active": "c6232149688f0f9b",
   "lastOpenFiles": [
+    "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
+    "DialyStuff/2023-12-25.md",
     "DialyStuff/2023-12-24.md",
     "Revision/TS/UA/All India Mock Test - 2.md",
     "Revision/TS/UA/media/Pasted image 20231224203941.png",
@@ -274,7 +276,6 @@
     "Revision/Que/PracticeSet/Pigeon Hole Principle.md",
     "Revision/Que/PracticeSet/Input Output - note.md",
     "Excalidraw/Drawing 2023-11-18 01.18.14.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-21 23.05.24.excalidraw.md",
     "Revision/Que/PracticeSet/media/Referential Constraint.pdf.part",
     "StateFull/CN.canvas",
     "StateFull/TOC.canvas",
