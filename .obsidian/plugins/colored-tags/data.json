@@ -323,7 +323,9 @@
     "card/hash": 21,
     "card/DSA/Hashing": 14,
     "card/DSA/hashing": 15,
-    "card/D": 22
+    "card/D": 22,
+    "card/prob": 23,
+    "card/EM/probability/Geometric": 1
   },
   "_version": 2
 }
