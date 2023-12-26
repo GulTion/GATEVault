@@ -2,7 +2,7 @@
 type: ZealTS
 status: acquiring
 subject: MATH
-atQ: 11
+atQ: 24
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=62e3d1ff37e42cca6b369a47
 ---
 #card/MATH/probability 
@@ -26,4 +26,16 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ![[Pasted image 20231225194128.png]]
 ?
 ![[Pasted image 20231225194135.png]] 
+
+#card/EM/probability 
+![[Pasted image 20231225195028.png]]
+?
+![[Pasted image 20231225195043.png]]
+
+#card
+![[Pasted image 20231225195234.png]]
+?
+![[Pasted image 20231225195244.png]]
+
+
 
