@@ -21,7 +21,7 @@ B,D
 ?
 - #mistake
 A
-![[Pasted image 20231219011727.png]]
+![[Pasted image 20231219011727.png]] <!--SR:!2023-12-28,2,152-->
 
 
 ![[Pasted image 20231219012459.png]]::![[Pasted image 20231219012516.png]]

@@ -56,5 +56,5 @@ A,B
 #card
 ![[Pasted image 20231220161109.png]]
 ?
-![[Pasted image 20231220161115.png]] 
+![[Pasted image 20231220161115.png]] <!--SR:!2023-12-27,1,130--> 
 
