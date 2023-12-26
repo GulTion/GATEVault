@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
+                "file": "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
+                "file": "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
+                "file": "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Notes/ShortNotes/COA/I O ShortNotes.md"
+                "file": "Revision/Que/PYQ/CD/CD-FULL_PYQ.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Notes/ShortNotes/COA/I O ShortNotes.md"
+                "file": "Revision/Que/PYQ/CD/CD-FULL_PYQ.md"
               }
             }
           }
@@ -233,6 +233,7 @@
   },
   "active": "821a3ceae9b4d80f",
   "lastOpenFiles": [
+    "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
     "Revision/TS/ZealTS/MATH/TEST ID-44 Maths-4.md",
     "DialyStuff/2023-12-26.md",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195244.png",
@@ -251,7 +252,6 @@
     "Revision/Que/PYQ/MATH/Probability-pyq.md",
     "DialyStuff/2023-12-25.md",
     "Revision/Que/zealWorkBook/MATH/Calculus - ZealWorkBook.md",
-    "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
     "DialyStuff/2023-12-24.md",
     "Revision/TS/UA/All India Mock Test - 2.md",
     "Revision/TS/UA/media/Pasted image 20231224203941.png",

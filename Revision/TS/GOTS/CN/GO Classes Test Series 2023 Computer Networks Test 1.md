@@ -21,7 +21,7 @@ atQ: 0
 ![[Screenshot_2023_1026_160918.jpg]]
 ?
 - ticked on wrong optino, bcz not have dry run the question on copy pen. sending six afer getting 3 ack
-5![[Screenshot_2023_1026_160930 1.jpg]] <!--SR:!2023-12-22,14,252-->
+5![[Screenshot_2023_1026_160930 1.jpg]] <!--SR:!2024-01-01,6,232-->
 
 #today ![[Screenshot_2023_1026_161058.jpg]]::![[Screenshot_2023_1026_161111.jpg]]
 

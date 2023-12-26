@@ -35,11 +35,12 @@ mistake
 ![[Pasted image 20231213113636.png]] <!--SR:!2023-12-16,2,156-->
 
 #card/CN/DataLinkLayer/FlowControl/SelctiveRepeat
+#star/2
 ![[Pasted image 20231213114158.png]]
 ?
 mistake
 - #mistake/lack/TermAndConcept
-![[Pasted image 20231213114207.png]] <!--SR:!2023-12-19,4,170-->
+![[Pasted image 20231213114207.png]] <!--SR:!2023-12-28,2,150-->
 
 #card/CN/MacLayer/CSMA_CD
 ![[Pasted image 20231213114745.png]]

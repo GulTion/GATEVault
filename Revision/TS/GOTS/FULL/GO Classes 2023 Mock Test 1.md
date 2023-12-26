@@ -17,7 +17,7 @@ mistake
 ![[Pasted image 20231210200718.png]]
 ?
 A,B,C
-![[Pasted image 20231210200728.png]]
+![[Pasted image 20231210200728.png]] <!--SR:!2023-12-28,2,150-->
 
 
 #card/DM/set_Theory/Countable
