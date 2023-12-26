@@ -46,3 +46,11 @@ C
 ?
 ![[Pasted image 20231224203941.png]] 
 
+| Ff |  | ff |
+| ---- | ---- | ---- |
+| sds |  | xfs |
+|  |  | sdsf |
+|  |  |  |
+|  |  |  |
+| sds |  | xfs |
+|  |  | sdsf |

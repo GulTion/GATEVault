@@ -11,8 +11,12 @@
             "id": "bcf071cd9ef8ea05",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-12-27.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -28,31 +32,14 @@
             }
           },
           {
-            "id": "d6e44b9f9f680ac5",
+            "id": "9fee470838f7e22f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ea7b3517313f24a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/TS/UA/All India Mock Test - 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "obsidian-projects",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,13 +204,29 @@
                 "file": "DialyStuff/2023-12-27.md"
               }
             }
+          },
+          {
+            "id": "c7b6931488b816f8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "39a627d0bff5e2b9",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,9 +248,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d6e44b9f9f680ac5",
+  "active": "bcf071cd9ef8ea05",
   "lastOpenFiles": [
+    "Revision/Que/PYQ/COA/pipline.md",
+    "Revision/Notes/ShortNotes/CN/TCP Notes.md",
     "DialyStuff/2023-12-27.md",
+    "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
     "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
     "Revision/TS/ZealTS/MATH/TEST ID-44 Maths-4.md",
     "DialyStuff/2023-12-26.md",
@@ -286,9 +292,6 @@
     "Revision/Notes/MicroNotes/TOC/Context Free Grammer and Language.md",
     "StateFull/DBMS.canvas",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
-    "Revision/TS/ZealTS/FULL/Test ID - 78 Mock - 4 - 2023.md",
-    "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
-    "Revision/Que/PYQ/DSA/Hashing.md",
     "StateFull/COA.canvas",
     "ToDo",
     "Revision/Que/PYQ/ALGO",

@@ -70,7 +70,13 @@
             }
           },
           "filter": {
-            "conditions": []
+            "conditions": [
+              {
+                "field": "completed",
+                "operator": "is-empty",
+                "enabled": true
+              }
+            ]
           },
           "colors": {
             "conditions": [

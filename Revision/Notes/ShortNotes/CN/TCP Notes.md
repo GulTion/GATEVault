@@ -5,12 +5,7 @@ sr-due: 2023-11-23
 sr-interval: 6
 sr-ease: 188
 ---
-- [ ] Micro Notes
-- [ ] FlashCard
-- [ ] Notes
-- [ ] PYQ
-- [ ] Zeal WorkBook
-- [ ] ZealTS#note
+
 #card/CN/Transport_Layer 
 
 
