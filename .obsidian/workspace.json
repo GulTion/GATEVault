@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcf071cd9ef8ea05",
+            "id": "9fee470838f7e22f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,26 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "821a3ceae9b4d80f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fee470838f7e22f",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
             }
           }
         ]
@@ -248,14 +228,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "bcf071cd9ef8ea05",
+  "active": "9fee470838f7e22f",
   "lastOpenFiles": [
+    "Revision/TS/ZealTS/MATH/TEST ID-44 Maths-4.md",
+    "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
+    "DialyStuff/2023-12-27.md",
     "Revision/Que/PYQ/COA/pipline.md",
     "Revision/Notes/ShortNotes/CN/TCP Notes.md",
-    "DialyStuff/2023-12-27.md",
-    "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
     "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
-    "Revision/TS/ZealTS/MATH/TEST ID-44 Maths-4.md",
     "DialyStuff/2023-12-26.md",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195244.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195234.png",
