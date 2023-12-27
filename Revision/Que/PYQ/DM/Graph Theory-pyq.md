@@ -11,7 +11,7 @@ src: https://practicepaper.in/gate-cse/graph-theory?page_no=17
 
 ![[Pasted image 20231102132234.png]]::A,B <!--SR:!2023-11-26,6,250-->
 
-#today ![[Pasted image 20231102133433.png]]
+ ![[Pasted image 20231102133433.png]]
 ?
 A is correct
 - A refer Micronotes

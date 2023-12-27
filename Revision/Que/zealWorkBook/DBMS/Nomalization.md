@@ -36,5 +36,5 @@ atQ: 0
 
 ![[Pasted image 20231028164135.png]]::![[Pasted image 20231028164145.png]] <!--SR:!2024-02-11,71,308-->
 
-#today MVD![[Pasted image 20231028164209.png]]::![[Pasted image 20231028164218.png]] <!--SR:!2023-10-31,2,248-->
+ MVD![[Pasted image 20231028164209.png]]::![[Pasted image 20231028164218.png]] <!--SR:!2023-10-31,2,248-->
 

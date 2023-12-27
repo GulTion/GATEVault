@@ -18,8 +18,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "321f7426eed34762",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a75808f235ac775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-12-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "410aa8e266a24370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/Que/PYQ/COA/Number System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card/EM/probability",
+                "query": "tag:#r2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,13 +106,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5043640136719,
-    "collapsed": true
+    "width": 283.5043640136719
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -202,11 +233,11 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,15 +259,37 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "9fee470838f7e22f",
+  "active": "4a75808f235ac775",
   "lastOpenFiles": [
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231227104324.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231227104317.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231227104112.png",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231227104105.png",
+    "DialyStuff/2023-12-27.md",
+    "Revision/Que/PYQ/COA/Number System.md",
+    "Revision/Que/zealWorkBook/CN/TCP.md",
+    "Revision/TS/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
+    "Revision/TS/ZealTS/COA/Test ID - 27 CSO Test - 2 2022.md",
+    "Revision/TS/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
+    "Revision/TS/ZealTS/DM/TEST ID-2 DM-2.md",
+    "Revision/Que/MixQue/COA/Type of Questions in Pipeline.md",
+    "Revision/TS/ZealTS/FULL/TEST ID 80 MOCK 4.md",
+    "Revision/TS/ZealTS/DBMS/Test 4 DBMS TEST ID 34.md",
+    "Revision/Notes/ShortNotes/CN/TCP Notes.md",
+    "Revision/Que/MixQue/DLD/Sequential Circule.md",
+    "Revision/Que/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
+    "Revision/Que/PYQ/DBMS/Normal Forms-pyq.md",
+    "Revision/Que/zealWorkBook/DBMS/Nomalization.md",
+    "Revision/Que/zealWorkBook/COA/IO device.md",
+    "Revision/Que/PYQ/DM/Graph Theory-pyq.md",
+    "Revision/TS/GOTS/CN/GO Classes Test Series 2023 Computer Networks Test 1.md",
+    "Revision/Que/PYQ/FULL/GATE 2021 SET-2.md",
+    "Revision/Que/PYQ/FULL/GATE 2020.md",
+    "Revision/Que/PYQ/OS/Memory Management - pyq.md",
     "Revision/TS/ZealTS/MATH/TEST ID-44 Maths-4.md",
     "Revision/Que/PYQ/CD/CD-FULL_PYQ.md",
-    "DialyStuff/2023-12-27.md",
     "Revision/Que/PYQ/COA/pipline.md",
-    "Revision/Notes/ShortNotes/CN/TCP Notes.md",
     "Revision/Notes/ShortNotes/COA/I O ShortNotes.md",
-    "DialyStuff/2023-12-26.md",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195244.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195234.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195043.png",
@@ -244,34 +297,12 @@
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195028.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225194135.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225194128.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231225184414.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231225184406.png",
-    "Revision/TS/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
-    "templates/Normal Task Template.md",
-    "DialyStuff/2023-12-20.md",
-    "Revision/Que/zealWorkBook/MATH/Probability.md",
-    "Revision/Que/PYQ/MATH/Probability-pyq.md",
-    "DialyStuff/2023-12-25.md",
-    "Revision/Que/zealWorkBook/MATH/Calculus - ZealWorkBook.md",
-    "DialyStuff/2023-12-24.md",
-    "Revision/TS/UA/All India Mock Test - 2.md",
-    "Revision/TS/UA/media/Pasted image 20231224203941.png",
     "StateFull/OS.canvas",
-    "Revision/TS/UA/All India Mock Test - 1.md",
-    "Revision/Que/zealWorkBook/MATH/LinearAlgebra/5. EIGENVALUES AND EIGENVECTORS 146.md",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
-    "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra",
     "StateFull/MATH.canvas",
-    "DialyStuff/2023-12-23.md",
     "StateFull/ALGO.canvas",
-    "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
-    "Revision/Notes/ShortNotes/DSA/Type of Edges in DFS.md",
-    "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md",
-    "DialyStuff/2023-12-22.md",
-    "Revision/Notes/MicroNotes/TOC/Context Free Grammer and Language.md",
     "StateFull/DBMS.canvas",
-    "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "StateFull/COA.canvas",
     "ToDo",
     "Revision/Que/PYQ/ALGO",

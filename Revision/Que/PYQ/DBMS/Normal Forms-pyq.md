@@ -17,10 +17,10 @@ Check BCNF from the statement condition![[Pasted image 20231008095838.png]]::![[
 lossless join and dependecny preserving![[Pasted image 20231028231215.png]]::![[Pasted image 20231008101353.png]] <!--SR:!2024-04-24,132,310-->
 
 
-#today FD and MVD ![[Pasted image 20231008102802.png]]::![[Pasted image 20231008102813.png]]
+ FD and MVD ![[Pasted image 20231008102802.png]]::![[Pasted image 20231008102813.png]]
 
 
-#today FD and MVD![[Pasted image 20231008113134.png]]::B![[Pasted image 20231008113156.png]]
+ FD and MVD![[Pasted image 20231008113134.png]]::B![[Pasted image 20231008113156.png]]
 
 
 BCNF defination![[Pasted image 20231008113937.png]]::![[Pasted image 20231008114000.png]] <!--SR:!2024-03-10,93,290-->
@@ -31,7 +31,7 @@ BCNF defination![[Pasted image 20231008113937.png]]::![[Pasted image 20231008114
 
 - adequte=not more, not less![[Pasted image 20231028231459.png]]::D <!--SR:!2024-01-04,33,276-->
 
-#today ![[Pasted image 20231008120159.png]]::![[Pasted image 20231008120216.png]] <!--SR:!2023-11-11,1,231-->
+ ![[Pasted image 20231008120159.png]]::![[Pasted image 20231008120216.png]] <!--SR:!2023-11-11,1,231-->
 
-#today ![[Pasted image 20231008120255.png]]::![[Pasted image 20231008120311.png]] <!--SR:!2023-11-02,3,250-->
+ ![[Pasted image 20231008120255.png]]::![[Pasted image 20231008120311.png]] <!--SR:!2023-11-02,3,250-->
 

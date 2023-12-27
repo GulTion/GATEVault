@@ -7,13 +7,13 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ---
 #card/FULL 
 
-![[Pasted image 20231106004812.png]]::![[Pasted image 20231106004817.png]] <!--SR:!2023-11-20,9,270-->
+![[Pasted image 20231106004812.png]]::![[Pasted image 20231106004817.png]] <!--SR:!2024-01-29,33,290-->
 
-![[Pasted image 20231106005542.png]]::![[Pasted image 20231106005549.png]] <!--SR:!2023-11-24,13,270-->
+![[Pasted image 20231106005542.png]]::![[Pasted image 20231106005549.png]] <!--SR:!2024-01-02,6,250-->
 
 ![[Pasted image 20231106005717.png]]::![[Pasted image 20231106005723.png]] <!--SR:!2023-11-14,3,199-->
 
-#today ![[Pasted image 20231106005908.png]]::![[Pasted image 20231106005915.png]] <!--SR:!2023-11-09,1,230-->
+ ![[Pasted image 20231106005908.png]]::![[Pasted image 20231106005915.png]] <!--SR:!2023-11-09,1,230-->
 
 ![[Pasted image 20231106005935.png]]::![[Pasted image 20231106005941.png]]
 

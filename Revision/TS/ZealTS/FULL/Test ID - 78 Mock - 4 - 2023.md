@@ -2,7 +2,7 @@
 type: ZealTS
 subject: FULL
 status: acquiring
-startQ: 9
+startQ: 11
 ---
 #card/FULL 
 
@@ -16,7 +16,7 @@ mistake
 #card/COA/pipeline/Data_Hazards
 ![[Pasted image 20231213100457.png]]
 ?
-mistake
+mistakeANSWER
 - #mistake/lack/TermAndConcept
 ![[Pasted image 20231213100525.png]] <!--SR:!2023-12-19,4,170-->
 
@@ -32,7 +32,7 @@ mistake
 ?
 mistake
 - #mistake
-![[Pasted image 20231213113636.png]] <!--SR:!2023-12-16,2,156-->
+![[Pasted image 20231213113636.png]] <!--SR:!2023-12-28,1,136-->
 
 #card/CN/DataLinkLayer/FlowControl/SelctiveRepeat
 #star/2
@@ -47,5 +47,15 @@ mistake
 ?
 mistake
 - #mistake/lack/TermAndConcept
-![[Pasted image 20231213114751.png]] <!--SR:!2023-12-16,2,156-->
+![[Pasted image 20231213114751.png]] <!--SR:!2023-12-31,4,176-->
+
+#card/CN/NetworkLayer/NAT 
+![[Pasted image 20231227104105.png]]
+?
+![[Pasted image 20231227104112.png]] 
+
+#card/OS/process/Scheduling
+![[Pasted image 20231227104317.png]]
+?
+![[Pasted image 20231227104324.png]] 
 

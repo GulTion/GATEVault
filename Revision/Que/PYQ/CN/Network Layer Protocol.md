@@ -10,7 +10,7 @@ completed: true
 #card/CN/NetworkLayer/SubNetting/Forwarding
 ![[Pasted image 20231030144234.png]]::3![[Pasted image 20231030144248.png]] <!--SR:!2024-01-22,55,270-->
 
-![[Pasted image 20231030144316.png]]::A,C ![[Pasted image 20231030144359.png]] <!--SR:!2023-12-19,6,250-->
+![[Pasted image 20231030144316.png]]::A,C ![[Pasted image 20231030144359.png]] <!--SR:!2023-12-30,3,230-->
 
 #card/CN/NetworkLayer/SuperNetting
 #star/⭐⭐
@@ -84,8 +84,8 @@ D
 ?
 B![[Pasted image 20231102190940.png]] <!--SR:!2024-01-03,43,298-->
 
-#card/CN/NetworkLayer/Fragmentation 
+#card/CN/NetworkLayer/Fragmentation
 ![[Pasted image 20231102204756.png]]
 ?
-260 ![[Pasted image 20231102204814.png]] <!--SR:!2023-12-22,31,295-->
+260 ![[Pasted image 20231102204814.png]] <!--SR:!2024-04-30,125,315-->
 

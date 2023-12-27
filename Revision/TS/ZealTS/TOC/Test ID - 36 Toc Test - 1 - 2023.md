@@ -22,4 +22,4 @@ Non Regular Closure ![[Pasted image 20231007121844.png]]::![[Pasted image 202310
 - 22 ![[Pasted image 20231007124648.png]]::![[Pasted image 20231007124714.png]]![[Pasted image 20231007124658.png]] <!--SR:!2024-01-18,27,272-->
 - product of two prime number is not composite![[Pasted image 20231007124858.png]]::![[Pasted image 20231007124923.png]]![[Pasted image 20231007124906.png]] <!--SR:!2023-12-03,10,272-->
 - 24 PRODCUT DFA![[Pasted image 20231007125053.png]]::![[Pasted image 20231007125058.png]] <!--SR:!2024-01-17,55,312-->
-#today 25 REG property![[Pasted image 20231007125124.png]]::![[Pasted image 20231007125134.png]]
+ 25 REG property![[Pasted image 20231007125124.png]]::![[Pasted image 20231007125134.png]]

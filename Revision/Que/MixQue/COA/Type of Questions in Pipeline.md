@@ -12,7 +12,7 @@ atQ: 0
 - Only Structural Hazard , Different Cycle for Execution stage![Untitled](Revision/media/PYQRevision/COA/media/Untitled%203.png)::solution![Untitled](Revision/media/PYQRevision/COA/media/Untitled%204.png)![Untitled](Revision/media/PYQRevision/COA/media/Untitled%205.png) <!--SR:!2023-12-23,43,292-->
 
 
-#today/week - Different type of instruction have Diffrent Stall e.g CPI calculation![Untitled](Revision/media/PYQRevision/COA/media/Untitled%206.png)::![Untitled](Revision/media/PYQRevision/COA/media/Untitled%207.png) <!--SR:!2023-11-12,6,252-->
+/week - Different type of instruction have Diffrent Stall e.g CPI calculation![Untitled](Revision/media/PYQRevision/COA/media/Untitled%206.png)::![Untitled](Revision/media/PYQRevision/COA/media/Untitled%207.png) <!--SR:!2023-11-12,6,252-->
     
 - Total time for Execution , in which time r of evey stage is given with input buffer delay![Untitled](Revision/media/PYQRevision/COA/media/Untitled%208.png)::![Untitled](Revision/media/PYQRevision/COA/media/Untitled%209.png) <!--SR:!2023-12-25,45,292-->
     

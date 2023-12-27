@@ -14,7 +14,7 @@ status: acquiring
 # Slotted Aloha
 ![[Pasted image 20231026142944.png]]::C, this method for first time succeed![[Pasted image 20231026143016.png]] <!--SR:!2024-01-28,68,310-->
 
-![[Pasted image 20231027153956.png]]![[Pasted image 20231027153855.png]]::B![[Pasted image 20231027153905.png]] <!--SR:!2023-12-19,34,270-->
+![[Pasted image 20231027153956.png]]![[Pasted image 20231027153855.png]]::B![[Pasted image 20231027153905.png]] <!--SR:!2024-01-12,16,250-->
 
 
 ![[Pasted image 20231027154001.png]]![[Pasted image 20231027153923.png]]::D![[Pasted image 20231027153938.png]] <!--SR:!2024-02-21,71,290-->
@@ -30,12 +30,12 @@ status: acquiring
 
 ![[Pasted image 20231027155049.png]]::A <!--SR:!2024-02-11,65,290-->
 
-![[Pasted image 20231027155214.png]]::A <!--SR:!2023-12-17,37,290-->
+![[Pasted image 20231027155214.png]]::A <!--SR:!2024-05-23,148,310-->
 
 ![[Pasted image 20231103201411.png]]::B,D ![[Pasted image 20231103201429.png]] <!--SR:!2023-12-29,38,300-->
 
 
-![[Pasted image 20231103201751.png]]::D![[Pasted image 20231103201811.png]] <!--SR:!2023-12-23,32,282-->
+![[Pasted image 20231103201751.png]]::D![[Pasted image 20231103201811.png]] <!--SR:!2024-01-10,14,262-->
 
  <!--SR:!2023-11-06,3,262-->
 
@@ -51,7 +51,7 @@ status: acquiring
 # CSMA/CD
 ![[Pasted image 20231116175202.png]]::B![[Pasted image 20231116175217.png]] <!--SR:!2024-01-12,35,278-->
 
-![[Pasted image 20231116180131.png]]::0.125 ![[Pasted image 20231116180209.png]]![[Pasted image 20231116180225.png]] <!--SR:!2023-12-26,18,232-->
+![[Pasted image 20231116180131.png]]::0.125 ![[Pasted image 20231116180209.png]]![[Pasted image 20231116180225.png]] <!--SR:!2024-02-23,58,252-->
 
 ![[Pasted image 20231116180316.png]]::![[Pasted image 20231116180209.png]]![[Pasted image 20231116180344.png]] <!--SR:!2024-01-07,30,258-->
 

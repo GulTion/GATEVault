@@ -11,8 +11,11 @@ completed: true
 #card/OS/Memory
 #notes/OS/Memory/TLB_hitMiss 
 ![[Pasted image 20231002125807.png]]::![[Pasted image 20231002125817.png]] <!--SR:!2023-12-21,17,272-->
+
 #notes/OS/Memory/Virtual_page_table
-#star/⭐ ![[Pasted image 20231028232141.png]]::![[Pasted image 20231002131308.png]] <!--SR:!2023-12-23,30,270-->
+#star/⭐ ![[Pasted image 20231028232141.png]]
+?
+![[Pasted image 20231002131308.png]] <!--SR:!2023-12-23,30,270-->
 #notes/OS/Memory/TLB_hitMiss 
 ![[Pasted image 20231031184718.png]]::B. 155 ![[Pasted image 20231111000554.png]] <!--SR:!2023-12-30,39,292-->
 #notes/OS/Memory/Virtual_page_table 

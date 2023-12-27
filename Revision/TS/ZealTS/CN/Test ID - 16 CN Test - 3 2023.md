@@ -7,16 +7,16 @@ atQ: 25
 ---
 #card/CN/NetworkLayer 
 
-#card/CN/NetworkLayer/Fragmentation 
+#card/CN/NetworkLayer/Fragmentation
 ![[Pasted image 20231219143957.png]]
 ?
-![[Pasted image 20231219144014.png]] 
-![[Pasted image 20231219144024.png]]
+![[Pasted image 20231219144014.png]]
+![[Pasted image 20231219144024.png]] <!--SR:!2023-12-29,2,150-->
 
-#card/CN/NetworkLayer/Fragmentation 
+#card/CN/NetworkLayer/Fragmentation
 ![[Pasted image 20231219144512.png]]
 ?
-![[Pasted image 20231219144519.png]] 
+![[Pasted image 20231219144519.png]] <!--SR:!2023-12-29,2,150-->
 
 #card/CN/NetworkLayer/SubNetting 
 ![[Pasted image 20231219145148.png]]
@@ -28,30 +28,30 @@ atQ: 25
 ?
 ![[Pasted image 20231220142713.png]] 
 
-#card/CN/NetworkLayer/NAT 
+#card/CN/NetworkLayer/NAT
 ![[Pasted image 20231220143010.png]]
 ?
-![[Pasted image 20231220143015.png]] 
+![[Pasted image 20231220143015.png]] <!--SR:!2023-12-28,1,130-->
 
 #card/CN/NetworkLayer/ARP
 ![[Pasted image 20231220154019.png]]
 ?
-A,B
+A,B <!--SR:!2023-12-28,1,130-->
 
-#card/CN/NetworkLayer/ARP 
+#card/CN/NetworkLayer/ARP
 ![[Pasted image 20231220154341.png]]
 ?
-![[Pasted image 20231220154354.png]] 
+![[Pasted image 20231220154354.png]] <!--SR:!2023-12-28,1,130-->
 
-#card/CN/NetworkLayer/NAT 
+#card/CN/NetworkLayer/NAT
 ![[Pasted image 20231220155819.png]]
 ?
-![[Pasted image 20231220155825.png]] 
+![[Pasted image 20231220155825.png]] <!--SR:!2023-12-29,2,150-->
 
 #card/CN/NetworkLayer/ICMP
 ![[Pasted image 20231220160821.png]]
 ?
-![[Pasted image 20231220160829.png]] 
+![[Pasted image 20231220160829.png]] <!--SR:!2023-12-29,2,150--> 
 
 #card
 ![[Pasted image 20231220161109.png]]

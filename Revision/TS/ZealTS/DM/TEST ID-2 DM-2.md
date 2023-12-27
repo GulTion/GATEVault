@@ -23,7 +23,7 @@ atQ: 0
 
 ![[Pasted image 20231101145353.png]]::540![[Pasted image 20231101145400.png]] <!--SR:!2023-12-16,7,170-->
 
-#today ![[Pasted image 20231101145607.png]]::11 ![[Pasted image 20231101145615.png]] <!--SR:!2023-12-05,2,150-->
+ ![[Pasted image 20231101145607.png]]::11 ![[Pasted image 20231101145615.png]] <!--SR:!2023-12-05,2,150-->
 
 ![[Pasted image 20231101145625.png]]::27 ![[Pasted image 20231101145634.png]] <!--SR:!2023-12-18,9,190-->
 
