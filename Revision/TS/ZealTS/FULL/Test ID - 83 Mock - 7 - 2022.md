@@ -7,7 +7,7 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 #card/FULL
 
 - 32 closure property ![[Pasted image 20231016173434.png]]::![[Pasted image 20231016173441.png]] <!--SR:!2023-11-20,12,272-->
-- 36 probabilty![[Pasted image 20231016175839.png]]::![[Pasted image 20231016175939.png]] <!--SR:!2023-11-16,6,252-->
+- 36 probabilty![[Pasted image 20231016175839.png]]::![[Pasted image 20231016175939.png]] <!--SR:!2023-12-30,3,232-->
 
 
 ![[Pasted image 20231112175727.png]]::![[Pasted image 20231112175749.png]]

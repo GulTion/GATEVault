@@ -15,7 +15,7 @@ status: Revision
 
 ![[Pasted image 20230909180839.png]]::A
 
-![[Pasted image 20230911175041.png]]::D <!--SR:!2023-11-13,2,150-->
+![[Pasted image 20230911175041.png]]::D <!--SR:!2023-12-31,4,170-->
 
 ![[Pasted image 20230911175406.png]]::A,B,C
 
@@ -30,7 +30,7 @@ status: Revision
 
 ![[Pasted image 20231019001502.png]]::C
 
-![[Pasted image 20231019001956.png]]::A <!--SR:!2023-11-13,2,150-->
+![[Pasted image 20231019001956.png]]::A <!--SR:!2023-12-31,4,170-->
 
 ![[Pasted image 20231019002249.png]]::C
 

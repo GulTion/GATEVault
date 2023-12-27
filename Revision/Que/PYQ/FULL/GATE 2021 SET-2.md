@@ -29,4 +29,4 @@ atQ: 0
 ![[Pasted image 20231026022625.png]]::![[Pasted image 20231026022649.png]]
 
 
-![[Pasted image 20231026023057.png]]::https://gateoverflow.in/357487/gate-cse-2021-set-2-question-50#a_list_title <!--SR:!2023-11-03,4,274-->
+![[Pasted image 20231026023057.png]]::https://gateoverflow.in/357487/gate-cse-2021-set-2-question-50#a_list_title <!--SR:!2023-12-29,2,254-->
