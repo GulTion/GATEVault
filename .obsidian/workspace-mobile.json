@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-22.md",
+                "file": "DialyStuff/2023-12-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DialyStuff/2023-12-22.md",
+            "file": "DialyStuff/2023-12-28.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DialyStuff/2023-12-22.md",
+            "file": "DialyStuff/2023-12-28.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -162,7 +162,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "DialyStuff/2023-12-22.md"
+            "file": "DialyStuff/2023-12-28.md"
           }
         }
       },
@@ -179,6 +179,14 @@
         "type": "leaf",
         "state": {
           "type": "reminder-list",
+          "state": {}
+        }
+      },
+      {
+        "id": "966153cd8f58a031",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
           "state": {}
         }
       }
@@ -206,9 +214,10 @@
   },
   "active": "d2173ff72f68d850",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-22.md",
+    "DialyStuff/2023-12-28.md",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231222094459.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231222094447.png",
-    "DialyStuff/2023-12-22.md",
     "StateFull/OS.canvas",
     "StateFull/DSA.canvas",
     "DialyStuff/2023-12-20.md",
@@ -225,7 +234,6 @@
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231217215113.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231217214833.png",
     "Revision/Que/PYQ/OS/File System - pyq.sync-conflict-20231218-012114-B6HVX6C.md",
-    "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231217171135.png",
     "Revision/Que/PYQ/OS/CPU Scheduling - pyq.sync-conflict-20231218-012108-B6HVX6C.md",
     "Revision/TS/ZealTS/MATH/TEST ID-41 Maths-1.md",
     "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",

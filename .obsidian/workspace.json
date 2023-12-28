@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-27.md",
+                "file": "DialyStuff/2023-12-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-27.md",
+                "file": "DialyStuff/2023-12-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-27.md",
+                "file": "DialyStuff/2023-12-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-27.md"
+                "file": "DialyStuff/2023-12-28.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-27.md"
+                "file": "DialyStuff/2023-12-28.md"
               }
             }
           },
@@ -232,12 +232,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,13 +258,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4a75808f235ac775",
+  "active": "ca7bc4254449ab06",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-27.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231227104324.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231227104317.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231227104112.png",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231227104105.png",
-    "DialyStuff/2023-12-27.md",
     "Revision/Que/PYQ/COA/Number System.md",
     "Revision/Que/zealWorkBook/CN/TCP.md",
     "Revision/TS/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
@@ -296,7 +295,6 @@
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195031.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195028.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225194135.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231225194128.png",
     "StateFull/OS.canvas",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra",
