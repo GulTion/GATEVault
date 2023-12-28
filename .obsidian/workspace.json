@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Revision/Que/PYQ/FULL/GATE 2019.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6ab5db606ab5075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "DialyStuff/2023-12-28.md",
                 "mode": "source",
                 "source": false
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-28.md",
+                "file": "Revision/Que/PYQ/FULL/GATE 2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-28.md",
+                "file": "Revision/Que/PYQ/FULL/GATE 2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-28.md"
+                "file": "Revision/Que/PYQ/FULL/GATE 2019.md"
               }
             }
           },
@@ -179,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-28.md"
+                "file": "Revision/Que/PYQ/FULL/GATE 2019.md"
               }
             }
           },
@@ -200,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -229,10 +241,17 @@
   "active": "c7719d0da2c9699a",
   "lastOpenFiles": [
     "DialyStuff/2023-12-28.md",
+    "Revision/Que/PYQ/FULL/GATE 2019.md",
+    "2022-07-16.md",
+    "Revision/Que/PYQ/COA/Memory Chip Design.md",
+    "Revision/Que/PYQ/COA/Machine Instruction.md",
+    "MadeEasy ShortNotes Progress.md",
+    "Revision/Que/PYQ/COA/media/Pasted image 20231228181157.png",
+    "Revision/Que/PYQ/COA/media/Pasted image 20231228181131.png",
+    "Revision/Que/PYQ/COA/media/Pasted image 20231228181120.png",
     "DialyStuff/2023-12-02.md",
     "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231201214606.png",
-    "MadeEasy ShortNotes Progress.md",
     "Revision/Que/PYQ/COA/Number System.md",
     "Revision/Que/zealWorkBook/DM/Partial Order Relation-zeal.md",
     "DialyStuff/2023-12-27.md",
@@ -255,15 +274,8 @@
     "Revision/Que/zealWorkBook/DBMS/Nomalization.md",
     "Revision/Que/zealWorkBook/COA/IO device.md",
     "Revision/Que/PYQ/DM/Graph Theory-pyq.md",
-    "Revision/TS/GOTS/CN/GO Classes Test Series 2023 Computer Networks Test 1.md",
-    "Revision/Que/PYQ/FULL/GATE 2021 SET-2.md",
-    "Revision/Que/PYQ/FULL/GATE 2020.md",
-    "Revision/Que/PYQ/OS/Memory Management - pyq.md",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195244.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195234.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195043.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195031.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195028.png",
     "StateFull/OS.canvas",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra",

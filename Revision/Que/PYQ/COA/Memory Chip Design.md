@@ -16,3 +16,8 @@ atQ: 0
 
 ![[Pasted image 20231106103830.png]]::60%![[Pasted image 20231106103843.png]] <!--SR:!2024-02-03,63,310-->
 
+#card/COA/memory_design 
+![[Pasted image 20231228181131.png]]
+?
+![[Pasted image 20231228181157.png]] 
+
