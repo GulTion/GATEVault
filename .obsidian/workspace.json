@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-28.md",
+                "file": "DialyStuff/2023-12-29.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/PYQ/FULL/GATE 2019.md",
+                "file": "DialyStuff/2023-12-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/PYQ/FULL/GATE 2019.md",
+                "file": "DialyStuff/2023-12-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/PYQ/FULL/GATE 2019.md"
+                "file": "DialyStuff/2023-12-29.md"
               }
             }
           },
@@ -191,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/PYQ/FULL/GATE 2019.md"
+                "file": "DialyStuff/2023-12-29.md"
               }
             }
           },
@@ -238,11 +239,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c7719d0da2c9699a",
+  "active": "d6ab5db606ab5075",
   "lastOpenFiles": [
-    "Revision/Que/PYQ/FULL/media/Pasted image 20231228195600.png",
-    "DialyStuff/2023-12-28.md",
     "Revision/Que/PYQ/FULL/GATE 2019.md",
+    "Revision/Que/PYQ/FULL/media/Pasted image 20231228195600.png",
+    "DialyStuff/2023-12-29.md",
     "2022-07-16.md",
     "Revision/Que/PYQ/COA/Memory Chip Design.md",
     "Revision/Que/PYQ/COA/Machine Instruction.md",
@@ -275,7 +276,6 @@
     "Revision/Que/zealWorkBook/DBMS/Nomalization.md",
     "Revision/Que/zealWorkBook/COA/IO device.md",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195244.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195234.png",
     "StateFull/OS.canvas",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra",
