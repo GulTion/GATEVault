@@ -1,0 +1,31 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#eeff00",
+      "directory": "ONEMONTH/FULL PYQ"
+    },
+    {
+      "type": "local",
+      "color": "#ff0000",
+      "directory": "ONEMONTH/FULL TEST"
+    },
+    {
+      "type": "local",
+      "color": "#8c00ff",
+      "directory": "ONEMONTH/FULL SUBJECT"
+    },
+    {
+      "type": "local",
+      "color": "#00ff91",
+      "directory": "ONEMONTH/FULL TOPIC"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "listWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}

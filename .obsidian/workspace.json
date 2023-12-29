@@ -30,9 +30,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "505259551e8477a0",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d41d6d7106a4f934",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "3aa69ab3cca051f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/Que/zealWorkBook/CD/CD-FULL-zeal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6c4d8982863002e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2023-12-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a34ee42ea9d4417c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TimeTable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-29.md",
+                "file": "Revision/Que/zealWorkBook/CD/CD-FULL-zeal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-29.md",
+                "file": "Revision/Que/zealWorkBook/CD/CD-FULL-zeal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-29.md"
+                "file": "Revision/Que/zealWorkBook/CD/CD-FULL-zeal.md"
               }
             }
           },
@@ -192,7 +244,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-29.md"
+                "file": "Revision/Que/zealWorkBook/CD/CD-FULL-zeal.md"
               }
             }
           },
@@ -236,14 +288,29 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false,
       "obsidian-trash-explorer:Open trash explorer": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d6ab5db606ab5075",
+  "active": "3aa69ab3cca051f7",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-29.md",
+    "ONEMONTH/FULL SUBJECT/2023-12-29 Test ID - 65 [Round - 1 Compiler Test -1] - 2023.md",
+    "ONEMONTH/FULL PYQ/2023-12-29 Test ID - 49 [Round - 1 - DM] - 2023.md",
+    "TimeTable.md",
+    "ONEMONTH/FULL PYQ/2023-12-29 PYQ - 2021.md",
+    "ONEMONTH/FULL TOPIC",
+    "ONEMONTH/FULL SUBJECT",
+    "ONEMONTH/FULL TEST",
+    "ONEMONTH/FULL PYQ",
+    "ONEMONTH/2023-12-24 ok.md",
+    "ONEMONTH/2023-12-29 ok.md",
+    "ONEMONTH/2023-12-25 fg.md",
+    "ONEMONTH",
+    "DialyStuff/2023-12-30.md",
+    "DialyStuff/2023-12-28.md",
     "Revision/Que/PYQ/FULL/GATE 2019.md",
     "Revision/Que/PYQ/FULL/media/Pasted image 20231228195600.png",
-    "DialyStuff/2023-12-29.md",
     "2022-07-16.md",
     "Revision/Que/PYQ/COA/Memory Chip Design.md",
     "Revision/Que/PYQ/COA/Machine Instruction.md",
@@ -267,14 +334,6 @@
     "Revision/TS/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
     "Revision/TS/ZealTS/DM/TEST ID-2 DM-2.md",
     "Revision/Que/MixQue/COA/Type of Questions in Pipeline.md",
-    "Revision/TS/ZealTS/FULL/TEST ID 80 MOCK 4.md",
-    "Revision/TS/ZealTS/DBMS/Test 4 DBMS TEST ID 34.md",
-    "Revision/Notes/ShortNotes/CN/TCP Notes.md",
-    "Revision/Que/MixQue/DLD/Sequential Circule.md",
-    "Revision/Que/zealWorkBook/DSA/Searching sorting Basic Solution final.md",
-    "Revision/Que/PYQ/DBMS/Normal Forms-pyq.md",
-    "Revision/Que/zealWorkBook/DBMS/Nomalization.md",
-    "Revision/Que/zealWorkBook/COA/IO device.md",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195244.png",
     "StateFull/OS.canvas",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
@@ -290,11 +349,6 @@
     "StateFull/TOC.canvas",
     "StateFull/DSA.canvas",
     "StateFull/APTI.canvas",
-    "Revision/Que/PYQ/APTI/media",
-    "Revision/Que/PYQ/APTI",
-    "StateFull/DLD.canvas",
-    "Revision/TS/UA/media",
-    "Revision/TS/UA",
-    "Revision/TS/ZealTS/MATH/media"
+    "StateFull/DLD.canvas"
   ]
 }
