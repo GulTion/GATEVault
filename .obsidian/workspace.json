@@ -83,8 +83,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md",
+                "file": "Revision/Que/PYQ/FULL/GATE 2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md",
+                "file": "Revision/Que/PYQ/FULL/GATE 2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md"
+                "file": "Revision/Que/PYQ/FULL/GATE 2019.md"
               }
             }
           },
@@ -244,7 +243,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md"
+                "file": "Revision/Que/PYQ/FULL/GATE 2019.md"
               }
             }
           },
@@ -292,8 +291,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3aa69ab3cca051f7",
+  "active": "c7719d0da2c9699a",
   "lastOpenFiles": [
+    "DialyStuff/2023-12-29.md",
+    "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md",
     "Revision/TS/ZealTS/CD/media/Pasted image 20231229223534.png",
     "Revision/TS/ZealTS/CD/media/Pasted image 20231229223530.png",
     "Revision/TS/ZealTS/CD/media/Pasted image 20231229222146.png",
@@ -304,10 +305,7 @@
     "Revision/TS/ZealTS/CD/media/Pasted image 20231229192430.png",
     "Revision/TS/ZealTS/CD/media/Pasted image 20231229192337.png",
     "Revision/TS/ZealTS/CD/media/Pasted image 20231229192335.png",
-    "Revision/TS/ZealTS/CD/media/Pasted image 20231229192330.png",
     "Revision/TS/ZealTS/CD/media",
-    "DialyStuff/2023-12-29.md",
-    "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md",
     "Revision/TS/ZealTS/CD",
     "ONEMONTH/FULL SUBJECT/2023-12-29 Test ID - 65 [Round - 1 Compiler Test -1] - 2023.md",
     "ONEMONTH/FULL PYQ/2023-12-29 Test ID - 49 [Round - 1 - DM] - 2023.md",
