@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/CD/media/Pasted image 20231229223530.png","text":"Construct a control - flow graph G for the following piece of code: fx<y) if (x<2) smallest = x; else smallest = z; else if (y <2) smallest = y; else smallest = z; return smallest; How many nodes are in the G? [Note: Don’t count entry and exit node]","libVersion":"0.2.3","langs":"eng"}

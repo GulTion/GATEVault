@@ -1,0 +1,1 @@
+{"path":"Revision/TS/ZealTS/CD/media/Pasted image 20231229190837.png","text":"Consider the following grammar, S-A (1 A—aBE (2 B—bCD (3) Coc @ D-d (5 E—eFG (6) Fof (1) Gog @® In which order productions are applied when parsing the string ‘abcdefg’ with an LR (1) parser? @1,2,6,8,7,3,5,4 (b)4,5,3,7,8,6,2,1 (©4,5,3,7,8,6,1,2 @1,2,3,4,56,7,8","libVersion":"0.2.3","langs":"eng"}

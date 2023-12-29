@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-29.md",
+                "file": "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-29.md",
+                "file": "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-29.md",
+                "file": "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-29.md"
+                "file": "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md"
               }
             }
           },
@@ -244,7 +244,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-29.md"
+                "file": "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md"
               }
             }
           },
@@ -294,7 +294,21 @@
   },
   "active": "3aa69ab3cca051f7",
   "lastOpenFiles": [
+    "Revision/TS/ZealTS/CD/media/Pasted image 20231229223534.png",
+    "Revision/TS/ZealTS/CD/media/Pasted image 20231229223530.png",
+    "Revision/TS/ZealTS/CD/media/Pasted image 20231229222146.png",
+    "Revision/TS/ZealTS/CD/media/Pasted image 20231229222142.png",
+    "Revision/TS/ZealTS/CD/media/Pasted image 20231229221948.png",
+    "Revision/TS/ZealTS/CD/media/Pasted image 20231229221944.png",
+    "Revision/TS/ZealTS/CD/media/Pasted image 20231229192434.png",
+    "Revision/TS/ZealTS/CD/media/Pasted image 20231229192430.png",
+    "Revision/TS/ZealTS/CD/media/Pasted image 20231229192337.png",
+    "Revision/TS/ZealTS/CD/media/Pasted image 20231229192335.png",
+    "Revision/TS/ZealTS/CD/media/Pasted image 20231229192330.png",
+    "Revision/TS/ZealTS/CD/media",
     "DialyStuff/2023-12-29.md",
+    "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md",
+    "Revision/TS/ZealTS/CD",
     "ONEMONTH/FULL SUBJECT/2023-12-29 Test ID - 65 [Round - 1 Compiler Test -1] - 2023.md",
     "ONEMONTH/FULL PYQ/2023-12-29 Test ID - 49 [Round - 1 - DM] - 2023.md",
     "TimeTable.md",
@@ -310,31 +324,19 @@
     "DialyStuff/2023-12-30.md",
     "DialyStuff/2023-12-28.md",
     "Revision/Que/PYQ/FULL/GATE 2019.md",
-    "Revision/Que/PYQ/FULL/media/Pasted image 20231228195600.png",
     "2022-07-16.md",
     "Revision/Que/PYQ/COA/Memory Chip Design.md",
     "Revision/Que/PYQ/COA/Machine Instruction.md",
     "MadeEasy ShortNotes Progress.md",
-    "Revision/Que/PYQ/COA/media/Pasted image 20231228181157.png",
-    "Revision/Que/PYQ/COA/media/Pasted image 20231228181131.png",
-    "Revision/Que/PYQ/COA/media/Pasted image 20231228181120.png",
     "DialyStuff/2023-12-02.md",
     "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231201214606.png",
     "Revision/Que/PYQ/COA/Number System.md",
     "Revision/Que/zealWorkBook/DM/Partial Order Relation-zeal.md",
     "DialyStuff/2023-12-27.md",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231227104324.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231227104317.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231227104112.png",
-    "Revision/TS/ZealTS/FULL/media/Pasted image 20231227104105.png",
     "Revision/Que/zealWorkBook/CN/TCP.md",
     "Revision/TS/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
     "Revision/TS/ZealTS/COA/Test ID - 27 CSO Test - 2 2022.md",
     "Revision/TS/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md",
-    "Revision/TS/ZealTS/DM/TEST ID-2 DM-2.md",
-    "Revision/Que/MixQue/COA/Type of Questions in Pipeline.md",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231225195244.png",
     "StateFull/OS.canvas",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra",
@@ -343,8 +345,6 @@
     "StateFull/DBMS.canvas",
     "StateFull/COA.canvas",
     "ToDo",
-    "Revision/Que/PYQ/ALGO",
-    "Revision/Que/PracticeSet/media/Referential Constraint.pdf.part",
     "StateFull/CN.canvas",
     "StateFull/TOC.canvas",
     "StateFull/DSA.canvas",
