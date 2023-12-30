@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/PYQ/DBMS/Transaction-pyq.md",
+                "file": "DialyStuff/2023-12-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/PYQ/DBMS/Transaction-pyq.md",
+                "file": "DialyStuff/2023-12-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/PYQ/DBMS/Transaction-pyq.md",
+                "file": "DialyStuff/2023-12-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/PYQ/DBMS/Transaction-pyq.md"
+                "file": "DialyStuff/2023-12-30.md"
               }
             }
           },
@@ -243,7 +243,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/PYQ/DBMS/Transaction-pyq.md"
+                "file": "DialyStuff/2023-12-30.md"
               }
             }
           },
@@ -293,12 +293,13 @@
   },
   "active": "c7719d0da2c9699a",
   "lastOpenFiles": [
+    "Revision/Que/PYQ/DBMS/Transaction-pyq.md",
+    "DialyStuff/2023-12-30.md",
     "Revision/Que/PYQ/DBMS/media/Pasted image 20231230004551.png",
     "Revision/Que/PYQ/DBMS/media/Pasted image 20231230004529.png",
     "Revision/Que/PYQ/DBMS/media/Pasted image 20231230000449.png",
     "Revision/Que/PYQ/DBMS/media/Pasted image 20231230000423.png",
     "Revision/Que/PYQ/FULL/GATE 2019.md",
-    "Revision/Que/PYQ/DBMS/Transaction-pyq.md",
     "DialyStuff/2023-12-29.md",
     "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md",
     "Revision/TS/ZealTS/CD/media/Pasted image 20231229223534.png",
@@ -307,7 +308,6 @@
     "Revision/TS/ZealTS/CD/media/Pasted image 20231229222142.png",
     "Revision/TS/ZealTS/CD/media/Pasted image 20231229221948.png",
     "Revision/TS/ZealTS/CD/media/Pasted image 20231229221944.png",
-    "Revision/TS/ZealTS/CD/media/Pasted image 20231229192434.png",
     "Revision/TS/ZealTS/CD/media",
     "Revision/TS/ZealTS/CD",
     "ONEMONTH/FULL SUBJECT/2023-12-29 Test ID - 65 [Round - 1 Compiler Test -1] - 2023.md",
@@ -322,7 +322,6 @@
     "ONEMONTH/2023-12-29 ok.md",
     "ONEMONTH/2023-12-25 fg.md",
     "ONEMONTH",
-    "DialyStuff/2023-12-30.md",
     "DialyStuff/2023-12-28.md",
     "2022-07-16.md",
     "Revision/Que/PYQ/COA/Memory Chip Design.md",
