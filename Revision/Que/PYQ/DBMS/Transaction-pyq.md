@@ -8,3 +8,8 @@ status: acquiring
 ?
 ![[Pasted image 20231230000423.png]] 
 
+#card
+![[Pasted image 20231230004551.png]]
+?
+![[Pasted image 20231230004529.png]]
+
