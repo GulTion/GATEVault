@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CD SUBJECT-WISE 1.md",
+                "file": "Revision/Que/PracticeSet/Expression Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CD SUBJECT-WISE 1.md",
+                "file": "Revision/Que/PracticeSet/Expression Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CD SUBJECT-WISE 1.md",
+                "file": "Revision/Que/PracticeSet/Expression Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CD SUBJECT-WISE 1.md"
+                "file": "Revision/Que/PracticeSet/Expression Analysis.md"
               }
             }
           },
@@ -245,7 +245,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CD SUBJECT-WISE 1.md"
+                "file": "Revision/Que/PracticeSet/Expression Analysis.md"
               }
             }
           },
@@ -296,6 +296,10 @@
   },
   "active": "e2fc83eb82160085",
   "lastOpenFiles": [
+    "Revision/Que/PracticeSet/media/11. Expression Analysis.pdf",
+    "Revision/Que/PracticeSet/Expression Analysis.md",
+    "Revision/Que/PracticeSet/Intermediate Representation - workbook.md",
+    "DialyStuff/2024-01-01.md",
     "media/Pasted image 20240101161932.png",
     "media/Pasted image 20240101161929.png",
     "media/Pasted image 20240101161921.png",
@@ -306,10 +310,8 @@
     "media/Pasted image 20240101161851.png",
     "media/Pasted image 20240101161842.png",
     "media/Pasted image 20240101161838.png",
-    "media/Pasted image 20240101161831.png",
     "DialyStuff/2023-12-30.md",
     "CD SUBJECT-WISE 1.md",
-    "DialyStuff/2024-01-01.md",
     "Revision/Que/PYQ/DBMS/Transaction-pyq.md",
     "Revision/Que/PYQ/FULL/GATE 2019.md",
     "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md",
@@ -337,8 +339,6 @@
     "Revision/Que/PYQ/COA/Number System.md",
     "Revision/Que/zealWorkBook/DM/Partial Order Relation-zeal.md",
     "DialyStuff/2023-12-27.md",
-    "Revision/Que/zealWorkBook/CN/TCP.md",
-    "Revision/TS/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
     "StateFull/OS.canvas",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra",
