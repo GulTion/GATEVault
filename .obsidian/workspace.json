@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-30.md",
+                "file": "DialyStuff/2024-01-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5043640136719
+    "width": 283.5043640136719,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2023-12-30.md",
+                "file": "DialyStuff/2024-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2023-12-30.md",
+                "file": "DialyStuff/2024-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2023-12-30.md"
+                "file": "DialyStuff/2024-01-01.md"
               }
             }
           },
@@ -243,7 +244,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2023-12-30.md"
+                "file": "DialyStuff/2024-01-01.md"
               }
             }
           },
@@ -293,14 +294,14 @@
   },
   "active": "c7719d0da2c9699a",
   "lastOpenFiles": [
-    "Revision/Que/PYQ/DBMS/Transaction-pyq.md",
     "DialyStuff/2023-12-30.md",
+    "DialyStuff/2024-01-01.md",
+    "Revision/Que/PYQ/DBMS/Transaction-pyq.md",
     "Revision/Que/PYQ/DBMS/media/Pasted image 20231230004551.png",
     "Revision/Que/PYQ/DBMS/media/Pasted image 20231230004529.png",
     "Revision/Que/PYQ/DBMS/media/Pasted image 20231230000449.png",
     "Revision/Que/PYQ/DBMS/media/Pasted image 20231230000423.png",
     "Revision/Que/PYQ/FULL/GATE 2019.md",
-    "DialyStuff/2023-12-30.md",
     "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md",
     "Revision/TS/ZealTS/CD/media/Pasted image 20231229223534.png",
     "Revision/TS/ZealTS/CD/media/Pasted image 20231229223530.png",
