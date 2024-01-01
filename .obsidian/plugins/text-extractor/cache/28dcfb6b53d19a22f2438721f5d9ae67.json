@@ -1,0 +1,1 @@
+{"path":"media/Pasted image 20240101161413.png","text":"Assuming that the following SDT is implemented by a bottom-up parser: S as fprint 'x} S — bS {print \"y} S — a {print \"w'} S — b fprint \"z} What will be the string that it will print when the input is “ababb™? (a) xyxyz (b) wyxyz (c) zyxyx (d) wyxyx","libVersion":"0.2.3","langs":"eng"}

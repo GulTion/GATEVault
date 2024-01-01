@@ -1,0 +1,1 @@
+{"path":"media/Pasted image 20240101161908.png","text":"Answer: (a) Solution: The grammar 1 is not LL (1) because it contains indirect left-recursion (S — Ta and T — ST). The grammar II is also not LL (1) grammar because in this grammar First of B contains ‘2’ and First (B) N Follow(B) = {b,&}n {b,c,d} = {b} # 0. So, option (a) is correct.","libVersion":"0.2.3","langs":"eng"}

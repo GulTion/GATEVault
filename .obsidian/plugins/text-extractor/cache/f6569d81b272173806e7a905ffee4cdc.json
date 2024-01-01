@@ -1,0 +1,1 @@
+{"path":"media/Pasted image 20240101161438.png","text":"We are given the following attribute grammar. E—E%T{E0v=2*Elv+Tv} E—E#T{E0v =3 ElLy -T+} E-T{Ev=5+Tyv T—a{lv=3 T—b{Tv=2 Toc{Tv=1} Construct abstract syntax tree, for the string \"a # c % b\", and then find, what is the value of E.v for the root node? .","libVersion":"0.2.3","langs":"eng"}

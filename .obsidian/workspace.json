@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7719d0da2c9699a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2024-01-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d6ab5db606ab5075",
             "type": "leaf",
             "state": {
@@ -37,6 +25,18 @@
             "state": {
               "type": "full-calendar-view",
               "state": {}
+            }
+          },
+          {
+            "id": "e2fc83eb82160085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CD SUBJECT-WISE 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -83,7 +83,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-01.md",
+                "file": "CD SUBJECT-WISE 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-01.md",
+                "file": "CD SUBJECT-WISE 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-01-01.md"
+                "file": "CD SUBJECT-WISE 1.md"
               }
             }
           },
@@ -244,7 +245,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-01-01.md"
+                "file": "CD SUBJECT-WISE 1.md"
               }
             }
           },
@@ -269,7 +270,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,23 +294,25 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c7719d0da2c9699a",
+  "active": "e2fc83eb82160085",
   "lastOpenFiles": [
+    "media/Pasted image 20240101161932.png",
+    "media/Pasted image 20240101161929.png",
+    "media/Pasted image 20240101161921.png",
+    "media/Pasted image 20240101161917.png",
+    "media/Pasted image 20240101161908.png",
+    "media/Pasted image 20240101161903.png",
+    "media/Pasted image 20240101161856.png",
+    "media/Pasted image 20240101161851.png",
+    "media/Pasted image 20240101161842.png",
+    "media/Pasted image 20240101161838.png",
+    "media/Pasted image 20240101161831.png",
     "DialyStuff/2023-12-30.md",
+    "CD SUBJECT-WISE 1.md",
     "DialyStuff/2024-01-01.md",
     "Revision/Que/PYQ/DBMS/Transaction-pyq.md",
-    "Revision/Que/PYQ/DBMS/media/Pasted image 20231230004551.png",
-    "Revision/Que/PYQ/DBMS/media/Pasted image 20231230004529.png",
-    "Revision/Que/PYQ/DBMS/media/Pasted image 20231230000449.png",
-    "Revision/Que/PYQ/DBMS/media/Pasted image 20231230000423.png",
     "Revision/Que/PYQ/FULL/GATE 2019.md",
     "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md",
-    "Revision/TS/ZealTS/CD/media/Pasted image 20231229223534.png",
-    "Revision/TS/ZealTS/CD/media/Pasted image 20231229223530.png",
-    "Revision/TS/ZealTS/CD/media/Pasted image 20231229222146.png",
-    "Revision/TS/ZealTS/CD/media/Pasted image 20231229222142.png",
-    "Revision/TS/ZealTS/CD/media/Pasted image 20231229221948.png",
-    "Revision/TS/ZealTS/CD/media/Pasted image 20231229221944.png",
     "Revision/TS/ZealTS/CD/media",
     "Revision/TS/ZealTS/CD",
     "ONEMONTH/FULL SUBJECT/2023-12-29 Test ID - 65 [Round - 1 Compiler Test -1] - 2023.md",
@@ -335,7 +339,6 @@
     "DialyStuff/2023-12-27.md",
     "Revision/Que/zealWorkBook/CN/TCP.md",
     "Revision/TS/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md",
-    "Revision/TS/ZealTS/COA/Test ID - 27 CSO Test - 2 2022.md",
     "StateFull/OS.canvas",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra",

@@ -1,0 +1,1 @@
+{"path":"media/Pasted image 20240101161741.png","text":"Let G be the following grammar: S ABC A—Aa|aB B—Bb|e CocCele Which of the following statement is/are true? () G can be used to specify an LL (1) parser (b) ais in FIRST (S) (c) c is in FIRST (Aa) (d) ¢ is in FOLLOW (A)","libVersion":"0.2.3","langs":"eng"}

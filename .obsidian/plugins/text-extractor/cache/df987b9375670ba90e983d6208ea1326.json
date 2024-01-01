@@ -1,0 +1,1 @@
+{"path":"media/Pasted image 20240101161659.png","text":"In SLR parsing for the grammar E'->E E — aEbE |bEaE | ¢ In state 0, for inputs ‘@’ and ‘b’ (a) Only ‘b’ will have shift - reduce conflict (b) Only ‘a’ will have shift - reduce conflict (c) Both will have shift - reduce conflict (d) Neither of the other options","libVersion":"0.2.3","langs":"eng"}
