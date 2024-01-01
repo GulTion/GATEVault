@@ -14,3 +14,6 @@
 | 23:30-00:00 | **BREAK**   | 0.5 |
 | 00:00-06:00 | **SLEEP**   | 6   |
 
+# Stack
+- DLD PYQ at 29
+- Number of NOR and NAND gate from zeal
