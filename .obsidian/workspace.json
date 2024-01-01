@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/PracticeSet/Expression Analysis.md",
+                "file": "TimeTable.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5043640136719,
-    "collapsed": true
+    "width": 283.5043640136719
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/PracticeSet/Expression Analysis.md",
+                "file": "TimeTable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/PracticeSet/Expression Analysis.md",
+                "file": "TimeTable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/PracticeSet/Expression Analysis.md"
+                "file": "TimeTable.md"
               }
             }
           },
@@ -245,7 +244,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/PracticeSet/Expression Analysis.md"
+                "file": "TimeTable.md"
               }
             }
           },
@@ -296,8 +295,8 @@
   },
   "active": "e2fc83eb82160085",
   "lastOpenFiles": [
-    "Revision/Que/PracticeSet/media/11. Expression Analysis.pdf",
     "Revision/Que/PracticeSet/Expression Analysis.md",
+    "Revision/Que/PracticeSet/media/11. Expression Analysis.pdf",
     "Revision/Que/PracticeSet/Intermediate Representation - workbook.md",
     "DialyStuff/2024-01-01.md",
     "media/Pasted image 20240101161932.png",
@@ -346,7 +345,6 @@
     "StateFull/ALGO.canvas",
     "StateFull/DBMS.canvas",
     "StateFull/COA.canvas",
-    "ToDo",
     "StateFull/CN.canvas",
     "StateFull/TOC.canvas",
     "StateFull/DSA.canvas",
