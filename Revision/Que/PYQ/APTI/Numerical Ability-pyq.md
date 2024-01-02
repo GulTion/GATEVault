@@ -8,10 +8,10 @@ status: acquiring
 ---
 #card/aptitude 
 
-#card/MATH/probability 
+#card/MATH/probability
 ![[Pasted image 20231218231846.png]]
 ?
-- #mistake/lack/FormulaError 
+- #mistake/lack/FormulaError
 D
-![[Pasted image 20231218231906.png]]
+![[Pasted image 20231218231906.png]] <!--SR:!2024-01-04,2,150-->
 

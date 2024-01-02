@@ -12,7 +12,7 @@
 		{"id":"6593e5b8f62b5083","type":"file","file":"Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md","x":560,"y":-465,"width":400,"height":400,"color":"4"},
 		{"id":"8c5f31e9bbd08b81","type":"text","text":"# matrix decompotion\n*from*: zealNotes","x":1200,"y":-460,"width":320,"height":205},
 		{"id":"81b19afdca039baa","x":55,"y":120,"width":250,"height":60,"type":"text","text":"**PYQ**\nat: 9"},
-		{"id":"5948afe5d3577697","x":-20,"y":260,"width":250,"height":100,"color":"4","type":"text","text":"**GoClasses**\nat: "}
+		{"id":"5948afe5d3577697","x":-20,"y":260,"width":250,"height":100,"color":"4","type":"text","text":"**GoClasses**\natQ: 5\natP: 24 "}
 	],
 	"edges":[
 		{"id":"28712b032031a8f4","fromNode":"1b103600aef3e89d","fromSide":"right","toNode":"09fed89cdf64b005","toSide":"left"},

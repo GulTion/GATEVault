@@ -8,7 +8,7 @@
       "#micro",
       "#ENGLISH"
     ],
-    "convertFoldersToDecks": false,
+    "convertFoldersToDecks": true,
     "cardCommentOnSameLine": true,
     "burySiblingCards": false,
     "showContextInCards": true,

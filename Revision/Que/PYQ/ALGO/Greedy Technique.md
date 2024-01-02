@@ -11,4 +11,4 @@ src: https://practicepaper.in/gate-cse/greedy-technique
 
 ![[Pasted image 20231112200142.png]]::![[Pasted image 20231112200209.png]] <!--SR:!2024-01-27,32,210-->
 
-![[Pasted image 20231112200630.png]]:: <!--SR:!2023-12-06,8,190-->
+![[Pasted image 20231112200630.png]]::D <!--SR:!2024-01-06,4,170-->

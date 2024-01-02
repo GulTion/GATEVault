@@ -4,50 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "af2a3095ff5710c3",
+        "id": "4b5ab1bbb4d27a6c",
         "type": "tabs",
         "children": [
           {
-            "id": "33dd834c40304507",
+            "id": "a0c42c90dacccbcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TimeTable.md",
+                "file": "Revision/Que/PYQ/ALGO/Greedy Technique.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ded7bdb633672493",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2024-01-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1ec1494411e0c0d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "StateFull/MATH.canvas",
-                "viewState": {
-                  "x": -68.39718750000013,
-                  "y": 150,
-                  "zoom": 0
-                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StateFull/MATH.canvas",
+                "file": "Revision/Que/PYQ/ALGO/Greedy Technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StateFull/MATH.canvas",
+                "file": "Revision/Que/PYQ/ALGO/Greedy Technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StateFull/MATH.canvas"
+                "file": "Revision/Que/PYQ/ALGO/Greedy Technique.md"
               }
             }
           },
@@ -207,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "StateFull/MATH.canvas"
+                "file": "Revision/Que/PYQ/ALGO/Greedy Technique.md"
               }
             }
           },
@@ -255,10 +227,11 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "a1ec1494411e0c0d",
+  "active": "a0c42c90dacccbcc",
   "lastOpenFiles": [
-    "DialyStuff/2024-01-02.md",
     "TimeTable.md",
+    "DialyStuff/2024-01-02.md",
+    "StateFull/MATH.canvas",
     "DialyStuff/2024-01-01.md",
     "DialyStuff/2023-12-31.md",
     "DialyStuff/2023-12-30.md",
@@ -300,11 +273,9 @@
     "DialyStuff/2023-12-02.md",
     "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
     "Revision/Que/PYQ/COA/Number System.md",
-    "Revision/Que/zealWorkBook/DM/Partial Order Relation-zeal.md",
     "StateFull/OS.canvas",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra",
-    "StateFull/MATH.canvas",
     "StateFull/ALGO.canvas",
     "StateFull/DBMS.canvas",
     "StateFull/COA.canvas",
