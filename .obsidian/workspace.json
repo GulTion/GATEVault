@@ -11,8 +11,12 @@
             "id": "30e33a2fc5d4e41e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2024-01-03.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DialyStuff/2024-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DialyStuff/2024-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2024-01-03.md"
+              }
             }
           },
           {
@@ -171,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2024-01-03.md"
+              }
             }
           },
           {
@@ -220,8 +230,9 @@
   },
   "active": "30e33a2fc5d4e41e",
   "lastOpenFiles": [
-    "Revision/Que/PracticeSet/Entity Relationship Model - practice.md",
     "DialyStuff/2024-01-02.md",
+    "DialyStuff/2024-01-03.md",
+    "Revision/Que/PracticeSet/Entity Relationship Model - practice.md",
     "TimeTable.md",
     "StateFull/MATH.canvas",
     "DialyStuff/2024-01-01.md",
@@ -264,7 +275,6 @@
     "MadeEasy ShortNotes Progress.md",
     "DialyStuff/2023-12-02.md",
     "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
-    "Revision/Que/PYQ/COA/Number System.md",
     "StateFull/OS.canvas",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra",

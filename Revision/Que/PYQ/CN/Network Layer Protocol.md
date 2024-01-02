@@ -18,7 +18,7 @@ completed: true
 ?
 mistake
 - #mistake/lack/ImportantPoint
-B,D ![[Pasted image 20231213123957.png]]![[Pasted image 20231213124009.png]] <!--SR:!2023-12-17,3,253-->
+B,D ![[Pasted image 20231213123957.png]]![[Pasted image 20231213124009.png]] <!--SR:!2024-01-12,10,273-->
 
 #card/CN/NetworkLayer/SuperNetting
 ![[Pasted image 20231030150411.png]]Q 8
