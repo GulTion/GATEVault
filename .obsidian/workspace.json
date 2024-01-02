@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4b5ab1bbb4d27a6c",
+        "id": "ab30d64d79f28fdc",
         "type": "tabs",
         "children": [
           {
-            "id": "a0c42c90dacccbcc",
+            "id": "30e33a2fc5d4e41e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2024-01-02.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5043640136719
+    "width": 283.5043640136719,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -101,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DialyStuff/2024-01-02.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "DialyStuff/2024-01-02.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,10 +218,11 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "a0c42c90dacccbcc",
+  "active": "30e33a2fc5d4e41e",
   "lastOpenFiles": [
-    "TimeTable.md",
+    "Revision/Que/PracticeSet/Entity Relationship Model - practice.md",
     "DialyStuff/2024-01-02.md",
+    "TimeTable.md",
     "StateFull/MATH.canvas",
     "DialyStuff/2024-01-01.md",
     "DialyStuff/2023-12-31.md",
