@@ -30,9 +30,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1ec1494411e0c0d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "StateFull/MATH.canvas",
+                "viewState": {
+                  "x": -68.39718750000013,
+                  "y": 150,
+                  "zoom": 0
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5043640136719,
-    "collapsed": true
+    "width": 283.5043640136719
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -115,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-02.md",
+                "file": "StateFull/MATH.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-02.md",
+                "file": "StateFull/MATH.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-01-02.md"
+                "file": "StateFull/MATH.canvas"
               }
             }
           },
@@ -193,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-01-02.md"
+                "file": "StateFull/MATH.canvas"
               }
             }
           },
@@ -241,10 +255,10 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "ded7bdb633672493",
+  "active": "a1ec1494411e0c0d",
   "lastOpenFiles": [
-    "TimeTable.md",
     "DialyStuff/2024-01-02.md",
+    "TimeTable.md",
     "DialyStuff/2024-01-01.md",
     "DialyStuff/2023-12-31.md",
     "DialyStuff/2023-12-30.md",
