@@ -4,75 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b091ff9d48753a76",
+        "id": "af2a3095ff5710c3",
         "type": "tabs",
         "children": [
           {
-            "id": "d6ab5db606ab5075",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "505259551e8477a0",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "e2fc83eb82160085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2024-01-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d41d6d7106a4f934",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "3aa69ab3cca051f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6c4d8982863002e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a34ee42ea9d4417c",
+            "id": "33dd834c40304507",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ded7bdb633672493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2024-01-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,26 +229,28 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "random-note:Open random note": false,
+      "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
       "dbfolder:Create a new database table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-projects:Open projects": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
-      "obsidian-day-planner:Timeline": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "e2fc83eb82160085",
+  "active": "ded7bdb633672493",
   "lastOpenFiles": [
     "TimeTable.md",
     "DialyStuff/2024-01-02.md",
+    "DialyStuff/2024-01-01.md",
+    "DialyStuff/2023-12-31.md",
+    "DialyStuff/2023-12-30.md",
     "Revision/Que/PracticeSet/Expression Analysis.md",
     "Revision/Que/PracticeSet/media/11. Expression Analysis.pdf",
     "Revision/Que/PracticeSet/Intermediate Representation - workbook.md",
-    "DialyStuff/2024-01-01.md",
     "media/Pasted image 20240101161932.png",
     "media/Pasted image 20240101161929.png",
     "media/Pasted image 20240101161921.png",
@@ -312,7 +261,6 @@
     "media/Pasted image 20240101161851.png",
     "media/Pasted image 20240101161842.png",
     "media/Pasted image 20240101161838.png",
-    "DialyStuff/2023-12-30.md",
     "CD SUBJECT-WISE 1.md",
     "Revision/Que/PYQ/DBMS/Transaction-pyq.md",
     "Revision/Que/PYQ/FULL/GATE 2019.md",
@@ -339,7 +287,6 @@
     "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
     "Revision/Que/PYQ/COA/Number System.md",
     "Revision/Que/zealWorkBook/DM/Partial Order Relation-zeal.md",
-    "DialyStuff/2023-12-27.md",
     "StateFull/OS.canvas",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra",
