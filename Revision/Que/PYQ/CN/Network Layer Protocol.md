@@ -39,7 +39,7 @@ A![[Pasted image 20231030162832.png]] <!--SR:!2024-01-24,47,250-->
 ![[Pasted image 20231213131657.png]]![[Pasted image 20231213131713.png]]50
 ?
 N3 will ask for there distance vectors from N2 and N4. N4 table will inform N3 that it'll take 8 unit time to reach N1 and N2 will show ∞. so, N3 will update 8+2 distance in its table.
-https://gateoverflow.in/43317/gate-cse-2011-question-53#a_list <!--SR:!2023-12-16,3,248-->
+https://gateoverflow.in/43317/gate-cse-2011-question-53#a_list <!--SR:!2024-01-13,11,268-->
 
 #card/CN/NetworkLayer/Routing ![[Pasted image 20231031163646.png]]![[Pasted image 20231031163659.png]]::A https://gateoverflow.in/2160/gate-cse-2011-question-52#a_list <!--SR:!2023-12-16,3,248-->
 

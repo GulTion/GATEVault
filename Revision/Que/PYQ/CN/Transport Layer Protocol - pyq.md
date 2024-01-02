@@ -11,7 +11,7 @@ src: https://practicepaper.in/gate-cse/transport-layer-protocol
 
 ![[Pasted image 20231124143346.png]]::44 <!--SR:!2023-12-23,10,190-->
 
-![[Pasted image 20231124143802.png]]::C ![[Pasted image 20231124143826.png]] <!--SR:!2023-12-24,12,198-->
+![[Pasted image 20231124143802.png]]::C ![[Pasted image 20231124143826.png]] <!--SR:!2024-02-04,33,218-->
 
 ![[Pasted image 20231125003804.png]]::![[Pasted image 20231125003827.png]] <!--SR:!2023-12-21,9,190-->
 
