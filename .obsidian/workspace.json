@@ -26,9 +26,20 @@
               "type": "obsidian-projects",
               "state": {}
             }
+          },
+          {
+            "id": "a946f7c8e52aadb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TS/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5043640136719,
-    "collapsed": true
+    "width": 283.5043640136719
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -111,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DialyStuff/2024-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DialyStuff/2024-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2024-01-03.md"
+              }
             }
           },
           {
@@ -184,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2024-01-03.md"
+              }
             }
           },
           {
@@ -231,8 +247,10 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "fa1451ec3e997fef",
+  "active": "30e33a2fc5d4e41e",
   "lastOpenFiles": [
+    "MadeEasy ShortNotes Progress.md",
+    "Revision/TS/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
     "DialyStuff/2024-01-03.md",
     "DialyStuff/2024-01-02.md",
     "Revision/Que/PracticeSet/Entity Relationship Model - practice.md",
@@ -275,9 +293,7 @@
     "2022-07-16.md",
     "Revision/Que/PYQ/COA/Memory Chip Design.md",
     "Revision/Que/PYQ/COA/Machine Instruction.md",
-    "MadeEasy ShortNotes Progress.md",
     "DialyStuff/2023-12-02.md",
-    "Revision/TS/ZealTS/FULL/MOCK 1 2023.md",
     "StateFull/OS.canvas",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra",
