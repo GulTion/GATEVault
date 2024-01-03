@@ -1,6 +1,6 @@
 {
-  "circularProgress": false,
-  "nowAndNextInStatusBar": false,
+  "snapStepMinutes": 10,
+  "progressIndicator": "bar",
   "showTaskNotification": true,
   "zoomLevel": 2,
   "timelineIcon": "calendar-with-checkmark",
@@ -8,13 +8,13 @@
   "startHour": 0,
   "timelineDateFormat": "L",
   "centerNeedle": true,
-  "showHelp": true,
   "plannerHeading": "TimeTable",
   "plannerHeadingLevel": 1,
   "timelineColored": false,
   "timelineStartColor": "#ffffff",
   "timelineEndColor": "#b27cf3",
   "timestampFormat": "HH:mm",
+  "hourFormat": "H",
   "dataviewSource": "",
   "showDataviewMigrationWarning": false,
   "extendDurationUntilNext": false,
@@ -22,5 +22,10 @@
   "showTimestampInTaskBlock": true,
   "unscheduledTasksHeight": 100,
   "showUncheduledTasks": false,
-  "showUnscheduledNestedTasks": true
+  "showUnscheduledNestedTasks": true,
+  "showNow": true,
+  "showNext": true,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": false,
+  "showHelp": true
 }

@@ -13,18 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MadeEasy ShortNotes Progress.md",
+                "file": "GATEOMEDIA Progress 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fa1451ec3e997fef",
+            "id": "fe8d91b23c25187c",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -33,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TS/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
+                "file": "DialyStuff/2023-12-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MadeEasy ShortNotes Progress.md",
+                "file": "GATEOMEDIA Progress 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MadeEasy ShortNotes Progress.md",
+                "file": "GATEOMEDIA Progress 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MadeEasy ShortNotes Progress.md"
+                "file": "GATEOMEDIA Progress 1.md"
               }
             }
           },
@@ -186,20 +190,12 @@
             }
           },
           {
-            "id": "0cc15269406ee0c7",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "17ad962b22d54ae3",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MadeEasy ShortNotes Progress.md"
+                "file": "GATEOMEDIA Progress 1.md"
               }
             }
           },
@@ -220,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -238,27 +234,30 @@
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
       "dbfolder:Create a new database table": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-day-planner:Timeline": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-projects:Open projects": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Timeline": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "30e33a2fc5d4e41e",
   "lastOpenFiles": [
-    "DialyStuff/2024-01-03.md",
-    "MadeEasy ShortNotes Progress.md",
-    "Revision/TS/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
+    "HOME.md",
+    "DialyStuff/2023-12-30.md",
+    "DialyStuff/2023-12-29.md",
+    "DialyStuff/2023-12-31.md",
+    "DialyStuff/2024-01-01.md",
     "DialyStuff/2024-01-02.md",
+    "Revision/TS/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
+    "GATEOMEDIA Progress 1.md",
+    "MadeEasy ShortNotes Progress.md",
+    "DialyStuff/2024-01-03.md",
     "Revision/Que/PracticeSet/Entity Relationship Model - practice.md",
     "TimeTable.md",
     "StateFull/MATH.canvas",
-    "DialyStuff/2024-01-01.md",
-    "DialyStuff/2023-12-31.md",
-    "DialyStuff/2023-12-30.md",
     "Revision/Que/PracticeSet/Expression Analysis.md",
     "Revision/Que/PracticeSet/media/11. Expression Analysis.pdf",
     "Revision/Que/PracticeSet/Intermediate Representation - workbook.md",
@@ -291,9 +290,6 @@
     "ONEMONTH",
     "DialyStuff/2023-12-28.md",
     "2022-07-16.md",
-    "Revision/Que/PYQ/COA/Memory Chip Design.md",
-    "Revision/Que/PYQ/COA/Machine Instruction.md",
-    "DialyStuff/2023-12-02.md",
     "StateFull/OS.canvas",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra",

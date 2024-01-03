@@ -22,7 +22,7 @@ what is multitasking
 - The main advantage of multi-tasking systems is good response time. <!--SR:!2024-01-22,19,270-->
 
 
-Real time operating system::![[Pasted image 20231021220801.png]] <!--SR:!2023-12-12,31,270-->
+Real time operating system::![[Pasted image 20231021220801.png]] <!--SR:!2024-04-28,116,290-->
 
 
 Long-term scheduler::![[Pasted image 20231021221034.png]] <!--SR:!2024-01-23,63,310-->
@@ -40,7 +40,7 @@ Short-term scheduler::![[Pasted image 20231021221119.png]] <!--SR:!2024-01-18,58
 - files,
 - signal and
 - semaphore
-- signal handlers etc. <!--SR:!2023-11-24,3,230-->
+- signal handlers etc. <!--SR:!2024-01-12,9,250-->
 
 
 ##### In multithreading, each thread has its own, which of the things
@@ -48,7 +48,7 @@ Short-term scheduler::![[Pasted image 20231021221119.png]] <!--SR:!2024-01-18,58
 - stack,
 - thread id,
 - CPU state information (control and status registers, stack pointers) and
-- scheduling information (thread state, priority etc.). <!--SR:!2023-11-27,6,250-->
+- scheduling information (thread state, priority etc.). <!--SR:!2024-01-23,20,270-->
 
 
 User level threads versus kernel level threads::![[Pasted image 20231021221810.png]] <!--SR:!2024-01-17,55,310-->
