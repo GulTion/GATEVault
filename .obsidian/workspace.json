@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa1451ec3e997fef",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DialyStuff/2024-01-03.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "DialyStuff/2024-01-03.md"
-              }
+              "state": {}
             }
           },
           {
@@ -228,10 +231,10 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "30e33a2fc5d4e41e",
+  "active": "fa1451ec3e997fef",
   "lastOpenFiles": [
-    "DialyStuff/2024-01-02.md",
     "DialyStuff/2024-01-03.md",
+    "DialyStuff/2024-01-02.md",
     "Revision/Que/PracticeSet/Entity Relationship Model - practice.md",
     "TimeTable.md",
     "StateFull/MATH.canvas",

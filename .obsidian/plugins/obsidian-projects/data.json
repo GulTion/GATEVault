@@ -407,7 +407,7 @@
               {
                 "field": "status",
                 "operator": "is-not",
-                "enabled": false,
+                "enabled": true,
                 "value": "Revision"
               }
             ]
