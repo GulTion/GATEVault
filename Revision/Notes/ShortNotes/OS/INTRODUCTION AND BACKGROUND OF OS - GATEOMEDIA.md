@@ -19,7 +19,7 @@ what is multiprogramming
 what is multitasking
 ?
 - ==Multi-tasking== is a logical extension of multi-programming systems. The jobs are executed on the CPU in time sharing mode.
-- The main advantage of multi-tasking systems is good response time. <!--SR:!2023-11-29,6,250-->
+- The main advantage of multi-tasking systems is good response time. <!--SR:!2024-01-22,19,270-->
 
 
 Real time operating system::![[Pasted image 20231021220801.png]] <!--SR:!2023-12-12,31,270-->
@@ -28,7 +28,7 @@ Real time operating system::![[Pasted image 20231021220801.png]] <!--SR:!2023-12
 Long-term scheduler::![[Pasted image 20231021221034.png]] <!--SR:!2024-01-23,63,310-->
 
 
-Medium-term scheduler::![[Pasted image 20231021221056.png]] <!--SR:!2023-12-06,25,270-->
+Medium-term scheduler::![[Pasted image 20231021221056.png]] <!--SR:!2024-04-05,93,290-->
 
 
 Short-term scheduler::![[Pasted image 20231021221119.png]] <!--SR:!2024-01-18,58,310-->
