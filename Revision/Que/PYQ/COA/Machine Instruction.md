@@ -11,7 +11,7 @@ src: https://practicepaper.in/gate-cse/machine-instruction?page_no=1
 
 # Data Path
 
-![[Pasted image 20231025114427.png]]::C <!--SR:!2023-11-05,4,270-->
+![[Pasted image 20231025114427.png]]::C <!--SR:!2024-01-18,14,290-->
 
 
 ![[Pasted image 20231031194939.png]]::D. 5![[Pasted image 20231031195044.png]] <!--SR:!2024-01-20,17,290-->

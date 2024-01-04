@@ -55,6 +55,14 @@
             "id": "a946f7c8e52aadb7",
             "type": "leaf",
             "state": {
+              "type": "weekly",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9842416e04419c8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "DialyStuff/2024-01-04.md",
@@ -62,9 +70,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fea2093a04f07e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2024-01-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e02f90c90f2b7f22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -93,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card/DM/combintories",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-04.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-04.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-01-04.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -217,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-01-04.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -236,9 +267,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "725f50b830cfdc31",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -265,11 +304,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a946f7c8e52aadb7",
+  "active": "e02f90c90f2b7f22",
   "lastOpenFiles": [
-    "DialyStuff/media/Pasted image 20240104163821.png",
-    "Revision/Que/MixQue/DM/Combintories.md",
     "DialyStuff/2024-01-04.md",
+    "Revision/TS/ZealTS/COA/2022/TEST ID - 29.md",
+    "Revision/Que/MixQue/DM/Combintories.md",
+    "GATEOMEDIA Progress 1.md",
+    "DialyStuff/media/Pasted image 20240104163821.png",
     "Revision/Que/MixQue/DM/media/Pasted image 20240104150218.png",
     "Revision/Que/MixQue/DM/media/Pasted image 20240104150209.png",
     "Revision/Que/MixQue/DM/media/Pasted image 20240104150139.png",
@@ -285,17 +326,14 @@
     "DialyStuff/2023-12-18.md",
     "DialyStuff/2023-12-19.md",
     "DialyStuff/2023-12-30.md",
-    "Revision/TS/ZealTS/COA/2022/TEST ID - 29.md",
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20240104134921.png",
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20240104134916.png",
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20240104132059.png",
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20240104132049.png",
-    "Revision/TS/ZealTS/COA/2022/media/Pasted image 20240104130654.png",
     "Revision/Que/zealWorkBook/COA/IO device.md",
     "Revision/Que/PYQ/COA/input-output - pyq.md",
     "Revision/TS/UA/All India Mock Test - 1.md",
     "Revision/TS/ZealTS/C/TEST ID-7 C-Prog.md",
-    "GATEOMEDIA Progress 1.md",
     "DialyStuff/2024-01-02.sync-conflict-20240103-215806-B6HVX6C.md",
     "DialyStuff/2023-12-29.md",
     "DialyStuff/2023-12-31.md",

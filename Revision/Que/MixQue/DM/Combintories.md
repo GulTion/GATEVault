@@ -14,7 +14,7 @@ subject: DM
 ?
 116424 <!--SR:!2024-01-09,6,170-->
 
-![[Pasted image 20230829180815.png]]::24 <!--SR:!2024-01-04,1,132-->
+![[Pasted image 20230829180815.png]]::24 <!--SR:!2024-01-06,2,152-->
 # Distinct to Distinct
 ![[Pasted image 20230901173821.png]]::1560 <!--SR:!2024-01-05,2,152-->
 
@@ -25,13 +25,13 @@ subject: DM
 
 ![[Pasted image 20231209164248.png]]::![[Pasted image 20231209164300.png]] <!--SR:!2024-01-05,2,155-->
 
-#card/DM/combintories/Selection 
+#card/DM/combintories/Selection
 ![[Pasted image 20240104145342.png]]
 ?
-![[Pasted image 20240104145349.png]] D
+![[Pasted image 20240104145349.png]] D <!--SR:!2024-01-06,2,163-->
 
-#card/DM/combintories/Selection 
+#card/DM/combintories/Selection
 ![[Pasted image 20240104150209.png]]
 ?
-![[Pasted image 20240104150218.png]] C 
+![[Pasted image 20240104150218.png]] C <!--SR:!2024-01-06,2,163-->
 

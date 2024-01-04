@@ -13,5 +13,5 @@ status: acquiring
 ?
 - #mistake/lack/FormulaError
 D
-![[Pasted image 20231218231906.png]] <!--SR:!2024-01-04,2,150-->
+![[Pasted image 20231218231906.png]] <!--SR:!2024-01-08,4,170-->
 
