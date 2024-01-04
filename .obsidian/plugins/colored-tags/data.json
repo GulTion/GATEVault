@@ -342,7 +342,9 @@
     "card/CD/Sementic_Tree": 10,
     "card/CD/Semantic_Tree": 11,
     "card/CD/Parameter": 12,
-    "card/DBM": 26
+    "card/DBM": 26,
+    "card/COA/io_device/Interrupt": 2,
+    "card/COA/io_device/polling": 3
   },
   "_version": 2
 }
