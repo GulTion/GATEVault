@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "Revision/Que/MixQue/DM/Combintories.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card/COA/io_device",
+                "query": "tag:#card/DM/combintories",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "Revision/Que/MixQue/DM/Combintories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "Revision/Que/MixQue/DM/Combintories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "Revision/Que/MixQue/DM/Combintories.md"
               }
             }
           },
@@ -216,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "HOME.md"
+                "file": "Revision/Que/MixQue/DM/Combintories.md"
               }
             }
           },
@@ -266,6 +267,20 @@
   },
   "active": "a946f7c8e52aadb7",
   "lastOpenFiles": [
+    "Revision/Que/MixQue/DM/media/Pasted image 20240104150218.png",
+    "Revision/Que/MixQue/DM/media/Pasted image 20240104150209.png",
+    "Revision/Que/MixQue/DM/media/Pasted image 20240104150139.png",
+    "Revision/Que/MixQue/DM/media/Pasted image 20240104145349.png",
+    "Revision/Que/MixQue/DM/media/Pasted image 20240104145342.png",
+    "HOME.md",
+    "DialyStuff/2023-12-25.md",
+    "DialyStuff/2023-12-24.md",
+    "DialyStuff/2023-12-23.md",
+    "DialyStuff/2023-12-22.md",
+    "DialyStuff/2023-12-21.md",
+    "DialyStuff/2023-12-20.md",
+    "DialyStuff/2023-12-18.md",
+    "DialyStuff/2023-12-19.md",
     "DialyStuff/2023-12-30.md",
     "Revision/TS/ZealTS/COA/2022/TEST ID - 29.md",
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20240104134921.png",
@@ -277,7 +292,6 @@
     "Revision/Que/zealWorkBook/COA/IO device.md",
     "Revision/Que/PYQ/COA/input-output - pyq.md",
     "Revision/TS/UA/All India Mock Test - 1.md",
-    "HOME.md",
     "Revision/TS/ZealTS/C/TEST ID-7 C-Prog.md",
     "GATEOMEDIA Progress 1.md",
     "DialyStuff/2024-01-02.sync-conflict-20240103-215806-B6HVX6C.md",
@@ -289,22 +303,10 @@
     "MadeEasy ShortNotes Progress.md",
     "DialyStuff/2024-01-03.md",
     "Revision/Que/PracticeSet/Entity Relationship Model - practice.md",
-    "TimeTable.md",
     "StateFull/MATH.canvas",
-    "Revision/Que/PracticeSet/Expression Analysis.md",
     "Revision/Que/PracticeSet/media/11. Expression Analysis.pdf",
-    "Revision/Que/PracticeSet/Intermediate Representation - workbook.md",
-    "media/Pasted image 20240101161932.png",
-    "media/Pasted image 20240101161929.png",
-    "media/Pasted image 20240101161921.png",
-    "media/Pasted image 20240101161917.png",
-    "CD SUBJECT-WISE 1.md",
-    "Revision/Que/PYQ/DBMS/Transaction-pyq.md",
-    "Revision/Que/PYQ/FULL/GATE 2019.md",
-    "Revision/TS/ZealTS/CD/Test ID - 65 Round - 1 Compiler Test -1 - 2023.md",
     "Revision/TS/ZealTS/CD/media",
     "Revision/TS/ZealTS/CD",
-    "ONEMONTH/FULL SUBJECT/2023-12-29 Test ID - 65 [Round - 1 Compiler Test -1] - 2023.md",
     "ONEMONTH/FULL TOPIC",
     "ONEMONTH/FULL SUBJECT",
     "ONEMONTH/FULL TEST",

@@ -25,3 +25,13 @@ subject: DM
 
 ![[Pasted image 20231209164248.png]]::![[Pasted image 20231209164300.png]] <!--SR:!2024-01-05,2,155-->
 
+#card/DM/combintories/Selection 
+![[Pasted image 20240104145342.png]]
+?
+![[Pasted image 20240104145349.png]] D
+
+#card/DM/combintories/Selection 
+![[Pasted image 20240104150209.png]]
+?
+![[Pasted image 20240104150218.png]] C 
+
