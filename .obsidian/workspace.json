@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/MixQue/DM/Combintories.md",
+                "file": "DialyStuff/2024-01-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/MixQue/DM/Combintories.md",
+                "file": "DialyStuff/2024-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/MixQue/DM/Combintories.md",
+                "file": "DialyStuff/2024-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/MixQue/DM/Combintories.md"
+                "file": "DialyStuff/2024-01-04.md"
               }
             }
           },
@@ -217,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/MixQue/DM/Combintories.md"
+                "file": "DialyStuff/2024-01-04.md"
               }
             }
           },
@@ -267,6 +267,9 @@
   },
   "active": "a946f7c8e52aadb7",
   "lastOpenFiles": [
+    "DialyStuff/media/Pasted image 20240104163821.png",
+    "Revision/Que/MixQue/DM/Combintories.md",
+    "DialyStuff/2024-01-04.md",
     "Revision/Que/MixQue/DM/media/Pasted image 20240104150218.png",
     "Revision/Que/MixQue/DM/media/Pasted image 20240104150209.png",
     "Revision/Que/MixQue/DM/media/Pasted image 20240104150139.png",
@@ -288,7 +291,6 @@
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20240104132059.png",
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20240104132049.png",
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20240104130654.png",
-    "Revision/TS/ZealTS/COA/2022/media/Pasted image 20240104130647.png",
     "Revision/Que/zealWorkBook/COA/IO device.md",
     "Revision/Que/PYQ/COA/input-output - pyq.md",
     "Revision/TS/UA/All India Mock Test - 1.md",
@@ -301,8 +303,6 @@
     "DialyStuff/2024-01-02.md",
     "Revision/TS/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
     "MadeEasy ShortNotes Progress.md",
-    "DialyStuff/2024-01-03.md",
-    "Revision/Que/PracticeSet/Entity Relationship Model - practice.md",
     "StateFull/MATH.canvas",
     "Revision/Que/PracticeSet/media/11. Expression Analysis.pdf",
     "Revision/TS/ZealTS/CD/media",
