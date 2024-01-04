@@ -190,42 +190,7 @@
               "atQ",
               "endQ"
             ],
-            "groupByField": "subject",
-            "columns": {
-              "TOC": {
-                "weight": 0
-              },
-              "OS": {
-                "weight": 1
-              },
-              "DM": {
-                "weight": 2
-              },
-              "MATH": {
-                "weight": 3
-              },
-              "DSA": {
-                "weight": 4
-              },
-              "DBMS": {
-                "weight": 5
-              },
-              "COA": {
-                "weight": 6
-              },
-              "DLD": {
-                "weight": 7
-              },
-              "CN": {
-                "weight": 8
-              },
-              "CD": {
-                "weight": 9
-              },
-              "C": {
-                "weight": 10
-              }
-            }
+            "groupByField": "subject"
           },
           "filter": {
             "conditions": [
@@ -442,7 +407,7 @@
               {
                 "field": "status",
                 "operator": "is-not",
-                "enabled": true,
+                "enabled": false,
                 "value": "Revision"
               }
             ]

@@ -8,7 +8,7 @@
       "#micro",
       "#ENGLISH"
     ],
-    "convertFoldersToDecks": true,
+    "convertFoldersToDecks": false,
     "cardCommentOnSameLine": true,
     "burySiblingCards": false,
     "showContextInCards": true,
@@ -40,7 +40,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-01-04",
+  "buryDate": "2024-01-02",
   "buryList": [],
   "historyDeck": null
 }

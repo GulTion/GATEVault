@@ -82,7 +82,7 @@ D
 #card/CN/NetworkLayer/NetworkDevice/Bridge
 ![[Pasted image 20231102190925.png]]
 ?
-B![[Pasted image 20231102190940.png]] <!--SR:!2024-01-03,43,298-->
+B![[Pasted image 20231102190940.png]] <!--SR:!2024-06-28,177,318-->
 
 #card/CN/NetworkLayer/Fragmentation
 ![[Pasted image 20231102204756.png]]

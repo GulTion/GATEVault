@@ -28,26 +28,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2023-12-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2173ff72f68d850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2023-12-28.md",
+                "file": "DialyStuff/2024-01-03.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DialyStuff/2023-12-28.md",
+            "file": "DialyStuff/2024-01-03.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DialyStuff/2023-12-28.md",
+            "file": "DialyStuff/2024-01-03.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -162,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "DialyStuff/2023-12-28.md"
+            "file": "DialyStuff/2024-01-03.md"
           }
         }
       },
@@ -171,14 +159,6 @@
         "type": "leaf",
         "state": {
           "type": "review-queue-list-view",
-          "state": {}
-        }
-      },
-      {
-        "id": "60cbaf9b8c6c6027",
-        "type": "leaf",
-        "state": {
-          "type": "reminder-list",
           "state": {}
         }
       },
@@ -194,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -212,13 +193,24 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "d2173ff72f68d850",
+  "active": "fcf8c36750a92567",
   "lastOpenFiles": [
+    "HOME.md",
+    "DialyStuff/2024-01-03.md",
+    "StateFull/OS.canvas",
+    "media/media/media/Recording 20231006112048.webm",
+    "media/media/media/media/Recording 20231006112111.webm",
+    "media/media/Recording 20231006112015.webm",
+    "media/media 1/Pasted image 20230925120207.png",
+    "media/media 2/Pasted image 20230829180728.png",
+    "media/Pasted image 20240101161444.png",
+    "CD SUBJECT-WISE 1.md",
+    "TimeTable.md",
+    "DialyStuff/2024-01-02.md",
     "DialyStuff/2023-12-22.md",
     "DialyStuff/2023-12-28.md",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231222094459.png",
     "Revision/TS/ZealTS/MATH/media/Pasted image 20231222094447.png",
-    "StateFull/OS.canvas",
     "StateFull/DSA.canvas",
     "DialyStuff/2023-12-20.md",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
@@ -230,9 +222,6 @@
     "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231217151324.png",
     "media/Pasted image 20231217142353.png",
     "Revision/Que/zealWorkBook/DSA/ADA Test – 2 -zealworkbook 2.md",
-    "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231217172046.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231217215113.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231217214833.png",
     "Revision/Que/PYQ/OS/File System - pyq.sync-conflict-20231218-012114-B6HVX6C.md",
     "Revision/Que/PYQ/OS/CPU Scheduling - pyq.sync-conflict-20231218-012108-B6HVX6C.md",
     "Revision/TS/ZealTS/MATH/TEST ID-41 Maths-1.md",
@@ -249,13 +238,8 @@
     "StateFull/DLD.canvas",
     "DialyStuff/2023-12-16.md",
     "Revision/Que/zealWorkBook/DLD/2. Combination Circuit.md",
-    "TimeTable.md",
     "templates/dailyNote Template.md",
     "templates/dailyNote Template..md",
-    "templates/dailyNote Template.sync-conflict-20231215-185946-6DIXJSL.md",
-    "Demo.md",
-    "DialyStuff/2023-12-15.md",
-    "Demo.sync-conflict-20231215-185152-B6HVX6C.md",
     "FlowChart.canvas"
   ]
 }

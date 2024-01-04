@@ -20,12 +20,32 @@
             }
           },
           {
+            "id": "5c473d7df900cece",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f765363c4b74d76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TS/ZealTS/C/TEST ID-7 C-Prog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fe8d91b23c25187c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "Revision/TS/UA/All India Mock Test - 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -72,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card/DM/Partial_Order_relation",
+                "query": "tag:#card/COA/io_device",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GATEOMEDIA Progress 1.md",
+                "file": "Revision/TS/UA/All India Mock Test - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GATEOMEDIA Progress 1.md",
+                "file": "Revision/TS/UA/All India Mock Test - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GATEOMEDIA Progress 1.md"
+                "file": "Revision/TS/UA/All India Mock Test - 1.md"
               }
             }
           },
@@ -195,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "GATEOMEDIA Progress 1.md"
+                "file": "Revision/TS/UA/All India Mock Test - 1.md"
               }
             }
           },
@@ -216,7 +238,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -243,16 +265,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "30e33a2fc5d4e41e",
+  "active": "fe8d91b23c25187c",
   "lastOpenFiles": [
+    "Revision/Que/zealWorkBook/COA/IO device.md",
+    "Revision/Que/PYQ/COA/input-output - pyq.md",
+    "Revision/TS/UA/All India Mock Test - 1.md",
     "HOME.md",
+    "Revision/TS/ZealTS/C/TEST ID-7 C-Prog.md",
+    "GATEOMEDIA Progress 1.md",
+    "DialyStuff/2024-01-02.sync-conflict-20240103-215806-B6HVX6C.md",
     "DialyStuff/2023-12-30.md",
     "DialyStuff/2023-12-29.md",
     "DialyStuff/2023-12-31.md",
     "DialyStuff/2024-01-01.md",
     "DialyStuff/2024-01-02.md",
     "Revision/TS/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md",
-    "GATEOMEDIA Progress 1.md",
     "MadeEasy ShortNotes Progress.md",
     "DialyStuff/2024-01-03.md",
     "Revision/Que/PracticeSet/Entity Relationship Model - practice.md",
@@ -284,12 +311,7 @@
     "ONEMONTH/FULL SUBJECT",
     "ONEMONTH/FULL TEST",
     "ONEMONTH/FULL PYQ",
-    "ONEMONTH/2023-12-24 ok.md",
-    "ONEMONTH/2023-12-29 ok.md",
-    "ONEMONTH/2023-12-25 fg.md",
     "ONEMONTH",
-    "DialyStuff/2023-12-28.md",
-    "2022-07-16.md",
     "StateFull/OS.canvas",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra",
