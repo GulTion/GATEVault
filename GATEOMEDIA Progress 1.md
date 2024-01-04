@@ -1,4 +1,5 @@
-| GATEOMedia | atP | endP | noted? | lastTime | % |
+
+| GM Short | atP | endP | noted? | lastTime | % |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | OS | 18 | 47 | NO | 03/01 |  |
 

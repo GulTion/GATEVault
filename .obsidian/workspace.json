@@ -4,87 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab30d64d79f28fdc",
+        "id": "49102aac59c52920",
         "type": "tabs",
         "children": [
           {
-            "id": "30e33a2fc5d4e41e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GATEOMEDIA Progress 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c473d7df900cece",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "4f765363c4b74d76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/TS/ZealTS/C/TEST ID-7 C-Prog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe8d91b23c25187c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/TS/ZealTS/COA/2022/TEST ID - 29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a946f7c8e52aadb7",
-            "type": "leaf",
-            "state": {
-              "type": "weekly",
-              "state": {}
-            }
-          },
-          {
-            "id": "d9842416e04419c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2024-01-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fea2093a04f07e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2024-01-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e02f90c90f2b7f22",
+            "id": "ed9a4d3c5b79710c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -95,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -304,19 +227,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e02f90c90f2b7f22",
+  "active": "ed9a4d3c5b79710c",
   "lastOpenFiles": [
-    "DialyStuff/2024-01-04.md",
-    "Revision/TS/ZealTS/COA/2022/TEST ID - 29.md",
-    "Revision/Que/MixQue/DM/Combintories.md",
     "GATEOMEDIA Progress 1.md",
+    "HOME.md",
+    "Revision/TS/ZealTS/C/TEST ID-7 C-Prog.md",
+    "Revision/TS/ZealTS/COA/2022/TEST ID - 29.md",
+    "DialyStuff/2024-01-04.md",
+    "Revision/Que/MixQue/DM/Combintories.md",
     "DialyStuff/media/Pasted image 20240104163821.png",
     "Revision/Que/MixQue/DM/media/Pasted image 20240104150218.png",
     "Revision/Que/MixQue/DM/media/Pasted image 20240104150209.png",
     "Revision/Que/MixQue/DM/media/Pasted image 20240104150139.png",
     "Revision/Que/MixQue/DM/media/Pasted image 20240104145349.png",
     "Revision/Que/MixQue/DM/media/Pasted image 20240104145342.png",
-    "HOME.md",
     "DialyStuff/2023-12-25.md",
     "DialyStuff/2023-12-24.md",
     "DialyStuff/2023-12-23.md",
@@ -333,7 +257,6 @@
     "Revision/Que/zealWorkBook/COA/IO device.md",
     "Revision/Que/PYQ/COA/input-output - pyq.md",
     "Revision/TS/UA/All India Mock Test - 1.md",
-    "Revision/TS/ZealTS/C/TEST ID-7 C-Prog.md",
     "DialyStuff/2024-01-02.sync-conflict-20240103-215806-B6HVX6C.md",
     "DialyStuff/2023-12-29.md",
     "DialyStuff/2023-12-31.md",

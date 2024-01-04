@@ -26,16 +26,16 @@ src: https://practicepaper.in/gate-cse/machine-instruction?page_no=1
 
 ![[Pasted image 20231102140711.png]]::A 2001, B 2002 ![[Pasted image 20231102140844.png]] <!--SR:!2024-01-17,14,297-->
 
-![[Pasted image 20231102141203.png]]::C, D  Base register addressing and PC register addressing r addressing work for when there is change in the code <!--SR:!2023-11-06,4,277-->
+![[Pasted image 20231102141203.png]]::C, D  Base register addressing and PC register addressing r addressing work for when there is change in the code <!--SR:!2024-01-19,15,297-->
 
 ![[Pasted image 20231102141504.png]]::A,B,C,D ![[Recording 20231102141546.webm]] <!--SR:!2024-01-19,17,297-->
 ![[Pasted image 20231102142020.png]]::A <!--SR:!2024-01-17,14,297-->
 
-![[Pasted image 20231102142226.png]]::A <!--SR:!2023-11-06,4,277-->
+![[Pasted image 20231102142226.png]]::A <!--SR:!2024-01-17,13,297-->
 
 ![[Pasted image 20231102142759.png]]::B ![[Pasted image 20231102142820.png]] <!--SR:!2024-01-12,10,277-->
 
-![[Pasted image 20231203171733.png]]::![[Pasted image 20231203171754.png]]
+![[Pasted image 20231203171733.png]]::![[Pasted image 20231203171754.png]] <!--SR:!2024-01-05,1,200-->
 
 ![[Pasted image 20231203171821.png]]::D
 
