@@ -49,10 +49,10 @@ https://gateoverflow.in/43317/gate-cse-2011-question-53#a_list <!--SR:!2024-01-1
 C
 ![[Pasted image 20231031170044.png]] <!--SR:!2024-01-12,52,294-->
 
-#card/CN/NetworkLayer/Routing 
+#card/CN/NetworkLayer/Routing
 ![[Pasted image 20231031170132.png]]
 ?
-D <!--SR:!2024-01-05,45,294-->
+D <!--SR:!2024-07-07,183,314-->
 
 #card/CN/NetworkLayer/Routing ![[Pasted image 20231101220450.png]]![[Pasted image 20231101220504.png]]![[Pasted image 20231101220527.png]]
 ?

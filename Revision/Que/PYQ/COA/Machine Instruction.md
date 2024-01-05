@@ -22,7 +22,7 @@ src: https://practicepaper.in/gate-cse/machine-instruction?page_no=1
 
 # Instruction & Addressing Modes
 
-![[Pasted image 20231102135835.png]]::C , pc's relative mode also called as position independent mode <!--SR:!2024-01-05,2,257-->
+![[Pasted image 20231102135835.png]]::C , pc's relative mode also called as position independent mode <!--SR:!2024-01-13,7,277-->
 
 ![[Pasted image 20231102140711.png]]::A 2001, B 2002 ![[Pasted image 20231102140844.png]] <!--SR:!2024-01-17,14,297-->
 
@@ -35,7 +35,7 @@ src: https://practicepaper.in/gate-cse/machine-instruction?page_no=1
 
 ![[Pasted image 20231102142759.png]]::B ![[Pasted image 20231102142820.png]] <!--SR:!2024-01-12,10,277-->
 
-![[Pasted image 20231203171733.png]]::![[Pasted image 20231203171754.png]] <!--SR:!2024-01-05,1,200-->
+![[Pasted image 20231203171733.png]]::![[Pasted image 20231203171754.png]] <!--SR:!2024-01-07,1,180-->
 
 ![[Pasted image 20231203171821.png]]::D
 
@@ -45,5 +45,5 @@ src: https://practicepaper.in/gate-cse/machine-instruction?page_no=1
 
 ![[Pasted image 20231203173059.png]]::![[Pasted image 20231203173240.png]]
 
-![[Pasted image 20231203174552.png]]::1024
+![[Pasted image 20231203174552.png]]::1024 <!--SR:!2024-01-09,3,242-->
 
