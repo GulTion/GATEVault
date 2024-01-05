@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "DialyStuff/2024-01-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "DialyStuff/2024-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "DialyStuff/2024-01-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "DialyStuff/2024-01-05.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "HOME.md"
+                "file": "DialyStuff/2024-01-05.md"
               }
             }
           },
@@ -229,8 +229,9 @@
   },
   "active": "ed9a4d3c5b79710c",
   "lastOpenFiles": [
-    "GATEOMEDIA Progress 1.md",
     "HOME.md",
+    "DialyStuff/2024-01-05.md",
+    "GATEOMEDIA Progress 1.md",
     "Revision/TS/ZealTS/C/TEST ID-7 C-Prog.md",
     "Revision/TS/ZealTS/COA/2022/TEST ID - 29.md",
     "DialyStuff/2024-01-04.md",
