@@ -1,0 +1,3 @@
+- Machine Instructions
+	- Calculate the Maximum Number of Instructions for Type 1,2 3 or 0
+	- same as above but minimum number of instructions count 

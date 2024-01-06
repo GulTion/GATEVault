@@ -11,11 +11,9 @@
             "id": "ed9a4d3c5b79710c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DialyStuff/2024-01-06.md",
-                "mode": "source",
-                "source": false
+                "file": "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png"
               }
             }
           }
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-06.md",
+                "file": "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-06.md",
+                "file": "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-01-06.md"
+                "file": "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png"
               }
             }
           },
@@ -171,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-01-06.md"
+                "file": "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png"
               }
             }
           },
@@ -227,9 +225,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "725f50b830cfdc31",
+  "active": "ed9a4d3c5b79710c",
   "lastOpenFiles": [
     "DialyStuff/2024-01-06.md",
+    "TopicPractice/COA.md",
+    "TopicPractice",
+    "Untitled",
     "DialyStuff/2024-01-04.sync-conflict-20240106-011942-B6HVX6C.md",
     "Revision/Que/PYQ/COA/input-output - pyq.sync-conflict-20240106-011935-B6HVX6C.md",
     "DialyStuff/2024-01-03.sync-conflict-20240106-011934-B6HVX6C.md",
@@ -264,7 +265,6 @@
     "Revision/Que/PYQ/COA/input-output - pyq.md",
     "Revision/TS/UA/All India Mock Test - 1.md",
     "DialyStuff/2024-01-02.sync-conflict-20240103-215806-B6HVX6C.md",
-    "DialyStuff/2023-12-29.md",
     "StateFull/MATH.canvas",
     "Revision/Que/PracticeSet/media/11. Expression Analysis.pdf",
     "Revision/TS/ZealTS/CD/media",
@@ -275,8 +275,6 @@
     "ONEMONTH/FULL PYQ",
     "ONEMONTH",
     "StateFull/OS.canvas",
-    "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media",
-    "Revision/Que/zealWorkBook/MATH/LinearAlgebra",
     "StateFull/ALGO.canvas",
     "StateFull/DBMS.canvas",
     "StateFull/COA.canvas",
