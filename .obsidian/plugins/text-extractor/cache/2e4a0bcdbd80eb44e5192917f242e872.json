@@ -1,0 +1,1 @@
+{"path":"Revision/Que/ZealAdvBook/COA/media/Pasted image 20240106134202.png","text":"Solution: 220 = 1048576 — 7 digits each digit takes — 4 bits Total number of bits = 7 x 4 = 28 bits Number of bytes required = % =3.5 Ceil(3.5)=4 Hence 4 bytes are required.","libVersion":"0.2.4","langs":"eng"}
