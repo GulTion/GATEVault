@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-01-06.md",
+                "file": "DialyStuff/2024-01-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-06.md",
+                "file": "DialyStuff/2024-01-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-06.md",
+                "file": "DialyStuff/2024-01-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-01-06.md"
+                "file": "DialyStuff/2024-01-07.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-01-06.md"
+                "file": "DialyStuff/2024-01-07.md"
               }
             }
           },
@@ -242,6 +242,8 @@
   },
   "active": "0d9347b3a141eca7",
   "lastOpenFiles": [
+    "DialyStuff/2024-01-06.md",
+    "DialyStuff/2024-01-07.md",
     "HOME.md",
     "Revision/TS/ZealTS/COA/TEST ID- 59 ROUND 1.md",
     "StateFull/COA.canvas",
@@ -262,7 +264,6 @@
     "Revision/Que/PracticeSet/Sequential Circuit - PracticrSet.md",
     "Revision/Que/PracticeSet/media/1. Parameter Passing.pdf",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png",
-    "DialyStuff/2024-01-06.md",
     "TopicPractice/COA.md",
     "TopicPractice",
     "Untitled",
