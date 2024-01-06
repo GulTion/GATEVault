@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-01-05.md",
+                "file": "DialyStuff/2024-01-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-05.md",
+                "file": "DialyStuff/2024-01-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-05.md",
+                "file": "DialyStuff/2024-01-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-01-05.md"
+                "file": "DialyStuff/2024-01-06.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-01-05.md"
+                "file": "DialyStuff/2024-01-06.md"
               }
             }
           },
@@ -227,7 +227,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ed9a4d3c5b79710c",
+  "active": "725f50b830cfdc31",
   "lastOpenFiles": [
     "DialyStuff/2024-01-06.md",
     "DialyStuff/2024-01-04.sync-conflict-20240106-011942-B6HVX6C.md",

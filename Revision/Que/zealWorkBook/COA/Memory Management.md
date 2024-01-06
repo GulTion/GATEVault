@@ -5,5 +5,5 @@ atQ: 0
 ---
 #card/COA/Cache_Memory 
 # from Grand Practice Series 
-#hard CPI for memory access![[Pasted image 20231005101040.png]]::![[Pasted image 20231005101121.png]]
+#hard CPI for memory access![[Pasted image 20231005101040.png]]::![[Pasted image 20231005101121.png]] <!--SR:!2024-01-07,1,130-->
 - 

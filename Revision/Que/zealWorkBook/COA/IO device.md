@@ -7,5 +7,5 @@ status: Revision
 
  ![[Pasted image 20231012171820.png]]::0.24
 
- ![[Pasted image 20231013222450.png]]::![[Pasted image 20231013222502.png]]
+![[Pasted image 20231013222450.png]]::![[Pasted image 20231013222502.png]] <!--SR:!2024-01-08,2,168-->
 
