@@ -11,9 +11,11 @@
             "id": "ed9a4d3c5b79710c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png"
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png"
+                "file": "HOME.md"
               }
             }
           },
@@ -169,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png"
+                "file": "HOME.md"
               }
             }
           },
@@ -227,6 +229,11 @@
   },
   "active": "ed9a4d3c5b79710c",
   "lastOpenFiles": [
+    "Revision/Que/PracticeSet/CD- Parameter Passing - Practice Set.md",
+    "Revision/Que/PracticeSet/Intermediate Representation - workbook.md",
+    "Revision/Que/PracticeSet/Sequential Circuit - PracticrSet.md",
+    "Revision/Que/PracticeSet/media/1. Parameter Passing.pdf",
+    "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png",
     "DialyStuff/2024-01-06.md",
     "TopicPractice/COA.md",
     "TopicPractice",
@@ -260,11 +267,7 @@
     "DialyStuff/2023-12-19.md",
     "DialyStuff/2023-12-30.md",
     "Revision/TS/ZealTS/COA/2022/media/Pasted image 20240104134921.png",
-    "Revision/TS/ZealTS/COA/2022/media/Pasted image 20240104134916.png",
     "Revision/Que/zealWorkBook/COA/IO device.md",
-    "Revision/Que/PYQ/COA/input-output - pyq.md",
-    "Revision/TS/UA/All India Mock Test - 1.md",
-    "DialyStuff/2024-01-02.sync-conflict-20240103-215806-B6HVX6C.md",
     "StateFull/MATH.canvas",
     "Revision/Que/PracticeSet/media/11. Expression Analysis.pdf",
     "Revision/TS/ZealTS/CD/media",
@@ -273,7 +276,6 @@
     "ONEMONTH/FULL SUBJECT",
     "ONEMONTH/FULL TEST",
     "ONEMONTH/FULL PYQ",
-    "ONEMONTH",
     "StateFull/OS.canvas",
     "StateFull/ALGO.canvas",
     "StateFull/DBMS.canvas",
