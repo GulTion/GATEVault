@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "583a2df4085511b3",
+        "id": "68300a83cf9797c7",
         "type": "tabs",
         "children": [
           {
-            "id": "ae96b8a37da200f0",
+            "id": "778dd2c92d580eaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,39 @@
             }
           },
           {
-            "id": "0d9347b3a141eca7",
+            "id": "f5431062e56e820f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-01-07.md",
+                "file": "DialyStuff/2024-01-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14430e52d7709bea",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "54583fc2786d7c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MadeEasy ShortNotes Progress.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "BFS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "DialyStuff/2024-01-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "DialyStuff/2024-01-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "DialyStuff/2024-01-06.md"
               }
             }
           },
@@ -183,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "HOME.md"
+                "file": "DialyStuff/2024-01-06.md"
               }
             }
           },
@@ -239,12 +260,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ae96b8a37da200f0",
+  "active": "f5431062e56e820f",
   "lastOpenFiles": [
-    "TimeTable.md",
     "HOME.md",
-    "GATEOMEDIA Progress 1.md",
+    "TopicPractice/COA.md",
+    "TopicPractice/ALGO.md",
     "MadeEasy ShortNotes Progress.md",
+    "DialyStuff/2024-01-07.md",
+    "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
+    "DialyStuff/2024-01-03.sync-conflict-20240106-011934-B6HVX6C.md",
+    "DialyStuff/2024-01-03.md",
+    "Revision/Notes/ShortNotes/DSA/BFS DFS properties.md",
+    "DialyStuff/2023-12-04.md",
+    "DialyStuff/2023-12-03.md",
+    "DialyStuff/2023-12-02.md",
+    "DialyStuff/2023-12-01.md",
+    "DialyStuff/2023-11-30.md",
+    "DialyStuff/2023-11-29.md",
+    "DialyStuff/2023-11-28.md",
+    "DialyStuff/2023-11-27.md",
+    "Revision/Notes/ShortNotes/DSA/Type of Edges in DFS.md",
+    "TimeTable.md",
+    "GATEOMEDIA Progress 1.md",
     "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md",
     "Revision/TS/AppliedTS/2022/MOCK/media/Pasted image 20240107130540.png",
     "Revision/TS/AppliedTS/2022/MOCK/media/Pasted image 20240107130337.png",
@@ -253,7 +290,6 @@
     "Revision/TS/AppliedTS/2022/MOCK",
     "Revision/TS/AppliedTS/2022",
     "Revision/TS/AppliedTS",
-    "DialyStuff/2024-01-07.md",
     "DialyStuff/2024-01-06.md",
     "Revision/TS/ZealTS/COA/TEST ID- 59 ROUND 1.md",
     "StateFull/COA.canvas",
@@ -269,25 +305,10 @@
     "Revision/Que/ZealAdvBook",
     "Revision/Que/PracticeSet/CD-Scoping - Dynamic and Static Scoping - PraticeSet.md",
     "Revision/Que/PracticeSet/media/CD-Scoping - Dynamic and Static.pdf",
-    "Revision/Que/PracticeSet/CD- Parameter Passing - Practice Set.md",
-    "Revision/Que/PracticeSet/Intermediate Representation - workbook.md",
-    "Revision/Que/PracticeSet/Sequential Circuit - PracticrSet.md",
     "Revision/Que/PracticeSet/media/1. Parameter Passing.pdf",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png",
-    "TopicPractice/COA.md",
     "TopicPractice",
-    "DialyStuff/2024-01-04.sync-conflict-20240106-011942-B6HVX6C.md",
-    "Revision/Que/PYQ/COA/input-output - pyq.sync-conflict-20240106-011935-B6HVX6C.md",
-    "DialyStuff/2024-01-03.sync-conflict-20240106-011934-B6HVX6C.md",
     "Revision/TS/ZealTS/COA/media/Pasted image 20240105152930.png",
-    "DialyStuff/2024-01-05.md",
-    "Revision/TS/ZealTS/C/TEST ID-7 C-Prog.md",
-    "Revision/TS/ZealTS/COA/2022/TEST ID - 29.md",
-    "DialyStuff/2024-01-04.md",
-    "Revision/Que/MixQue/DM/Combintories.md",
-    "DialyStuff/2023-12-25.md",
-    "DialyStuff/2023-12-24.md",
-    "DialyStuff/2023-12-23.md",
     "StateFull/MATH.canvas",
     "StateFull/OS.canvas",
     "StateFull/ALGO.canvas",
