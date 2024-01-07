@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "DialyStuff/2024-01-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,11 +239,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0d9347b3a141eca7",
+  "active": "ae96b8a37da200f0",
   "lastOpenFiles": [
-    "DialyStuff/2024-01-06.md",
-    "DialyStuff/2024-01-07.md",
     "HOME.md",
+    "DialyStuff/2024-01-07.md",
+    "DialyStuff/2024-01-06.md",
     "Revision/TS/ZealTS/COA/TEST ID- 59 ROUND 1.md",
     "StateFull/COA.canvas",
     "Revision/Que/ZealAdvBook/COA/Number System - zealAdvBook.md",
