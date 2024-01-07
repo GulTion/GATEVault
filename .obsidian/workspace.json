@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-01-07.md",
+                "file": "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5043640136719,
-    "collapsed": true
+    "width": 283.5043640136719
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-07.md",
+                "file": "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-07.md",
+                "file": "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-01-07.md"
+                "file": "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md"
               }
             }
           },
@@ -184,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-01-07.md"
+                "file": "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md"
               }
             }
           },
@@ -243,6 +242,14 @@
   },
   "active": "ae96b8a37da200f0",
   "lastOpenFiles": [
+    "Revision/TS/AppliedTS/2022/MOCK/media/Pasted image 20240107130540.png",
+    "Revision/TS/AppliedTS/2022/MOCK/media/Pasted image 20240107130337.png",
+    "Revision/TS/AppliedTS/2022/MOCK/media",
+    "Revision/TS/Untitled.md",
+    "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md",
+    "Revision/TS/AppliedTS/2022/MOCK",
+    "Revision/TS/AppliedTS/2022",
+    "Revision/TS/AppliedTS",
     "DialyStuff/2024-01-07.md",
     "DialyStuff/2024-01-06.md",
     "HOME.md",
@@ -267,7 +274,6 @@
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png",
     "TopicPractice/COA.md",
     "TopicPractice",
-    "Untitled",
     "DialyStuff/2024-01-04.sync-conflict-20240106-011942-B6HVX6C.md",
     "Revision/Que/PYQ/COA/input-output - pyq.sync-conflict-20240106-011935-B6HVX6C.md",
     "DialyStuff/2024-01-03.sync-conflict-20240106-011934-B6HVX6C.md",
@@ -279,18 +285,11 @@
     "Revision/TS/ZealTS/COA/2022/TEST ID - 29.md",
     "DialyStuff/2024-01-04.md",
     "Revision/Que/MixQue/DM/Combintories.md",
-    "DialyStuff/media/Pasted image 20240104163821.png",
     "DialyStuff/2023-12-25.md",
     "DialyStuff/2023-12-24.md",
     "DialyStuff/2023-12-23.md",
     "DialyStuff/2023-12-22.md",
-    "DialyStuff/2023-12-21.md",
-    "DialyStuff/2023-12-20.md",
-    "DialyStuff/2023-12-18.md",
     "StateFull/MATH.canvas",
-    "Revision/Que/PracticeSet/media/11. Expression Analysis.pdf",
-    "Revision/TS/ZealTS/CD/media",
-    "Revision/TS/ZealTS/CD",
     "StateFull/OS.canvas",
     "StateFull/ALGO.canvas",
     "StateFull/DBMS.canvas",

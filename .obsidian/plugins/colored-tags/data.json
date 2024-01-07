@@ -349,7 +349,10 @@
     "card/COA/pipeline/Data_Hazards/RAW": 1,
     "card/COA/Number_System/DeNormali": 1,
     "card/COA/Number_System/DeNormal_Form": 2,
-    "card/COA/Number_System/BCD": 3
+    "card/COA/Number_System/BCD": 3,
+    "card/BST": 28,
+    "card/DS": 29,
+    "card/DSA/Tree/BST": 4
   },
   "_version": 2
 }
