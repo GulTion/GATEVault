@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md",
+                "file": "HOME.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -212,12 +212,11 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,17 +241,20 @@
   },
   "active": "ae96b8a37da200f0",
   "lastOpenFiles": [
+    "TimeTable.md",
+    "HOME.md",
+    "GATEOMEDIA Progress 1.md",
+    "MadeEasy ShortNotes Progress.md",
+    "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md",
     "Revision/TS/AppliedTS/2022/MOCK/media/Pasted image 20240107130540.png",
     "Revision/TS/AppliedTS/2022/MOCK/media/Pasted image 20240107130337.png",
     "Revision/TS/AppliedTS/2022/MOCK/media",
     "Revision/TS/Untitled.md",
-    "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md",
     "Revision/TS/AppliedTS/2022/MOCK",
     "Revision/TS/AppliedTS/2022",
     "Revision/TS/AppliedTS",
     "DialyStuff/2024-01-07.md",
     "DialyStuff/2024-01-06.md",
-    "HOME.md",
     "Revision/TS/ZealTS/COA/TEST ID- 59 ROUND 1.md",
     "StateFull/COA.canvas",
     "Revision/Que/ZealAdvBook/COA/Number System - zealAdvBook.md",
@@ -278,9 +280,7 @@
     "Revision/Que/PYQ/COA/input-output - pyq.sync-conflict-20240106-011935-B6HVX6C.md",
     "DialyStuff/2024-01-03.sync-conflict-20240106-011934-B6HVX6C.md",
     "Revision/TS/ZealTS/COA/media/Pasted image 20240105152930.png",
-    "Revision/TS/ZealTS/COA/media/Pasted image 20240105152804.png",
     "DialyStuff/2024-01-05.md",
-    "GATEOMEDIA Progress 1.md",
     "Revision/TS/ZealTS/C/TEST ID-7 C-Prog.md",
     "Revision/TS/ZealTS/COA/2022/TEST ID - 29.md",
     "DialyStuff/2024-01-04.md",
@@ -288,7 +288,6 @@
     "DialyStuff/2023-12-25.md",
     "DialyStuff/2023-12-24.md",
     "DialyStuff/2023-12-23.md",
-    "DialyStuff/2023-12-22.md",
     "StateFull/MATH.canvas",
     "StateFull/OS.canvas",
     "StateFull/ALGO.canvas",
