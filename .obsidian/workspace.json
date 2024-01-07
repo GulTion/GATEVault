@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-01-06.md",
+                "file": "DialyStuff/2024-01-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-06.md",
+                "file": "DialyStuff/2024-01-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-06.md",
+                "file": "DialyStuff/2024-01-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-01-06.md"
+                "file": "DialyStuff/2024-01-08.md"
               }
             }
           },
@@ -204,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-01-06.md"
+                "file": "DialyStuff/2024-01-08.md"
               }
             }
           },
@@ -233,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -262,11 +262,13 @@
   },
   "active": "f5431062e56e820f",
   "lastOpenFiles": [
+    "DialyStuff/2024-01-07.md",
+    "DialyStuff/2024-01-08.md",
+    "DialyStuff/2024-01-06.md",
     "HOME.md",
     "TopicPractice/COA.md",
     "TopicPractice/ALGO.md",
     "MadeEasy ShortNotes Progress.md",
-    "DialyStuff/2024-01-07.md",
     "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
     "DialyStuff/2024-01-03.sync-conflict-20240106-011934-B6HVX6C.md",
     "DialyStuff/2024-01-03.md",
@@ -290,7 +292,6 @@
     "Revision/TS/AppliedTS/2022/MOCK",
     "Revision/TS/AppliedTS/2022",
     "Revision/TS/AppliedTS",
-    "DialyStuff/2024-01-06.md",
     "Revision/TS/ZealTS/COA/TEST ID- 59 ROUND 1.md",
     "StateFull/COA.canvas",
     "Revision/Que/ZealAdvBook/COA/Number System - zealAdvBook.md",
@@ -303,7 +304,6 @@
     "Revision/Que/ZealAdvBook/COA/media",
     "Revision/Que/ZealAdvBook/COA",
     "Revision/Que/ZealAdvBook",
-    "Revision/Que/PracticeSet/CD-Scoping - Dynamic and Static Scoping - PraticeSet.md",
     "Revision/Que/PracticeSet/media/CD-Scoping - Dynamic and Static.pdf",
     "Revision/Que/PracticeSet/media/1. Parameter Passing.pdf",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png",
