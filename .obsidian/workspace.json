@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5043640136719
+    "width": 283.5043640136719,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -216,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,9 +243,9 @@
   },
   "active": "ae96b8a37da200f0",
   "lastOpenFiles": [
-    "HOME.md",
     "DialyStuff/2024-01-07.md",
     "DialyStuff/2024-01-06.md",
+    "HOME.md",
     "Revision/TS/ZealTS/COA/TEST ID- 59 ROUND 1.md",
     "StateFull/COA.canvas",
     "Revision/Que/ZealAdvBook/COA/Number System - zealAdvBook.md",
