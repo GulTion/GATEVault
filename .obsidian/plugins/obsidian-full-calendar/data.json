@@ -24,7 +24,7 @@
   "defaultCalendar": 0,
   "firstDay": 0,
   "initialView": {
-    "desktop": "listWeek",
+    "desktop": "dayGridMonth",
     "mobile": "timeGrid3Days"
   },
   "timeFormat24h": true
