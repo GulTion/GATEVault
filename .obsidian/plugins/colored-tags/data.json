@@ -352,7 +352,8 @@
     "card/COA/Number_System/BCD": 3,
     "card/BST": 28,
     "card/DS": 29,
-    "card/DSA/Tree/BST": 4
+    "card/DSA/Tree/BST": 4,
+    "card/TOC/DFA/toRegEX": 3
   },
   "_version": 2
 }
