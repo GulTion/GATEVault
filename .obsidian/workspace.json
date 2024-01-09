@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
+                "file": "DialyStuff/2024-01-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2eda6395df3d282c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BFS",
+                "query": "sync",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5043640136719
+    "width": 288.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -216,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -249,7 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,34 +284,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "603f715dc04f467f",
+  "active": "2eda6395df3d282c",
   "lastOpenFiles": [
+    "DialyStuff/2024-01-06.sync-conflict-20240108-205555-B6HVX6C.md",
+    "Revision/Que/PYQ/COA/input-output - pyq.sync-conflict-20240106-011935-B6HVX6C.md",
+    "DialyStuff/2024-01-04.sync-conflict-20240106-011942-B6HVX6C.md",
+    "DialyStuff/2024-01-03.sync-conflict-20240106-011934-B6HVX6C.md",
+    "DialyStuff/2024-01-02.sync-conflict-20240103-215806-B6HVX6C.md",
     "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
-    "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md",
+    "ONEMONTH/FULL PYQ/media/Pasted image 20240108205326.png",
+    "ONEMONTH/FULL PYQ/media",
+    "DialyStuff/2024-01-08.md",
+    "HOME.md",
     "TimeTable.md",
+    "DialyStuff/2024-01-09.md",
+    "DialyStuff/2024-01-10.md",
+    "DialyStuff/2024-01-11.md",
+    "DialyStuff/2024-01-12.md",
+    "DialyStuff/2024-01-13.md",
+    "DialyStuff/2024-01-14.md",
+    "DialyStuff/2024-01-15.md",
+    "DialyStuff/2024-01-16.md",
+    "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md",
+    "ONEMONTH/FULL TOPIC/2024-01-08 Hashing.md",
     "MadeEasy ShortNotes Progress.md",
     "ONEMONTH/FULL PYQ/2024-01-08 2021.md",
     "ONEMONTH/FULL PYQ/2023-12-29 PYQ - 2021.md",
-    "HOME.md",
-    "DialyStuff/2024-01-08.md",
     "DialyStuff/2024-01-07.md",
     "DialyStuff/2024-01-06.md",
     "TopicPractice/COA.md",
     "TopicPractice/ALGO.md",
-    "Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md",
-    "DialyStuff/2024-01-03.sync-conflict-20240106-011934-B6HVX6C.md",
-    "DialyStuff/2024-01-03.md",
-    "Revision/Notes/ShortNotes/DSA/BFS DFS properties.md",
-    "DialyStuff/2023-12-04.md",
-    "DialyStuff/2023-12-03.md",
-    "DialyStuff/2023-12-02.md",
-    "DialyStuff/2023-12-01.md",
-    "DialyStuff/2023-11-30.md",
-    "DialyStuff/2023-11-29.md",
-    "DialyStuff/2023-11-28.md",
-    "DialyStuff/2023-11-27.md",
-    "Revision/Notes/ShortNotes/DSA/Type of Edges in DFS.md",
-    "GATEOMEDIA Progress 1.md",
     "Revision/TS/AppliedTS/2022/MOCK/media/Pasted image 20240107130540.png",
     "Revision/TS/AppliedTS/2022/MOCK/media/Pasted image 20240107130337.png",
     "Revision/TS/AppliedTS/2022/MOCK/media",
@@ -319,8 +333,6 @@
     "Revision/Que/PracticeSet/media/CD-Scoping - Dynamic and Static.pdf",
     "Revision/Que/PracticeSet/media/1. Parameter Passing.pdf",
     "Revision/TS/ZealTS/FULL/media/Pasted image 20231206184105.png",
-    "TopicPractice",
-    "Revision/TS/ZealTS/COA/media/Pasted image 20240105152930.png",
     "StateFull/MATH.canvas",
     "StateFull/OS.canvas",
     "StateFull/ALGO.canvas",
