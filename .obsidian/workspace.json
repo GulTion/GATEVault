@@ -26,8 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2bd4f42e37593e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GATEOMEDIA Progress 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,10 +248,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "44ae539d887e78d2",
+  "active": "9326b7e0e3cc7218",
   "lastOpenFiles": [
-    "ONEMONTH/FULL SUBJECT/2024-01-09 DBMS GATEOPEDIA.md",
+    "GATEOMEDIA Progress 1.md",
     "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
+    "ONEMONTH/FULL SUBJECT/2024-01-09 DBMS GATEOPEDIA.md",
     "ONEMONTH/FULL PYQ/media/Pasted image 20240109145437.png",
     "ONEMONTH/FULL PYQ/media/Pasted image 20240109145424.png",
     "ONEMONTH/FULL PYQ/media/Pasted image 20240109144112.png",
@@ -273,7 +287,6 @@
     "ONEMONTH/FULL PYQ/2024-01-08 2021.md",
     "ONEMONTH/FULL PYQ/2023-12-29 PYQ - 2021.md",
     "DialyStuff/2024-01-07.md",
-    "DialyStuff/2024-01-06.md",
     "Revision/TS/AppliedTS/2022/MOCK/media",
     "Revision/TS/AppliedTS/2022/MOCK",
     "Revision/TS/AppliedTS/2022",
