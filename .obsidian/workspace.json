@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
+                "file": "HOME.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
+                "file": "GATEOMEDIA Progress 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
+                "file": "GATEOMEDIA Progress 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md"
+                "file": "GATEOMEDIA Progress 1.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md"
+                "file": "GATEOMEDIA Progress 1.md"
               }
             }
           },
@@ -248,9 +248,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9326b7e0e3cc7218",
+  "active": "2bd4f42e37593e96",
   "lastOpenFiles": [
+    "HOME.md",
     "GATEOMEDIA Progress 1.md",
+    "TimeTable.md",
     "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
     "ONEMONTH/FULL SUBJECT/2024-01-09 DBMS GATEOPEDIA.md",
     "ONEMONTH/FULL PYQ/media/Pasted image 20240109145437.png",
@@ -262,8 +264,6 @@
     "ONEMONTH/FULL PYQ/media/Pasted image 20240109143206.png",
     "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md",
     "DialyStuff/2024-01-09.md",
-    "TimeTable.md",
-    "HOME.md",
     "ONEMONTH/FULL TOPIC/2024-01-09 Undecideable.md",
     "ONEMONTH/FULL PYQ/media/Pasted image 20240109070057.png",
     "ONEMONTH/FULL PYQ/media/Pasted image 20240109070031.png",

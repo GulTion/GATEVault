@@ -1,3 +1,6 @@
+---
+atQ: 12
+---
 
 | GM Short | atP | endP | noted? | lastTime | % |
 | ---- | ---- | ---- | ---- | ---- | ---- |
