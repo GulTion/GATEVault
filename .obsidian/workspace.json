@@ -4,59 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "68300a83cf9797c7",
+        "id": "e00d805221396ce4",
         "type": "tabs",
         "children": [
           {
-            "id": "778dd2c92d580eaf",
+            "id": "44ae539d887e78d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOME.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           },
           {
-            "id": "8df6c355ba883df8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TimeTable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f8f2fba85f4c205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2024-01-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2eda6395df3d282c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TimeTable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "559903bc963623d9",
+            "id": "9326b7e0e3cc7218",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,33 +26,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7f867e25ca94cad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ONEMONTH/FULL TOPIC/2024-01-09 Undecideable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "603f715dc04f467f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-09.md",
+                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-09.md",
+                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-01-09.md"
+                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md"
               }
             }
           },
@@ -244,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-01-09.md"
+                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md"
               }
             }
           },
@@ -273,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -300,12 +235,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1f8f2fba85f4c205",
+  "active": "44ae539d887e78d2",
   "lastOpenFiles": [
-    "HOME.md",
-    "TimeTable.md",
-    "ONEMONTH/FULL TOPIC/2024-01-09 Undecideable.md",
+    "ONEMONTH/FULL SUBJECT/2024-01-09 DBMS GATEOPEDIA.md",
     "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
+    "ONEMONTH/FULL PYQ/media/Pasted image 20240109145437.png",
+    "ONEMONTH/FULL PYQ/media/Pasted image 20240109145424.png",
+    "ONEMONTH/FULL PYQ/media/Pasted image 20240109144112.png",
+    "ONEMONTH/FULL PYQ/media/Pasted image 20240109144110.png",
+    "ONEMONTH/FULL PYQ/media/Pasted image 20240109144108.png",
+    "ONEMONTH/FULL PYQ/media/Pasted image 20240109144047.png",
+    "ONEMONTH/FULL PYQ/media/Pasted image 20240109143206.png",
+    "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md",
+    "DialyStuff/2024-01-09.md",
+    "TimeTable.md",
+    "HOME.md",
+    "ONEMONTH/FULL TOPIC/2024-01-09 Undecideable.md",
     "ONEMONTH/FULL PYQ/media/Pasted image 20240109070057.png",
     "ONEMONTH/FULL PYQ/media/Pasted image 20240109070031.png",
     "DialyStuff/2024-01-08.md",
@@ -316,7 +261,6 @@
     "DialyStuff/2024-01-02.sync-conflict-20240103-215806-B6HVX6C.md",
     "ONEMONTH/FULL PYQ/media/Pasted image 20240108205326.png",
     "ONEMONTH/FULL PYQ/media",
-    "DialyStuff/2024-01-09.md",
     "DialyStuff/2024-01-10.md",
     "DialyStuff/2024-01-11.md",
     "DialyStuff/2024-01-12.md",
@@ -324,26 +268,17 @@
     "DialyStuff/2024-01-14.md",
     "DialyStuff/2024-01-15.md",
     "DialyStuff/2024-01-16.md",
-    "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md",
     "ONEMONTH/FULL TOPIC/2024-01-08 Hashing.md",
     "MadeEasy ShortNotes Progress.md",
     "ONEMONTH/FULL PYQ/2024-01-08 2021.md",
     "ONEMONTH/FULL PYQ/2023-12-29 PYQ - 2021.md",
     "DialyStuff/2024-01-07.md",
     "DialyStuff/2024-01-06.md",
-    "TopicPractice/COA.md",
-    "Revision/TS/AppliedTS/2022/MOCK/media/Pasted image 20240107130540.png",
-    "Revision/TS/AppliedTS/2022/MOCK/media/Pasted image 20240107130337.png",
     "Revision/TS/AppliedTS/2022/MOCK/media",
     "Revision/TS/AppliedTS/2022/MOCK",
     "Revision/TS/AppliedTS/2022",
     "Revision/TS/AppliedTS",
     "StateFull/COA.canvas",
-    "Revision/Que/ZealAdvBook/COA/media/Pasted image 20240106134946.png",
-    "Revision/Que/ZealAdvBook/COA/media/Pasted image 20240106134934.png",
-    "Revision/Que/ZealAdvBook/COA/media/Pasted image 20240106134202.png",
-    "Revision/Que/ZealAdvBook/COA/media/Pasted image 20240106134153.png",
-    "Revision/Que/ZealAdvBook/COA/media/Pasted image 20240106134105.png",
     "Revision/Que/ZealAdvBook/COA/media",
     "Revision/Que/ZealAdvBook/COA",
     "Revision/Que/ZealAdvBook",

@@ -353,7 +353,8 @@
     "card/BST": 28,
     "card/DS": 29,
     "card/DSA/Tree/BST": 4,
-    "card/TOC/DFA/toRegEX": 3
+    "card/TOC/DFA/toRegEX": 3,
+    "card/TOC/TM/Recursive": 2
   },
   "_version": 2
 }
