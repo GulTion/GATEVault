@@ -4,79 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e00d805221396ce4",
+        "id": "0a913439dd1085ab",
         "type": "tabs",
         "children": [
           {
-            "id": "44ae539d887e78d2",
+            "id": "71b8431fc3c35dc8",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "ef8bd8b5f49b0f3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ONEMONTH/FULL TOPIC/2024-01-10 SQL to Statement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46ac22b684ce2523",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2024-01-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9326b7e0e3cc7218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOME.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bd4f42e37593e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7205ca441cc731fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ONEMONTH/FULL TEST/2024-01-10 Test ID - 82 [Mock - 8 ] - 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 243.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -158,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ONEMONTH/FULL TOPIC/2024-01-10 SQL to Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ONEMONTH/FULL TOPIC/2024-01-10 SQL to Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ONEMONTH/FULL TOPIC/2024-01-10 SQL to Statement.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "ONEMONTH/FULL TOPIC/2024-01-10 SQL to Statement.md"
-              }
+              "state": {}
             }
           },
           {
@@ -284,28 +217,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ef8bd8b5f49b0f3e",
+  "active": "71b8431fc3c35dc8",
   "lastOpenFiles": [
-    "ONEMONTH/FULL TOPIC/media/Pasted image 20240110180453.png",
-    "ONEMONTH/FULL TOPIC/media/Pasted image 20240110180441.png",
+    "TopicPractice/DBMS.md",
+    "DialyStuff/2024-01-10.md",
+    "HOME.md",
+    "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
     "ONEMONTH/FULL TEST/2024-01-10 Test ID - 82 [Mock - 8 ] - 2023.md",
     "ONEMONTH/FULL TOPIC/2024-01-10 SQL to Statement.md",
+    "ONEMONTH/FULL TOPIC/media/Pasted image 20240110180453.png",
+    "ONEMONTH/FULL TOPIC/media/Pasted image 20240110180441.png",
     "ONEMONTH/FULL TEST/media/Pasted image 20240110180103.png",
     "ONEMONTH/FULL TEST/media/Pasted image 20240110180050.png",
     "ONEMONTH/FULL TEST/media/Pasted image 20240110175924.png",
     "ONEMONTH/FULL TEST/media/Pasted image 20240110175915.png",
     "ONEMONTH/FULL TEST/media",
     "ONEMONTH/FULL SUBJECT/2024-01-09 DBMS GATEOPEDIA.md",
-    "DialyStuff/2024-01-10.md",
     "ONEMONTH/FULL SUBJECT/2023-12-29 Test ID - 65 [Round - 1 Compiler Test -1] - 2023.md",
     "ONEMONTH/FULL TOPIC/media/Pasted image 20240110125009.png",
     "ONEMONTH/FULL TOPIC/media/Pasted image 20240110124945.png",
     "ONEMONTH/FULL TOPIC/media/Pasted image 20240110124635.png",
     "ONEMONTH/FULL TOPIC/media/Pasted image 20240110124624.png",
-    "ONEMONTH/FULL TOPIC/media/Pasted image 20240110124611.png",
-    "HOME.md",
     "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md",
-    "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
     "ONEMONTH/FULL TOPIC/media",
     "MadeEasy ShortNotes Progress.md",
     "GATEOMEDIA Progress 1.md",
