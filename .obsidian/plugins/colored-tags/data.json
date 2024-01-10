@@ -355,7 +355,8 @@
     "card/DSA/Tree/BST": 4,
     "card/TOC/DFA/toRegEX": 3,
     "card/TOC/TM/Recursive": 2,
-    "card/to": 30
+    "card/to": 30,
+    "card/TOC/RegularExpression": 6
   },
   "_version": 2
 }
