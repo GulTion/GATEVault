@@ -11,8 +11,12 @@
             "id": "71b8431fc3c35dc8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md"
+              }
             }
           },
           {
@@ -162,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Revision/TS/AppliedTS/2022/MOCK/MOCK-1.md"
+              }
             }
           },
           {

@@ -55,5 +55,5 @@ atQ: 11
 #card
 ![[Pasted image 20231229223530.png]]
 ?
-![[Pasted image 20231229223534.png]] 
+![[Pasted image 20231229223534.png]] <!--SR:!2024-01-13,2,150--> 
 
