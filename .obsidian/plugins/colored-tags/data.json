@@ -358,7 +358,13 @@
     "card/to": 30,
     "card/TOC/RegularExpression": 6,
     "card/has": 31,
-    "card/dh": 32
+    "card/dh": 32,
+    "card/tra": 33,
+    "card/DBMS/Transaction/Locking/S2PL": 2,
+    "card/DBMS/Quer": 11,
+    "card/DBMS/Query": 12,
+    "card/DBMS/Tuple": 13,
+    "card/DBMS/Tuple_Relation_Calculus": 14
   },
   "_version": 2
 }
