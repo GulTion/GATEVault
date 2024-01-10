@@ -33,14 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MadeEasy ShortNotes Progress.md",
+                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74653007ba06d184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MadeEasy ShortNotes Progress.md",
+                "file": "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MadeEasy ShortNotes Progress.md",
+                "file": "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MadeEasy ShortNotes Progress.md"
+                "file": "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md"
               }
             }
           },
@@ -192,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MadeEasy ShortNotes Progress.md"
+                "file": "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md"
               }
             }
           },
@@ -248,13 +260,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2bd4f42e37593e96",
+  "active": "74653007ba06d184",
   "lastOpenFiles": [
+    "ONEMONTH/FULL TOPIC/media/Pasted image 20240110103144.png",
+    "ONEMONTH/FULL TOPIC/media/Pasted image 20240110103107.png",
+    "ONEMONTH/FULL TOPIC/media/Pasted image 20240110101937.png",
+    "ONEMONTH/FULL TOPIC/media/Pasted image 20240110101853.png",
+    "ONEMONTH/FULL TOPIC/media",
+    "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
+    "MadeEasy ShortNotes Progress.md",
     "DialyStuff/2024-01-10.md",
     "GATEOMEDIA Progress 1.md",
     "HOME.md",
     "TimeTable.md",
-    "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
     "ONEMONTH/FULL SUBJECT/2024-01-09 DBMS GATEOPEDIA.md",
     "ONEMONTH/FULL PYQ/media/Pasted image 20240109145437.png",
     "ONEMONTH/FULL PYQ/media/Pasted image 20240109145424.png",
@@ -266,15 +284,12 @@
     "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md",
     "DialyStuff/2024-01-09.md",
     "ONEMONTH/FULL TOPIC/2024-01-09 Undecideable.md",
-    "ONEMONTH/FULL PYQ/media/Pasted image 20240109070057.png",
-    "ONEMONTH/FULL PYQ/media/Pasted image 20240109070031.png",
     "DialyStuff/2024-01-08.md",
     "DialyStuff/2024-01-06.sync-conflict-20240108-205555-B6HVX6C.md",
     "Revision/Que/PYQ/COA/input-output - pyq.sync-conflict-20240106-011935-B6HVX6C.md",
     "DialyStuff/2024-01-04.sync-conflict-20240106-011942-B6HVX6C.md",
     "DialyStuff/2024-01-03.sync-conflict-20240106-011934-B6HVX6C.md",
     "DialyStuff/2024-01-02.sync-conflict-20240103-215806-B6HVX6C.md",
-    "ONEMONTH/FULL PYQ/media/Pasted image 20240108205326.png",
     "ONEMONTH/FULL PYQ/media",
     "DialyStuff/2024-01-11.md",
     "DialyStuff/2024-01-12.md",
@@ -283,10 +298,8 @@
     "DialyStuff/2024-01-15.md",
     "DialyStuff/2024-01-16.md",
     "ONEMONTH/FULL TOPIC/2024-01-08 Hashing.md",
-    "MadeEasy ShortNotes Progress.md",
     "ONEMONTH/FULL PYQ/2024-01-08 2021.md",
     "ONEMONTH/FULL PYQ/2023-12-29 PYQ - 2021.md",
-    "DialyStuff/2024-01-07.md",
     "Revision/TS/AppliedTS/2022/MOCK/media",
     "Revision/TS/AppliedTS/2022/MOCK",
     "Revision/TS/AppliedTS/2022",
@@ -296,7 +309,6 @@
     "Revision/Que/ZealAdvBook/COA",
     "Revision/Que/ZealAdvBook",
     "Revision/Que/PracticeSet/media/CD-Scoping - Dynamic and Static.pdf",
-    "Revision/Que/PracticeSet/media/1. Parameter Passing.pdf",
     "StateFull/MATH.canvas",
     "StateFull/OS.canvas",
     "StateFull/ALGO.canvas",
