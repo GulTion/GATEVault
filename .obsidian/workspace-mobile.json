@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-01-06.md",
+                "file": "English/Nouns.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DialyStuff/2024-01-06.md",
+            "file": "English/Nouns.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DialyStuff/2024-01-06.md",
+            "file": "English/Nouns.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "DialyStuff/2024-01-06.md"
+            "file": "English/Nouns.md"
           }
         }
       },
@@ -195,6 +195,20 @@
   },
   "active": "fcf8c36750a92567",
   "lastOpenFiles": [
+    "English/media/Screenshot_20240111_194236 1.jpg",
+    "English/media/Screenshot_20240111_195257 1.jpg",
+    "English/media/Screenshot_20240111_195257.jpg",
+    "English/media/Screenshot_20240111_195251.jpg",
+    "English/media/Screenshot_20240111_195217 1.jpg",
+    "English/media/Screenshot_20240111_195217.jpg",
+    "English/media/Screenshot_20240111_195133.jpg",
+    "English/media/Screenshot_20240111_195037.jpg",
+    "English/media/Screenshot_20240111_194926.jpg",
+    "English/media/Screenshot_20240111_194848.jpg",
+    "English/media/Screenshot_20240111_194740.jpg",
+    "English/media",
+    "DialyStuff/2024-01-11.md",
+    "English/Nouns.md",
     "HOME.md",
     "TopicPractice/COA.md",
     "DialyStuff/2024-01-06.md",
@@ -206,26 +220,16 @@
     "media/media/media/Recording 20231006112048.webm",
     "media/media/media/media/Recording 20231006112111.webm",
     "media/media/Recording 20231006112015.webm",
-    "media/media 1/Pasted image 20230925120207.png",
-    "media/media 2/Pasted image 20230829180728.png",
-    "media/Pasted image 20240101161444.png",
     "CD SUBJECT-WISE 1.md",
     "TimeTable.md",
     "DialyStuff/2024-01-02.md",
     "DialyStuff/2023-12-22.md",
     "DialyStuff/2023-12-28.md",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231222094459.png",
-    "Revision/TS/ZealTS/MATH/media/Pasted image 20231222094447.png",
     "StateFull/DSA.canvas",
     "DialyStuff/2023-12-20.md",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.sync-conflict-20231218-012122-B6HVX6C.md",
     "DialyStuff/2023-12-18.md",
-    "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231217165409.png",
-    "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231217171118.png",
-    "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231217162523.png",
-    "Revision/Que/zealWorkBook/DSA/media/Pasted image 20231217151324.png",
-    "media/Pasted image 20231217142353.png",
     "Revision/Que/zealWorkBook/DSA/ADA Test – 2 -zealworkbook 2.md",
     "Revision/Que/PYQ/OS/File System - pyq.sync-conflict-20231218-012114-B6HVX6C.md",
     "Revision/Que/PYQ/OS/CPU Scheduling - pyq.sync-conflict-20231218-012108-B6HVX6C.md",
@@ -237,9 +241,6 @@
     "Revision/TS/ZealTS/MATH",
     "Revision/Que/MixQue/CN/Switching.md",
     "Revision/Que/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
-    "DialyStuff/2023-12-17.md",
-    "Revision/TS/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md",
-    "Revision/Que/zealWorkBook/MATH/Calculus - ZealWorkBook.md",
     "StateFull/DLD.canvas",
     "FlowChart.canvas"
   ]
