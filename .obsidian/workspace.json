@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-01-11.md",
+                "file": "ONEMONTH/FULL TOPIC/2024-01-10 SQL to Statement.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 360.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-11.md",
+                "file": "ONEMONTH/FULL TOPIC/2024-01-10 SQL to Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-11.md",
+                "file": "ONEMONTH/FULL TOPIC/2024-01-10 SQL to Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-01-11.md"
+                "file": "ONEMONTH/FULL TOPIC/2024-01-10 SQL to Statement.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-01-11.md"
+                "file": "ONEMONTH/FULL TOPIC/2024-01-10 SQL to Statement.md"
               }
             }
           },
@@ -229,6 +229,7 @@
   },
   "active": "71b8431fc3c35dc8",
   "lastOpenFiles": [
+    "DialyStuff/2024-01-11.md",
     "TopicPractice/DBMS.md",
     "DialyStuff/2024-01-10.md",
     "HOME.md",
@@ -262,7 +263,6 @@
     "DialyStuff/2024-01-03.sync-conflict-20240106-011934-B6HVX6C.md",
     "DialyStuff/2024-01-02.sync-conflict-20240103-215806-B6HVX6C.md",
     "ONEMONTH/FULL PYQ/media",
-    "DialyStuff/2024-01-11.md",
     "DialyStuff/2024-01-12.md",
     "DialyStuff/2024-01-13.md",
     "DialyStuff/2024-01-14.md",
