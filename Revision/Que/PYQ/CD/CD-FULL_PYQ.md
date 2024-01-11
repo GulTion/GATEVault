@@ -14,5 +14,5 @@ mistake
 **Back end phase of the compiler consists of those phases which depend on the target machine and are independent of the source program**.
 B <!--SR:!2024-01-30,26,210-->
 
-![[Pasted image 20231207225854.png]]::2 ![[Pasted image 20231207225917.png]] <!--SR:!2024-01-07,12,190-->
+![[Pasted image 20231207225854.png]]::2 ![[Pasted image 20231207225917.png]] <!--SR:!2024-02-16,36,210-->
 

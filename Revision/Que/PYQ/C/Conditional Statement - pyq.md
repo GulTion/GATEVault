@@ -6,7 +6,7 @@ status: Revision
 #card/C/Condition
 
 
-![[Pasted image 20231122152544.png]]::B![[Pasted image 20231122152600.png]] <!--SR:!2024-01-10,15,190-->
+![[Pasted image 20231122152544.png]]::B![[Pasted image 20231122152600.png]] <!--SR:!2024-02-20,40,210-->
 
 
 ![[Pasted image 20231122153539.png]]::10 <!--SR:!2024-03-17,71,230-->

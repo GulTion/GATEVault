@@ -17,40 +17,40 @@ atQ: 11
 ?
 ![[Pasted image 20231229190846.png]] 
 
-#card/CD/Parameter 
+#card/CD/Parameter
 ![[Pasted image 20231229191447.png]]
 ?
-![[Pasted image 20231229191457.png]] 
+![[Pasted image 20231229191457.png]] <!--SR:!2024-01-13,2,152-->
 
-#card/CD/CodeOptimization 
+#card/CD/CodeOptimization
 ![[Pasted image 20231229191705.png]]
 ?
-![[Pasted image 20231229191710.png]] 
+![[Pasted image 20231229191710.png]] <!--SR:!2024-01-13,2,152-->
 
-#card/CD/Parser 
+#card/CD/Parser
 ![[Pasted image 20231229192215.png]]
 ?
-![[Pasted image 20231229192220.png]] 
+![[Pasted image 20231229192220.png]] <!--SR:!2024-01-13,2,152-->
 
 #card/CD/Lexical_Analysis
 ![[Pasted image 20231229192330.png]]
 ?
-![[Pasted image 20231229192337.png]] 
+![[Pasted image 20231229192337.png]] <!--SR:!2024-01-13,2,152--> 
 
-#card/CD/Parser/BottomUp/LR1 
+#card/CD/Parser/BottomUp/LR1
 ![[Pasted image 20231229192430.png]]
 ?
-![[Pasted image 20231229192434.png]] 
+![[Pasted image 20231229192434.png]] <!--SR:!2024-01-13,2,152-->
 
 #card/CD/Semantic_Tree 
 ![[Pasted image 20231229221944.png]]
 ?
 ![[Pasted image 20231229221948.png]] 
 
-#card/CD/Parameter 
+#card/CD/Parameter
 ![[Pasted image 20231229222142.png]]
 ?
-![[Pasted image 20231229222146.png]] 
+![[Pasted image 20231229222146.png]] <!--SR:!2024-01-13,2,152-->
 
 #card
 ![[Pasted image 20231229223530.png]]
