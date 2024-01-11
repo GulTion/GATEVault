@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ONEMONTH/FULL TEST/2024-01-10 Test ID - 82 [Mock - 8 ] - 2023.md",
+                "file": "Revision/Que/PYQ/APTI/Verbal Ability.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ONEMONTH/FULL TEST/2024-01-10 Test ID - 82 [Mock - 8 ] - 2023.md",
+                "file": "Revision/Que/PYQ/APTI/Verbal Ability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ONEMONTH/FULL TEST/2024-01-10 Test ID - 82 [Mock - 8 ] - 2023.md",
+                "file": "Revision/Que/PYQ/APTI/Verbal Ability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ONEMONTH/FULL TEST/2024-01-10 Test ID - 82 [Mock - 8 ] - 2023.md"
+                "file": "Revision/Que/PYQ/APTI/Verbal Ability.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ONEMONTH/FULL TEST/2024-01-10 Test ID - 82 [Mock - 8 ] - 2023.md"
+                "file": "Revision/Que/PYQ/APTI/Verbal Ability.md"
               }
             }
           },
@@ -229,6 +229,9 @@
   },
   "active": "71b8431fc3c35dc8",
   "lastOpenFiles": [
+    "ONEMONTH/FULL TEST/2024-01-10 Test ID - 82 [Mock - 8 ] - 2023.md",
+    "Revision/Que/PYQ/APTI/Verbal Ability.md",
+    "Revision/Que/PYQ/APTI/Untitled",
     "English/media/Screenshot_20240111_194740.jpg",
     "English/media/Screenshot_20240111_195251.jpg",
     "English/media/Screenshot_20240111_194415.jpg",
@@ -239,7 +242,6 @@
     "English/media/Screenshot_20240111_195257 1.jpg",
     "English/media/Screenshot_20240111_195133.jpg",
     "English/media/Screenshot_20240111_194848.jpg",
-    "English/media/Screenshot_20240111_195257.jpg",
     "English/Nouns.md",
     "English/media",
     "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
@@ -249,7 +251,6 @@
     "DialyStuff/2024-01-10.md",
     "HOME.md",
     "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
-    "ONEMONTH/FULL TEST/2024-01-10 Test ID - 82 [Mock - 8 ] - 2023.md",
     "ONEMONTH/FULL TEST/media",
     "ONEMONTH/FULL SUBJECT/2024-01-09 DBMS GATEOPEDIA.md",
     "ONEMONTH/FULL SUBJECT/2023-12-29 Test ID - 65 [Round - 1 Compiler Test -1] - 2023.md",
@@ -275,7 +276,6 @@
     "Revision/TS/AppliedTS",
     "StateFull/COA.canvas",
     "Revision/Que/ZealAdvBook/COA/media",
-    "Revision/Que/ZealAdvBook/COA",
     "StateFull/MATH.canvas",
     "StateFull/OS.canvas",
     "StateFull/ALGO.canvas",
