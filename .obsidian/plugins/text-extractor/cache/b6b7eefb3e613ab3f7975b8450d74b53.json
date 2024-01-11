@@ -1,0 +1,1 @@
+{"path":"Revision/TS/MadeEasyTS/TOC/2022/media/Pasted image 20240112004424.png","text":"Q.9 Which of the following RE is equivalent to the given grammar? Here start variable is X. X=aX+bY Y=€e+cY+dX ° a*b(c + da* b)* e (a + be*d)*be* G (a+ c*d)*be* Q Regular expression is not possible as the given grammar is not regular grammar","libVersion":"0.2.4","langs":"eng"}

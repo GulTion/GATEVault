@@ -366,7 +366,10 @@
     "card/DBMS/Tuple": 13,
     "card/DBMS/Tuple_Relation_Calculus": 14,
     "card/DM/combintories/PiegeonHole": 8,
-    "card/DM/combintories/PigeonHole": 9
+    "card/DM/combintories/PigeonHole": 9,
+    "card/TOC/Regular": 7,
+    "card/TOC/Regular/Pumping_Lemma": 1,
+    "card/TOC/RE": 8
   },
   "_version": 2
 }
