@@ -2,7 +2,7 @@
 type: MadeEasyTS
 subject: TOC
 startQ: 1
-status: acquiring
+status: Revision
 ---
 #card/TOC/Regular/Pumping_Lemma
 ![[Pasted image 20240112003709.png]]
