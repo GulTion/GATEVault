@@ -2,22 +2,10 @@
 type: GOTS
 subject: FULL
 status: Revision
-completed:
+completed: 
+atQ: 37
 ---
 #card/FULL 
-
-#card/DM/combintories 
-![[Pasted image 20231210162820.png]]
-?
-mistake 
-- #mistake/lack/TermAndConcept 
-![[Pasted image 20231210162850.png]] 
-
-#card/CD/Parser/BottomUp
-![[Pasted image 20231210200718.png]]
-?
-A,B,C
-![[Pasted image 20231210200728.png]] <!--SR:!2024-01-15,4,170-->
 
 
 #card/DM/set_Theory/Countable
@@ -30,11 +18,16 @@ B https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel
 
 ![[Pasted image 20231210205314.png]]::A,B https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/resources/discussion/387829.html
 
-![[Pasted image 20231210205722.png]]::A,B,D
+![[Pasted image 20231210205722.png]]::A,B,D complement will give infinite language which is not finite
+
+#card/DM/Group_Theory/SubGroup
+![[Pasted image 20240112170842.png]]
+?
+![[Pasted image 20240112171226.png]]
+
+
 
 ![[Pasted image 20231212111347.png]]:: C https://youtu.be/ED3DDOWJ1NE
-
-![[Pasted image 20231212124731.png]]::2![[Pasted image 20231212124812.png]]
 
 ![[Pasted image 20231212133143.png]]::B,C, D ![[Pasted image 20231212133213.png]]
 

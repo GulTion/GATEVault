@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
+                "file": "DialyStuff/2024-01-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
+                "file": "DialyStuff/2024-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
+                "file": "DialyStuff/2024-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md"
+                "file": "DialyStuff/2024-01-12.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md"
+                "file": "DialyStuff/2024-01-12.md"
               }
             }
           },
@@ -229,6 +229,9 @@
   },
   "active": "71b8431fc3c35dc8",
   "lastOpenFiles": [
+    "Revision/TS/GOTS/FULL/media/Pasted image 20240112171226.png",
+    "Revision/TS/GOTS/FULL/media/Pasted image 20240112170842.png",
+    "Revision/TS/GOTS/FULL/media/Pasted image 20240112170610.png",
     "DialyStuff/2024-01-12.md",
     "Revision/TS/MadeEasyTS/TOC/2022/media/Pasted image 20240112005024.png",
     "Revision/TS/MadeEasyTS/TOC/2022/media/Pasted image 20240112004424.png",
@@ -245,8 +248,6 @@
     "English/media/Screenshot_20240111_195251.jpg",
     "English/media/Screenshot_20240111_194415.jpg",
     "English/media/Screenshot_20240111_194236.jpg",
-    "English/media/Screenshot_20240111_194543.jpg",
-    "English/media/Screenshot_20240111_195037.jpg",
     "English/Nouns.md",
     "English/media",
     "Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md",
@@ -271,7 +272,6 @@
     "Revision/Que/PYQ/COA/input-output - pyq.sync-conflict-20240106-011935-B6HVX6C.md",
     "DialyStuff/2024-01-04.sync-conflict-20240106-011942-B6HVX6C.md",
     "DialyStuff/2024-01-03.sync-conflict-20240106-011934-B6HVX6C.md",
-    "DialyStuff/2024-01-02.sync-conflict-20240103-215806-B6HVX6C.md",
     "ONEMONTH/FULL PYQ/media",
     "Revision/TS/AppliedTS/2022/MOCK/media",
     "Revision/TS/AppliedTS/2022/MOCK",
