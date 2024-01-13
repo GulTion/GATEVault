@@ -10,7 +10,7 @@ endQ: 40
 #card/C 
 ![[Pasted image 20231116142615.png]]::A, B ![[Pasted image 20231116142629.png]] <!--SR:!2024-01-17,36,221-->
 
-![[Pasted image 20231116142700.png]]::D ![[Pasted image 20231116142710.png]] <!--SR:!2024-01-10,33,216-->
+![[Pasted image 20231116142700.png]]::D ![[Pasted image 20231116142710.png]] <!--SR:!2024-01-30,16,196-->
 
 ![[Pasted image 20231116152037.png]]::![[Pasted image 20231116152045.png]] <!--SR:!2024-03-14,63,236-->
 

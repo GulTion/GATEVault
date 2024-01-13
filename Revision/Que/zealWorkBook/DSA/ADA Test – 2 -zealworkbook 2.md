@@ -15,5 +15,5 @@ status: acquiring
 #card
 ![[Pasted image 20231219194437.png]]
 ?
-![[Pasted image 20231219194526.png]]![[Pasted image 20231219194542.png]] <!--SR:!2024-01-12,2,150--> 
+![[Pasted image 20231219194526.png]]![[Pasted image 20231219194542.png]] <!--SR:!2024-01-18,4,170--> 
 

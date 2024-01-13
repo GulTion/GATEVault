@@ -10,7 +10,7 @@ statements about the HTTP for the persistence and non-persistence connection	![[
 
 local DNS server function statement![[Pasted image 20231001084809.png]]::D <!--SR:!2024-01-16,54,250-->
 
-![[Pasted image 20231105115811.png]]::C![[Pasted image 20231105115823.png]] <!--SR:!2024-01-03,43,293-->
+![[Pasted image 20231105115811.png]]::C![[Pasted image 20231105115823.png]] <!--SR:!2024-02-02,19,273-->
 
 ![[Pasted image 20231105115915.png]]::A![[Pasted image 20231105115930.png]] <!--SR:!2024-01-25,56,293-->
 

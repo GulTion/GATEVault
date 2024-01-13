@@ -11,11 +11,10 @@
             "id": "71b8431fc3c35dc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "DialyStuff/2024-01-14.md",
-                "mode": "source",
-                "source": false
+                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
+                "staged": false
               }
             }
           }
@@ -48,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card/DSA/Greedy/Dijkastra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +72,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DialyStuff/2024-01-14.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "DialyStuff/2024-01-14.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,8 +192,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,6 +221,7 @@
   },
   "active": "71b8431fc3c35dc8",
   "lastOpenFiles": [
+    "DialyStuff/2024-01-14.md",
     "DialyStuff/2024-01-13.md",
     "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
     "DialyStuff/2024-01-12.md",
@@ -272,7 +264,6 @@
     "DialyStuff/2024-01-08.md",
     "DialyStuff/2024-01-06.sync-conflict-20240108-205555-B6HVX6C.md",
     "Revision/Que/PYQ/COA/input-output - pyq.sync-conflict-20240106-011935-B6HVX6C.md",
-    "DialyStuff/2024-01-04.sync-conflict-20240106-011942-B6HVX6C.md",
     "ONEMONTH/FULL PYQ/media",
     "Revision/TS/AppliedTS/2022/MOCK/media",
     "Revision/TS/AppliedTS/2022/MOCK",

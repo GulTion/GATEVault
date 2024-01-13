@@ -9,11 +9,11 @@ src: zealWorkBook
 ---
 #card/C/Full
  <!--SR:!2023-10-31,3,268-->
-- ![[Pasted image 20231001213927.png]]::C it will give error of `error: lvalue required as increment operand` bcz we can't change the address of the array `a` <!--SR:!2023-12-28,46,308-->
+- ![[Pasted image 20231001213927.png]]::C it will give error of `error: lvalue required as increment operand` bcz we can't change the address of the array `a` <!--SR:!2024-07-27,195,328-->
 
 ![[Pasted image 20231001215133.png]]::A,![[Pasted image 20231001215145.png]] <!--SR:!2024-02-11,74,288-->
 
-![[Pasted image 20231001225415.png]]::C <!--SR:!2023-12-29,47,308-->
+![[Pasted image 20231001225415.png]]::C <!--SR:!2024-07-31,199,328-->
 
 ![[Pasted image 20231002010737.png]]::D <!--SR:!2024-06-01,158,308-->
 
