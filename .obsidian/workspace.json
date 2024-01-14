@@ -11,14 +11,11 @@
             "id": "bf7b0ef1b284376a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -150,
-                  "y": 60,
-                  "zoom": 0
-                }
+                "file": "DialyStuff/2024-01-15.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -127,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "DialyStuff/2024-01-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "DialyStuff/2024-01-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "DialyStuff/2024-01-15.md"
               }
             }
           },
@@ -197,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "DialyStuff/2024-01-15.md"
               }
             }
           },
