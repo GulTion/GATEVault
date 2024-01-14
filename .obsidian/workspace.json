@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0a913439dd1085ab",
+        "id": "366544e7862c9e31",
         "type": "tabs",
         "children": [
           {
-            "id": "71b8431fc3c35dc8",
+            "id": "bf7b0ef1b284376a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/MOCK 3 2023 ID 77.md",
-                "staged": false
+                "file": "DialyStuff/2024-01-14.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DialyStuff/2024-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DialyStuff/2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2024-01-14.md"
+              }
             }
           },
           {
@@ -165,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2024-01-14.md"
+              }
             }
           },
           {
@@ -219,7 +226,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "71b8431fc3c35dc8",
+  "active": "bf7b0ef1b284376a",
   "lastOpenFiles": [
     "DialyStuff/2024-01-14.md",
     "DialyStuff/2024-01-13.md",
