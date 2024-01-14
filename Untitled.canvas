@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"64911833db4f0bdc","type":"group","x":-100,"y":-300,"width":180,"height":180,"label":"GrandParents"},
+		{"id":"7d94f7c0f6bf49ba","type":"group","x":-260,"y":-20,"width":180,"height":180,"label":"Ur Family"},
+		{"id":"eb3e1ef1cae0e68b","type":"text","text":"LOLA","x":-80,"y":-280,"width":140,"height":60},
+		{"id":"cd759b9174b4c7ca","type":"text","text":"LOLO","x":-80,"y":-190,"width":140,"height":50},
+		{"id":"3053a56dff1f2ec0","type":"text","text":"Mama","x":-240,"y":0,"width":140,"height":60},
+		{"id":"d5f41deec9794197","type":"text","text":"Papa","x":-240,"y":90,"width":140,"height":50},
+		{"id":"169a9c444278205a","x":-385,"y":260,"width":145,"height":60,"type":"text","text":"Raqel"},
+		{"id":"00354879f9135311","type":"text","text":"Rubi","x":-312,"y":360,"width":145,"height":60},
+		{"id":"eb76411faec8fc2d","type":"text","text":"Riza","x":-172,"y":290,"width":145,"height":60},
+		{"id":"7e5323117e2da7e4","type":"text","text":"Ria","x":-60,"y":200,"width":145,"height":60}
+	],
+	"edges":[
+		{"id":"8d4a85b7be9510db","fromNode":"7d94f7c0f6bf49ba","fromSide":"bottom","toNode":"169a9c444278205a","toSide":"top"},
+		{"id":"87f1523fe0e3dc8e","fromNode":"7d94f7c0f6bf49ba","fromSide":"bottom","toNode":"00354879f9135311","toSide":"top"},
+		{"id":"4ac84bd6df31a81a","fromNode":"7d94f7c0f6bf49ba","fromSide":"bottom","toNode":"eb76411faec8fc2d","toSide":"top"},
+		{"id":"215adaa7e1ad8ccd","fromNode":"7d94f7c0f6bf49ba","fromSide":"bottom","toNode":"7e5323117e2da7e4","toSide":"top"},
+		{"id":"921faecca12184e7","fromNode":"64911833db4f0bdc","fromSide":"bottom","toNode":"7d94f7c0f6bf49ba","toSide":"top"}
+	]
+}

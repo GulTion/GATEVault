@@ -11,11 +11,36 @@
             "id": "bf7b0ef1b284376a",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -150,
+                  "y": 60,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "bc19effec588aa12",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-01-14.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "aad122048703526c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-14 20.00.43.excalidraw.md"
               }
             }
           }
@@ -77,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 360.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -101,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-14.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-14.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-01-14.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -171,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-01-14.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -203,7 +229,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,11 +250,15 @@
       "obsidian-trash-explorer:Open trash explorer": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Timeline": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "bf7b0ef1b284376a",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-14 20.00.43.excalidraw.md",
+    "Untitled.md",
+    "Untitled.canvas",
     "DialyStuff/2024-01-14.md",
     "DialyStuff/2024-01-13.md",
     "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
@@ -268,9 +299,6 @@
     "TimeTable.md",
     "DialyStuff/2024-01-09.md",
     "ONEMONTH/FULL TOPIC/2024-01-09 Undecideable.md",
-    "DialyStuff/2024-01-08.md",
-    "DialyStuff/2024-01-06.sync-conflict-20240108-205555-B6HVX6C.md",
-    "Revision/Que/PYQ/COA/input-output - pyq.sync-conflict-20240106-011935-B6HVX6C.md",
     "ONEMONTH/FULL PYQ/media",
     "Revision/TS/AppliedTS/2022/MOCK/media",
     "Revision/TS/AppliedTS/2022/MOCK",
@@ -282,7 +310,6 @@
     "StateFull/CN.canvas",
     "StateFull/TOC.canvas",
     "StateFull/DSA.canvas",
-    "StateFull/APTI.canvas",
-    "StateFull/DLD.canvas"
+    "StateFull/APTI.canvas"
   ]
 }
