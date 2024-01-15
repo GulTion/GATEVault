@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-01-15.md",
+                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-15.md",
+                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-15.md",
+                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-01-15.md"
+                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-01-15.md"
+                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md"
               }
             }
           },
@@ -221,12 +221,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,7 +252,11 @@
   },
   "active": "bf7b0ef1b284376a",
   "lastOpenFiles": [
+    "Revision/Notes/ShortNotes/CN/Circuit Switching.md",
+    "HOME.md",
+    "DaskBoard Back.md",
     "DialyStuff/2024-01-15.md",
+    "Aptitude Syllabus 2024.md",
     "Revision/Que/ZealAdvBook/CN/media/Pasted image 20240115025844.png",
     "Revision/Que/ZealAdvBook/CN/media/Pasted image 20240115025831.png",
     "Revision/Que/ZealAdvBook/CN/media/Pasted image 20240115025119.png",
@@ -287,7 +291,6 @@
     "DialyStuff/2024-01-11.md",
     "TopicPractice/DBMS.md",
     "DialyStuff/2024-01-10.md",
-    "HOME.md",
     "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
     "ONEMONTH/FULL TEST/media",
     "ONEMONTH/FULL SUBJECT/2024-01-09 DBMS GATEOPEDIA.md",
@@ -295,8 +298,6 @@
     "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md",
     "ONEMONTH/FULL TOPIC/media",
     "MadeEasy ShortNotes Progress.md",
-    "GATEOMEDIA Progress 1.md",
-    "TimeTable.md",
     "ONEMONTH/FULL PYQ/media",
     "StateFull/COA.canvas",
     "StateFull/MATH.canvas",
