@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/4. SYSTEM OF EQAUTION.md",
+                "file": "Revision/Notes/ShortNotes/DLD/carry look a head.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/4. SYSTEM OF EQAUTION.md",
+                "file": "Revision/Notes/ShortNotes/DLD/carry look a head.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/4. SYSTEM OF EQAUTION.md",
+                "file": "Revision/Notes/ShortNotes/DLD/carry look a head.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/4. SYSTEM OF EQAUTION.md"
+                "file": "Revision/Notes/ShortNotes/DLD/carry look a head.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/4. SYSTEM OF EQAUTION.md"
+                "file": "Revision/Notes/ShortNotes/DLD/carry look a head.md"
               }
             }
           },
@@ -222,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,12 +252,17 @@
   },
   "active": "bf7b0ef1b284376a",
   "lastOpenFiles": [
+    "Revision/Notes/MicroNotes/DLD/Invalid State in binary code representation.md",
+    "Revision/Que/PYQ/COA/Number System.md",
+    "Revision/media/PYQRevision/COA/media/Pasted image 20230929183631.png",
+    "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
+    "Revision/TS/MadeEasyTS/FULL/media/Pasted image 20231125223126.png",
+    "Revision/Que/zealWorkBook/MATH/LinearAlgebra/4. SYSTEM OF EQAUTION.md",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media/Pasted image 20240115201630.png",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media/Pasted image 20240115201619.png",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media/Pasted image 20240115194925.png",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media/Pasted image 20240115194917.png",
     "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
-    "Revision/Que/zealWorkBook/MATH/LinearAlgebra/4. SYSTEM OF EQAUTION.md",
     "Revision/Notes/ShortNotes/CN/Circuit Switching.md",
     "HOME.md",
     "DaskBoard Back.md",
@@ -277,9 +282,6 @@
     "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
     "DialyStuff/2024-01-12.md",
     "Revision/TS/GOTS/FULL/media/Pasted image 20240112171226.png",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20240112170842.png",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20240112170610.png",
-    "Revision/TS/MadeEasyTS/TOC/2022/media/Pasted image 20240112005024.png",
     "Revision/TS/MadeEasyTS/TOC/2022/media",
     "Revision/Que/PYQ/APTI/Verbal Ability.md",
     "Revision/TS/MadeEasyTS/TOC/2022/vvTHEORY OF COMPUTATION-1.md",
@@ -295,8 +297,6 @@
     "TopicPractice/DBMS.md",
     "DialyStuff/2024-01-10.md",
     "ONEMONTH/FULL TEST/media",
-    "ONEMONTH/FULL SUBJECT/2024-01-09 DBMS GATEOPEDIA.md",
-    "ONEMONTH/FULL SUBJECT/2023-12-29 Test ID - 65 [Round - 1 Compiler Test -1] - 2023.md",
     "ONEMONTH/FULL TOPIC/media",
     "ONEMONTH/FULL PYQ/media",
     "StateFull/COA.canvas",
