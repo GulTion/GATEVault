@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Nouns.md",
+                "file": "HOME.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English/Nouns.md",
+            "file": "HOME.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "English/Nouns.md",
+            "file": "HOME.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "English/Nouns.md"
+            "file": "HOME.md"
           }
         }
       },
@@ -174,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
@@ -193,8 +194,11 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "fcf8c36750a92567",
+  "active": "589707dc29387caa",
   "lastOpenFiles": [
+    "DaskBoard Back.md",
+    "GATEOMEDIA Progress 1.md",
+    "DialyStuff/2024-01-15.md",
     "English/media/Screenshot_20240111_194236 1.jpg",
     "English/media/Screenshot_20240111_195257 1.jpg",
     "English/media/Screenshot_20240111_195257.jpg",
@@ -205,7 +209,6 @@
     "English/media/Screenshot_20240111_195037.jpg",
     "English/media/Screenshot_20240111_194926.jpg",
     "English/media/Screenshot_20240111_194848.jpg",
-    "English/media/Screenshot_20240111_194740.jpg",
     "English/media",
     "DialyStuff/2024-01-11.md",
     "English/Nouns.md",
@@ -239,8 +242,6 @@
     "Tricks",
     "Revision/TS/ZealTS/MATH/media",
     "Revision/TS/ZealTS/MATH",
-    "Revision/Que/MixQue/CN/Switching.md",
-    "Revision/Que/zealWorkBook/COA/INSTRUCTION SET ARCHITECTURE.md",
     "StateFull/DLD.canvas",
     "FlowChart.canvas"
   ]
