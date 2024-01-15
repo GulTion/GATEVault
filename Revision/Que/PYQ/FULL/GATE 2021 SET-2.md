@@ -10,7 +10,7 @@ atQ: 0
 #notes/dm/logic/implication![[Pasted image 20230923160222.png]] 
 ## TOC 
 ![[Pasted image 20231017215142.png]]::![[Pasted image 20231017215227.png]] <!--SR:!2024-01-30,59,310-->
-- 19 ![[Pasted image 20231018160155.png]]::![[Pasted image 20231018160211.png]] <!--SR:!2023-11-16,15,290-->
+- 19 ![[Pasted image 20231018160155.png]]::![[Pasted image 20231018160211.png]] <!--SR:!2024-03-14,59,310-->
 
 ![[Pasted image 20231025154346.png]]::https://gateoverflow.in/357515/gate-cse-2021-set-2-question-25#a_list_title
 
