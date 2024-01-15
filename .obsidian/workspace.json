@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
+                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/4. SYSTEM OF EQAUTION.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
+                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/4. SYSTEM OF EQAUTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
+                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/4. SYSTEM OF EQAUTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md"
+                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/4. SYSTEM OF EQAUTION.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md"
+                "file": "Revision/Que/zealWorkBook/MATH/LinearAlgebra/4. SYSTEM OF EQAUTION.md"
               }
             }
           },
@@ -222,11 +222,12 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,6 +253,12 @@
   },
   "active": "bf7b0ef1b284376a",
   "lastOpenFiles": [
+    "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media/Pasted image 20240115201630.png",
+    "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media/Pasted image 20240115201619.png",
+    "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media/Pasted image 20240115194925.png",
+    "Revision/Que/zealWorkBook/MATH/LinearAlgebra/media/Pasted image 20240115194917.png",
+    "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
+    "Revision/Que/zealWorkBook/MATH/LinearAlgebra/4. SYSTEM OF EQAUTION.md",
     "Revision/Notes/ShortNotes/CN/Circuit Switching.md",
     "HOME.md",
     "DaskBoard Back.md",
@@ -274,9 +281,6 @@
     "Revision/TS/GOTS/FULL/media/Pasted image 20240112170842.png",
     "Revision/TS/GOTS/FULL/media/Pasted image 20240112170610.png",
     "Revision/TS/MadeEasyTS/TOC/2022/media/Pasted image 20240112005024.png",
-    "Revision/TS/MadeEasyTS/TOC/2022/media/Pasted image 20240112004424.png",
-    "Revision/TS/MadeEasyTS/TOC/2022/media/Pasted image 20240112003718.png",
-    "Revision/TS/MadeEasyTS/TOC/2022/media/Pasted image 20240112003709.png",
     "Revision/TS/MadeEasyTS/TOC/2022/media",
     "Revision/Que/PYQ/APTI/Verbal Ability.md",
     "Revision/TS/MadeEasyTS/TOC/2022/vvTHEORY OF COMPUTATION-1.md",
@@ -291,13 +295,10 @@
     "DialyStuff/2024-01-11.md",
     "TopicPractice/DBMS.md",
     "DialyStuff/2024-01-10.md",
-    "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
     "ONEMONTH/FULL TEST/media",
     "ONEMONTH/FULL SUBJECT/2024-01-09 DBMS GATEOPEDIA.md",
     "ONEMONTH/FULL SUBJECT/2023-12-29 Test ID - 65 [Round - 1 Compiler Test -1] - 2023.md",
-    "ONEMONTH/FULL TOPIC/2024-01-08 DFA to RegEX.md",
     "ONEMONTH/FULL TOPIC/media",
-    "MadeEasy ShortNotes Progress.md",
     "ONEMONTH/FULL PYQ/media",
     "StateFull/COA.canvas",
     "StateFull/MATH.canvas",

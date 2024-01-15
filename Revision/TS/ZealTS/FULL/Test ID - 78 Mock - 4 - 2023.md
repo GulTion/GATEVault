@@ -40,7 +40,7 @@ mistake
 ?
 mistake
 - #mistake/lack/TermAndConcept
-![[Pasted image 20231213114207.png]] <!--SR:!2023-12-28,2,150-->
+![[Pasted image 20231213114207.png]] <!--SR:!2024-01-19,4,170-->
 
 #card/CN/MacLayer/CSMA_CD
 ![[Pasted image 20231213114745.png]]

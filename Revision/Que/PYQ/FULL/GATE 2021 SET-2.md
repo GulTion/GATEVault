@@ -16,7 +16,7 @@ atQ: 0
 
 ![[Pasted image 20231025155011.png]]::A![[Pasted image 20231025155333.png]]https://gateoverflow.in/357513/gate-cse-2021-set-2-question-27#a_list_title ^c52e74
 
-![[Pasted image 20231025160849.png]]::https://gateoverflow.in/357512/gate-cse-2021-set-2-question-28#a_list_title B <!--SR:!2024-01-06,10,282-->
+![[Pasted image 20231025160849.png]]::https://gateoverflow.in/357512/gate-cse-2021-set-2-question-28#a_list_title B <!--SR:!2024-02-22,38,302-->
 
 ![[Pasted image 20231026012121.png]]::C <!--SR:!2024-02-29,64,314-->
 
@@ -29,4 +29,4 @@ atQ: 0
 ![[Pasted image 20231026022625.png]]::![[Pasted image 20231026022649.png]]
 
 
-![[Pasted image 20231026023057.png]]::https://gateoverflow.in/357487/gate-cse-2021-set-2-question-50#a_list_title <!--SR:!2023-12-29,2,254-->
+![[Pasted image 20231026023057.png]]::https://gateoverflow.in/357487/gate-cse-2021-set-2-question-50#a_list_title <!--SR:!2024-01-23,8,274-->
