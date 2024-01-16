@@ -29,3 +29,8 @@ atQ: 42
 ?
 ![[Pasted image 20240116190502.png]] 
 
+#card/DM/combintories
+![[Pasted image 20240116221441.png]]
+?
+![[Pasted image 20240116221508.png]] 
+
