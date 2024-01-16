@@ -1,7 +1,7 @@
 ---
 type: GOTS
 status: acquiring
-atQ: 42
+atQ: 46
 ---
 | Qno. | Marks |
 | ---- | ---- |
