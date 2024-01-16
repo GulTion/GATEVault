@@ -1,6 +1,7 @@
 ---
 type: GOTS
 status: acquiring
+atQ: 42
 ---
 | Qno. | Marks |
 | ---- | ---- |
@@ -11,6 +12,8 @@ status: acquiring
 | 28 | 2 |
 | 35 | 2 |
 | 37 | 2 |
+| 39 | 2 |
+| 40 | 2 |
 #card/DSA/Tree/AVL
 ![[Pasted image 20240116175939.png]]
 ?
@@ -20,4 +23,9 @@ status: acquiring
 ![[Pasted image 20240116180436.png]]
 ?
 ![[Pasted image 20240116180454.png]] 
+
+#card/TOC/Regular 
+![[Pasted image 20240116190433.png]]
+?
+![[Pasted image 20240116190502.png]] 
 
