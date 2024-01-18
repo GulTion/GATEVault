@@ -1,3 +1,5 @@
+#current 
+
 # OS
 ## GO Topic Test
 - [x] GO Classes Test Series 2023 | Operating Systems | Test 4 
@@ -23,3 +25,9 @@
 - [ ] ShortNotes #current
 
 # Math
+
+- [ ] PYQ --at 25 #current 
+
+
+# ALGO
+
