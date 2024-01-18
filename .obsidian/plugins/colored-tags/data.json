@@ -376,7 +376,8 @@
     "card/MATH/linear_algebra/SystemOfEquation/Unique_Solution": 2,
     "card/MATH/linear_algebra/SystemOfEquation/Finite_Many_Solution": 3,
     "card/DSA/Tree/AVL": 5,
-    "card/DBMS/Relational_Algebra/Min_Max": 1
+    "card/DBMS/Relational_Algebra/Min_Max": 1,
+    "current": 28
   },
   "_version": 2
 }
