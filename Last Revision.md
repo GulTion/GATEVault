@@ -31,3 +31,14 @@
 
 # ALGO
 
+## Notes
+- [ ] ZealNotes --end 199 --at 19 #current 
+
+# COA
+## Notes
+
+## GO Topic Test
+- [ ] GO Classes Test Series 2023 | CO and Architecture | Test 1
+- [ ] GO Classes Test Series 2023 | CO and Architecture | Test 2
+- [ ] GO Classes Test Series 2023 | CO and Architecture | Test 3
+- [ ] GO Classes Test Series 2023 | CO and Architecture | Test 4
