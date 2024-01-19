@@ -23,6 +23,7 @@
 ## Notes
 - [ ] ZealNotes --noted false --end XX --at 0
 - [ ] ShortNotes #current
+- [ ] ME NOTES
 
 # Math
 
@@ -40,5 +41,9 @@
 ## GO Topic Test
 - [ ] GO Classes Test Series 2023 | CO and Architecture | Test 1
 - [ ] GO Classes Test Series 2023 | CO and Architecture | Test 2
-- [ ] GO Classes Test Series 2023 | CO and Architecture | Test 3
+- [x] GO Classes Test Series 2023 | CO and Architecture | Test 3
 - [ ] GO Classes Test Series 2023 | CO and Architecture | Test 4
+
+# DBMS
+## Notes
+- [ ] GATEOMEdia
