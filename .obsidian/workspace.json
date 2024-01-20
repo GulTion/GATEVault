@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-01-20.md",
+                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-20.md",
+                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-20.md",
+                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-01-20.md"
+                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-01-20.md"
+                "file": "ONEMONTH/FULL PYQ/2024-01-08 2022.md"
               }
             }
           },
@@ -241,10 +241,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b88a234c86af24f",
+  "active": "71b29ce10b4e0b25",
   "lastOpenFiles": [
-    "Last Revision.md",
     "DialyStuff/2024-01-20.md",
+    "Last Revision.md",
     "HOME.md",
     "DialyStuff/2024-01-18.md",
     "zeal Progress.md",
