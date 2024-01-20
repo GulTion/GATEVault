@@ -27,7 +27,7 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 ![[Pasted image 20231219121847.png]]
 ?
 - #mistake
-![[Pasted image 20231219121851.png]] <!--SR:!2024-01-20,6,170--> 
+![[Pasted image 20231219121851.png]] <!--SR:!2024-02-03,14,190--> 
 
 #card/DM/combintories/Distribution/Dearrangement
 ![[Pasted image 20231219122350.png]]
@@ -53,5 +53,5 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 #card
 ![[Pasted image 20231219123949.png]]
 ?
-![[Pasted image 20231219124025.png]] <!--SR:!2024-01-15,1,130--> 
+![[Pasted image 20231219124025.png]] <!--SR:!2024-01-22,2,150--> 
 

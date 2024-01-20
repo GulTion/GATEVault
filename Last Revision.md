@@ -47,3 +47,11 @@
 # DBMS
 ## Notes
 - [ ] GATEOMEdia
+
+## GO Topic TEST
+- [ ] GO Classes Test Series 2023 | Databases | Test 1
+- [ ] GO Classes Test Series 2023 | Databases | Test 2
+- [ ] GO Classes Test Series 2023 | Databases | Test 3
+- [ ] GO Classes Test Series 2023 | Databases | Test 4
+- [ ] GO Classes Test Series 2023 | Databases | Test 5
+
