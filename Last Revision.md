@@ -47,6 +47,7 @@
 # DBMS
 ## Notes
 - [ ] GATEOMEdia
+- [ ] ZealNotes --at 30 #current 
 
 ## GO Topic TEST
 - [ ] GO Classes Test Series 2023 | Databases | Test 1
