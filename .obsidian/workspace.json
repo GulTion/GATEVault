@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-01-18.md",
+                "file": "DialyStuff/2024-01-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Last Revision.md",
+                "file": "DialyStuff/2024-01-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Last Revision.md",
+                "file": "DialyStuff/2024-01-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Last Revision.md"
+                "file": "DialyStuff/2024-01-21.md"
               }
             }
           },
@@ -184,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Last Revision.md"
+                "file": "DialyStuff/2024-01-21.md"
               }
             }
           },
@@ -241,13 +240,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "71b29ce10b4e0b25",
+  "active": "bf7b0ef1b284376a",
   "lastOpenFiles": [
+    "DialyStuff/2024-01-18.md",
+    "DialyStuff/2024-01-21.md",
+    "Last Revision.md",
     "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
     "DialyStuff/2024-01-20.md",
-    "Last Revision.md",
     "HOME.md",
-    "DialyStuff/2024-01-18.md",
     "zeal Progress.md",
     "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 2.md",
     "DialyStuff/2024-01-17.md",
@@ -282,7 +282,6 @@
     "DialyStuff/2024-01-12.md",
     "Revision/TS/MadeEasyTS/TOC/2022/media",
     "Revision/Que/PYQ/APTI/Verbal Ability.md",
-    "Revision/TS/MadeEasyTS/TOC/2022/vvTHEORY OF COMPUTATION-1.md",
     "Revision/TS/MadeEasyTS/TOC/2022",
     "Revision/TS/MadeEasyTS/TOC",
     "Revision/Que/PYQ/APTI/Untitled",
