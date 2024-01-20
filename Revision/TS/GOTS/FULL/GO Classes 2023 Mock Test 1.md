@@ -18,7 +18,7 @@ B https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel
 
 ![[Pasted image 20231210205314.png]]::A,B https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/gateoverflow.in/quiz/resources/discussion/387829.html
 
-![[Pasted image 20231210205722.png]]::A,B,D complement will give infinite language which is not finite <!--SR:!2024-01-17,2,150-->
+![[Pasted image 20231210205722.png]]::A,B,D complement will give infinite language which is not finite <!--SR:!2024-01-24,4,170-->
 
 #card/DM/Group_Theory/SubGroup
 ![[Pasted image 20240112170842.png]]
@@ -27,7 +27,7 @@ B https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel
 
 
 
-![[Pasted image 20231212111347.png]]:: C https://youtu.be/ED3DDOWJ1NE <!--SR:!2024-01-17,2,150-->
+![[Pasted image 20231212111347.png]]:: C https://youtu.be/ED3DDOWJ1NE <!--SR:!2024-01-24,4,170-->
 
 ![[Pasted image 20231212133143.png]]::B,C, D ![[Pasted image 20231212133213.png]]
 
