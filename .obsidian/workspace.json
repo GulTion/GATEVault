@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-01-21.md",
+                "file": "DialyStuff/2024-01-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-21.md",
+                "file": "DialyStuff/2024-01-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-21.md",
+                "file": "DialyStuff/2024-01-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-01-21.md"
+                "file": "DialyStuff/2024-01-24.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-01-21.md"
+                "file": "DialyStuff/2024-01-24.md"
               }
             }
           },
@@ -242,8 +242,9 @@
   },
   "active": "bf7b0ef1b284376a",
   "lastOpenFiles": [
-    "DialyStuff/2024-01-18.md",
     "DialyStuff/2024-01-21.md",
+    "DialyStuff/2024-01-24.md",
+    "DialyStuff/2024-01-18.md",
     "Last Revision.md",
     "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
     "DialyStuff/2024-01-20.md",
@@ -281,7 +282,6 @@
     "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 1.md",
     "DialyStuff/2024-01-12.md",
     "Revision/TS/MadeEasyTS/TOC/2022/media",
-    "Revision/Que/PYQ/APTI/Verbal Ability.md",
     "Revision/TS/MadeEasyTS/TOC/2022",
     "Revision/TS/MadeEasyTS/TOC",
     "Revision/Que/PYQ/APTI/Untitled",
