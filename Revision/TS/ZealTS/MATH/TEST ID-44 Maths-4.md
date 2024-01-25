@@ -4,6 +4,7 @@ status: acquiring
 subject: MATH
 atQ: 24
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=62e3d1ff37e42cca6b369a47
+completed: true
 ---
 #card/MATH/probability 
 

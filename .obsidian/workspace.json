@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf7b0ef1b284376a",
+            "id": "a11b4b00b7c0d764",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-01-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71b29ce10b4e0b25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Last Revision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a766c3fbd9405a76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2024-01-25.md",
+                "file": "DialyStuff/2024-01-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -127,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DialyStuff/2024-01-25.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "DialyStuff/2024-01-25.md"
-              }
+              "state": {}
             }
           },
           {
@@ -254,8 +222,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a766c3fbd9405a76",
+  "active": "a11b4b00b7c0d764",
   "lastOpenFiles": [
+    "DialyStuff/2024-01-26.md",
+    "Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md",
+    "Revision/TS/ZealTS/MATH/TEST ID-44 Maths-4.md",
     "DialyStuff/2024-01-25.md",
     "Revision/Que/PYQ/APTI/Numerical Ability-pyq.md",
     "Last Revision.md",
@@ -289,10 +260,7 @@
     "Revision/TS/MadeEasyTS/FULL/media/Pasted image 20231125223126.png",
     "Revision/Que/zealWorkBook/MATH/LinearAlgebra/4. SYSTEM OF EQAUTION.md",
     "Revision/Notes/ShortNotes/CN/Circuit Switching.md",
-    "DialyStuff/2024-01-15.md",
-    "Aptitude Syllabus 2024.md",
     "Revision/Que/ZealAdvBook/CN/media",
-    "Revision/Que/ZealAdvBook/CN/Data Link Layer (Error Control) - ZealAdvBook.md",
     "Revision/Que/ZealAdvBook/CN",
     "Untitled.canvas",
     "Revision/TS/MadeEasyTS/TOC/2022/media",
