@@ -53,5 +53,5 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 #card
 ![[Pasted image 20231219123949.png]]
 ?
-![[Pasted image 20231219124025.png]] <!--SR:!2024-01-22,2,150--> 
+![[Pasted image 20231219124025.png]] <!--SR:!2024-01-28,4,170--> 
 

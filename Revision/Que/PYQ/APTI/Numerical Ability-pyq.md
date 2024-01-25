@@ -5,6 +5,7 @@ src: https://practicepaper.in/gate-cse/numerical-ability?page_no=2
 atQ: 10
 endQ: 120
 status: acquiring
+completed: true
 ---
 #card/aptitude 
 

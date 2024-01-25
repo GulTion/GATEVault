@@ -10,12 +10,12 @@ type: zealAdvBook
 ?
 A
 dmin = 2S + 1
-So, minimus distance must be 3 for correct single bit error, that's why A is correct <!--SR:!2024-01-17,2,150-->
+So, minimus distance must be 3 for correct single bit error, that's why A is correct <!--SR:!2024-01-28,4,170-->
 
 
 #card/CN/DataLinkLayer/ErrorControl
 ![[Pasted image 20240115025831.png]]
 ?
-![[Pasted image 20240115025844.png]] <!--SR:!2024-01-17,2,150-->
+![[Pasted image 20240115025844.png]] <!--SR:!2024-01-28,4,170-->
 
 

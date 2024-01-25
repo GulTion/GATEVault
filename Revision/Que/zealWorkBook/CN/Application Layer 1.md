@@ -8,7 +8,7 @@ startQ: 1
 #card/CN/ApplicationLayer
 statements about the HTTP for the persistence and non-persistence connection	![[Pasted image 20231001083255.png]]::B <!--SR:!2024-03-20,85,266-->
 
-local DNS server function statement![[Pasted image 20231001084809.png]]::D <!--SR:!2024-01-16,54,250-->
+local DNS server function statement![[Pasted image 20231001084809.png]]::D <!--SR:!2024-08-02,191,270-->
 
 ![[Pasted image 20231105115811.png]]::C![[Pasted image 20231105115823.png]] <!--SR:!2024-02-02,19,273-->
 

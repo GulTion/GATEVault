@@ -35,7 +35,7 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 #card
 ![[Pasted image 20231225195234.png]]
 ?
-![[Pasted image 20231225195244.png]] <!--SR:!2024-01-24,9,190-->
+![[Pasted image 20231225195244.png]] <!--SR:!2024-02-17,24,210-->
 
 
 

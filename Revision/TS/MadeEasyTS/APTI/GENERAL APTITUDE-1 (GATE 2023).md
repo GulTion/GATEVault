@@ -6,6 +6,7 @@ startQ: 1
 endQ: 17
 atQ: 4
 status: acquiring
+completed: true
 ---
 
 #card/aptitude 
