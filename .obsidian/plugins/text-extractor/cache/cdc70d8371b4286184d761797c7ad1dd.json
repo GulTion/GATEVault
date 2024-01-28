@@ -1,0 +1,1 @@
+{"path":"Revision/SRP/media/Pasted image 20240126004626.png","text":"Not a group by expression error happens because the columns in the SELECT clause don’t match the columns in the GROUP BY clause. To resolve the error, make sure the columns match.","libVersion":"0.2.4","langs":"eng"}

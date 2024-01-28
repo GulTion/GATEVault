@@ -1,0 +1,1 @@
+{"path":"Revision/SRP/media/Pasted image 20240126010533.png","text":"EORMULA : For a n-bit carry look ahead adder to evaluate all the carry bits, it requires- *Number of AND gates = n(n+1)/2 *Number of OR gates = n","libVersion":"0.2.4","langs":"eng"}

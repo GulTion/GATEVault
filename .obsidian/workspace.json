@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-01-26.md",
+                "file": "DialyStuff/2024-01-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7070975b5bc2724b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/SRP/PROPOSITIONAL LOGIC.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DialyStuff/2024-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DialyStuff/2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2024-01-29.md"
+              }
             }
           },
           {
@@ -166,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2024-01-29.md"
+              }
             }
           },
           {
@@ -222,9 +240,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a11b4b00b7c0d764",
+  "active": "5b301f141e47d7da",
   "lastOpenFiles": [
+    "Revision/SRP/COA.md",
+    "DialyStuff/2024-01-29.md",
+    "Revision/SRP/media/Pasted image 20240126011828.png",
+    "Revision/SRP/GreedyAlgo.md",
+    "Revision/SRP/media/Pasted image 20240126011646.png",
+    "Revision/SRP/Data Structure.md",
+    "Revision/SRP/DBMS.md",
+    "Revision/SRP/media/Pasted image 20240126011437.png",
+    "Revision/SRP/media/Pasted image 20240126011125.png",
+    "Revision/SRP/media/Pasted image 20240126011051.png",
+    "Revision/SRP/media/Pasted image 20240126011044.png",
+    "Revision/SRP/Graph Theory.md",
+    "Revision/SRP/media/Pasted image 20240126010832.png",
+    "Revision/SRP/Combinational Circuits.md",
+    "Revision/SRP/media/Pasted image 20240126010533.png",
+    "Revision/SRP/media/Pasted image 20240126010257.png",
+    "Revision/SRP/Memory Mangement OS.md",
+    "Revision/SRP/media/Pasted image 20240126010127.png",
+    "Revision/SRP/Cache Organization.md",
+    "Revision/SRP/SQL.md",
+    "Revision/SRP/PROPOSITIONAL LOGIC.md",
+    "Revision/SRP/media",
     "DialyStuff/2024-01-26.md",
+    "Revision/SRP",
     "Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md",
     "Revision/TS/ZealTS/MATH/TEST ID-44 Maths-4.md",
     "DialyStuff/2024-01-25.md",
@@ -239,27 +280,6 @@
     "DialyStuff/2024-01-20.md",
     "HOME.md",
     "zeal Progress.md",
-    "Revision/TS/GOTS/FULL/GO Classes 2023 Mock Test 2.md",
-    "DialyStuff/2024-01-17.md",
-    "DaskBoard Back.md",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20240116221508.png",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20240116221441.png",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20240116190502.png",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20240116190433.png",
-    "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
-    "Excalidraw/Drawing 2024-01-14 20.00.43.excalidraw.md",
-    "DialyStuff/2024-01-16.md",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20240116180454.png",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20240116180436.png",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20240116180001.png",
-    "Revision/TS/GOTS/FULL/media/Pasted image 20240116175939.png",
-    "Revision/Notes/MicroNotes/DLD/Invalid State in binary code representation.md",
-    "Revision/Que/PYQ/COA/Number System.md",
-    "Revision/media/PYQRevision/COA/media/Pasted image 20230929183631.png",
-    "Revision/TS/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md",
-    "Revision/TS/MadeEasyTS/FULL/media/Pasted image 20231125223126.png",
-    "Revision/Que/zealWorkBook/MATH/LinearAlgebra/4. SYSTEM OF EQAUTION.md",
-    "Revision/Notes/ShortNotes/CN/Circuit Switching.md",
     "Revision/Que/ZealAdvBook/CN/media",
     "Revision/Que/ZealAdvBook/CN",
     "Untitled.canvas",
@@ -269,8 +289,6 @@
     "Revision/Que/PYQ/APTI/Untitled",
     "English/media",
     "ONEMONTH/FULL TEST/media",
-    "ONEMONTH/FULL TOPIC/media",
-    "ONEMONTH/FULL PYQ/media",
     "StateFull/COA.canvas",
     "StateFull/MATH.canvas",
     "StateFull/OS.canvas",

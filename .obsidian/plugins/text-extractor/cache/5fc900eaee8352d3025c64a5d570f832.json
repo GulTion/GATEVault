@@ -1,0 +1,1 @@
+{"path":"Revision/SRP/media/Pasted image 20240126005140.png","text":"Average access time = [H*T,]+[ (1-H,)*H,*T,]+[ (1-H,) (1-H,) *H*T,] B h1.t1+ (1-h1) h2(t1+t2) +(1-h1)(1-h2)(t1+t2+tm) = t1+ (1-h1)t2 +(1-h1)(1-h2)tm ’T","libVersion":"0.2.4","langs":"eng"}
