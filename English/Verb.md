@@ -1,0 +1,4 @@
+- ''Discuss and Describe' do not take preposition Ãbout' because there is already included meaning in these words.
+- The verbs 'Sink and Drown' have the meaning same but the usages are different.  
+	- Sink (Second & Third forms: sank, sunk) is used for non-living things.  
+	- Drown (Second & Third forms: drowned, drowned) is used for living things.

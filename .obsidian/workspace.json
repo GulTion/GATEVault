@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-01-29.md",
+                "file": "English/Preposition.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "ecdae0c9df02f699",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "English/media/Prepositions Final.pdf"
               }
             }
           },
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 360.5,
+    "collapsed": true
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-29.md",
+                "file": "English/media/Prepositions Final.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-29.md",
+                "file": "English/media/Prepositions Final.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-01-29.md"
+                "file": "English/media/Prepositions Final.pdf"
               }
             }
           },
@@ -183,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-01-29.md"
+                "file": "English/media/Prepositions Final.pdf"
               }
             }
           },
@@ -240,10 +252,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b301f141e47d7da",
+  "active": "ecdae0c9df02f699",
   "lastOpenFiles": [
-    "Revision/SRP/COA.md",
+    "English/Preposition.md",
+    "English/Verb.md",
+    "English/media/Prepositions Final.pdf",
     "DialyStuff/2024-01-29.md",
+    "Revision/SRP/COA.md",
     "Revision/SRP/media/Pasted image 20240126011828.png",
     "Revision/SRP/GreedyAlgo.md",
     "Revision/SRP/media/Pasted image 20240126011646.png",
@@ -278,8 +293,6 @@
     "DialyStuff/2024-01-18.md",
     "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
     "DialyStuff/2024-01-20.md",
-    "HOME.md",
-    "zeal Progress.md",
     "Revision/Que/ZealAdvBook/CN/media",
     "Revision/Que/ZealAdvBook/CN",
     "Untitled.canvas",
@@ -288,7 +301,6 @@
     "Revision/TS/MadeEasyTS/TOC",
     "Revision/Que/PYQ/APTI/Untitled",
     "English/media",
-    "ONEMONTH/FULL TEST/media",
     "StateFull/COA.canvas",
     "StateFull/MATH.canvas",
     "StateFull/OS.canvas",
