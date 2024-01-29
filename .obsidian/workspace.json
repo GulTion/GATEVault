@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Preposition.md",
+                "file": "Revision/SRP/COA.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ecdae0c9df02f699",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "English/media/Prepositions Final.pdf"
               }
             }
           },
@@ -41,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "right": {
     "id": "c41539313e85ef1f",
@@ -125,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/media/Prepositions Final.pdf",
+                "file": "Revision/SRP/COA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/media/Prepositions Final.pdf",
+                "file": "Revision/SRP/COA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/media/Prepositions Final.pdf"
+                "file": "Revision/SRP/COA.md"
               }
             }
           },
@@ -195,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "English/media/Prepositions Final.pdf"
+                "file": "Revision/SRP/COA.md"
               }
             }
           },
@@ -252,32 +240,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecdae0c9df02f699",
+  "active": "a11b4b00b7c0d764",
   "lastOpenFiles": [
-    "English/Preposition.md",
-    "English/Verb.md",
-    "English/media/Prepositions Final.pdf",
-    "DialyStuff/2024-01-29.md",
-    "Revision/SRP/COA.md",
-    "Revision/SRP/media/Pasted image 20240126011828.png",
-    "Revision/SRP/GreedyAlgo.md",
-    "Revision/SRP/media/Pasted image 20240126011646.png",
-    "Revision/SRP/Data Structure.md",
-    "Revision/SRP/DBMS.md",
-    "Revision/SRP/media/Pasted image 20240126011437.png",
-    "Revision/SRP/media/Pasted image 20240126011125.png",
-    "Revision/SRP/media/Pasted image 20240126011051.png",
-    "Revision/SRP/media/Pasted image 20240126011044.png",
-    "Revision/SRP/Graph Theory.md",
-    "Revision/SRP/media/Pasted image 20240126010832.png",
-    "Revision/SRP/Combinational Circuits.md",
-    "Revision/SRP/media/Pasted image 20240126010533.png",
-    "Revision/SRP/media/Pasted image 20240126010257.png",
-    "Revision/SRP/Memory Mangement OS.md",
-    "Revision/SRP/media/Pasted image 20240126010127.png",
-    "Revision/SRP/Cache Organization.md",
+    "Revision/SRP/ALGO.md",
+    "Revision/SRP/media/Pasted image 20240129132549.png",
+    "Revision/SRP/media/Pasted image 20240129132542.png",
+    "Revision/SRP/media/Pasted image 20240129132534.png",
+    "Revision/SRP/media/Pasted image 20240129132507.png",
+    "Revision/SRP/media/Pasted image 20240129132458.png",
+    "Revision/SRP/media/Pasted image 20240129132448.png",
+    "Revision/SRP/TOC.md",
     "Revision/SRP/SQL.md",
     "Revision/SRP/PROPOSITIONAL LOGIC.md",
+    "Revision/SRP/Memory Mangement OS.md",
+    "Revision/SRP/GreedyAlgo.md",
+    "Revision/SRP/Graph Theory.md",
+    "Revision/SRP/Data Structure.md",
+    "Revision/SRP/Combinational Circuits.md",
+    "Revision/SRP/DBMS.md",
+    "Revision/SRP/Cache Organization.md",
+    "Revision/SRP/COA.md",
+    "Revision/SRP/media/Pasted image 20240129131920.png",
+    "Revision/SRP/media/Pasted image 20240129130707.png",
+    "English/Preposition.md",
+    "English/media/Prepositions Final.pdf",
+    "English/Verb.md",
+    "DialyStuff/2024-01-29.md",
+    "Revision/SRP/media/Pasted image 20240126011828.png",
+    "Revision/SRP/media/Pasted image 20240126011646.png",
     "Revision/SRP/media",
     "DialyStuff/2024-01-26.md",
     "Revision/SRP",
@@ -290,9 +280,6 @@
     "Revision/Que/PYQ/ALGO/Greedy Technique.md",
     "DialyStuff/2024-01-24.md",
     "DialyStuff/2024-01-21.md",
-    "DialyStuff/2024-01-18.md",
-    "ONEMONTH/FULL PYQ/2024-01-08 2022.md",
-    "DialyStuff/2024-01-20.md",
     "Revision/Que/ZealAdvBook/CN/media",
     "Revision/Que/ZealAdvBook/CN",
     "Untitled.canvas",

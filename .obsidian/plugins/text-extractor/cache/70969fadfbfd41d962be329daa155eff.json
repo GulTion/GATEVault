@@ -1,0 +1,1 @@
+{"path":"Revision/SRP/media/Pasted image 20240129130707.png","text":"FSM = No arbitrary length Starting with “ab” = n+ 2 states Ending with & Containing “ab” = n+ 1 states lw| =2 n+2 states |w| >=2 n+ 1 states |w| <=2 n+2 states","libVersion":"0.2.4","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"Revision/SRP/media/Pasted image 20240129132507.png","text":"T(n) = 2T(v/n) +1 Put,n = 2™ T(2™) = 2T(2™?) + 1 put, T'(2™) = s(m) s(m) =2s(m/2) +1 Using case 1 of master method , — 6(m) = ©(logn)","libVersion":"0.2.4","langs":"eng"}
