@@ -9,13 +9,13 @@ src: https://practicepaper.in/gate-cse/loop?page_no=1
 ---
 #card/C/Loops
 
-![[Pasted image 20231122154653.png]]::B <!--SR:!2024-01-28,33,210-->
+![[Pasted image 20231122154653.png]]::B <!--SR:!2024-05-07,98,230-->
 
-![[Pasted image 20231122155142.png]]::C ![[Pasted image 20231122155157.png]] <!--SR:!2024-01-25,30,214-->
+![[Pasted image 20231122155142.png]]::C ![[Pasted image 20231122155157.png]] <!--SR:!2024-04-29,90,234-->
 
 ![[Pasted image 20231122155457.png]]::C <!--SR:!2024-02-17,46,210-->
 
-![[Pasted image 20231202125832.png]]::![[Pasted image 20231202125843.png]] <!--SR:!2024-01-30,35,222-->
+![[Pasted image 20231202125832.png]]::![[Pasted image 20231202125843.png]] <!--SR:!2024-05-18,109,242-->
 
 ![[Pasted image 20231202130643.png]]::![[Pasted image 20231202130659.png]] <!--SR:!2024-02-13,42,222-->
 

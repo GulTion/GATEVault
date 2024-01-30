@@ -11,11 +11,24 @@
             "id": "0659fa7314525ba7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "obsidian-projects",
               "state": {}
             }
+          },
+          {
+            "id": "c1a8682dfcb2d5af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md"
+              }
             }
           },
           {
@@ -162,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md"
+              }
             }
           },
           {
@@ -218,8 +237,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0659fa7314525ba7",
+  "active": "c1a8682dfcb2d5af",
   "lastOpenFiles": [
+    "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
+    "Revision/TS/ZealTS/MATH/TEST ID-41 Maths-1.md",
+    "Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md",
+    "Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md",
     "Revision/SRP/PROPOSITIONAL LOGIC.md",
     "DialyStuff/2024-01-30.md",
     "DialyStuff/2024-01-29.md",
@@ -250,15 +273,11 @@
     "Revision/SRP/media",
     "DialyStuff/2024-01-26.md",
     "Revision/SRP",
-    "Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md",
     "Revision/TS/ZealTS/MATH/TEST ID-44 Maths-4.md",
     "DialyStuff/2024-01-25.md",
     "Revision/Que/PYQ/APTI/Numerical Ability-pyq.md",
     "Last Revision.md",
     "Revision/TS/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md",
-    "Revision/Que/PYQ/ALGO/Greedy Technique.md",
-    "DialyStuff/2024-01-24.md",
-    "DialyStuff/2024-01-21.md",
     "Revision/Que/ZealAdvBook/CN/media",
     "Revision/Que/ZealAdvBook/CN",
     "Untitled.canvas",

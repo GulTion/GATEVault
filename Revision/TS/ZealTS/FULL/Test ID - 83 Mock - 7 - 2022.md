@@ -3,6 +3,7 @@ type: ZealTS
 subject: FULL
 status: Revision
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=61ea88a0270ed80fc0b71076&test_id=23
+completed: true
 ---
 #card/FULL
 

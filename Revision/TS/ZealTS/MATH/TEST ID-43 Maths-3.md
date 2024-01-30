@@ -3,6 +3,7 @@ type: ZealTS
 status: Revision
 subject: DM
 src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/solution.html?testId=62cea4de176fa70fc2706afb
+completed: true
 ---
 #card/DM/combintories 
 
@@ -53,5 +54,5 @@ src: https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.ver
 #card
 ![[Pasted image 20231219123949.png]]
 ?
-![[Pasted image 20231219124025.png]] <!--SR:!2024-01-28,4,170--> 
+![[Pasted image 20231219124025.png]] <!--SR:!2024-02-08,9,190--> 
 

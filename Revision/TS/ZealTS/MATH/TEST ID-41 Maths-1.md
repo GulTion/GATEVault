@@ -2,6 +2,7 @@
 type: ZealTS
 status: acquiring
 subject: MATH
+completed: true
 ---
 #card/MATH/linear_algebra 
 

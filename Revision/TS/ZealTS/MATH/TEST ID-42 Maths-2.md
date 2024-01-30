@@ -3,7 +3,8 @@ type: ZealTS
 status: acquiring
 subject: MATH
 atQ: 11
-tags:
+tags: 
+completed: true
 ---
 #card/MATH/Calculus 
 
