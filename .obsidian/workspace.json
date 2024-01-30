@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "366544e7862c9e31",
+        "id": "e8ecaacc43238e31",
         "type": "tabs",
         "children": [
           {
-            "id": "a11b4b00b7c0d764",
+            "id": "0659fa7314525ba7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2024-01-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7070975b5bc2724b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/SRP/PROPOSITIONAL LOGIC.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -113,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -162,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DialyStuff/2024-01-29.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "DialyStuff/2024-01-29.md"
-              }
+              "state": {}
             }
           },
           {
@@ -238,8 +218,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a11b4b00b7c0d764",
+  "active": "0659fa7314525ba7",
   "lastOpenFiles": [
+    "Revision/SRP/PROPOSITIONAL LOGIC.md",
+    "DialyStuff/2024-01-30.md",
+    "DialyStuff/2024-01-29.md",
     "Revision/SRP/ALGO.md",
     "Revision/SRP/media/Pasted image 20240129132549.png",
     "Revision/SRP/media/Pasted image 20240129132542.png",
@@ -249,7 +232,6 @@
     "Revision/SRP/media/Pasted image 20240129132448.png",
     "Revision/SRP/TOC.md",
     "Revision/SRP/SQL.md",
-    "Revision/SRP/PROPOSITIONAL LOGIC.md",
     "Revision/SRP/Memory Mangement OS.md",
     "Revision/SRP/GreedyAlgo.md",
     "Revision/SRP/Graph Theory.md",
@@ -263,7 +245,6 @@
     "English/Preposition.md",
     "English/media/Prepositions Final.pdf",
     "English/Verb.md",
-    "DialyStuff/2024-01-29.md",
     "Revision/SRP/media/Pasted image 20240126011828.png",
     "Revision/SRP/media/Pasted image 20240126011646.png",
     "Revision/SRP/media",
