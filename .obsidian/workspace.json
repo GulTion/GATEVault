@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -237,10 +230,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1a8682dfcb2d5af",
+  "active": "0659fa7314525ba7",
   "lastOpenFiles": [
-    "DialyStuff/2024-02-01.md",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
+    "DialyStuff/2024-02-01.md",
     "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/TS/ZealTS/MATH/TEST ID-41 Maths-1.md",
     "Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md",
