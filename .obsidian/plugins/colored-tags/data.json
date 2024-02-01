@@ -1,8 +1,14 @@
 {
-  "chroma": 32,
-  "lightness": 100,
-  "palette": 4,
-  "seed": 0,
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-bright",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
   "knownTags": {
     "note": 1,
     "today": 2,
@@ -379,5 +385,5 @@
     "card/DBMS/Relational_Algebra/Min_Max": 1,
     "current": 28
   },
-  "_version": 2
+  "_version": 3
 }

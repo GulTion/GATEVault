@@ -21,13 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
+                "file": "DialyStuff/2024-02-01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DialyStuff/2024-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DialyStuff/2024-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,15 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "9e63479e50431310",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2024-02-01.md"
+              }
             }
           },
           {
@@ -174,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2024-02-01.md"
+              }
             }
           },
           {
@@ -200,13 +199,21 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "420d1d4b1a66632a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,20 +224,20 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "random-note:Open random note": false,
-      "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
       "dbfolder:Create a new database table": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-trash-explorer:Open trash explorer": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Timeline": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0659fa7314525ba7",
+  "active": "420d1d4b1a66632a",
   "lastOpenFiles": [
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "DialyStuff/2024-02-01.md",
