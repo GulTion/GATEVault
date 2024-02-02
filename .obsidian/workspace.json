@@ -26,19 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "338b588a811f7567",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,10 +237,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "338b588a811f7567",
+  "active": "c1a8682dfcb2d5af",
   "lastOpenFiles": [
-    "DialyStuff/2024-02-01.md",
     "DialyStuff/2024-02-02.md",
+    "DialyStuff/2024-02-01.md",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "Revision/TS/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md",
     "Revision/TS/ZealTS/MATH/TEST ID-41 Maths-1.md",
