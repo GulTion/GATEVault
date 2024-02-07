@@ -23,8 +23,12 @@
             "id": "f15d035d9b620380",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DialyStuff/2024-02-08.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -123,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DialyStuff/2024-02-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DialyStuff/2024-02-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2024-02-08.md"
+              }
             }
           },
           {
@@ -180,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "DialyStuff/2024-02-08.md"
+              }
             }
           },
           {
@@ -247,6 +257,7 @@
   },
   "active": "f15d035d9b620380",
   "lastOpenFiles": [
+    "DialyStuff/2024-02-08.md",
     "DialyStuff/2024-02-04.md",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
     "DialyStuff/2024-02-02.md",
@@ -285,7 +296,6 @@
     "Revision/SRP/media",
     "DialyStuff/2024-01-26.md",
     "Revision/SRP",
-    "Revision/TS/ZealTS/MATH/TEST ID-44 Maths-4.md",
     "Revision/Que/ZealAdvBook/CN/media",
     "Revision/Que/ZealAdvBook/CN",
     "Untitled.canvas",

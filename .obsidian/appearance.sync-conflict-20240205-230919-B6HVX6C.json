@@ -1,0 +1,16 @@
+{
+  "accentColor": "#8052ff",
+  "cssTheme": "Obsidian Nord",
+  "theme": "system",
+  "baseFontSize": 19,
+  "nativeMenus": false,
+  "translucency": false,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "imageCenter",
+    "Folder & File Icons",
+    "Highlight Current paragraph"
+  ],
+  "textFontFamily": "Ubuntu",
+  "interfaceFontFamily": ""
+}

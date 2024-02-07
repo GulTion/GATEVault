@@ -1,0 +1,493 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "sr-ease": {
+          "options": [
+            "130"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Revision",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "type",
+              "completed",
+              "subject",
+              "atQ",
+              "endQ",
+              "startQ",
+              "src",
+              "status",
+              "sr-due",
+              "sr-ease",
+              "sr-interval"
+            ],
+            "fieldConfig": {
+              "database-plugin": {
+                "hide": true
+              },
+              "name": {
+                "width": 228
+              },
+              "endQ": {
+                "width": 112
+              },
+              "completed": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              },
+              "src": {
+                "hide": true
+              },
+              "sr-due": {
+                "hide": true
+              },
+              "sr-ease": {
+                "hide": true
+              },
+              "sr-interval": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "completed",
+                "operator": "is-empty",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "completed",
+                  "operator": "is-checked",
+                  "enabled": true
+                }
+              },
+              {
+                "color": "#04ff00",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Revision"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "subject",
+                "order": "asc",
+                "enabled": true
+              },
+              {
+                "field": "completed",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "0f5e5d65-3f78-4b51-99a1-c890416476d1",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "includeFields": [
+              "atQ",
+              "endQ",
+              "status"
+            ],
+            "groupByField": "subject",
+            "columns": {
+              "OS": {
+                "weight": 0
+              },
+              "MATH": {
+                "weight": 1
+              },
+              "DS": {
+                "weight": 2
+              },
+              "FULL": {
+                "weight": 3
+              },
+              "DBMS": {
+                "weight": 4
+              },
+              "DM": {
+                "weight": 5
+              },
+              "COA": {
+                "weight": 6
+              },
+              "CN": {
+                "weight": 7
+              },
+              "C": {
+                "weight": 8
+              },
+              "TOC": {
+                "weight": 9
+              }
+            }
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "type",
+                "operator": "is",
+                "enabled": true,
+                "value": "PYQ"
+              },
+              {
+                "field": "status",
+                "operator": "is",
+                "enabled": true,
+                "value": "acquiring"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d25766e5-c53c-4d34-b4bc-c5b5920fe860",
+          "name": "PYQ",
+          "type": "board"
+        },
+        {
+          "config": {
+            "includeFields": [
+              "atQ",
+              "endQ"
+            ],
+            "groupByField": "subject",
+            "columns": {
+              "TOC": {
+                "weight": 0
+              },
+              "OS": {
+                "weight": 1
+              },
+              "DM": {
+                "weight": 2
+              },
+              "MATH": {
+                "weight": 3
+              },
+              "DSA": {
+                "weight": 4
+              },
+              "DBMS": {
+                "weight": 5
+              },
+              "COA": {
+                "weight": 6
+              },
+              "DLD": {
+                "weight": 7
+              },
+              "CN": {
+                "weight": 8
+              },
+              "CD": {
+                "weight": 9
+              },
+              "C": {
+                "weight": 10
+              }
+            }
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "type",
+                "operator": "is",
+                "enabled": true,
+                "value": "zealWorkBook"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6955c2b9-f212-426b-80b8-88955af230bf",
+          "name": "ZealWorkBook",
+          "type": "board"
+        },
+        {
+          "config": {
+            "groupByField": "subject",
+            "includeFields": [
+              "type"
+            ]
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "type",
+                "operator": "contains",
+                "enabled": true,
+                "value": "Notes"
+              },
+              {
+                "field": "subject",
+                "operator": "is",
+                "enabled": false,
+                "value": "DM"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "554ea0d1-1d52-41a5-bf44-d8febfdd9685",
+          "name": "Notes",
+          "type": "board"
+        },
+        {
+          "config": {
+            "columns": {
+              "OS": {
+                "weight": 0
+              },
+              "DM": {
+                "weight": 2
+              },
+              "DSA": {
+                "weight": 3
+              },
+              "COA": {
+                "weight": 4
+              },
+              "CD": {
+                "weight": 5
+              },
+              "DLD": {
+                "weight": 6
+              },
+              "APTI": {
+                "weight": 7
+              },
+              "TOC": {
+                "weight": 8
+              },
+              "MATH": {
+                "weight": 9
+              },
+              "C": {
+                "weight": 10
+              },
+              "DBMS": {
+                "weight": 11
+              },
+              "CN": {
+                "weight": 12
+              },
+              "FULL": {
+                "weight": 13
+              }
+            },
+            "includeFields": [],
+            "groupByField": "subject"
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "subject",
+                "operator": "is",
+                "enabled": false,
+                "value": "DSA"
+              },
+              {
+                "field": "type",
+                "operator": "is",
+                "enabled": false,
+                "value": "PYQ"
+              },
+              {
+                "field": "completed",
+                "operator": "is-empty",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "completed",
+                  "operator": "is-checked",
+                  "enabled": true
+                }
+              },
+              {
+                "color": "#6bff84",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Revision"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "type",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "3139e979-be22-45e2-95e0-4ba1ddf11abd",
+          "name": "Multi",
+          "type": "board"
+        },
+        {
+          "config": {
+            "columns": {
+              "TOC": {
+                "weight": 0
+              },
+              "OS": {
+                "weight": 1
+              },
+              "FULL": {
+                "weight": 2
+              },
+              "DS": {
+                "weight": 3
+              },
+              "DM": {
+                "weight": 4
+              },
+              "DBMS": {
+                "weight": 5
+              },
+              "COA": {
+                "weight": 6
+              },
+              "CN": {
+                "weight": 7
+              },
+              "C": {
+                "weight": 8
+              },
+              "APTI": {
+                "weight": 9
+              },
+              "MATH": {
+                "weight": 10
+              }
+            },
+            "includeFields": [
+              "type",
+              "subject",
+              "status"
+            ],
+            "groupByField": "type"
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "type",
+                "operator": "contains",
+                "enabled": true,
+                "value": "TS"
+              },
+              {
+                "field": "status",
+                "operator": "is",
+                "enabled": false,
+                "value": "Analysis"
+              },
+              {
+                "field": "status",
+                "operator": "is-not",
+                "enabled": true,
+                "value": "Revision"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Revision"
+                }
+              },
+              {
+                "color": "#0ac743",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "acquiring"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "04bb88e8-206a-4978-a5ca-07e1133c1076",
+          "name": "Test Series",
+          "type": "board"
+        }
+      ],
+      "id": "60751f90-8c02-4f82-b842-9ae03554f418",
+      "name": "Revision"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

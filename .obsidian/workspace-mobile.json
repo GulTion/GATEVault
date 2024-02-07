@@ -26,12 +26,8 @@
             "id": "fcf8c36750a92567",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOME.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -60,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#mistake",
+            "query": "tag:#note/Practice",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -109,7 +105,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 2
   },
   "right": {
     "id": "5bb7b552f39a4ae7",
@@ -121,7 +117,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "HOME.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,7 +133,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "HOME.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,9 +143,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "HOME.md"
-          }
+          "state": {}
         }
       },
       {
@@ -194,8 +186,14 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "589707dc29387caa",
+  "active": "fcf8c36750a92567",
   "lastOpenFiles": [
+    "Revision/Que/PracticeSet/Expression Analysis.md",
+    "Revision/TS/ZealTS/FULL/Test ID - 78 Mock - 4 - 2023.md",
+    "StateFull/DSA.canvas",
+    "StateFull/CN.canvas",
+    "DialyStuff/2024-01-17.md",
+    "StateFull/OS.canvas",
     "DaskBoard Back.md",
     "GATEOMEDIA Progress 1.md",
     "DialyStuff/2024-01-15.md",
@@ -219,7 +217,6 @@
     "TopicPractice",
     "DialyStuff/2024-01-03.md",
     "DialyStuff/2024-01-04.md",
-    "StateFull/OS.canvas",
     "media/media/media/Recording 20231006112048.webm",
     "media/media/media/media/Recording 20231006112111.webm",
     "media/media/Recording 20231006112015.webm",
@@ -228,7 +225,6 @@
     "DialyStuff/2024-01-02.md",
     "DialyStuff/2023-12-22.md",
     "DialyStuff/2023-12-28.md",
-    "StateFull/DSA.canvas",
     "DialyStuff/2023-12-20.md",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.md",
     "Revision/TS/ZealTS/OS/Test ID - 20 OS Test - 2.sync-conflict-20231218-012122-B6HVX6C.md",
@@ -236,9 +232,6 @@
     "Revision/Que/zealWorkBook/DSA/ADA Test – 2 -zealworkbook 2.md",
     "Revision/Que/PYQ/OS/File System - pyq.sync-conflict-20231218-012114-B6HVX6C.md",
     "Revision/Que/PYQ/OS/CPU Scheduling - pyq.sync-conflict-20231218-012108-B6HVX6C.md",
-    "Revision/TS/ZealTS/MATH/TEST ID-41 Maths-1.md",
-    "Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md",
-    "Revision/Que/zealWorkBook/DSA/ADA Test – 1 -zealworkbook.md",
     "Tricks",
     "Revision/TS/ZealTS/MATH/media",
     "Revision/TS/ZealTS/MATH",
