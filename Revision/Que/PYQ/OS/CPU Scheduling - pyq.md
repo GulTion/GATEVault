@@ -6,6 +6,7 @@ atQ: 67
 startQ: 1
 endQ: 67
 src: https://practicepaper.in/gate-cse/cpu-scheduling?page_no=1
+completed: true
 ---
 #card/OS/CPU_scheduling
 

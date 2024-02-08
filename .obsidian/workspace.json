@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1a8682dfcb2d5af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2024-02-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f15d035d9b620380",
             "type": "leaf",
             "state": {
@@ -28,31 +16,19 @@
             }
           },
           {
-            "id": "cc0f0101837e3f6b",
+            "id": "a61f333b172914f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Que/PYQ/TOC/Context Free Language - pyq.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d144c7c1b825c072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DialyStuff/2024-02-04.md",
+                "file": "Revision/Que/PYQ/FULL/GATE 2020.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision/Que/PYQ/TOC/Context Free Language - pyq.md",
+                "file": "Revision/Que/PYQ/FULL/GATE 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision/Que/PYQ/TOC/Context Free Language - pyq.md",
+                "file": "Revision/Que/PYQ/FULL/GATE 2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision/Que/PYQ/TOC/Context Free Language - pyq.md"
+                "file": "Revision/Que/PYQ/FULL/GATE 2020.md"
               }
             }
           },
@@ -197,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Revision/Que/PYQ/TOC/Context Free Language - pyq.md"
+                "file": "Revision/Que/PYQ/FULL/GATE 2020.md"
               }
             }
           },
@@ -263,8 +239,18 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "cc0f0101837e3f6b",
+  "active": "a61f333b172914f3",
   "lastOpenFiles": [
+    "Revision/Que/PYQ/DSA/Hashing.md",
+    "Revision/Que/PYQ/FULL/GATE 2021 SET-2.md",
+    "Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md",
+    "Revision/Que/PYQ/MATH/Probability-pyq.md",
+    "Revision/TS/Untitled.md",
+    "Revision/Que/PYQ/OS/Process Synchronization - pyq.md",
+    "Revision/Que/PYQ/OS/CPU Scheduling - pyq.md",
+    "Revision/Que/PYQ/OS/Disk Scheduling - pyq.md",
+    "Revision/Que/PYQ/OS/Deadlock - pyq.md",
+    "Revision/Que/PYQ/TOC/Context Free Language - pyq.md",
     "DialyStuff/2024-02-08.md",
     "DialyStuff/2024-02-04.md",
     "Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md",
@@ -287,22 +273,12 @@
     "Revision/SRP/TOC.md",
     "Revision/SRP/SQL.md",
     "Revision/SRP/Memory Mangement OS.md",
-    "Revision/SRP/GreedyAlgo.md",
-    "Revision/SRP/Graph Theory.md",
-    "Revision/SRP/Data Structure.md",
-    "Revision/SRP/Combinational Circuits.md",
-    "Revision/SRP/DBMS.md",
-    "Revision/SRP/Cache Organization.md",
-    "Revision/SRP/COA.md",
     "Revision/SRP/media/Pasted image 20240129131920.png",
     "Revision/SRP/media/Pasted image 20240129130707.png",
-    "English/Preposition.md",
     "English/media/Prepositions Final.pdf",
-    "English/Verb.md",
     "Revision/SRP/media/Pasted image 20240126011828.png",
     "Revision/SRP/media/Pasted image 20240126011646.png",
     "Revision/SRP/media",
-    "DialyStuff/2024-01-26.md",
     "Revision/SRP",
     "Revision/Que/ZealAdvBook/CN/media",
     "Revision/Que/ZealAdvBook/CN",

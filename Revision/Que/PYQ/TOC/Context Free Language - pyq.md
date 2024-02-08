@@ -6,6 +6,7 @@ subject: TOC
 type: PYQ
 status: Revision
 src: https://practicepaper.in/gate-cse/context-free-language?page_no=1
+completed: true
 ---
 #card/TOC/Context_Free_Language
 ![[Pasted image 20231104150737.png]]::B,C,D <!--SR:!2023-11-25,2,150-->

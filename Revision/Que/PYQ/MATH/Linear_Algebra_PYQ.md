@@ -5,6 +5,7 @@ subject: MATH
 startQ: 1
 endQ: 95
 atQ: 4
+completed: true
 ---
 #card/MATH/linear_algebra/eigen_vector
 

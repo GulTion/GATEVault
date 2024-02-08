@@ -3,6 +3,7 @@ subject: FULL
 type: PYQ
 status: Revision
 atQ: 0
+completed: true
 ---
 #card/FULL 
 # DM
