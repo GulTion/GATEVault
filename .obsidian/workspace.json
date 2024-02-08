@@ -23,9 +23,17 @@
             "id": "f15d035d9b620380",
             "type": "leaf",
             "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc0f0101837e3f6b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyStuff/2024-02-08.md",
+                "file": "Revision/Que/PYQ/TOC/Context Free Language - pyq.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyStuff/2024-02-08.md",
+                "file": "Revision/Que/PYQ/TOC/Context Free Language - pyq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyStuff/2024-02-08.md",
+                "file": "Revision/Que/PYQ/TOC/Context Free Language - pyq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyStuff/2024-02-08.md"
+                "file": "Revision/Que/PYQ/TOC/Context Free Language - pyq.md"
               }
             }
           },
@@ -189,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DialyStuff/2024-02-08.md"
+                "file": "Revision/Que/PYQ/TOC/Context Free Language - pyq.md"
               }
             }
           },
@@ -255,7 +263,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "f15d035d9b620380",
+  "active": "cc0f0101837e3f6b",
   "lastOpenFiles": [
     "DialyStuff/2024-02-08.md",
     "DialyStuff/2024-02-04.md",
