@@ -6,6 +6,7 @@ endQ: 16
 status: acquiring
 atQ: 1
 src: https://practicepaper.in/gate-cse/dynamic-programming?page_no=1
+completed: true
 ---
 #card/DSA/Dynamic_Programming
 
